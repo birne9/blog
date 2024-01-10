@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+ 
   "scripts": {
     "dev":"vite --mode development",
     "build":"vite --mode production",
@@ -17,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/birne9/blog/issues"
   },
-  "homepage": "https://github.com/birne9/blog#readme",
+  "homepage": "https://birne9.github.io/blog",
   "dependencies": {
     "pinia": "^2.1.7",
     "pinia-plugin-persistedstate": "^3.2.1",
