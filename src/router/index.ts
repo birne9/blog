@@ -1,13 +1,24 @@
 import { RouteRecordRaw, createRouter, createWebHashHistory } from 'vue-router';
 
+const LayOut=() => import('../views/layout/index.vue');
 // 配置路由
 const routes: Array<RouteRecordRaw> = [
     {
         path: '/',
         name: 'home',
-        component: () => import('../views/home/index.vue'),
+        component: LayOut,
         meta: {},
-        children: [],
+        children: [
+            {
+                path: '/',
+                name: 'index',
+                component: () => import('../views/home/index.vue'),
+                meta: {
+                    title: '首页',
+                },
+            },
+           
+        ],
     },
 ];
 const router = createRouter({
