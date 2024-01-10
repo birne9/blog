@@ -2,7 +2,7 @@
     <div>
        <div class="navbar">
             <div class="navbar_left">
-                <div class="navbar_left_img"><img src="../../../static/images/avatar.jpeg" alt=""></div>
+                <div class="navbar_left_img" @click="router.push('/')"><img src="../../../static/images/avatar.jpeg" alt=""></div>
                 <div class="navbar_left_one" @click="router.push('/')">
                      Home
                 </div>
@@ -23,7 +23,7 @@ const router = useRouter()
 </script>
 <style lang="less" scoped>
 .navbar{
-    width: 1140px;
+    max-width: 1140px;
     height: 144px;
     display: flex;
     justify-content: space-between;
