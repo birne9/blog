@@ -1,1 +1,0 @@
-import{_,o as n,c as r,r as a,a as e,d as s}from"./index-lAAHEkAw.js";const i={};function u(c,t){return n(),r("div",null," 我是navbar ")}const d=_(i,[["render",u]]),p={};function f(c,t){const o=a("router-view");return n(),r("div",null,[e(o)])}const l=_(p,[["render",f]]),v=s({__name:"index",setup(c){return(t,o)=>(n(),r("div",null,[e(d),e(l)]))}});export{v as default};
