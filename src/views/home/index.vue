@@ -17,7 +17,7 @@
 .home {
   background-image: url("../../static/images/bigsea.jpeg");
   width: 100vw;
-  height: 666px;
+  height: calc(100vh - 144px);
   background-position: center center;
   object-fit: cover;
   // background-repeat: no-repeat;
