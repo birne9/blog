@@ -5,8 +5,8 @@
     </div>
 </template>
 <script setup lang="ts">
-import NavBar from './components/NavBar.vue';
-import AppMain from './components/AppMain.vue';
+import NavBar from './components/NavBar/index.vue';
+import AppMain from './components/AppMain/index.vue';
 </script>
 <style lang="less" scoped>
     

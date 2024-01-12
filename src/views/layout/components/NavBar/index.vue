@@ -1,19 +1,17 @@
 <template>
-  <div>
-    <home_h5 v-if='isMobile'></home_h5>
-    <home_pc v-else></home_pc>
-  </div>
+    <div>
+        <navbar_h5 v-if="isMobile"></navbar_h5>
+        <navbar_pc v-else></navbar_pc>
+    </div>
 </template>
 <script setup lang="ts">
-import home_h5 from './home_h5.vue';
-import home_pc from './home_pc.vue';
+import navbar_h5 from './navbar_h5.vue';
+import navbar_pc from './navbar_pc.vue';
 import {  computed } from 'vue'
 import { useDeviceStoreHook } from '@/store/device';
 // 获取设备store
 const deviceStore=useDeviceStoreHook()
 const isMobile=computed(()=>deviceStore.isMobileGetter)
-
-
 </script>
 <style lang="less" scoped>
 

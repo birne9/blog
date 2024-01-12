@@ -19,6 +19,7 @@
   },
   "homepage": "https://birne9.github.io/blog",
   "dependencies": {
+    "element-plus": "^2.5.1",
     "pinia": "^2.1.7",
     "pinia-plugin-persistedstate": "^3.2.1",
     "vue": "^3.4.7",
