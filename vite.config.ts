@@ -59,7 +59,7 @@ export default defineConfig(({ mode }: ConfigEnv): UserConfig => {
             // 关闭 sorcemap 报错不会映射到源码
             sourcemap: false,
             // 打包大小超出 400kb 提示警告
-            chunkSizeWarningLimit: 400,
+            chunkSizeWarningLimit: 40000,
             rollupOptions: {
                 // 打包入口文件 根目录下的 index.html
                 // 也就是项目从哪个文件开始打包
