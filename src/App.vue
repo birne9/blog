@@ -3,7 +3,7 @@
 </template>
 <script setup>
 import { onMounted } from 'vue'
-import {isMobileDevice} from './utils/index'
+import { isMobileDevice } from './utils/index'
 onMounted(()=>{
     console.log(isMobileDevice())
 })
