@@ -5,12 +5,15 @@
     </div>
 </template>
 <script setup lang="ts">
+import {computed} from 'vue'
 import authorH5 from './author-h5.vue';
 import authorPc from './author-pc.vue';
 import { useDeviceStoreHook } from "@/store/device/index"
 // 获取设备store
 const deviceStore = useDeviceStoreHook()
-const isMobile: Boolean = deviceStore.isMobile
+const isMobile =computed(()=>{
+    return deviceStore.isMobile
+}) 
 </script>
 <style lang="less" scoped>
 .author_info {
