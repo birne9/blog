@@ -1,0 +1,1 @@
+import{k as s}from"./index-jFTswo22.js";const o=s("device",{state:()=>({isMobile:!1}),getters:{isMobileGetter:e=>e.isMobile},actions:{setIsMobile(e){this.isMobile=e}},persist:{key:"device",storage:sessionStorage,paths:["isMobile"]}});export{o as u};
