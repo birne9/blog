@@ -1,31 +1,34 @@
 <template>
     <div>
-      <div :class="['nav_head_h5',props.toggleBtn?'scale-in-tl':''] ">
+        <div :class="['nav_head_h5', props.toggleBtn ? 'scale-in-tl' : '']">
             <div class="nav_head_h5_boxs">
                 <div class="nav_head_h5_one" @click="skipPage('/')">Home</div>
-            <div class="nav_head_h5_one" @click="skipPage('/about')">About</div>
-            <div class="nav_head_h5_one" @click="skipPage('/author')">Author</div>
+                <div class="nav_head_h5_one" @click="skipPage('/about')">About</div>
+                <div class="nav_head_h5_one" @click="skipPage('/author')">Author</div>
             </div>
-        
-      </div>
+
+        </div>
     </div>
-  </template>
-  <script setup lang="ts">
-  import { useRouter } from "vue-router";
-  const router = useRouter();
-  const props=defineProps({
-    toggleBtn:{
-        type:Boolean,
-        default:false,
+</template>
+<script setup lang="ts">
+import { useRouter } from "vue-router";
+const router = useRouter();
+const props = defineProps({
+    toggleBtn: {
+        type: Boolean,
+        default: false,
     }
-  })
-  const skipPage=(path:any)=>{
+})
+const emit = defineEmits(['changToggle'])
+const skipPage = (path: any) => {
+    emit('changToggle', false)
     router.push(path)
-  }
-  </script>
-  <style lang="less" scoped>
-  @import '@/styles/nav-head-h5.css';
- .nav_head_h5{
+}
+</script>
+<style lang="less" scoped>
+@import '@/styles/nav-head-h5.css';
+
+.nav_head_h5 {
     position: fixed;
     width: 100vw;
     top: 90px;
@@ -37,13 +40,18 @@
     display: flex;
     justify-content: center;
     overflow: hidden;
-    .nav_head_h5_boxs{
+
+    .nav_head_h5_boxs {
         margin-top: 150px;
         overflow: hidden;
-        .nav_head_h5_one{
+
+        .nav_head_h5_one {
             margin-top: 10px;
+            font-size: 26px;
+            font-weight: 600;
+
         }
     }
- }
-  </style>
+}
+</style>
   

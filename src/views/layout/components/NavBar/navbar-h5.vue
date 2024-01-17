@@ -13,7 +13,7 @@
         </div>
       </div>
     </div>
-    <nav-head-h5 v-if="toggleBtn" :toggleBtn="toggleBtn"></nav-head-h5>
+    <nav-head-h5 v-if="toggleBtn" :toggleBtn="toggleBtn" @changToggle="changToggle"></nav-head-h5>
 
   </div>
 </template>
@@ -24,6 +24,9 @@ import navHeadH5 from './nav-head-h5.vue';
 const router = useRouter();
 import { ref } from "vue";
 const toggleBtn = ref(false);
+const changToggle=(e:any)=>{
+  toggleBtn.value = e;
+}
 </script>
 <style lang="less" scoped>
 .navbar_h5 {
