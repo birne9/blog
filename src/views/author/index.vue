@@ -1,12 +1,12 @@
 <template>
     <div class="author">
-        <author_h5 v-if='isMobile'></author_h5>
-        <author_pc v-else></author_pc>
+        <author-h5 v-if='isMobile'></author-h5>
+        <author-pc v-else></author-pc>
     </div>
 </template>
 <script setup lang="ts">
-import author_h5 from './author_h5.vue';
-import author_pc from './author_pc.vue';
+import authorH5 from './author-h5.vue';
+import authorPc from './author-pc.vue';
 import { useDeviceStoreHook } from "@/store/device/index"
 // 获取设备store
 const deviceStore = useDeviceStoreHook()
