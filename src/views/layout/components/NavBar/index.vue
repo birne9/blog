@@ -7,12 +7,16 @@
 <script setup lang="ts">
 import navbarH5 from './navbar-h5.vue';
 import navbarPc from './navbar-pc.vue';
-
+import { onMounted , ref} from 'vue';
 import { useDeviceStoreHook}  from  "@/store/device/index"
 
 // 获取设备store
 const deviceStore=useDeviceStoreHook() 
-const isMobile:Boolean=deviceStore.isMobile
+// 监听设备变化
+const isMobile=ref(false)
+onMounted(()=>{
+    isMobile.value=deviceStore.isMobile
+})
 </script>
 <style lang="less" scoped>
 
