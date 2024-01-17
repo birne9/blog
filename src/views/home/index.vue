@@ -7,10 +7,10 @@
 <script setup lang="ts">
 import home_h5 from './home_h5.vue';
 import home_pc from './home_pc.vue';
-import { ref } from 'vue';
-
-
-const isMobile:Boolean=ref(true)
+import { useDeviceStoreHook}  from  "@/store/device/index"
+// 获取设备store
+const deviceStore=useDeviceStoreHook() 
+const isMobile:Boolean=deviceStore.isMobile
 
 
 </script>

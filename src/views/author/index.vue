@@ -1,33 +1,17 @@
 <template>
     <div class="author">
-        <div class="author_info">
-            <div class="author_avatar_img">
-                <img src="../../static/images/wx_avatar.jpg" alt="avatar" title="birne9" />
-            </div>
-            <div class="author_info_detail">
-                <div class="author_name">
-                    birne9
-                </div>
-                <div class="author_desc"> A Front-End Developer</div>
-                <div class="author_skill">Skill：Vue、React、Node、H5、Hybrid App...</div>
-            </div>
-            <div class="author_follow">
-                <div class="github">
-                    <a href="https://github.com/birne9" target="_blank" title="birne9">
-                        <img src="../../static/svg/github.svg" >
-                    </a>
-                </div>
-                <div class="juejin">
-                    <a href="https://juejin.cn/user/3281406576841406" alt="birne9" title="birne9" target="_blank">
-                        <img src="../../static/svg/juejin.svg"  >
-                    </a>
-                    
-                </div>
-            </div>
-        </div>
+        <author_h5 v-if='isMobile'></author_h5>
+        <author_pc v-else></author_pc>
     </div>
 </template>
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import author_h5 from './author_h5.vue';
+import author_pc from './author_pc.vue';
+import { useDeviceStoreHook } from "@/store/device/index"
+// 获取设备store
+const deviceStore = useDeviceStoreHook()
+const isMobile: Boolean = deviceStore.isMobile
+</script>
 <style lang="less" scoped>
 .author_info {
     max-width: 666px;
@@ -63,21 +47,25 @@
             font-size: 14px;
             color: #999;
         }
-        .author_skill{
+
+        .author_skill {
             margin-top: 10px;
             font-size: 14px;
             font-weight: 500;
         }
     }
-    .author_follow{
+
+    .author_follow {
         display: flex;
         margin-top: 20px;
-        .github{
-           width: 25px;
-           height: 25px;
-           margin: 0 20px;
+
+        .github {
+            width: 25px;
+            height: 25px;
+            margin: 0 20px;
         }
-        .juejin{
+
+        .juejin {
             width: 25px;
             height: 25px;
         }

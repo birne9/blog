@@ -1,20 +1,20 @@
 <template>
-    <div class="home">
-      <div class="home_one">
-        <div class="home_avatar">
+    <div class="home_pc">
+      <div class="home_pc_one">
+        <div class="home_pc_avatar">
           <img
             src="../../static/images/avatar.jpeg"
             alt="birne9"
             title="birne9"
           />
         </div>
-        <div class="home_desc">🌈 We are who we choose to be.</div>
+        <div class="home_pc_desc">🌈 We are who we choose to be.</div>
       </div>
     </div>
   </template>
   <script setup lang="ts"></script>
   <style lang="less" scoped>
-  .home {
+  .home_pc {
     background-image: url("../../static/images/bigsea.jpeg");
     width: 100vw;
     height: calc(100vh - 144px);
@@ -25,7 +25,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    .home_avatar {
+    .home_pc_avatar {
       cursor: pointer;
       display: flex;
       justify-content: center;
@@ -34,7 +34,7 @@
         height: 100px;
       }
     }
-    .home_desc {
+    .home_pc_desc {
       text-align: center;
       color: #fff;
       font-size: 32px;
