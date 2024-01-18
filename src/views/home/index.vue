@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="home">
     <home-h5 v-if='isMobile'></home-h5>
     <home-pc v-else></home-pc>
   </div>
