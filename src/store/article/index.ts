@@ -12,7 +12,7 @@ export const useAticleStoreHook = defineStore('article', {
         directory: [
             {
                 title: '移动端如何进行适配',
-                router: '/article/1.html',
+                path: '/article/1.html',
                 desc: '移动端适配',
                 type: 'CSS',
                 date: 'Jan 18,2024',

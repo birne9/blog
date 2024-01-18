@@ -1,6 +1,6 @@
 export interface Article {
     title: string;
-    router: string;
+    path: string;
     desc: string;
     type: string;
     date: string;

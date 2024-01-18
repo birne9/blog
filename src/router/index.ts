@@ -42,10 +42,8 @@ const routes: Array<RouteRecordRaw> = [
                 },
               
             },
-        ],
-    },
-    // 文章模块--start
-                {
+               // 文章模块--start
+            {
                 path: '/article/1.html',
                 name: 'index1',
                 component: () => import('../views/article/index1/index.vue'),
@@ -53,7 +51,10 @@ const routes: Array<RouteRecordRaw> = [
                     title: 'index1',
                 },
             },
-    // 文章模块--end
+            // 文章模块--end
+        ],
+    },
+ 
 ];
 const router = createRouter({
     history: createWebHashHistory(),

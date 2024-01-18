@@ -1,6 +1,6 @@
 <template>
   <div class="article_pc">
-    <div v-for="(item, index) in list" :key="index" class="article_pc_box">
+    <div v-for="(item, index) in list" :key="index" class="article_pc_box" @click="goArticleDetail(item.path)">
       <div class="article_pc_box_left">
         <img src="../../static/images/coverImg.jpeg" alt="" />
       </div>
@@ -17,6 +17,9 @@
 </template>
 <script setup lang="ts">
 import { computed } from "vue";
+import { useRouter } from "vue-router";
+const router = useRouter();
+
 import { useAticleStoreHook } from "@/store/article/index";
 import { Article } from "./type";
 // 获取文章仓库数据
@@ -25,6 +28,13 @@ const articleStore = useAticleStoreHook();
 const list = computed<Article[]>(() => {
   return articleStore.directory;
 });
+
+// 跳转文章详情页
+const goArticleDetail = (path: string) => {
+  router.push({
+    path
+  })
+}
 </script>
 <style lang="less" scoped>
 .article_pc {
