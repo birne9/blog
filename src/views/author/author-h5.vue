@@ -8,12 +8,12 @@
                 <div class="author_h5_name">
                     birne9 <div class="author_h5_follow">
                         <div class="github">
-                            <a href="https://github.com/birne9" target="_blank" title="birne9">
+                            <a href="https://github.com/birne9" target="_self" title="birne9">
                                 <img src="../../static/svg/github.svg">
                             </a>
                         </div>
                         <div class="juejin">
-                            <a href="https://juejin.cn/user/3281406576841406" alt="birne9" title="birne9" target="_blank">
+                            <a href="https://juejin.cn/user/3281406576841406" alt="birne9" title="birne9" target="_self">
                                 <img src="../../static/svg/juejin.svg">
                             </a>
                         </div>
