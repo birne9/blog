@@ -6,8 +6,12 @@
           <img src="../../../../static/images/avatar.jpeg" alt="" />
         </div>
       </div>
-      <div class="navbar_h5_right" @click="toggleBtn = !toggleBtn">
-        <div :class="['toggle-button', { 'toggle-x': toggleBtn }]">
+  
+      <div class="navbar_h5_right" >
+        <div class="navbar_h5_right_search" v-if="false">
+          <img src="../../../../static/images/search.png" alt="">
+        </div>
+        <div :class="['toggle-button', { 'toggle-x': toggleBtn }]" @click="toggleBtn = !toggleBtn">
           <span class="bar"></span>
           <span class="bar"></span>
         </div>
@@ -58,14 +62,26 @@ const changToggle=(e:any)=>{
 
   .navbar_h5_right {
     margin-right: 20px;
+    display: flex;
+    align-items: center;
+    .navbar_h5_right_search{
+      display: flex;
+      align-items: center;
+      margin-right: 10px;
+      img{
+        width: 18px;
+        height: 18px;
+
+      }
+    }
     .toggle-button {
-      width: 30px;
+      width: 25px;
       height: 20px;
     }
     .bar {
       display: block;
       width: 100%;
-      height: 3px;
+      height: 2px;
       background-color: #333;
       margin: 6px 0;
       transition: 0.4s;
