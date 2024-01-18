@@ -5,8 +5,8 @@
     </div>
 </template>
 <script setup lang="ts">
-import navbarH5 from './navbar-h5.vue';
-import navbarPc from './navbar-pc.vue';
+import NavbarH5 from './navbar-h5.vue';
+import NavbarPc from './navbar-pc.vue';
 import {  computed } from 'vue';
 import { useDeviceStoreHook}  from  "@/store/device/index"
 

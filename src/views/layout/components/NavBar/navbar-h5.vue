@@ -23,8 +23,7 @@
 </template>
 <script setup lang="ts">
 import { useRouter } from "vue-router";
-
-import navHeadH5 from './nav-head-h5.vue';
+import NavHeadH5 from './nav-head-h5.vue';
 const router = useRouter();
 import { ref } from "vue";
 const toggleBtn = ref(false);

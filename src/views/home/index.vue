@@ -6,8 +6,8 @@
 </template>
 <script setup lang="ts">
 import {computed} from 'vue'
-import homeH5 from './home-h5.vue';
-import homePc from './home-pc.vue';
+import HomeH5 from './home-h5.vue';
+import HomePc from './home-pc.vue';
 import { useDeviceStoreHook}  from  "@/store/device/index"
 // 获取设备store
 const deviceStore=useDeviceStoreHook() 
