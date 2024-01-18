@@ -3,7 +3,7 @@
         <div class="nav_head_h5_one">
             <div class="nav_head_h5_boxs">
                 <div class="nav_head_h5_one" @click="skipPage('/')">Home</div>
-                <div class="nav_head_h5_one" @click="skipPage('/about')">About</div>
+                <div class="nav_head_h5_one" @click="skipPage('/article')">Article</div>
                 <div class="nav_head_h5_one" @click="skipPage('/author')">Author</div>
             </div>
         </div>

@@ -6,8 +6,8 @@
                 <div class="navbar_pc_left_one" @click="router.push('/')">
                      Home
                 </div>
-                <div class="navbar_pc_left_one" @click="router.push('/about')">
-                     About
+                <div class="navbar_pc_left_one" @click="router.push('/article')">
+                    Article
                 </div>
                 <div class="navbar_pc_left_one" @click="router.push('/author')">
                      Author

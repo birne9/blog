@@ -33,15 +33,19 @@ const routes: Array<RouteRecordRaw> = [
                     title: 'author',
                 },
             },
+            {
+                path: '/article',
+                name: 'article',
+                component: () => import('../views/article/index.vue'),
+                meta: {
+                    title: 'article',
+                },
+              
+            },
         ],
     },
-    // 文章模块
-    {
-        path: '/article',
-        name: 'article',
-        meta: {},
-        children: [
-            {
+    // 文章模块--start
+                {
                 path: '/article/1.html',
                 name: 'index1',
                 component: () => import('../views/article/index1/index.vue'),
@@ -49,9 +53,7 @@ const routes: Array<RouteRecordRaw> = [
                     title: 'index1',
                 },
             },
-           
-        ],
-    },
+    // 文章模块--end
 ];
 const router = createRouter({
     history: createWebHashHistory(),
