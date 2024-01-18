@@ -1,14 +1,14 @@
 <template>
-  <div class="article">
-    <div v-for="(item, index) in list" :key="index" class="article_box">
-      <div class="article_box_left">
+  <div class="article_h5">
+    <div v-for="(item, index) in list" :key="index" class="article_h5_box">
+      <div class="article_h5_box_left">
         <img src="../../static/images/coverImg.jpeg" alt="" />
       </div>
-      <div class="article_box_right">
-        <div class="article_box_right_title">
+      <div class="article_h5_box_right">
+        <div class="article_h5_box_right_title">
           <span>{{ item.date }}</span> <span>{{ item.type }}</span>
         </div>
-        <div class="article_box_right_content">
+        <div class="article_h5_box_right_content">
           {{ item.id }}：{{ item.title }}
         </div>
       </div>
@@ -27,17 +27,17 @@ const list = computed<Article[]>(() => {
 });
 </script>
 <style lang="less" scoped>
-.article {
+.article_h5 {
   box-sizing: border-box;
   overflow: hidden;
   padding: 10px;
 }
-.article_box {
+.article_h5_box {
   background-color: #f5f5f5;
   box-sizing: border-box;
   padding: 5px 10px;
   display: flex;
-  .article_box_left {
+  .article_h5_box_left {
     display: flex;
     align-items: center;
     img {
@@ -47,8 +47,8 @@ const list = computed<Article[]>(() => {
     }
     margin-right: 20px;
   }
-  .article_box_right {
-    .article_box_right_title {
+  .article_h5_box_right {
+    .article_h5_box_right_title {
       span:nth-child(1) {
         font-size: 12px;
         color: #aaa;
@@ -60,7 +60,7 @@ const list = computed<Article[]>(() => {
         color: #fc7e0f;
       }
     }
-    .article_box_right_content {
+    .article_h5_box_right_content {
       font-weight: bold;
       font-size: 14px;
       color: #000;
