@@ -3,7 +3,7 @@
     <div class="navbar_h5">
       <div class="navbar_h5_left">
         <div class="navbar_h5_left_img" @click="router.push('/')">
-          <img src="../../../../static/images/avatar.jpeg" alt="" />
+          <img src="../../../../static/images/wx_avatar.jpg" alt="" />
         </div>
       </div>
   

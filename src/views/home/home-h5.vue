@@ -3,7 +3,7 @@
       <div class="home_h5_one">
         <div class="home_h5_avatar">
           <img
-            src="../../static/images/avatar.jpeg"
+            src="../../static/images/wx_avatar.jpg"
             alt="birne9"
             title="birne9"
           />

@@ -2,7 +2,7 @@
     <div>
        <div class="navbar_pc">
             <div class="navbar_pc_left">
-                <div class="navbar_pc_left_img" @click="router.push('/')"><img src="../../../../static/images/avatar.jpeg" alt=""></div>
+                <div class="navbar_pc_left_img" @click="router.push('/')"><img src="../../../../static/images/wx_avatar.jpg" alt=""></div>
                 <div class="navbar_pc_left_one" @click="router.push('/')">
                      Home
                 </div>
