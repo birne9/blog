@@ -29,6 +29,9 @@
 </template>
 <script setup lang="ts"></script>
 <style lang="less" scoped>
+.author_pc{
+    min-width: 750px;
+}
 .author_pc_info {
     max-width: 666px;
     display: flex;
