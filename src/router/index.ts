@@ -34,14 +34,22 @@ const routes: Array<RouteRecordRaw> = [
                 },
             },
             {
+                path: '/concept',
+                name: 'concept',
+                component: () => import('../views/concept/index.vue'),
+                meta: {
+                    title: 'concept',
+                },
+            },
+            {
                 path: '/article',
                 name: 'article',
                 component: () => import('../views/article/index.vue'),
                 meta: {
                     title: 'article',
                 },
-              
             },
+            
                // 文章模块--start
             {
                 path: '/article/1.html',
@@ -53,12 +61,13 @@ const routes: Array<RouteRecordRaw> = [
             },
             // 文章模块--end
 
+            // 新概念模块--start
             {
-                path: '/concept',
-                name: 'concept',
-                component: () => import('../views/concept/index.vue'),
+                path: '/concept/content',
+                name: 'conceptContent',
+                component: () => import('../views/concept/content/index.vue'),
                 meta: {
-                    title: 'concept',
+                    title: 'conceptContent',
                 },
             },
             // 新概念模块--end

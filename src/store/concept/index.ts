@@ -11,7 +11,6 @@ export const useConceptStoreHook = defineStore('concept', {
         directory: [
             {
                 title: '001 单词',
-                path: '/concept/1.html',
                 desc: '单词',
                 type: 'Word',
                 date: 'Jan 15,2025',
