@@ -52,6 +52,16 @@ const routes: Array<RouteRecordRaw> = [
                 },
             },
             // 文章模块--end
+
+            {
+                path: '/concept',
+                name: 'concept',
+                component: () => import('../views/concept/index.vue'),
+                meta: {
+                    title: 'concept',
+                },
+            },
+            // 新概念模块--end
         ],
     },
  

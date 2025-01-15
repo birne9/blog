@@ -12,6 +12,9 @@
                 <div class="navbar_pc_left_one" @click="router.push('/author')">
                      Author
                 </div>
+                <div class="navbar_pc_left_one" @click="router.push('/concept')">
+                    Concept
+                </div>
             </div>
             <div class="navbar_pc_right"></div>
        </div>
