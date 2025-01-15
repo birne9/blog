@@ -16,6 +16,10 @@ const isMobile =computed(()=>{
 }) 
 </script>
 <style lang="less" scoped>
-
+.concept{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 </style>
   
