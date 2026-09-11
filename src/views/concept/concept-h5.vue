@@ -1,9 +1,113 @@
 <template>
-    <div>
-        新概念h5
+  <div class="content">
+    <div class="head">
+      <div class="head_title">新概念英语第一册</div>
+      <div class="head_desc">New Concept English · Book 1 — 课文共 72 篇，中英对照</div>
     </div>
+    <div v-for="item in list" :key="item.id" class="box" @click="goDetail(item)">
+      <div class="box_left">
+        <img src="../../static/images/coverImg.jpeg" alt="" />
+      </div>
+      <div class="box_right">
+        <div class="box_right_title">
+          <span>{{ item.type }}</span>
+        </div>
+        <div class="box_right_content">{{ item.title }}</div>
+        <div class="box_right_desc">{{ item.desc }}</div>
+      </div>
+    </div>
+  </div>
 </template>
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { computed } from "vue";
+import { useRouter } from "vue-router";
+const router = useRouter();
+
+import { useConceptStoreHook } from "@/store/concept/index";
+import { Concept } from "./type";
+// 获取文章仓库数据
+const conceptStore = useConceptStoreHook();
+// 获取文章列表
+const list = computed<Concept[]>(() => {
+  return conceptStore.directory;
+});
+
+const goDetail = (item: Concept) => {
+  router.push({
+    path: '/concept/content',
+    query: {
+      id: item.id
+    }
+  })
+}
+</script>
 <style lang="less" scoped>
+.content {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 16px 40px;
+
+  .head {
+    margin: 24px 0 16px;
+    .head_title {
+      font-size: 24px;
+      font-weight: bold;
+      color: #000;
+    }
+    .head_desc {
+      margin-top: 8px;
+      font-size: 13px;
+      color: #666;
+    }
+  }
+
+  .box {
+    background-color: #f5f5f5;
+    box-sizing: border-box;
+    padding: 10px 14px;
+    display: flex;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    &:active {
+      background-color: #ececec;
+    }
+    .box_left {
+      display: flex;
+      align-items: center;
+      img {
+        width: 56px;
+        height: 56px;
+        border-radius: 8px;
+      }
+      margin-right: 14px;
+    }
+    .box_right {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      .box_right_title {
+        font-size: 12px;
+        span {
+          font-weight: 600;
+          color: #fc7e0f;
+        }
+      }
+      .box_right_content {
+        font-weight: bold;
+        font-size: 16px;
+        color: #000;
+        margin-top: 4px;
+      }
+      .box_right_desc {
+        font-size: 13px;
+        color: #666;
+        margin-top: 4px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+    }
+  }
+}
 </style>
-  

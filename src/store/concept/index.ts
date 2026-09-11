@@ -1,6 +1,9 @@
 import { defineStore } from 'pinia'
 import pinia from '../index';
+import lessonsData from '@/views/concept/lessons.json'
+import { Concept, Lesson } from '@/views/concept/type';
 
+const lessons = lessonsData as unknown as Lesson[]
 
 // Store 是用 defineStore() 定义的，它的第一个参数要求是一个独一无二的名字
 //这个名字 ，也被用作 id ，是必须传入的， Pinia 将用它来连接 store 和 devtools。
@@ -8,24 +11,17 @@ import pinia from '../index';
 //defineStore() 的第二个参数可接受两类值：Setup 函数或 Option 对象。
 export const useConceptStoreHook = defineStore('concept', {
     state: () => ({
-        directory: [
-            {
-                title: '001 单词',
-                desc: '单词',
-                type: 'Word',
-                date: 'Jan 15,2025',
-                coverImg: "",
-                id: 1,
-            }
-        ],
+        directory: lessons.map((l: Lesson): Concept => ({
+            title: l.title,
+            desc: l.titleCn,
+            type: `Lesson ${l.lesson}`,
+            date: '',
+            coverImg: '',
+            id: l.lesson,
+        })),
     }),
     getters: {},
     actions: {},
-    persist: {
-        key: 'concept',
-        storage: sessionStorage,
-        paths: ['concept']
-    }
 })
 export function useConceptStore() {
     return useConceptStoreHook(pinia)
