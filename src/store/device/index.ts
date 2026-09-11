@@ -20,11 +20,6 @@ export const useDeviceStoreHook = defineStore('device', {
           this.isMobile = isMobile
       },
     },
-    persist:{
-        key:'device',
-        storage:sessionStorage,
-        paths:['isMobile']
-    }
 })
 export function useDeviceStore(){
     return useDeviceStoreHook(pinia)

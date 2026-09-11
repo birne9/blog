@@ -35,7 +35,7 @@
     border-radius: 20px;
     box-sizing: border-box;
     padding: 20px;
-    width: calc(100vw - 40px);
+    width: calc(100% - 40px);
 
     .author_h5_avatar_img {
         width: 66px;
@@ -51,7 +51,7 @@
     .author_h5_info_detail {
         box-sizing: border-box;
         // padding: 0px 20px;
-        width: calc(100vw - 166px);
+        width: calc(100% - 166px);
         margin-left: 20px;
 
         .author_h5_name {

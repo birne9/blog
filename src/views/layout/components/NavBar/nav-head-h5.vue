@@ -32,7 +32,7 @@ const skipPage = (path: any) => {
 
 .nav_head_h5 {
     position: fixed;
-    width: 100vw;
+    width: 100%;
     top: 90px;
     height: calc(100vh - 90px);
     background-color: #fff;
@@ -58,7 +58,7 @@ const skipPage = (path: any) => {
     }
     .nav_head_h5_desc{
         background-color:  #fc7e0f;
-        width: 90vw;
+        width: 90%;
         margin: 0 auto;
         margin-top: calc(100vh - 500px);
         color: #fff;

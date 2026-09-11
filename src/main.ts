@@ -3,7 +3,7 @@ import App from './App.vue';
 import pinia from './store';
 import router from './router';
 import './styles/reset.css'
-import 'amfe-flexible'
+import './utils/flexible'
 const app = createApp(App);
 // 事件总线 -start
 import $Bus from '@/utils/eventBus'

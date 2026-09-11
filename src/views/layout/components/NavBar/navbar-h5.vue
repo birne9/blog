@@ -33,7 +33,7 @@ const changToggle=(e:any)=>{
 </script>
 <style lang="less" scoped>
 .navbar_h5 {
-  width: 100vw;
+  width: 100%;
   height: 90px;
   display: flex;
   justify-content: space-between;

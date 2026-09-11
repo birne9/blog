@@ -16,7 +16,7 @@
   <style lang="less" scoped>
   .home_pc {
     background-image: url("../../static/images/bigsea.jpeg");
-    width: 100vw;
+    width: 100%;
     height: calc(100vh - 144px);
     background-position: center center;
     object-fit: cover;
