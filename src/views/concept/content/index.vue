@@ -5,6 +5,9 @@
         </div>
         <div class="card">
             <div class="card_head">
+                <div class="card_cover">
+                    <LessonCover :lesson="lesson.lesson" />
+                </div>
                 <div class="card_num">Lesson {{ lesson.lesson }}</div>
                 <div class="card_title">{{ lesson.title }}</div>
                 <div class="card_title_cn" v-if="lesson.titleCn">{{ lesson.titleCn }}</div>
@@ -54,6 +57,7 @@ import { computed, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import lessonsData from '../lessons.json'
 import { Lesson } from '../type';
+import LessonCover from '../components/LessonCover.vue';
 
 const lessons = lessonsData as unknown as Lesson[]
 const route = useRoute()
@@ -110,6 +114,13 @@ watch(() => route.query.id, () => {
             text-align: center;
             padding-bottom: 24px;
             border-bottom: 1px solid #f0f0f0;
+            .card_cover {
+                width: 110px;
+                height: 110px;
+                margin: 0 auto 16px;
+                border-radius: 12px;
+                overflow: hidden;
+            }
             .card_num {
                 font-size: 14px;
                 font-weight: 600;

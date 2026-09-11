@@ -6,7 +6,9 @@
     </div>
     <div v-for="item in list" :key="item.id" class="box" @click="goDetail(item)">
       <div class="box_left">
-        <img src="../../static/images/coverImg.jpeg" alt="" />
+        <div class="cover_wrap">
+          <LessonCover :lesson="item.id" />
+        </div>
       </div>
       <div class="box_right">
         <div class="box_right_title">
@@ -25,6 +27,7 @@ const router = useRouter();
 
 import { useConceptStoreHook } from "@/store/concept/index";
 import { Concept } from "./type";
+import LessonCover from "./components/LessonCover.vue";
 // 获取文章仓库数据
 const conceptStore = useConceptStoreHook();
 // 获取文章列表
@@ -77,10 +80,12 @@ const goDetail = (item: Concept) => {
     .box_left {
       display: flex;
       align-items: center;
-      img {
+      .cover_wrap {
         width: 80px;
         height: 80px;
         border-radius: 10px;
+        overflow: hidden;
+        flex-shrink: 0;
       }
       margin-right: 30px;
     }
