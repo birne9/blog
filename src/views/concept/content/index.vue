@@ -8,7 +8,7 @@
                 <div class="card_cover">
                     <LessonCover :lesson="lesson.lesson" />
                 </div>
-                <div class="card_num">Lesson {{ lesson.lesson }}</div>
+                <div class="card_num">新概念英语{{ bookMeta.name }} · Lesson {{ lesson.lesson }}</div>
                 <div class="card_title">{{ lesson.title }}</div>
                 <div class="card_title_cn" v-if="lesson.titleCn">{{ lesson.titleCn }}</div>
             </div>
@@ -39,49 +39,83 @@
         </div>
 
         <div class="nav_bottom">
-            <div class="nav_btn" :class="{ disabled: !hasPrev }" @click="goLesson(lesson.lesson - 2)">
+            <div class="nav_btn" :class="{ disabled: !hasPrev }" @click="goLesson(-1)">
                 ← 上一篇
             </div>
-            <div class="nav_btn" :class="{ disabled: !hasNext }" @click="goLesson(lesson.lesson + 2)">
+            <div class="nav_btn" :class="{ disabled: !hasNext }" @click="goLesson(1)">
                 下一篇 →
             </div>
         </div>
     </div>
-    <div class="lesson_not_found" v-else>
+    <div class="lesson_not_found" v-else-if="loaded">
         <div class="msg">没有找到这篇课文</div>
         <div class="back" @click="goList">← 返回目录</div>
     </div>
+    <div class="lesson_not_found" v-else>
+        <div class="msg">加载中…</div>
+    </div>
 </template>
 <script setup lang="ts">
-import { computed, watch } from 'vue'
+import { computed, ref, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
-import lessonsData from '../lessons.json'
 import { Lesson } from '../type';
+import { loadBookLessons, getBookMeta } from '../data';
 import LessonCover from '../components/LessonCover.vue';
 
-const lessons = lessonsData as unknown as Lesson[]
 const route = useRoute()
 const router = useRouter()
+
+// 当前册(1-4), 未传默认第一册
+const book = computed(() => {
+    const b = Number(route.query.book)
+    return b >= 1 && b <= 4 ? b : 1
+})
+// 当前册元信息
+const bookMeta = computed(() => getBookMeta(book.value))
+// 当前册全部课文(动态加载, 加载完成前 loaded=false)
+const lessons = ref<Lesson[]>([])
+const loaded = ref(false)
+let loadSeq = 0
+watch(() => book.value, async (b) => {
+    const seq = ++loadSeq
+    loaded.value = false
+    lessons.value = []
+    const data = await loadBookLessons(b)
+    // 防止快速切换册时旧请求覆盖新请求
+    if (seq === loadSeq) {
+        lessons.value = data
+        loaded.value = true
+    }
+}, { immediate: true })
 
 const lesson = computed<Lesson | undefined>(() => {
     const id = Number(route.query.id)
     if (!id) return undefined
-    return lessons.find((l: Lesson) => l.lesson === id)
+    return lessons.value.find((l: Lesson) => l.lesson === id)
 })
 
-const hasPrev = computed(() => !!lesson.value && lesson.value.lesson > 1)
-const hasNext = computed(() => !!lesson.value && lesson.value.lesson < 143)
+// 按当前册内的课程序号定位上一篇/下一篇
+const lessonIndex = computed(() => {
+    if (!lesson.value) return -1
+    return lessons.value.findIndex((l: Lesson) => l.lesson === lesson.value!.lesson)
+})
+const hasPrev = computed(() => lessonIndex.value > 0)
+const hasNext = computed(() => lessonIndex.value >= 0 && lessonIndex.value < lessons.value.length - 1)
 
 const goList = () => {
-    router.push({ path: '/concept' })
+    router.push({ path: '/concept', query: { book: book.value } })
 }
-const goLesson = (id: number) => {
-    if (id < 1 || id > 143) return
-    router.push({ path: '/concept/content', query: { id } })
+const goLesson = (offset: number) => {
+    const target = lessons.value[lessonIndex.value + offset]
+    if (!target) return
+    router.push({ path: '/concept/content', query: { book: book.value, id: target.lesson } })
 }
 
 // 切换课文时回到页面顶部
 watch(() => route.query.id, () => {
+    window.scrollTo(0, 0)
+})
+watch(() => route.query.book, () => {
     window.scrollTo(0, 0)
 })
 </script>

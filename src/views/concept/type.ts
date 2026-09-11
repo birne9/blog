@@ -13,6 +13,13 @@ export interface LessonWord {
     cn: string;
 }
 
+// 列表页轻量目录条目(全量课文按需加载)
+export interface LessonBrief {
+    lesson: number;
+    title: string;
+    titleCn: string;
+}
+
 export interface Lesson {
     lesson: number;
     title: string;

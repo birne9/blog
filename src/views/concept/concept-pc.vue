@@ -1,8 +1,14 @@
 <template>
   <div class="content">
+    <div class="tabs">
+      <div v-for="b in BOOKS" :key="b.id" class="tab"
+        :class="{ active: b.id === conceptStore.activeBook }" @click="switchBook(b.id)">
+        {{ b.name }}
+      </div>
+    </div>
     <div class="head">
-      <div class="head_title">新概念英语第一册</div>
-      <div class="head_desc">New Concept English · Book 1 — 课文共 72 篇，中英对照，点击进入阅读</div>
+      <div class="head_title">{{ currentBook.title }}</div>
+      <div class="head_desc">{{ currentBook.desc }}</div>
     </div>
     <div v-for="item in list" :key="item.id" class="box" @click="goDetail(item)">
       <div class="box_left">
@@ -27,18 +33,28 @@ const router = useRouter();
 
 import { useConceptStoreHook } from "@/store/concept/index";
 import { Concept } from "./type";
+import { BOOKS } from "./data";
 import LessonCover from "./components/LessonCover.vue";
 // 获取文章仓库数据
 const conceptStore = useConceptStoreHook();
+// 当前册元信息
+const currentBook = computed(() => {
+  return BOOKS.find((b) => b.id === conceptStore.activeBook) || BOOKS[0];
+});
 // 获取文章列表
 const list = computed<Concept[]>(() => {
   return conceptStore.directory;
 });
 
+const switchBook = (book: number) => {
+  conceptStore.setBook(book);
+}
+
 const goDetail = (item: Concept) => {
   router.push({
     path: '/concept/content',
     query: {
+      book: conceptStore.activeBook,
       id: item.id
     }
   })
@@ -50,8 +66,31 @@ const goDetail = (item: Concept) => {
   margin: 0 auto;
   padding-bottom: 60px;
 
+  .tabs {
+    display: flex;
+    gap: 12px;
+    margin-top: 32px;
+    .tab {
+      padding: 8px 28px;
+      border-radius: 20px;
+      background-color: #f5f5f5;
+      color: #000;
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      &:hover {
+        background-color: #ececec;
+      }
+      &.active {
+        background-color: #fc7e0f;
+        color: #fff;
+      }
+    }
+  }
+
   .head {
-    margin: 40px 0 30px;
+    margin: 28px 0 30px;
     .head_title {
       font-size: 32px;
       font-weight: bold;

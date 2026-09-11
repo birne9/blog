@@ -1,8 +1,14 @@
 <template>
   <div class="content">
+    <div class="tabs">
+      <div v-for="b in BOOKS" :key="b.id" class="tab"
+        :class="{ active: b.id === conceptStore.activeBook }" @click="switchBook(b.id)">
+        {{ b.name }}
+      </div>
+    </div>
     <div class="head">
-      <div class="head_title">新概念英语第一册</div>
-      <div class="head_desc">New Concept English · Book 1 — 课文共 72 篇，中英对照</div>
+      <div class="head_title">{{ currentBook.title }}</div>
+      <div class="head_desc">{{ currentBook.desc }}</div>
     </div>
     <div v-for="item in list" :key="item.id" class="box" @click="goDetail(item)">
       <div class="box_left">
@@ -27,18 +33,28 @@ const router = useRouter();
 
 import { useConceptStoreHook } from "@/store/concept/index";
 import { Concept } from "./type";
+import { BOOKS } from "./data";
 import LessonCover from "./components/LessonCover.vue";
 // 获取文章仓库数据
 const conceptStore = useConceptStoreHook();
+// 当前册元信息
+const currentBook = computed(() => {
+  return BOOKS.find((b) => b.id === conceptStore.activeBook) || BOOKS[0];
+});
 // 获取文章列表
 const list = computed<Concept[]>(() => {
   return conceptStore.directory;
 });
 
+const switchBook = (book: number) => {
+  conceptStore.setBook(book);
+}
+
 const goDetail = (item: Concept) => {
   router.push({
     path: '/concept/content',
     query: {
+      book: conceptStore.activeBook,
       id: item.id
     }
   })
@@ -50,8 +66,36 @@ const goDetail = (item: Concept) => {
   box-sizing: border-box;
   padding: 0 16px 40px;
 
+  .tabs {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    &::-webkit-scrollbar {
+      display: none;
+    }
+    .tab {
+      flex-shrink: 0;
+      padding: 7px 16px;
+      border-radius: 18px;
+      background-color: #f5f5f5;
+      color: #000;
+      font-size: 14px;
+      font-weight: 600;
+      &:active {
+        background-color: #ececec;
+      }
+      &.active {
+        background-color: #fc7e0f;
+        color: #fff;
+      }
+    }
+  }
+
   .head {
-    margin: 24px 0 16px;
+    margin: 20px 0 16px;
     .head_title {
       font-size: 24px;
       font-weight: bold;
