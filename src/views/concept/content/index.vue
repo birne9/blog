@@ -14,9 +14,26 @@
             </div>
 
             <div class="section" v-if="lesson.en.length">
-                <div class="section_label">课文</div>
+                <div class="section_head">
+                    <div class="section_label">课文</div>
+                    <div class="read_btn" :class="{ reading: isReading }" :title="isReading ? '停止朗读' : '朗读全文'" @click="toggleRead">
+                        <svg v-if="!isReading" class="read_icon" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
+                            <path d="M3 9v6h4l5 5V4L7 9H3z" fill="currentColor" />
+                            <path d="M15.5 8.5a4.5 4.5 0 0 1 0 7" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round" />
+                            <path d="M18 6a8 8 0 0 1 0 12" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round" />
+                        </svg>
+                        <svg v-else class="read_icon" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
+                            <rect x="6" y="6" width="12" height="12" rx="2" fill="currentColor" />
+                        </svg>
+                        <span>{{ isReading ? '停止朗读' : '朗读全文' }}</span>
+                    </div>
+                </div>
                 <div class="en_block">
-                    <p v-for="(line, i) in lesson.en" :key="i">{{ line }}</p>
+                    <p v-for="(line, i) in lesson.en" :key="i">
+                        <template v-for="(sent, j) in lineSents[i]" :key="j">
+                            <span :class="{ sent_speaking: activeLine === i && activeSent === j }">{{ sent }}</span>
+                        </template>
+                    </p>
                 </div>
             </div>
 
@@ -64,7 +81,7 @@
     </div>
 </template>
 <script setup lang="ts">
-import { computed, ref, watch } from 'vue'
+import { computed, ref, watch, onBeforeUnmount } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { Lesson } from '../type';
 import { loadBookLessons, getBookMeta } from '../data';
@@ -111,19 +128,23 @@ const hasPrev = computed(() => lessonIndex.value > 0)
 const hasNext = computed(() => lessonIndex.value >= 0 && lessonIndex.value < lessons.value.length - 1)
 
 const goList = () => {
+    stopRead()
     router.push({ path: '/concept', query: { book: book.value } })
 }
 const goLesson = (offset: number) => {
     const target = lessons.value[lessonIndex.value + offset]
     if (!target) return
+    stopRead()
     router.push({ path: '/concept/content', query: { book: book.value, id: target.lesson } })
 }
 
-// 切换课文时回到页面顶部
+// 切换课文时回到页面顶部并停止朗读
 watch(() => route.query.id, () => {
+    stopRead()
     window.scrollTo(0, 0)
 })
 watch(() => route.query.book, () => {
+    stopRead()
     window.scrollTo(0, 0)
 })
 
@@ -171,6 +192,7 @@ if ('speechSynthesis' in window) {
 const speakingIndex = ref(-1)
 const speakWord = (w: { en: string }, index: number) => {
     if (!('speechSynthesis' in window) || !w.en) return
+    stopRead()
     pickVoice()
     // 先取消当前朗读(部分移动端浏览器需先取消再排队)
     window.speechSynthesis.cancel()
@@ -188,6 +210,80 @@ const speakWord = (w: { en: string }, index: number) => {
     speakingIndex.value = index
     window.speechSynthesis.speak(u)
 }
+
+// ============ 课文朗读(逐句合成, 当前句高亮) ============
+// 每行课文按句末标点拆成句子, 保持原文空格不变(用于渲染)
+const lineSents = computed<string[][]>(() => {
+    if (!lesson.value) return []
+    return lesson.value.en.map((line) => {
+        const parts = line.match(/[^.!?]+[.!?]+["'”’)]?/g)
+        if (!parts) return [line]
+        const joined = parts.join('')
+        if (joined.length < line.length) parts.push(line.slice(joined.length))
+        return parts
+    })
+})
+const isReading = ref(false)
+// 当前朗读句所在的行与句号(高亮用)
+const activeLine = ref(-1)
+const activeSent = ref(-1)
+const stopRead = () => {
+    if ('speechSynthesis' in window) window.speechSynthesis.cancel()
+    isReading.value = false
+    activeLine.value = -1
+    activeSent.value = -1
+}
+const readArticle = () => {
+    if (!('speechSynthesis' in window)) return
+    const sents = lineSents.value
+    if (!sents.length) return
+    pickVoice()
+    window.speechSynthesis.cancel()
+    isReading.value = true
+    let li = 0
+    let si = 0
+    const speakNext = () => {
+        if (!isReading.value) return
+        // 找到下一句非空文本
+        while (li < sents.length) {
+            while (si < sents[li].length) {
+                const text = sents[li][si].trim()
+                const curLine = li
+                const curSent = si
+                si++
+                if (!text) continue
+                activeLine.value = curLine
+                activeSent.value = curSent
+                const u = new SpeechSynthesisUtterance(text)
+                u.lang = 'en-US'
+                if (enVoice) u.voice = enVoice
+                u.rate = 0.75
+                u.pitch = 1
+                u.volume = 1
+                u.onend = () => speakNext()
+                u.onerror = () => speakNext()
+                window.speechSynthesis.speak(u)
+                return
+            }
+            li++
+            si = 0
+        }
+        // 全文朗读结束
+        isReading.value = false
+        activeLine.value = -1
+        activeSent.value = -1
+    }
+    speakNext()
+}
+const toggleRead = () => {
+    if (isReading.value) {
+        stopRead()
+    } else {
+        readArticle()
+    }
+}
+// 离开页面时停止朗读
+onBeforeUnmount(stopRead)
 </script>
 <style lang="less" scoped>
 .lesson {
@@ -245,6 +341,36 @@ const speakWord = (w: { en: string }, index: number) => {
 
         .section {
             margin-top: 28px;
+            .section_head {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                .read_btn {
+                    display: flex;
+                    align-items: center;
+                    gap: 6px;
+                    cursor: pointer;
+                    font-size: 14px;
+                    font-weight: 600;
+                    color: #fc7e0f;
+                    background-color: #fff;
+                    border: 1px solid #fc7e0f;
+                    border-radius: 20px;
+                    padding: 6px 16px;
+                    transition: all 0.2s ease;
+                    user-select: none;
+                    .read_icon {
+                        flex-shrink: 0;
+                    }
+                    &:hover {
+                        background-color: #fff4e8;
+                    }
+                    &.reading {
+                        background-color: #fc7e0f;
+                        color: #fff;
+                    }
+                }
+            }
             .section_label {
                 font-size: 16px;
                 font-weight: bold;
@@ -259,6 +385,10 @@ const speakWord = (w: { en: string }, index: number) => {
                     line-height: 1.9;
                     color: #000;
                     margin: 10px 0;
+                    .sent_speaking {
+                        background-color: #ffedd5;
+                        border-radius: 3px;
+                    }
                 }
             }
             .zh_block {
@@ -380,6 +510,11 @@ const speakWord = (w: { en: string }, index: number) => {
                 }
             }
             .section {
+                .section_head {
+                    .read_btn {
+                        padding: 8px 16px;
+                    }
+                }
                 .en_block p {
                     font-size: 16px;
                 }
