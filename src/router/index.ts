@@ -59,6 +59,14 @@ const routes: Array<RouteRecordRaw> = [
                     title: 'index1',
                 },
             },
+            {
+                path: '/article/java-:slug.html',
+                name: 'javaArticle',
+                component: () => import('../views/article/java/index.vue'),
+                meta: {
+                    title: 'javaArticle',
+                },
+            },
             // 文章模块--end
 
             // 新概念模块--start
