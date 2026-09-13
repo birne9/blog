@@ -24,47 +24,58 @@
   "words": [
    {
     "en": "excuse",
-    "cn": "v. 原谅"
+    "cn": "v. 原谅",
+    "ipa": "ɪkˈskjuz"
    },
    {
     "en": "me",
-    "cn": "pron.我(宾格)"
+    "cn": "pron.我（宾格）",
+    "ipa": "mi"
    },
    {
     "en": "yes",
-    "cn": "adv. 是的"
+    "cn": "adv. 是的",
+    "ipa": "jɛs"
    },
    {
     "en": "is",
-    "cn": "v. be 动词现在时第三人称单数"
+    "cn": "v. be 动词现在时第三人称单数",
+    "ipa": "ɪz"
    },
    {
     "en": "this",
-    "cn": "pron.这"
+    "cn": "pron.这",
+    "ipa": "ðɪs"
    },
    {
     "en": "your",
-    "cn": "possessive adjective 你的，你们的"
+    "cn": "possessive adjective 你的，你们的",
+    "ipa": "jʊr"
    },
    {
     "en": "handbag",
-    "cn": "n. （女用）手提包"
+    "cn": "n. （女用）手提包",
+    "ipa": "ˈhændˌbæg"
    },
    {
     "en": "pardon",
-    "cn": "int. 原谅，请再说一遍"
+    "cn": "int. 原谅，请再说一遍",
+    "ipa": "ˈpɑrdən"
    },
    {
     "en": "it",
-    "cn": "pron.它"
+    "cn": "pron.它",
+    "ipa": "ɪt"
    },
    {
     "en": "thank you",
-    "cn": "感谢你（们）"
+    "cn": "感谢你（们）",
+    "ipa": "θæŋk ju"
    },
    {
     "en": "very much",
-    "cn": "非常地"
+    "cn": "非常地",
+    "ipa": "ˈvɛri məʧ"
    }
   ]
  },
@@ -103,43 +114,53 @@
   "words": [
    {
     "en": "umbrella",
-    "cn": "n. 伞"
+    "cn": "n. 伞",
+    "ipa": "ˈəmˌbrɛlə"
    },
    {
     "en": "please",
-    "cn": "int. 请"
+    "cn": "int. 请",
+    "ipa": "pliz"
    },
    {
     "en": "here",
-    "cn": "adv. 这里"
+    "cn": "adv. 这里",
+    "ipa": "hir"
    },
    {
     "en": "my",
-    "cn": "possessive adjective1 我的"
+    "cn": "possessive adjective1 我的",
+    "ipa": "maɪ"
    },
    {
     "en": "ticket",
-    "cn": "n. 票"
+    "cn": "n. 票",
+    "ipa": "ˈtɪkɪt"
    },
    {
     "en": "number",
-    "cn": "n. 号码"
+    "cn": "n. 号码",
+    "ipa": "ˈnəmbər"
    },
    {
     "en": "five",
-    "cn": "num. 五"
+    "cn": "num. 五",
+    "ipa": "faɪv"
    },
    {
     "en": "sorry",
-    "cn": "adj. 对不起的"
+    "cn": "adj. 对不起的",
+    "ipa": "ˈsɑri"
    },
    {
     "en": "sir",
-    "cn": "n. 先生"
+    "cn": "n. 先生",
+    "ipa": "sər"
    },
    {
     "en": "cloakroom",
-    "cn": "n. 衣帽存放处"
+    "cn": "n. 衣帽存放处",
+    "ipa": "ˈkloʊˌkrum"
    }
   ]
  },
@@ -187,55 +208,68 @@
   "words": [
    {
     "en": "Mr.",
-    "cn": "先生"
+    "cn": "先生",
+    "ipa": "ˈmɪstər"
    },
    {
     "en": "good",
-    "cn": "adj. 好"
+    "cn": "adj. 好",
+    "ipa": "gʊd"
    },
    {
     "en": "Miss",
-    "cn": "小姐"
+    "cn": "小姐",
+    "ipa": "mɪs"
    },
    {
     "en": "new",
-    "cn": "adj. 新的"
+    "cn": "adj. 新的",
+    "ipa": "nu"
    },
    {
     "en": "student",
-    "cn": "n.   学生"
+    "cn": "n. 学生",
+    "ipa": "ˈstudənt"
    },
    {
     "en": "French",
-    "cn": "adj. & n. 法国人"
+    "cn": "adj. & n. 法国人",
+    "ipa": "frɛnʧ"
    },
    {
     "en": "German",
-    "cn": "adj. & n. 德国人"
+    "cn": "adj. & n. 德国人",
+    "ipa": "ˈʤərmən"
    },
    {
     "en": "nice",
-    "cn": "adj. 美好的"
+    "cn": "adj. 美好的",
+    "ipa": "nis"
    },
    {
     "en": "meet",
-    "cn": "v.   遇见"
+    "cn": "v. 遇见",
+    "ipa": "mit"
    },
    {
     "en": "Japanese",
-    "cn": "adj. & n. 日本人"
+    "cn": "adj. & n. 日本人",
+    "ipa": "ˌʤæpəˈniz"
    },
    {
     "en": "Korean",
-    "cn": "adj. & n. 韩国人"
+    "cn": "adj. & n. 韩国人",
+    "ipa": "ˌkɔˈriən"
    },
    {
     "en": "Chinese",
-    "cn": "adj. & n. 中国人"
+    "cn": "adj. & n. 中国人",
+    "ipa": "ʧaɪˈniz"
    },
    {
     "en": "too",
-    "cn": "adv. 也"
+    "cn": "adv. 也",
+    "ipa": "tu"
    }
   ]
  },
@@ -280,43 +314,53 @@
   "words": [
    {
     "en": "I",
-    "cn": "pron.我"
+    "cn": "pron.我",
+    "ipa": "aɪ"
    },
    {
     "en": "am",
-    "cn": "v.   be 动词现在时第一人称单数"
+    "cn": "v. be 动词现在时第一人称单数",
+    "ipa": "æm"
    },
    {
     "en": "are",
-    "cn": "v.   be 动词现在时复数"
+    "cn": "v. be 动词现在时复数",
+    "ipa": "ər"
    },
    {
     "en": "name",
-    "cn": "n.   名字"
+    "cn": "n. 名字",
+    "ipa": "neɪm"
    },
    {
     "en": "what",
-    "cn": "adj. & pron. 什么"
+    "cn": "adj. & pron. 什么",
+    "ipa": "wət"
    },
    {
     "en": "nationality",
-    "cn": "n.   国籍"
+    "cn": "n. 国籍",
+    "ipa": "ˌnæʃəˈnælɪti"
    },
    {
     "en": "job",
-    "cn": "n.   工作"
+    "cn": "n. 工作",
+    "ipa": "ʤɑb"
    },
    {
     "en": "keyboard",
-    "cn": "n.   电脑键盘"
+    "cn": "n. 电脑键盘",
+    "ipa": "ˈkiˌbɔrd"
    },
    {
     "en": "operator",
-    "cn": "n.   操作人员"
+    "cn": "n. 操作人员",
+    "ipa": "ˈɑpərˌeɪtər"
    },
    {
     "en": "engineer",
-    "cn": "n.   工程师"
+    "cn": "n. 工程师",
+    "ipa": "ˈɛnʤəˈnɪr"
    }
   ]
  },
@@ -355,35 +399,43 @@
   "words": [
    {
     "en": "hello",
-    "cn": "int. 喂（表示问候）"
+    "cn": "int. 喂（表示问候）",
+    "ipa": "hɛˈloʊ"
    },
    {
     "en": "hi",
-    "cn": "int. 喂，嗨"
+    "cn": "int. 喂，嗨",
+    "ipa": "haɪ"
    },
    {
     "en": "today",
-    "cn": "adv. 今天"
+    "cn": "adv. 今天",
+    "ipa": "təˈdeɪ"
    },
    {
     "en": "well",
-    "cn": "adj. 身体好"
+    "cn": "adj. 身体好",
+    "ipa": "wɛl"
    },
    {
     "en": "fine",
-    "cn": "adj. 美好的"
+    "cn": "adj. 美好的",
+    "ipa": "faɪn"
    },
    {
     "en": "thanks",
-    "cn": "int. 谢谢"
+    "cn": "int. 谢谢",
+    "ipa": "θæŋks"
    },
    {
     "en": "goodbye",
-    "cn": "int. 再见"
+    "cn": "int. 再见",
+    "ipa": "ˌgʊdˈbaɪ"
    },
    {
     "en": "see",
-    "cn": "v.   见"
+    "cn": "v. 见",
+    "ipa": "si"
    }
   ]
  },
@@ -426,23 +478,28 @@
   "words": [
    {
     "en": "whose",
-    "cn": "pron.谁的"
+    "cn": "pron.谁的",
+    "ipa": "huz"
    },
    {
     "en": "blue",
-    "cn": "adj. 蓝色的"
+    "cn": "adj. 蓝色的",
+    "ipa": "blu"
    },
    {
     "en": "perhaps",
-    "cn": "adv. 大概"
+    "cn": "adv. 大概",
+    "ipa": "pərˈhæps"
    },
    {
     "en": "white",
-    "cn": "adj. 白色的"
+    "cn": "adj. 白色的",
+    "ipa": "waɪt"
    },
    {
     "en": "catch",
-    "cn": "v.   抓住"
+    "cn": "v. 抓住",
+    "ipa": "kæʧ"
    }
   ]
  },
@@ -480,35 +537,43 @@
   "words": [
    {
     "en": "colour",
-    "cn": "n.   颜色"
+    "cn": "n. 颜色",
+    "ipa": "ˈkələr"
    },
    {
     "en": "green",
-    "cn": "adj. 绿色"
+    "cn": "adj. 绿色",
+    "ipa": "grin"
    },
    {
     "en": "come",
-    "cn": "v.   来"
+    "cn": "v. 来",
+    "ipa": "kəm"
    },
    {
     "en": "upstairs",
-    "cn": "adv. 楼上"
+    "cn": "adv. 楼上",
+    "ipa": "əpˈstɛrz"
    },
    {
     "en": "smart",
-    "cn": "adj. 时髦的，巧妙的"
+    "cn": "adj. 时髦的，巧妙的",
+    "ipa": "smɑrt"
    },
    {
     "en": "hat",
-    "cn": "n.   帽子"
+    "cn": "n. 帽子",
+    "ipa": "hæt"
    },
    {
     "en": "same",
-    "cn": "adj. 相同的"
+    "cn": "adj. 相同的",
+    "ipa": "seɪm"
    },
    {
     "en": "lovely",
-    "cn": "adj. 可爱的，秀丽的"
+    "cn": "adj. 可爱的，秀丽的",
+    "ipa": "ˈləvli"
    }
   ]
  },
@@ -556,39 +621,48 @@
   "words": [
    {
     "en": "customs",
-    "cn": "n.   海关"
+    "cn": "n. 海关",
+    "ipa": "ˈkəstəmz"
    },
    {
     "en": "officer",
-    "cn": "n.   官员"
+    "cn": "n. 官员",
+    "ipa": "ˈɔfɪsər"
    },
    {
     "en": "girl",
-    "cn": "n.   女孩，姑娘"
+    "cn": "n. 女孩，姑娘",
+    "ipa": "gərl"
    },
    {
     "en": "Danish",
-    "cn": "adj.& n. 丹麦人"
+    "cn": "adj. & n. 丹麦人",
+    "ipa": "ˈdeɪnɪʃ"
    },
    {
     "en": "friend",
-    "cn": "n.   朋友"
+    "cn": "n. 朋友",
+    "ipa": "frɛnd"
    },
    {
     "en": "Norwegian",
-    "cn": "adj. & n. 挪威人"
+    "cn": "adj. & n. 挪威人",
+    "ipa": "ˌnɔrˈwiʤən"
    },
    {
     "en": "passport",
-    "cn": "n.   护照"
+    "cn": "n. 护照",
+    "ipa": "ˈpæˌspɔrt"
    },
    {
     "en": "brown",
-    "cn": "adj. 棕色的"
+    "cn": "adj. 棕色的",
+    "ipa": "braʊn"
    },
    {
     "en": "tourist",
-    "cn": "n.   旅游者"
+    "cn": "n. 旅游者",
+    "ipa": "ˈtʊrɪst"
    }
   ]
  },
@@ -637,27 +711,33 @@
   "words": [
    {
     "en": "employee",
-    "cn": "n. 雇员"
+    "cn": "n. 雇员",
+    "ipa": "ɪmˈplɔɪi"
    },
    {
     "en": "hard-working",
-    "cn": "adj. 勤奋的"
+    "cn": "adj. 勤奋的",
+    "ipa": "hɑrd ˈwərkɪŋ"
    },
    {
     "en": "sales reps",
-    "cn": "推销员"
+    "cn": "推销员",
+    "ipa": "seɪlz rɛps"
    },
    {
     "en": "man",
-    "cn": "n. 男人"
+    "cn": "n. 男人",
+    "ipa": "mæn"
    },
    {
     "en": "office",
-    "cn": "n. 办公室"
+    "cn": "n. 办公室",
+    "ipa": "ˈɔfəs"
    },
    {
     "en": "assistant",
-    "cn": "n. 助手"
+    "cn": "n. 助手",
+    "ipa": "əˈsɪstənt"
    }
   ]
  },
@@ -698,39 +778,48 @@
   "words": [
    {
     "en": "matter",
-    "cn": "n. 事情"
+    "cn": "n. 事情",
+    "ipa": "ˈmætər"
    },
    {
     "en": "children",
-    "cn": "n. 孩子们（child的复数）"
+    "cn": "n. 孩子们（child的复数）",
+    "ipa": "ˈʧɪldrən"
    },
    {
     "en": "tired",
-    "cn": "adj. 累,疲乏"
+    "cn": "adj. 累,疲乏",
+    "ipa": "taɪərd"
    },
    {
     "en": "boy",
-    "cn": "n. 男孩"
+    "cn": "n. 男孩",
+    "ipa": "bɔɪ"
    },
    {
     "en": "thirsty",
-    "cn": "adj. 渴"
+    "cn": "adj. 渴",
+    "ipa": "ˈθərsti"
    },
    {
-    "en": "Mum",
-    "cn": "n. 妈妈（儿语）"
+    "en": "mum",
+    "cn": "n. 妈妈（儿语）",
+    "ipa": "məm"
    },
    {
     "en": "sit down",
-    "cn": "坐下"
+    "cn": "坐下",
+    "ipa": "sɪt daʊn"
    },
    {
     "en": "right",
-    "cn": "adj. 好，可以"
+    "cn": "adj. 好，可以",
+    "ipa": "raɪt"
    },
    {
     "en": "ice cream",
-    "cn": "冰淇淋"
+    "cn": "冰淇淋",
+    "ipa": "aɪs krim"
    }
   ]
  },
@@ -761,19 +850,18 @@
   "words": [
    {
     "en": "give",
-    "cn": "v. 给"
+    "cn": "v. 给",
+    "ipa": "gɪv"
    },
    {
     "en": "one",
-    "cn": "pron.一个"
+    "cn": "pron.一个",
+    "ipa": "wən"
    },
    {
     "en": "which",
-    "cn": ""
-   },
-   {
-    "en": "question word",
-    "cn": "哪一个"
+    "cn": "question word 哪一个",
+    "ipa": "wɪʧ"
    }
   ]
  },
@@ -804,11 +892,13 @@
   "words": [
    {
     "en": "on",
-    "cn": "prep.在……之上"
+    "cn": "prep.在……之上",
+    "ipa": "ɔn"
    },
    {
     "en": "shelf",
-    "cn": "n. 架子，搁板"
+    "cn": "n. 架子，搁板",
+    "ipa": "ʃɛlf"
    }
   ]
  },
@@ -847,47 +937,58 @@
   "words": [
    {
     "en": "Mrs.",
-    "cn": "夫人"
+    "cn": "夫人",
+    "ipa": "ˈmɪsɪz"
    },
    {
     "en": "kitchen",
-    "cn": "n. 厨房"
+    "cn": "n. 厨房",
+    "ipa": "ˈkɪʧən"
    },
    {
     "en": "refrigerator",
-    "cn": "n. 电冰箱"
+    "cn": "n. 电冰箱",
+    "ipa": "rɪˈfrɪʤərˌeɪtər"
    },
    {
     "en": "right",
-    "cn": "n. 右边"
+    "cn": "n. 右边",
+    "ipa": "raɪt"
    },
    {
     "en": "electric",
-    "cn": "adj. 带电的，可通电的"
+    "cn": "adj. 带电的，可通电的",
+    "ipa": "ɪˈlɛktrɪk"
    },
    {
     "en": "left",
-    "cn": "n. 左边"
+    "cn": "n. 左边",
+    "ipa": "lɛft"
    },
    {
     "en": "cooker",
-    "cn": "n. 炉子，炊具"
+    "cn": "n. 炉子，炊具",
+    "ipa": "ˈkʊkər"
    },
    {
     "en": "middle",
-    "cn": "n. 中间"
+    "cn": "n. 中间",
+    "ipa": "ˈmɪdəl"
    },
    {
     "en": "of",
-    "cn": "prep.（属于）……的"
+    "cn": "prep.（属于）……的",
+    "ipa": "əv"
    },
    {
     "en": "room",
-    "cn": "n. 房间"
+    "cn": "n. 房间",
+    "ipa": "rum"
    },
    {
     "en": "cup",
-    "cn": "n. 杯子"
+    "cn": "n. 杯子",
+    "ipa": "kəp"
    }
   ]
  },
@@ -928,31 +1029,38 @@
   "words": [
    {
     "en": "living room",
-    "cn": "客厅"
+    "cn": "客厅",
+    "ipa": "ˈlɪvɪŋ rum"
    },
    {
     "en": "near",
-    "cn": "prep.靠近"
+    "cn": "prep.靠近",
+    "ipa": "nɪr"
    },
    {
     "en": "window",
-    "cn": "n. 窗户"
+    "cn": "n. 窗户",
+    "ipa": "ˈwɪndoʊ"
    },
    {
     "en": "armchair",
-    "cn": "n. 扶手椅"
+    "cn": "n. 扶手椅",
+    "ipa": "ˈɑrmˌʧɛr"
    },
    {
     "en": "door",
-    "cn": "n. 门"
+    "cn": "n. 门",
+    "ipa": "dɔr"
    },
    {
     "en": "picture",
-    "cn": "n. 图画"
+    "cn": "n. 图画",
+    "ipa": "ˈpɪkʧər"
    },
    {
     "en": "wall",
-    "cn": "n. 墙"
+    "cn": "n. 墙",
+    "ipa": "wɔl"
    }
   ]
  },
@@ -985,47 +1093,58 @@
   "words": [
    {
     "en": "shut",
-    "cn": "v. 关门"
+    "cn": "v. 关门",
+    "ipa": "ʃət"
    },
    {
     "en": "bedroom",
-    "cn": "n. 卧室"
+    "cn": "n. 卧室",
+    "ipa": "ˈbɛˌdrum"
    },
    {
     "en": "untidy",
-    "cn": "adj. 乱，不整齐"
+    "cn": "adj. 乱，不整齐",
+    "ipa": "ənˈtaɪdi"
    },
    {
     "en": "must",
-    "cn": "modal verb 必须，应该"
+    "cn": "modal verb 必须，应该",
+    "ipa": "məst"
    },
    {
     "en": "open",
-    "cn": "v. 打开"
+    "cn": "v. 打开",
+    "ipa": "ˈoʊpən"
    },
    {
     "en": "air",
-    "cn": "v. 使 … 通风，换换空气"
+    "cn": "v. 使 … 通风，换换空气",
+    "ipa": "ɛr"
    },
    {
     "en": "put",
-    "cn": "v. 放置"
+    "cn": "v. 放置",
+    "ipa": "pʊt"
    },
    {
     "en": "clothes",
-    "cn": "n. 衣服"
+    "cn": "n. 衣服",
+    "ipa": "kloʊðz"
    },
    {
     "en": "wardrobe",
-    "cn": "n. 大衣柜"
+    "cn": "n. 大衣柜",
+    "ipa": "ˈwɔrˌdroʊb"
    },
    {
     "en": "dust",
-    "cn": "v. 掸掉灰尘土"
+    "cn": "v. 掸掉灰尘土",
+    "ipa": "dəst"
    },
    {
     "en": "sweep",
-    "cn": "v. 扫"
+    "cn": "v. 扫",
+    "ipa": "swip"
    }
   ]
  },
@@ -1065,43 +1184,53 @@
   "words": [
    {
     "en": "garden",
-    "cn": "n. 花园"
+    "cn": "n. 花园",
+    "ipa": "ˈgɑrdən"
    },
    {
     "en": "under",
-    "cn": "prep.在……这下"
+    "cn": "prep.在……这下",
+    "ipa": "ˈəndər"
    },
    {
     "en": "tree",
-    "cn": "n. 树"
+    "cn": "n. 树",
+    "ipa": "tri"
    },
    {
     "en": "climb",
-    "cn": "v. 爬，攀登"
+    "cn": "v. 爬，攀登",
+    "ipa": "klaɪm"
    },
    {
     "en": "who",
-    "cn": "pron.谁"
+    "cn": "pron.谁",
+    "ipa": "hu"
    },
    {
     "en": "run",
-    "cn": "v. 跑"
+    "cn": "v. 跑",
+    "ipa": "rən"
    },
    {
     "en": "grass",
-    "cn": "n. 草，草地"
+    "cn": "n. 草，草地",
+    "ipa": "græs"
    },
    {
     "en": "after",
-    "cn": "prep.在……之后"
+    "cn": "prep.在……之后",
+    "ipa": "ˈæftər"
    },
    {
     "en": "across",
-    "cn": "prep.横过，穿过"
+    "cn": "prep.横过，穿过",
+    "ipa": "əˈkrɔs"
    },
    {
     "en": "cat",
-    "cn": "n. 猫"
+    "cn": "n. 猫",
+    "ipa": "kæt"
    }
   ]
  },
@@ -1136,63 +1265,78 @@
   "words": [
    {
     "en": "day",
-    "cn": "n. 日子"
+    "cn": "n. 日子",
+    "ipa": "deɪ"
    },
    {
     "en": "cloud",
-    "cn": "n. 云"
+    "cn": "n. 云",
+    "ipa": "klaʊd"
    },
    {
     "en": "sky",
-    "cn": "n. 天空"
+    "cn": "n. 天空",
+    "ipa": "skaɪ"
    },
    {
     "en": "sun",
-    "cn": "n. 太阳"
+    "cn": "n. 太阳",
+    "ipa": "sən"
    },
    {
     "en": "shine",
-    "cn": "v. 照耀"
+    "cn": "v. 照耀",
+    "ipa": "ʃaɪn"
    },
    {
     "en": "with",
-    "cn": "prep. 和……在一起"
+    "cn": "prep. 和……在一起",
+    "ipa": "wɪθ"
    },
    {
     "en": "family",
-    "cn": "n. 家庭（成员）"
+    "cn": "n. 家庭（成员）",
+    "ipa": "ˈfæməli"
    },
    {
     "en": "walk",
-    "cn": "v. 走路, 步行"
+    "cn": "v. 走路, 步行",
+    "ipa": "wɔk"
    },
    {
     "en": "over",
-    "cn": "prep.跨越，在……之上"
+    "cn": "prep.跨越，在……之上",
+    "ipa": "ˈoʊvər"
    },
    {
     "en": "bridge",
-    "cn": "n. 桥"
+    "cn": "n. 桥",
+    "ipa": "brɪʤ"
    },
    {
     "en": "boat",
-    "cn": "n. 船"
+    "cn": "n. 船",
+    "ipa": "boʊt"
    },
    {
     "en": "river",
-    "cn": "n. 河"
+    "cn": "n. 河",
+    "ipa": "ˈrɪvər"
    },
    {
     "en": "ship",
-    "cn": "n. 轮船"
+    "cn": "n. 轮船",
+    "ipa": "ʃɪp"
    },
    {
     "en": "airplane",
-    "cn": "n. 飞机"
+    "cn": "n. 飞机",
+    "ipa": "ˈɛrˌpleɪn"
    },
    {
     "en": "fly",
-    "cn": "v. 飞"
+    "cn": "v. 飞",
+    "ipa": "flaɪ"
    }
   ]
  },
@@ -1237,63 +1381,73 @@
   "words": [
    {
     "en": "photograph",
-    "cn": "n. 照片"
+    "cn": "n. 照片",
+    "ipa": "ˈfoʊtəˌgræf"
    },
    {
     "en": "village",
-    "cn": "n. 村庄"
+    "cn": "n. 村庄",
+    "ipa": "ˈvɪlɪʤ"
    },
    {
     "en": "valley",
-    "cn": "n. 山谷"
+    "cn": "n. 山谷",
+    "ipa": "ˈvæli"
    },
    {
     "en": "between",
-    "cn": "prep.在……之间"
+    "cn": "prep.在……之间",
+    "ipa": "bɪtˈwin"
    },
    {
     "en": "hill",
-    "cn": "n. 小山"
+    "cn": "n. 小山",
+    "ipa": "hɪl"
    },
    {
     "en": "another",
-    "cn": ""
-   },
-   {
-    "en": "det.",
-    "cn": "另一个"
+    "cn": "det. 另一个",
+    "ipa": "əˈnəðər"
    },
    {
     "en": "wife",
-    "cn": "n. 妻子"
+    "cn": "n. 妻子",
+    "ipa": "waɪf"
    },
    {
     "en": "along",
-    "cn": "prep.沿着"
+    "cn": "prep.沿着",
+    "ipa": "əˈlɔŋ"
    },
    {
     "en": "bank",
-    "cn": "n. 河岸"
+    "cn": "n. 河岸",
+    "ipa": "bæŋk"
    },
    {
     "en": "water",
-    "cn": "n. 水"
+    "cn": "n. 水",
+    "ipa": "ˈwɔtər"
    },
    {
     "en": "swim",
-    "cn": "v. 游泳"
+    "cn": "v. 游泳",
+    "ipa": "swɪm"
    },
    {
     "en": "building",
-    "cn": "n. 大楼，建筑物"
+    "cn": "n. 大楼，建筑物",
+    "ipa": "ˈbɪldɪŋ"
    },
    {
     "en": "park",
-    "cn": "n. 公园"
+    "cn": "n. 公园",
+    "ipa": "pɑrk"
    },
    {
     "en": "into",
-    "cn": "prep.进入"
+    "cn": "prep.进入",
+    "ipa": "ˈɪntu"
    }
   ]
  },
@@ -1341,35 +1495,43 @@
   "words": [
    {
     "en": "work",
-    "cn": "v. 工作"
+    "cn": "v. 工作",
+    "ipa": "wərk"
    },
    {
     "en": "hard",
-    "cn": "adv. 努力地"
+    "cn": "adv. 努力地",
+    "ipa": "hɑrd"
    },
    {
     "en": "make",
-    "cn": "v. 做"
+    "cn": "v. 做",
+    "ipa": "meɪk"
    },
    {
     "en": "bookcase",
-    "cn": "n. 书橱，书架"
+    "cn": "n. 书橱，书架",
+    "ipa": "ˈbʊkˌkeɪs"
    },
    {
     "en": "hammer",
-    "cn": "n. 锤子"
+    "cn": "n. 锤子",
+    "ipa": "ˈhæmər"
    },
    {
     "en": "paint",
-    "cn": "v. 上漆，涂"
+    "cn": "v. 上漆，涂",
+    "ipa": "peɪnt"
    },
    {
     "en": "pink",
-    "cn": "n.& adj. 粉红色"
+    "cn": "n. & adj. 粉红色",
+    "ipa": "pɪŋk"
    },
    {
     "en": "favourite",
-    "cn": "adj. 最喜欢的"
+    "cn": "adj. 最喜欢的",
+    "ipa": "ˈfeɪvərɪt"
    }
   ]
  },
@@ -1406,27 +1568,33 @@
   "words": [
    {
     "en": "front",
-    "cn": "n. 前面"
+    "cn": "n. 前面",
+    "ipa": "frənt"
    },
    {
     "en": "in front of",
-    "cn": "在……之前"
+    "cn": "在……之前",
+    "ipa": "ɪn frənt əv"
    },
    {
     "en": "careful",
-    "cn": "adj. 小心的，仔细的"
+    "cn": "adj. 小心的，仔细的",
+    "ipa": "ˈkɛrfəl"
    },
    {
     "en": "vase",
-    "cn": "n. 花瓶"
+    "cn": "n. 花瓶",
+    "ipa": "vɑz"
    },
    {
     "en": "drop",
-    "cn": "v. 掉下"
+    "cn": "v. 掉下",
+    "ipa": "drɔp"
    },
    {
     "en": "flower",
-    "cn": "n. 花"
+    "cn": "n. 花",
+    "ipa": "flaʊər"
    }
   ]
  },
@@ -1466,35 +1634,43 @@
   "words": [
    {
     "en": "cheese",
-    "cn": "n. 乳酪，干酪"
+    "cn": "n. 乳酪，干酪",
+    "ipa": "ʧiz"
    },
    {
     "en": "bread",
-    "cn": "n. 面包"
+    "cn": "n. 面包",
+    "ipa": "brɛd"
    },
    {
     "en": "soap",
-    "cn": "n. 肥皂"
+    "cn": "n. 肥皂",
+    "ipa": "soʊp"
    },
    {
     "en": "chocolate",
-    "cn": "n. 巧克力"
+    "cn": "n. 巧克力",
+    "ipa": "ˈʧɔklət"
    },
    {
     "en": "sugar",
-    "cn": "n. 糖"
+    "cn": "n. 糖",
+    "ipa": "ˈʃʊgər"
    },
    {
     "en": "coffee",
-    "cn": "n. 咖啡"
+    "cn": "n. 咖啡",
+    "ipa": "ˈkɔfi"
    },
    {
     "en": "tea",
-    "cn": "n. 茶"
+    "cn": "n. 茶",
+    "ipa": "ti"
    },
    {
     "en": "tobacco",
-    "cn": "n. 烟草，烟丝"
+    "cn": "n. 烟草，烟丝",
+    "ipa": "təˈbæˌkoʊ"
    }
   ]
  },
@@ -1541,31 +1717,38 @@
   "words": [
    {
     "en": "of course",
-    "cn": "当然"
+    "cn": "当然",
+    "ipa": "əv kɔrs"
    },
    {
     "en": "kettle",
-    "cn": "n. 水壶"
+    "cn": "n. 水壶",
+    "ipa": "ˈkɛtəl"
    },
    {
     "en": "behind",
-    "cn": "prep.在……后面"
+    "cn": "prep.在……后面",
+    "ipa": "bɪˈhaɪnd"
    },
    {
     "en": "teapot",
-    "cn": "n. 茶壶"
+    "cn": "n. 茶壶",
+    "ipa": "ˈtiˌpɑt"
    },
    {
     "en": "now",
-    "cn": "adv. 现在，此刻"
+    "cn": "adv. 现在，此刻",
+    "ipa": "naʊ"
    },
    {
     "en": "find",
-    "cn": "v. 找到"
+    "cn": "v. 找到",
+    "ipa": "faɪnd"
    },
    {
     "en": "boil",
-    "cn": "v. 沸腾，开"
+    "cn": "v. 沸腾，开",
+    "ipa": "bɔɪl"
    }
   ]
  },
@@ -1618,27 +1801,33 @@
   "words": [
    {
     "en": "can",
-    "cn": "modal verb 能够"
+    "cn": "modal verb 能够",
+    "ipa": "kən"
    },
    {
     "en": "boss",
-    "cn": "n. 老板，上司"
+    "cn": "n. 老板，上司",
+    "ipa": "bɔs"
    },
    {
     "en": "minute",
-    "cn": "n. 分（钟）"
+    "cn": "n. 分（钟）",
+    "ipa": "ˈmɪnət"
    },
    {
     "en": "ask",
-    "cn": "v. 请求，要求"
+    "cn": "v. 请求，要求",
+    "ipa": "æsk"
    },
    {
     "en": "handwriting",
-    "cn": "n. 书写"
+    "cn": "n. 书写",
+    "ipa": "ˈhænˌdraɪtɪŋ"
    },
    {
     "en": "terrible",
-    "cn": "adj. 糟糕的，可怕的"
+    "cn": "adj. 糟糕的，可怕的",
+    "ipa": "ˈtɛrəbəl"
    }
   ]
  },
@@ -1678,11 +1867,13 @@
   "words": [
    {
     "en": "like",
-    "cn": "v. 喜欢，想要"
+    "cn": "v. 喜欢，想要",
+    "ipa": "laɪk"
    },
    {
     "en": "want",
-    "cn": "v. 想"
+    "cn": "v. 想",
+    "ipa": "wɔnt"
    }
   ]
  },
@@ -1732,47 +1923,58 @@
   "words": [
    {
     "en": "butcher",
-    "cn": "n.   卖肉的"
+    "cn": "n. 卖肉的",
+    "ipa": "ˈbʊʧər"
    },
    {
     "en": "meat",
-    "cn": "n.   （食用）肉"
+    "cn": "n. （食用）肉",
+    "ipa": "mit"
    },
    {
     "en": "beef",
-    "cn": "n.   牛肉"
+    "cn": "n. 牛肉",
+    "ipa": "bif"
    },
    {
     "en": "lamb",
-    "cn": "n.   羔羊肉"
+    "cn": "n. 羔羊肉",
+    "ipa": "læm"
    },
    {
     "en": "husband",
-    "cn": "n.   丈夫"
+    "cn": "n. 丈夫",
+    "ipa": "ˈhəzbənd"
    },
    {
     "en": "steak",
-    "cn": "n.   牛排"
+    "cn": "n. 牛排",
+    "ipa": "steɪk"
    },
    {
     "en": "mince",
-    "cn": "n.   肉馅，绞肉"
+    "cn": "n. 肉馅，绞肉",
+    "ipa": "mɪns"
    },
    {
     "en": "chicken",
-    "cn": "n.   鸡"
+    "cn": "n. 鸡",
+    "ipa": "ˈʧɪkən"
    },
    {
     "en": "tell",
-    "cn": "v.   告诉"
+    "cn": "v. 告诉",
+    "ipa": "tɛl"
    },
    {
     "en": "truth",
-    "cn": "n.   实情"
+    "cn": "n. 实情",
+    "ipa": "truθ"
    },
    {
     "en": "either",
-    "cn": "adv. 也（用于否定句）"
+    "cn": "adv. 也（用于否定句）",
+    "ipa": "ˈiðər"
    }
   ]
  },
@@ -1816,107 +2018,133 @@
   "words": [
    {
     "en": "Greece",
-    "cn": "n. 希腊"
+    "cn": "n. 希腊",
+    "ipa": "gris"
    },
    {
     "en": "climate",
-    "cn": "n. 气候"
+    "cn": "n. 气候",
+    "ipa": "ˈklaɪmɪt"
    },
    {
     "en": "country",
-    "cn": "n. 国家"
+    "cn": "n. 国家",
+    "ipa": "ˈkəntri"
    },
    {
     "en": "pleasant",
-    "cn": "adj. 宜人的"
+    "cn": "adj. 宜人的",
+    "ipa": "ˈplɛzənt"
    },
    {
     "en": "weather",
-    "cn": "n. 天气"
+    "cn": "n. 天气",
+    "ipa": "ˈwɛðər"
    },
    {
     "en": "spring",
-    "cn": "n. 春季"
+    "cn": "n. 春季",
+    "ipa": "spərɪŋ"
    },
    {
     "en": "windy",
-    "cn": "adj. 有风的"
+    "cn": "adj. 有风的",
+    "ipa": "ˈwɪndi"
    },
    {
     "en": "warm",
-    "cn": "adj. 温暖的"
+    "cn": "adj. 温暖的",
+    "ipa": "wɔrm"
    },
    {
     "en": "rain",
-    "cn": "v. 下雨"
+    "cn": "v. 下雨",
+    "ipa": "reɪn"
    },
    {
     "en": "sometimes",
-    "cn": "adv. 有时"
+    "cn": "adv. 有时",
+    "ipa": "ˈsəmˌtaɪmz"
    },
    {
     "en": "summer",
-    "cn": "n. 夏天"
+    "cn": "n. 夏天",
+    "ipa": "ˈsəmər"
    },
    {
     "en": "autumn",
-    "cn": "n. 秋天"
+    "cn": "n. 秋天",
+    "ipa": "ˈɔtəm"
    },
    {
     "en": "winter",
-    "cn": "n. 冬天"
+    "cn": "n. 冬天",
+    "ipa": "ˈwɪntər"
    },
    {
     "en": "snow",
-    "cn": "v. 下雪"
+    "cn": "v. 下雪",
+    "ipa": "snoʊ"
    },
    {
     "en": "January",
-    "cn": "n. 1月"
+    "cn": "n. 1月",
+    "ipa": "ˈʤænjuˌɛri"
    },
    {
     "en": "February",
-    "cn": "n. 2月"
+    "cn": "n. 2月",
+    "ipa": "ˈfɛbruˌɛri"
    },
    {
     "en": "March",
-    "cn": "n. 3月"
+    "cn": "n. 3月",
+    "ipa": "mɑrʧ"
    },
    {
     "en": "April",
-    "cn": "n. 4月"
+    "cn": "n. 4月",
+    "ipa": "ˈeɪprəl"
    },
    {
     "en": "May",
-    "cn": "n. 5月"
+    "cn": "n. 5月",
+    "ipa": "meɪ"
    },
    {
     "en": "June",
-    "cn": "n. 6月"
+    "cn": "n. 6月",
+    "ipa": "ʤun"
    },
    {
     "en": "July",
-    "cn": "n. 7月"
+    "cn": "n. 7月",
+    "ipa": "ˌʤuˈlaɪ"
    },
    {
     "en": "August",
-    "cn": "n. 8月"
+    "cn": "n. 8月",
+    "ipa": "ˈɔgəst"
    },
    {
     "en": "September",
-    "cn": "n. 9月"
+    "cn": "n. 9月",
+    "ipa": "sɛpˈtɛmbər"
    },
    {
     "en": "October",
-    "cn": "n. 10月"
+    "cn": "n. 10月",
+    "ipa": "ɑkˈtoʊbər"
    },
    {
     "en": "November",
-    "cn": "n. 11月"
+    "cn": "n. 11月",
+    "ipa": "noʊˈvɛmbər"
    },
    {
     "en": "December",
-    "cn": "n. 12月"
+    "cn": "n. 12月",
+    "ipa": "dɪˈsɛmbər"
    }
   ]
  },
@@ -1953,71 +2181,88 @@
   "words": [
    {
     "en": "mild",
-    "cn": "adj. 温和的，温暖的"
+    "cn": "adj. 温和的，温暖的",
+    "ipa": "maɪld"
    },
    {
     "en": "always",
-    "cn": "adv. 总是"
+    "cn": "adv. 总是",
+    "ipa": "ˈɔlˌweɪz"
    },
    {
     "en": "north",
-    "cn": "n. 北方"
+    "cn": "n. 北方",
+    "ipa": "nɔrθ"
    },
    {
     "en": "east",
-    "cn": "n. 东方"
+    "cn": "n. 东方",
+    "ipa": "ist"
    },
    {
     "en": "wet",
-    "cn": "adj. 潮湿的"
+    "cn": "adj. 潮湿的",
+    "ipa": "wɛt"
    },
    {
     "en": "west",
-    "cn": "n. 西方"
+    "cn": "n. 西方",
+    "ipa": "wɛst"
    },
    {
     "en": "south",
-    "cn": "n. 南方"
+    "cn": "n. 南方",
+    "ipa": "saʊθ"
    },
    {
     "en": "season",
-    "cn": "n. 季节"
+    "cn": "n. 季节",
+    "ipa": "ˈsizən"
    },
    {
     "en": "best",
-    "cn": "adv. 最"
+    "cn": "adv. 最",
+    "ipa": "bɛst"
    },
    {
     "en": "night",
-    "cn": "n. 夜晚"
+    "cn": "n. 夜晚",
+    "ipa": "naɪt"
    },
    {
     "en": "rise",
-    "cn": "v. 升起"
+    "cn": "v. 升起",
+    "ipa": "raɪz"
    },
    {
     "en": "early",
-    "cn": "adv. 早"
+    "cn": "adv. 早",
+    "ipa": "ˈərli"
    },
    {
     "en": "set",
-    "cn": "v. （太阳）落下去"
+    "cn": "v. （太阳）落下去",
+    "ipa": "sɛt"
    },
    {
     "en": "late",
-    "cn": "adv. 晚，迟"
+    "cn": "adv. 晚，迟",
+    "ipa": "leɪt"
    },
    {
     "en": "interesting",
-    "cn": "adj. 有趣的，有意思的"
+    "cn": "adj. 有趣的，有意思的",
+    "ipa": "ˈɪntəˌrɛstɪŋ"
    },
    {
     "en": "subject",
-    "cn": "n. 话题"
+    "cn": "n. 话题",
+    "ipa": "ˈsəbʤɪkt"
    },
    {
     "en": "conversation",
-    "cn": "n. 谈话"
+    "cn": "n. 谈话",
+    "ipa": "ˌkɑnvərˈseɪʃən"
    }
   ]
  },
@@ -2047,51 +2292,63 @@
   "words": [
    {
     "en": "live",
-    "cn": "v. 住，生活"
+    "cn": "v. 住，生活",
+    "ipa": "lɪv"
    },
    {
     "en": "stay",
-    "cn": "v. 呆在，停留"
+    "cn": "v. 呆在，停留",
+    "ipa": "steɪ"
    },
    {
     "en": "home",
-    "cn": "n. 家；"
+    "cn": "n. 家；",
+    "ipa": "hoʊm"
    },
    {
-    "en": "",
-    "cn": "adv. 到家"
+    "en": "home",
+    "cn": "adv. 到家",
+    "ipa": "hoʊm"
    },
    {
     "en": "housework",
-    "cn": "n. 家务"
+    "cn": "n. 家务",
+    "ipa": "ˈhaʊsˌwərk"
    },
    {
     "en": "lunch",
-    "cn": "n. 午饭"
+    "cn": "n. 午饭",
+    "ipa": "lənʧ"
    },
    {
     "en": "afternoon",
-    "cn": "n. 下午"
+    "cn": "n. 下午",
+    "ipa": "ˌæftərˈnun"
    },
    {
     "en": "usually",
-    "cn": "adv. 通常"
+    "cn": "adv. 通常",
+    "ipa": "ˈjuʒəwəli"
    },
    {
     "en": "together",
-    "cn": "adv. 一起"
+    "cn": "adv. 一起",
+    "ipa": "təˈgɛðər"
    },
    {
     "en": "evening",
-    "cn": "n. 晚上"
+    "cn": "n. 晚上",
+    "ipa": "ˈivnɪŋ"
    },
    {
     "en": "arrive",
-    "cn": "v. 到达"
+    "cn": "v. 到达",
+    "ipa": "əraɪv"
    },
    {
     "en": "night",
-    "cn": "n. 夜间"
+    "cn": "n. 夜间",
+    "ipa": "naɪt"
    }
   ]
  },
@@ -2116,15 +2373,18 @@
   "words": [
    {
     "en": "o'clock",
-    "cn": "adv. 点钟"
+    "cn": "adv. 点钟",
+    "ipa": "əˈklɑk"
    },
    {
     "en": "shop",
-    "cn": "n. 商店"
+    "cn": "n. 商店",
+    "ipa": "ʃɑp"
    },
    {
     "en": "moment",
-    "cn": "n. 片刻，瞬间"
+    "cn": "n. 片刻，瞬间",
+    "ipa": "ˈmoʊmənt"
    }
   ]
  },
@@ -2172,35 +2432,43 @@
   "words": [
    {
     "en": "envelope",
-    "cn": "n. 信封"
+    "cn": "n. 信封",
+    "ipa": "ˈɛnvəˌloʊp"
    },
    {
     "en": "writing paper",
-    "cn": "信纸"
+    "cn": "信纸",
+    "ipa": "ˈraɪtɪŋ ˈpeɪpər"
    },
    {
     "en": "shop assistant",
-    "cn": "售货员"
+    "cn": "售货员",
+    "ipa": "ʃɑp əˈsɪstənt"
    },
    {
     "en": "size",
-    "cn": "n. 尺寸，尺码，大小"
+    "cn": "n. 尺寸，尺码，大小",
+    "ipa": "saɪz"
    },
    {
     "en": "pad",
-    "cn": "n. 信纸簿"
+    "cn": "n. 信纸簿",
+    "ipa": "pæd"
    },
    {
     "en": "glue",
-    "cn": "n. 胶水"
+    "cn": "n. 胶水",
+    "ipa": "glu"
    },
    {
     "en": "chalk",
-    "cn": "n. 粉笔"
+    "cn": "n. 粉笔",
+    "ipa": "ʧɔk"
    },
    {
     "en": "change",
-    "cn": "n. 零钱，找给的钱"
+    "cn": "n. 零钱，找给的钱",
+    "ipa": "ʧeɪnʤ"
    }
   ]
  },
@@ -2247,51 +2515,63 @@
   "words": [
    {
     "en": "feel",
-    "cn": "v. 感觉"
+    "cn": "v. 感觉",
+    "ipa": "fil"
    },
    {
     "en": "look",
-    "cn": "v. 看（起来）"
+    "cn": "v. 看（起来）",
+    "ipa": "lʊk"
    },
    {
     "en": "must",
-    "cn": "modal verb 必须"
+    "cn": "modal verb 必须",
+    "ipa": "məst"
    },
    {
     "en": "call",
-    "cn": "v. 叫，请"
+    "cn": "v. 叫，请",
+    "ipa": "kɔl"
    },
    {
     "en": "doctor",
-    "cn": "n. 医生"
+    "cn": "n. 医生",
+    "ipa": "ˈdɔktər"
    },
    {
     "en": "telephone",
-    "cn": "n. 电话"
+    "cn": "n. 电话",
+    "ipa": "ˈtɛləˌfoʊn"
    },
    {
     "en": "remember",
-    "cn": "v. 记得，记住"
+    "cn": "v. 记得，记住",
+    "ipa": "rɪˈmɛmbər"
    },
    {
     "en": "mouth",
-    "cn": "n. 嘴"
+    "cn": "n. 嘴",
+    "ipa": "maʊθ"
    },
    {
     "en": "tongue",
-    "cn": "n. 舌头"
+    "cn": "n. 舌头",
+    "ipa": "təŋ"
    },
    {
     "en": "bad",
-    "cn": "adj. 坏的，严重的"
+    "cn": "adj. 坏的，严重的",
+    "ipa": "bæd"
    },
    {
     "en": "cold",
-    "cn": "n. 感冒"
+    "cn": "n. 感冒",
+    "ipa": "koʊld"
    },
    {
     "en": "news",
-    "cn": "n. 消息"
+    "cn": "n. 消息",
+    "ipa": "nuz"
    }
   ]
  },
@@ -2340,31 +2620,38 @@
   "words": [
    {
     "en": "better",
-    "cn": "adj. 形容词well的比较级"
+    "cn": "adj. 形容词well的比较级",
+    "ipa": "ˈbɛtər"
    },
    {
     "en": "certainly",
-    "cn": "adv. 当然"
+    "cn": "adv. 当然",
+    "ipa": "ˈsərtənli"
    },
    {
     "en": "get up",
-    "cn": "起床"
+    "cn": "起床",
+    "ipa": "gɪt əp"
    },
    {
     "en": "yet",
-    "cn": "adv. 还，仍"
+    "cn": "adv. 还，仍",
+    "ipa": "jɛt"
    },
    {
     "en": "rich",
-    "cn": "adj. 油腻的"
+    "cn": "adj. 油腻的",
+    "ipa": "rɪʧ"
    },
    {
     "en": "food",
-    "cn": "n. 食物"
+    "cn": "n. 食物",
+    "ipa": "fud"
    },
    {
     "en": "remain",
-    "cn": "v. 保持，继续"
+    "cn": "v. 保持，继续",
+    "ipa": "rɪˈmeɪn"
    }
   ]
  },
@@ -2406,40 +2693,44 @@
   ],
   "words": [
    {
-    "en": "Dad",
-    "cn": "n. 爸（儿语）"
+    "en": "dad",
+    "cn": "n. 爸（儿语）",
+    "ipa": "dæd"
    },
    {
     "en": "key",
-    "cn": "n. 钥匙"
+    "cn": "n. 钥匙",
+    "ipa": "ki"
    },
    {
     "en": "baby",
-    "cn": "n. 婴儿"
+    "cn": "n. 婴儿",
+    "ipa": "ˈbeɪbi"
    },
    {
     "en": "hear",
-    "cn": "v. 听见"
+    "cn": "v. 听见",
+    "ipa": "hir"
    },
    {
     "en": "enjoy",
-    "cn": "v. 玩得快活"
+    "cn": "v. 玩得快活",
+    "ipa": "ˌɛnˈʤɔɪ"
    },
    {
     "en": "yourself",
-    "cn": ""
-   },
-   {
-    "en": "rpon.",
-    "cn": "你自己"
+    "cn": "pron. 你自己",
+    "ipa": "ˈjɔrsɛlf"
    },
    {
     "en": "ourselves",
-    "cn": "pron.我们自己"
+    "cn": "pron.我们自己",
+    "ipa": "ɑrˈsɛlvz"
    },
    {
     "en": "mum",
-    "cn": "n. 妈妈"
+    "cn": "n. 妈妈",
+    "ipa": "məm"
    }
   ]
  },
@@ -2478,59 +2769,73 @@
   "words": [
    {
     "en": "greengrocer",
-    "cn": "n. 蔬菜水果零售商"
+    "cn": "n. 蔬菜水果零售商",
+    "ipa": "ˈɡriːnɡroʊsər"
    },
    {
     "en": "absent",
-    "cn": "adj. 缺席的"
+    "cn": "adj. 缺席的",
+    "ipa": "ˈæbsənt"
    },
    {
     "en": "Monday",
-    "cn": "n. 星期一"
+    "cn": "n. 星期一",
+    "ipa": "ˈmənˌdeɪ"
    },
    {
     "en": "Tuesday",
-    "cn": "n. 星期二"
+    "cn": "n. 星期二",
+    "ipa": "ˈtuzˌdeɪ"
    },
    {
     "en": "Wednesday",
-    "cn": "n. 星期三"
+    "cn": "n. 星期三",
+    "ipa": "ˈwɛnzˌdeɪ"
    },
    {
     "en": "Thursday",
-    "cn": "n. 星期四"
+    "cn": "n. 星期四",
+    "ipa": "ˈθərzˌdeɪ"
    },
    {
     "en": "keep",
-    "cn": "v. （身体健康）处于（状况）"
+    "cn": "v. （身体健康）处于（状况）",
+    "ipa": "kip"
    },
    {
     "en": "spend",
-    "cn": "v. 度过"
+    "cn": "v. 度过",
+    "ipa": "spɛnd"
    },
    {
     "en": "weekend",
-    "cn": "n. 周末"
+    "cn": "n. 周末",
+    "ipa": "ˈwiˌkɪnd"
    },
    {
     "en": "Friday",
-    "cn": "n. 星期五"
+    "cn": "n. 星期五",
+    "ipa": "ˈfraɪˌdeɪ"
    },
    {
     "en": "Saturday",
-    "cn": "n. 星期六"
+    "cn": "n. 星期六",
+    "ipa": "ˈsæˌtɪˌdeɪ"
    },
    {
     "en": "Sunday",
-    "cn": "n. 星期日"
+    "cn": "n. 星期日",
+    "ipa": "ˈsənˌdi"
    },
    {
     "en": "country",
-    "cn": "n. 乡村"
+    "cn": "n. 乡村",
+    "ipa": "ˈkəntri"
    },
    {
     "en": "lucky",
-    "cn": "adj. 幸运的"
+    "cn": "adj. 幸运的",
+    "ipa": "ˈləki"
    }
   ]
  },
@@ -2556,47 +2861,58 @@
   "words": [
    {
     "en": "year",
-    "cn": "n. 年"
+    "cn": "n. 年",
+    "ipa": "jɪr"
    },
    {
     "en": "race",
-    "cn": "n. 比赛"
+    "cn": "n. 比赛",
+    "ipa": "reɪs"
    },
    {
     "en": "town",
-    "cn": "n. 城填"
+    "cn": "n. 城填",
+    "ipa": "taʊn"
    },
    {
     "en": "crowd",
-    "cn": "n. 人群"
+    "cn": "n. 人群",
+    "ipa": "kraʊd"
    },
    {
     "en": "stand",
-    "cn": "v. 站立"
+    "cn": "v. 站立",
+    "ipa": "stænd"
    },
    {
     "en": "exciting",
-    "cn": "adj. 使人激动的"
+    "cn": "adj. 使人激动的",
+    "ipa": "ɪkˈsaɪtɪŋ"
    },
    {
     "en": "just",
-    "cn": "adv. 正好，恰好"
+    "cn": "adv. 正好，恰好",
+    "ipa": "ʤɪst"
    },
    {
     "en": "finish",
-    "cn": "n. 结尾，结束"
+    "cn": "n. 结尾，结束",
+    "ipa": "ˈfɪnɪʃ"
    },
    {
     "en": "winner",
-    "cn": "n. 获胜者"
+    "cn": "n. 获胜者",
+    "ipa": "ˈwɪnər"
    },
    {
     "en": "behind",
-    "cn": "prep.在……之后"
+    "cn": "prep.在……之后",
+    "ipa": "bɪˈhaɪnd"
    },
    {
     "en": "way",
-    "cn": "n. 路途"
+    "cn": "n. 路途",
+    "ipa": "weɪ"
    }
   ]
  },
@@ -2640,35 +2956,43 @@
   "words": [
    {
     "en": "awful",
-    "cn": "adj. 让人讨厌的，坏的"
+    "cn": "adj. 让人讨厌的，坏的",
+    "ipa": "ˈɔfəl"
    },
    {
     "en": "telephone",
-    "cn": "v. & n. 打电话；电话"
+    "cn": "v. & n. 打电话；电话",
+    "ipa": "ˈtɛləˌfoʊn"
    },
    {
     "en": "time",
-    "cn": "n. 次（数）"
+    "cn": "n. 次（数）",
+    "ipa": "taɪm"
    },
    {
     "en": "answer",
-    "cn": "v. 接（电话）"
+    "cn": "v. 接（电话）",
+    "ipa": "ˈænsər"
    },
    {
     "en": "last",
-    "cn": "adj. 最后的，前一次的"
+    "cn": "adj. 最后的，前一次的",
+    "ipa": "læst"
    },
    {
     "en": "phone",
-    "cn": "n. 电话（=telephone）"
+    "cn": "n. 电话（=telephone）",
+    "ipa": "foʊn"
    },
    {
     "en": "again",
-    "cn": "adv. 又一次地"
+    "cn": "adv. 又一次地",
+    "ipa": "əˈgɛn"
    },
    {
-    "en": "say (said/sed/)",
-    "cn": "v. 说"
+    "en": "say",
+    "cn": "v. 说",
+    "ipa": "seɪ"
    }
   ]
  },
@@ -2698,55 +3022,68 @@
   "words": [
    {
     "en": "week",
-    "cn": "n. 周"
+    "cn": "n. 周",
+    "ipa": "wik"
    },
    {
     "en": "London",
-    "cn": "n. 伦敦"
+    "cn": "n. 伦敦",
+    "ipa": "ˈləndən"
    },
    {
     "en": "suddenly",
-    "cn": "adv. 突然地"
+    "cn": "adv. 突然地",
+    "ipa": "ˈsədənli"
    },
    {
     "en": "bus stop",
-    "cn": "公共汽车站"
+    "cn": "公共汽车站",
+    "ipa": "bəs stɑp"
    },
    {
     "en": "smile",
-    "cn": "v. 微笑"
+    "cn": "v. 微笑",
+    "ipa": "smaɪl"
    },
    {
     "en": "pleasantly",
-    "cn": "adv. 愉快地"
+    "cn": "adv. 愉快地",
+    "ipa": "ˈplɛzəntli"
    },
    {
-    "en": "understand (understood)",
-    "cn": "v. 懂，明白"
+    "en": "understand",
+    "cn": "v. 懂，明白",
+    "ipa": "ˌəndərˈstænd"
    },
    {
-    "en": "speak (spoke)",
-    "cn": "v. 讲，说"
+    "en": "speak",
+    "cn": "v. 讲，说",
+    "ipa": "spik"
    },
    {
     "en": "hand",
-    "cn": "n. 手"
+    "cn": "n. 手",
+    "ipa": "hænd"
    },
    {
     "en": "pocket",
-    "cn": "n. 衣袋"
+    "cn": "n. 衣袋",
+    "ipa": "ˈpɑkət"
    },
    {
     "en": "phrasebook",
-    "cn": "n. 短语手册，常用语手册"
+    "cn": "n. 短语手册，常用语手册",
+    "ipa": "ˈfreɪzbʊk"
    },
    {
     "en": "phrase",
-    "cn": "n. 短语"
+    "cn": "n. 短语",
+    "ipa": "freɪz"
    },
    {
     "en": "slowly",
-    "cn": "adv. 缓慢地"
+    "cn": "adv. 缓慢地",
+    "ipa": "ˈsloʊli"
    }
   ]
  },
@@ -2796,27 +3133,33 @@
   "words": [
    {
     "en": "ago",
-    "cn": "adv. 以前"
+    "cn": "adv. 以前",
+    "ipa": "əˈgoʊ"
    },
    {
-    "en": "buy(bought)",
-    "cn": "v. 买"
+    "en": "buy",
+    "cn": "v. 买",
+    "ipa": "baɪ"
    },
    {
     "en": "pair",
-    "cn": "n. 双，对"
+    "cn": "n. 双，对",
+    "ipa": "pɛr"
    },
    {
     "en": "fashion",
-    "cn": "n. （服装的）流行式样"
+    "cn": "n. （服装的）流行式样",
+    "ipa": "ˈfæʃən"
    },
    {
     "en": "uncomfortable",
-    "cn": "adj. 不舒服的"
+    "cn": "adj. 不舒服的",
+    "ipa": "ənˈkəmfərtəbəl"
    },
    {
     "en": "wear",
-    "cn": "v. 穿着"
+    "cn": "v. 穿着",
+    "ipa": "wɛr"
    }
   ]
  },
@@ -2863,15 +3206,18 @@
   "words": [
    {
     "en": "appointment",
-    "cn": "n. 约会，预约"
+    "cn": "n. 约会，预约",
+    "ipa": "əˈpɔɪntmənt"
    },
    {
     "en": "urgent",
-    "cn": "adj. 紧急的，急迫的"
+    "cn": "adj. 紧急的，急迫的",
+    "ipa": "ˈərʤənt"
    },
    {
-    "en": "utill",
-    "cn": "prep.直到……为止"
+    "en": "until",
+    "cn": "prep. 直到……为止",
+    "ipa": "ənˈtɪl"
    }
   ]
  },
@@ -2915,31 +3261,38 @@
   "words": [
    {
     "en": "shopping",
-    "cn": "n. 购物"
+    "cn": "n. 购物",
+    "ipa": "ˈʃɑpɪŋ"
    },
    {
     "en": "list",
-    "cn": "n. 单子"
+    "cn": "n. 单子",
+    "ipa": "lɪst"
    },
    {
     "en": "vegetable",
-    "cn": "n. 蔬菜"
+    "cn": "n. 蔬菜",
+    "ipa": "ˈvɛʤtəbəl"
    },
    {
     "en": "need",
-    "cn": "v. 需要"
+    "cn": "v. 需要",
+    "ipa": "nid"
    },
    {
     "en": "hope",
-    "cn": "v. 希望"
+    "cn": "v. 希望",
+    "ipa": "hoʊp"
    },
    {
     "en": "thing",
-    "cn": "n. 事情"
+    "cn": "n. 事情",
+    "ipa": "θɪŋ"
    },
    {
     "en": "money",
-    "cn": "n. 钱"
+    "cn": "n. 钱",
+    "ipa": "ˈməni"
    }
   ]
  },
@@ -2992,23 +3345,28 @@
   "words": [
    {
     "en": "bath",
-    "cn": "n. 洗澡"
+    "cn": "n. 洗澡",
+    "ipa": "bæθ"
    },
    {
     "en": "nearly",
-    "cn": "adv. 几乎，将近"
+    "cn": "adv. 几乎，将近",
+    "ipa": "ˈnɪrli"
    },
    {
     "en": "ready",
-    "cn": "adj. 准备好的，完好的"
+    "cn": "adj. 准备好的，完好的",
+    "ipa": "ˈrɛdi"
    },
    {
     "en": "dinner",
-    "cn": "n. 正餐，晚餐"
+    "cn": "n. 正餐，晚餐",
+    "ipa": "ˈdɪnər"
    },
    {
     "en": "roast",
-    "cn": "adj. 烤的"
+    "cn": "adj. 烤的",
+    "ipa": "roʊst"
    }
   ]
  },
@@ -3053,23 +3411,28 @@
   "words": [
    {
     "en": "mess",
-    "cn": "n. 杂乱，凌乱"
+    "cn": "n. 杂乱，凌乱",
+    "ipa": "mɛs"
    },
    {
     "en": "pack",
-    "cn": "v. 包装，打包，装箱"
+    "cn": "v. 包装，打包，装箱",
+    "ipa": "pæk"
    },
    {
     "en": "suitcase",
-    "cn": "n. 手提箱"
+    "cn": "n. 手提箱",
+    "ipa": "ˈsutˌkeɪs"
    },
    {
     "en": "leave",
-    "cn": "v. 离开"
+    "cn": "v. 离开",
+    "ipa": "liv"
    },
    {
     "en": "already",
-    "cn": "adv. 已经"
+    "cn": "adv. 已经",
+    "ipa": "ɔˈrɛdi"
    }
   ]
  },
@@ -3113,31 +3476,38 @@
   "words": [
    {
     "en": "Paris",
-    "cn": "n. 巴黎"
+    "cn": "n. 巴黎",
+    "ipa": "ˈpɛrɪs"
    },
    {
     "en": "cinema",
-    "cn": "n. 电影院"
+    "cn": "n. 电影院",
+    "ipa": "ˈsɪnəmə"
    },
    {
     "en": "film",
-    "cn": "n. 电影"
+    "cn": "n. 电影",
+    "ipa": "fɪlm"
    },
    {
     "en": "beautiful",
-    "cn": "adj. 漂亮的"
+    "cn": "adj. 漂亮的",
+    "ipa": "ˈbjutəfəl"
    },
    {
     "en": "city",
-    "cn": "n. 城市"
+    "cn": "n. 城市",
+    "ipa": "ˈsɪti"
    },
    {
     "en": "never",
-    "cn": "adv. 从来没有"
+    "cn": "adv. 从来没有",
+    "ipa": "ˈnɛvər"
    },
    {
     "en": "ever",
-    "cn": "adv. 在任何时候"
+    "cn": "adv. 在任何时候",
+    "ipa": "ˈɛvər"
    }
   ]
  },
@@ -3191,31 +3561,38 @@
   "words": [
    {
     "en": "attendant",
-    "cn": "n. 接待员"
+    "cn": "n. 接待员",
+    "ipa": "əˈtɛndənt"
    },
    {
-    "en": "bring(brought, brought)",
-    "cn": "v. 带来，送来"
+    "en": "bring",
+    "cn": "v. 带来，送来",
+    "ipa": "brɪŋ"
    },
    {
     "en": "garage",
-    "cn": "n. 车库，汽车修理厂"
+    "cn": "n. 车库，汽车修理厂",
+    "ipa": "gərɑʒ"
    },
    {
     "en": "crash",
-    "cn": "n. 碰撞"
+    "cn": "n. 碰撞",
+    "ipa": "kræʃ"
    },
    {
     "en": "lamp-post",
-    "cn": "灯杆"
+    "cn": "灯杆",
+    "ipa": "læmp poʊst"
    },
    {
     "en": "repair",
-    "cn": "v. 修理"
+    "cn": "v. 修理",
+    "ipa": "rɪˈpɛr"
    },
    {
     "en": "try",
-    "cn": "v. 努力，设法"
+    "cn": "v. 努力，设法",
+    "ipa": "traɪ"
    }
   ]
  },
@@ -3265,51 +3642,63 @@
   "words": [
    {
     "en": "believe",
-    "cn": "v. 相信，认为"
+    "cn": "v. 相信，认为",
+    "ipa": "bɪˈliv"
    },
    {
     "en": "may",
-    "cn": "modal verb5 （用于请求许可）可以"
+    "cn": "modal verb5 （用于请求许可）可以",
+    "ipa": "meɪ"
    },
    {
     "en": "how long",
-    "cn": "多长"
+    "cn": "多长",
+    "ipa": "haʊ lɔŋ"
    },
    {
     "en": "since",
-    "cn": "prep.自从"
+    "cn": "prep.自从",
+    "ipa": "sɪns"
    },
    {
     "en": "why",
-    "cn": "adv. 为什么"
+    "cn": "adv. 为什么",
+    "ipa": "waɪ"
    },
    {
-    "en": "sell (sold, sold)",
-    "cn": "v. 卖，出售"
+    "en": "sell",
+    "cn": "v. 卖，出售",
+    "ipa": "sɛl"
    },
    {
     "en": "because",
-    "cn": "conj.因为"
+    "cn": "conj.因为",
+    "ipa": "bɪˈkəz"
    },
    {
-    "en": "retire1",
-    "cn": "v. 退休"
+    "en": "retire",
+    "cn": "v. 退休",
+    "ipa": "ˌriˈtaɪər"
    },
    {
-    "en": "cost (cost, cost)",
-    "cn": "v. 花费"
+    "en": "cost",
+    "cn": "v. 花费",
+    "ipa": "kɔst"
    },
    {
     "en": "pound",
-    "cn": "n. 英镑"
+    "cn": "n. 英镑",
+    "ipa": "paʊnd"
    },
    {
     "en": "worth",
-    "cn": "prep.值……钱"
+    "cn": "prep.值……钱",
+    "ipa": "wərθ"
    },
    {
     "en": "penny",
-    "cn": "n. 便士"
+    "cn": "n. 便士",
+    "ipa": "ˈpɛni"
    }
   ]
  },
@@ -3357,31 +3746,38 @@
   "words": [
    {
     "en": "still",
-    "cn": "adv. 还，仍旧"
+    "cn": "adv. 还，仍旧",
+    "ipa": "stɪl"
    },
    {
     "en": "move",
-    "cn": "v. 搬家"
+    "cn": "v. 搬家",
+    "ipa": "muv"
    },
    {
     "en": "miss",
-    "cn": "v. 想念，思念"
+    "cn": "v. 想念，思念",
+    "ipa": "mɪs"
    },
    {
     "en": "neighbor",
-    "cn": "n. 邻居"
+    "cn": "n. 邻居",
+    "ipa": "ˈneɪbər"
    },
    {
     "en": "person",
-    "cn": "n. 人"
+    "cn": "n. 人",
+    "ipa": "ˈpərsən"
    },
    {
     "en": "people",
-    "cn": "n. 人们"
+    "cn": "n. 人们",
+    "ipa": "ˈpipəl"
    },
    {
     "en": "poor",
-    "cn": "adj. 可怜的"
+    "cn": "adj. 可怜的",
+    "ipa": "pur"
    }
   ]
  },
@@ -3412,27 +3808,33 @@
   "words": [
    {
     "en": "pilot",
-    "cn": "n. 飞行员"
+    "cn": "n. 飞行员",
+    "ipa": "ˈpaɪlət"
    },
    {
     "en": "return",
-    "cn": "v. 返回"
+    "cn": "v. 返回",
+    "ipa": "rɪˈtərn"
    },
    {
     "en": "New York",
-    "cn": "n. 纽约"
+    "cn": "n. 纽约",
+    "ipa": "nu jɔrk"
    },
    {
     "en": "Tokyo",
-    "cn": "n. 东京"
+    "cn": "n. 东京",
+    "ipa": "ˈtoʊkiˌoʊ"
    },
    {
     "en": "Madrid",
-    "cn": "n. 马德里"
+    "cn": "n. 马德里",
+    "ipa": "məˈdrɪd"
    },
    {
-    "en": "fly (flew, flown)",
-    "cn": "v. 飞行"
+    "en": "fly",
+    "cn": "v. 飞行",
+    "ipa": "flaɪ"
    }
   ]
  },
@@ -3483,39 +3885,48 @@
   "words": [
    {
     "en": "return",
-    "cn": "n. 往返"
+    "cn": "n. 往返",
+    "ipa": "rɪˈtərn"
    },
    {
     "en": "train",
-    "cn": "n. 火车"
+    "cn": "n. 火车",
+    "ipa": "treɪn"
    },
    {
     "en": "platform",
-    "cn": "n. 站台"
+    "cn": "n. 站台",
+    "ipa": "ˈplætˌfɔrm"
    },
    {
     "en": "plenty",
-    "cn": "n. 大量"
+    "cn": "n. 大量",
+    "ipa": "ˈplɛnti"
    },
    {
     "en": "bar",
-    "cn": "n. 洒吧"
+    "cn": "n. 洒吧",
+    "ipa": "bɑr"
    },
    {
     "en": "station",
-    "cn": "n. 车站，火车站"
+    "cn": "n. 车站，火车站",
+    "ipa": "ˈsteɪʃən"
    },
    {
     "en": "porter",
-    "cn": "n. 收票员"
+    "cn": "n. 收票员",
+    "ipa": "ˈpɔrtər"
    },
    {
-    "en": "catch (caught, caught)",
-    "cn": "v. 赶上"
+    "en": "catch",
+    "cn": "v. 赶上",
+    "ipa": "kæʧ"
    },
    {
     "en": "miss",
-    "cn": "v. 错过"
+    "cn": "v. 错过",
+    "ipa": "mɪs"
    }
   ]
  },
@@ -3569,36 +3980,44 @@
   ],
   "words": [
    {
-    "en": "leave (left, left)",
-    "cn": "v. 遗留"
+    "en": "leave",
+    "cn": "v. 遗留",
+    "ipa": "liv"
    },
    {
     "en": "describe",
-    "cn": "v. 描述"
+    "cn": "v. 描述",
+    "ipa": "dɪˈskraɪb"
    },
    {
     "en": "zip",
-    "cn": "n. 拉链"
+    "cn": "n. 拉链",
+    "ipa": "zɪp"
    },
    {
     "en": "label",
-    "cn": "n. 标签"
+    "cn": "n. 标签",
+    "ipa": "ˈleɪbəl"
    },
    {
     "en": "handle",
-    "cn": "n. 提手，把手"
+    "cn": "n. 提手，把手",
+    "ipa": "ˈhændəl"
    },
    {
     "en": "address",
-    "cn": "n. 地址"
+    "cn": "n. 地址",
+    "ipa": "ˈæˌdrɛs"
    },
    {
     "en": "pence",
-    "cn": "n. penny4 的复数形式"
+    "cn": "n. penny4 的复数形式",
+    "ipa": "pɛns"
    },
    {
     "en": "belong",
-    "cn": "v. 属于"
+    "cn": "v. 属于",
+    "ipa": "bɪˈlɔŋ"
    }
   ]
  },
@@ -3635,47 +4054,58 @@
   "words": [
    {
     "en": "own",
-    "cn": "int. 哎哟"
+    "cn": "int. 哎哟",
+    "ipa": "oʊn"
    },
    {
     "en": "slip",
-    "cn": "v. 滑倒，滑了一脚"
+    "cn": "v. 滑倒，滑了一脚",
+    "ipa": "slɪp"
    },
    {
-    "en": "fall (fell, fallen)",
-    "cn": "v. 落下，跌倒"
+    "en": "fall",
+    "cn": "v. 落下，跌倒",
+    "ipa": "fɔl"
    },
    {
     "en": "downstairs",
-    "cn": "adv. 下楼"
+    "cn": "adv. 下楼",
+    "ipa": "ˈdaʊnˈstɛrz"
    },
    {
-    "en": "hurt (hurt, hurt)",
-    "cn": "v. 伤，伤害，疼痛"
+    "en": "hurt",
+    "cn": "v. 伤，伤害，疼痛",
+    "ipa": "hərt"
    },
    {
     "en": "back",
-    "cn": "n. 背"
+    "cn": "n. 背",
+    "ipa": "bæk"
    },
    {
     "en": "stand up",
-    "cn": "起立，站起来"
+    "cn": "起立，站起来",
+    "ipa": "stænd əp"
    },
    {
     "en": "help",
-    "cn": "v. 帮助"
+    "cn": "v. 帮助",
+    "ipa": "hɛlp"
    },
    {
     "en": "at once",
-    "cn": "立即"
+    "cn": "立即",
+    "ipa": "æt wəns"
    },
    {
     "en": "sure",
-    "cn": "adj. 一定的，确信的"
+    "cn": "adj. 一定的，确信的",
+    "ipa": "ʃʊr"
    },
    {
     "en": "X-ray",
-    "cn": "n. X光透视"
+    "cn": "n. X光透视",
+    "ipa": "ɛks reɪ"
    }
   ]
  },
@@ -3721,31 +4151,38 @@
   "words": [
    {
     "en": "Scotland",
-    "cn": "n. 苏格兰（英国）"
+    "cn": "n. 苏格兰（英国）",
+    "ipa": "ˈskɑtlənd"
    },
    {
     "en": "card",
-    "cn": "n. 明信片"
+    "cn": "n. 明信片",
+    "ipa": "kɑrd"
    },
    {
     "en": "youth",
-    "cn": "n. 青年"
+    "cn": "n. 青年",
+    "ipa": "juθ"
    },
    {
     "en": "hostel",
-    "cn": "n. 招待所，旅馆"
+    "cn": "n. 招待所，旅馆",
+    "ipa": "ˈhɑstəl"
    },
    {
     "en": "association",
-    "cn": "n. 协会"
+    "cn": "n. 协会",
+    "ipa": "əˌsoʊʃiˈeɪʃən"
    },
    {
     "en": "soon",
-    "cn": "adv. 不久"
+    "cn": "adv. 不久",
+    "ipa": "sun"
    },
    {
-    "en": "write (wrote, written)",
-    "cn": "v. 写"
+    "en": "write",
+    "cn": "v. 写",
+    "ipa": "raɪt"
    }
   ]
  },
@@ -3790,75 +4227,88 @@
   "words": [
    {
     "en": "exam",
-    "cn": "n. 考试"
+    "cn": "n. 考试",
+    "ipa": "ɪgˈzæm"
    },
    {
     "en": "pass",
-    "cn": "v. 及格，通过"
+    "cn": "v. 及格，通过",
+    "ipa": "pæs"
    },
    {
-    "en": "mathematics (maths",
-    "cn": "是缩写)"
-   },
-   {
-    "en": "",
-    "cn": "n. 数学"
+    "en": "mathematics",
+    "cn": "n. 数学（maths 是缩写）",
+    "ipa": "ˌmæθəˈmætɪks"
    },
    {
     "en": "question",
-    "cn": "n. 问题"
+    "cn": "n. 问题",
+    "ipa": "ˈkwɛʃən"
    },
    {
     "en": "easy",
-    "cn": "adj. 容易的"
+    "cn": "adj. 容易的",
+    "ipa": "ˈizi"
    },
    {
     "en": "enough",
-    "cn": "adv. 足够地"
+    "cn": "adv. 足够地",
+    "ipa": "ɪˈnəf"
    },
    {
     "en": "paper",
-    "cn": "n. 考卷"
+    "cn": "n. 考卷",
+    "ipa": "ˈpeɪpər"
    },
    {
     "en": "fail",
-    "cn": "v. 未极格，失败"
+    "cn": "v. 未极格，失败",
+    "ipa": "feɪl"
    },
    {
     "en": "answer",
-    "cn": "v. 回答"
+    "cn": "v. 回答",
+    "ipa": "ˈænsər"
    },
    {
     "en": "mark",
-    "cn": "n. 分数"
+    "cn": "n. 分数",
+    "ipa": "mɑrk"
    },
    {
     "en": "rest",
-    "cn": "n. 其他的东西"
+    "cn": "n. 其他的东西",
+    "ipa": "rɛst"
    },
    {
     "en": "difficult",
-    "cn": "adj. 困难的"
+    "cn": "adj. 困难的",
+    "ipa": "ˈdɪfəkəlt"
    },
    {
     "en": "hate",
-    "cn": "v. 讨厌"
+    "cn": "v. 讨厌",
+    "ipa": "heɪt"
    },
    {
     "en": "low",
-    "cn": "adj. 低的"
+    "cn": "adj. 低的",
+    "ipa": "loʊ"
    },
    {
     "en": "cheer",
-    "cn": "v. 振作，振奋"
+    "cn": "v. 振作，振奋",
+    "ipa": "ʧɪr"
    },
    {
     "en": "guy",
-    "cn": "n. 家伙，人"
+    "cn": "n. 家伙，人",
+    "ipa": "gaɪ"
    },
    {
     "en": "top",
-    "cn": "n. 上方，顶部"
+    "cn": "n. 上方，顶部",
+    "ipa": "tɔp"
    }
   ]
  },
@@ -3912,23 +4362,28 @@
   "words": [
    {
     "en": "spell",
-    "cn": "v. 拼写"
+    "cn": "v. 拼写",
+    "ipa": "spɛl"
    },
    {
     "en": "intelligent",
-    "cn": "adj. 聪明的，有智慧的"
+    "cn": "adj. 聪明的，有智慧的",
+    "ipa": "ˌɪnˈtɛləʤənt"
    },
    {
     "en": "mistake",
-    "cn": "n. 错误"
+    "cn": "n. 错误",
+    "ipa": "mɪˈsteɪk"
    },
    {
     "en": "present",
-    "cn": "n. 礼物"
+    "cn": "n. 礼物",
+    "ipa": "ˈprɛzənt"
    },
    {
     "en": "dictionary",
-    "cn": "n. 词典"
+    "cn": "n. 词典",
+    "ipa": "ˈdɪkʃəˌnɛri"
    }
   ]
  },
@@ -3972,23 +4427,28 @@
   "words": [
    {
     "en": "madam",
-    "cn": "n. 夫人，女士（对妇女的尊称）"
+    "cn": "n. 夫人，女士（对妇女的尊称）",
+    "ipa": "ˈmædəm"
    },
    {
     "en": "smart",
-    "cn": "adj. 漂亮的"
+    "cn": "adj. 漂亮的",
+    "ipa": "smɑrt"
    },
    {
     "en": "as well",
-    "cn": "同样"
+    "cn": "同样",
+    "ipa": "ɛz wɛl"
    },
    {
     "en": "suit",
-    "cn": "v. 适于"
+    "cn": "v. 适于",
+    "ipa": "sut"
    },
    {
     "en": "pretty",
-    "cn": "adj. 漂亮的"
+    "cn": "adj. 漂亮的",
+    "ipa": "ˈprɪti"
    }
   ]
  },
@@ -4036,35 +4496,43 @@
   "words": [
    {
     "en": "idea",
-    "cn": "n. 主意"
+    "cn": "n. 主意",
+    "ipa": "aɪˈdiə"
    },
    {
     "en": "a little",
-    "cn": "少许（用于不可数名词之前）"
+    "cn": "少许（用于不可数名词之前）",
+    "ipa": "ə ˈlɪtəl"
    },
    {
-    "en": "teaspoonful1",
-    "cn": "n. 一满茶匙"
+    "en": "teaspoonful",
+    "cn": "n. 一满茶匙",
+    "ipa": "ˈtiˌspunfəl"
    },
    {
     "en": "less",
-    "cn": "adj. (little 的比较级)较少的，更小的"
+    "cn": "adj. （little 的比较级）较少的，更小的",
+    "ipa": "lɛs"
    },
    {
     "en": "a few",
-    "cn": "几个（用于可数名词之前）"
+    "cn": "几个（用于可数名词之前）",
+    "ipa": "ə fju"
    },
    {
     "en": "pity",
-    "cn": "n. 遗憾"
+    "cn": "n. 遗憾",
+    "ipa": "ˈpɪti"
    },
    {
     "en": "instead",
-    "cn": "adv. 代替"
+    "cn": "adv. 代替",
+    "ipa": "ˌɪnˈstɛd"
    },
    {
     "en": "advice",
-    "cn": "n. 建议，忠告"
+    "cn": "n. 建议，忠告",
+    "ipa": "ədˈvaɪs"
    }
   ]
  },
@@ -4097,28 +4565,34 @@
   ],
   "words": [
    {
-    "en": "model n.",
-    "cn": "模型"
+    "en": "model",
+    "cn": "n. 模型",
+    "ipa": "ˈmɑdəl"
    },
    {
-    "en": "afford v.",
-    "cn": "付得起（钱）"
+    "en": "afford",
+    "cn": "v. 付得起（钱）",
+    "ipa": "əˈfɔrd"
    },
    {
-    "en": "deposit n.",
-    "cn": "预付定金"
+    "en": "deposit",
+    "cn": "n. 预付定金",
+    "ipa": "dɪˈpɑzət"
    },
    {
-    "en": "instalment n.",
-    "cn": "分期付款"
+    "en": "instalment",
+    "cn": "n. 分期付款",
+    "ipa": "ɪnˈstɔːlmənt"
    },
    {
-    "en": "price n.",
-    "cn": "价格"
+    "en": "price",
+    "cn": "n. 价格",
+    "ipa": "praɪs"
    },
    {
-    "en": "millionaire n.",
-    "cn": "百万富翁"
+    "en": "millionaire",
+    "cn": "n. 百万富翁",
+    "ipa": "ˌmɪljəˈnɛr"
    }
   ]
  },
@@ -4169,43 +4643,53 @@
   "words": [
    {
     "en": "conductor",
-    "cn": "n. 售票员"
+    "cn": "n. 售票员",
+    "ipa": "kənˈdəktər"
    },
    {
     "en": "fare",
-    "cn": "n. 车费, 车票"
+    "cn": "n. 车费, 车票",
+    "ipa": "fɛr"
    },
    {
     "en": "change",
-    "cn": "v. 兑换（钱）"
+    "cn": "v. 兑换（钱）",
+    "ipa": "ʧeɪnʤ"
    },
    {
     "en": "note",
-    "cn": "n. 纸币"
+    "cn": "n. 纸币",
+    "ipa": "noʊt"
    },
    {
     "en": "passenger",
-    "cn": "n. 乘客"
+    "cn": "n. 乘客",
+    "ipa": "ˈpæsənʤər"
    },
    {
     "en": "none",
-    "cn": "pron.没有任何东西"
+    "cn": "pron.没有任何东西",
+    "ipa": "nən"
    },
    {
     "en": "neither",
-    "cn": "adv. 也不"
+    "cn": "adv. 也不",
+    "ipa": "ˈniðər"
    },
    {
     "en": "get off",
-    "cn": "下车"
+    "cn": "下车",
+    "ipa": "gɪt ɔf"
    },
    {
     "en": "tramp",
-    "cn": "n. 游浪汉"
+    "cn": "n. 游浪汉",
+    "ipa": "træmp"
    },
    {
     "en": "except",
-    "cn": "prep.除……外"
+    "cn": "prep.除……外",
+    "ipa": "ɪkˈsɛpt"
    }
   ]
  },
@@ -4253,43 +4737,53 @@
   "words": [
    {
     "en": "anyone",
-    "cn": "pron.（用地疑问句，否定句）任何人"
+    "cn": "pron.（用地疑问句，否定句）任何人",
+    "ipa": "ˈɛniˌwən"
    },
    {
     "en": "knock",
-    "cn": "v. 敲，打"
+    "cn": "v. 敲，打",
+    "ipa": "nɑk"
    },
    {
     "en": "everything",
-    "cn": "pron.一切事情"
+    "cn": "pron.一切事情",
+    "ipa": "ˈɛvriˌθɪŋ"
    },
    {
     "en": "quiet",
-    "cn": "adj. 宁静的，安静的"
+    "cn": "adj. 宁静的，安静的",
+    "ipa": "kwaɪət"
    },
    {
     "en": "impossible",
-    "cn": "adj. 不可能的"
+    "cn": "adj. 不可能的",
+    "ipa": "ˌɪmˈpɑsəbəl"
    },
    {
     "en": "invite",
-    "cn": "v. 邀请"
+    "cn": "v. 邀请",
+    "ipa": "ˌɪnˈvaɪt"
    },
    {
     "en": "anything",
-    "cn": "pron.任何东西"
+    "cn": "pron.任何东西",
+    "ipa": "ˈɛniˌθɪŋ"
    },
    {
     "en": "nothing",
-    "cn": "pron.什么也没有"
+    "cn": "pron.什么也没有",
+    "ipa": "ˈnəθɪŋ"
    },
    {
     "en": "lemonade",
-    "cn": "n. 柠檬水"
+    "cn": "n. 柠檬水",
+    "ipa": "ˈlɛməˈneɪd"
    },
    {
     "en": "joke",
-    "cn": "v. 开玩笑"
+    "cn": "v. 开玩笑",
+    "ipa": "ʤoʊk"
    }
   ]
  },
@@ -4316,28 +4810,34 @@
   ],
   "words": [
    {
-    "en": "dinning2 room",
-    "cn": "饭厅"
+    "en": "dining room",
+    "cn": "饭厅",
+    "ipa": "ˈdaɪnɪŋ rum"
    },
    {
     "en": "coin",
-    "cn": "n. 硬币"
+    "cn": "n. 硬币",
+    "ipa": "kɔɪn"
    },
    {
     "en": "mouth",
-    "cn": "n. 嘴"
+    "cn": "n. 嘴",
+    "ipa": "maʊθ"
    },
    {
     "en": "swallow",
-    "cn": "v. 吞下"
+    "cn": "v. 吞下",
+    "ipa": "ˈswɔloʊ"
    },
    {
     "en": "later",
-    "cn": "adv. 后来"
+    "cn": "adv. 后来",
+    "ipa": "ˈleɪtər"
    },
    {
     "en": "toilet",
-    "cn": "n. 厕所，盥洗室"
+    "cn": "n. 厕所，盥洗室",
+    "ipa": "ˈtɔɪlət"
    }
   ]
  },
@@ -4365,35 +4865,43 @@
   "words": [
    {
     "en": "story",
-    "cn": "n. 故事"
+    "cn": "n. 故事",
+    "ipa": "ˈstɔri"
    },
    {
     "en": "happen",
-    "cn": "v. 发生"
+    "cn": "v. 发生",
+    "ipa": "ˈhæpən"
    },
    {
     "en": "thief",
-    "cn": "n. 贼"
+    "cn": "n. 贼",
+    "ipa": "θif"
    },
    {
     "en": "enter",
-    "cn": "v. 进入"
+    "cn": "v. 进入",
+    "ipa": "ˈɛnər"
    },
    {
     "en": "dark",
-    "cn": "adj. 黑暗的"
+    "cn": "adj. 黑暗的",
+    "ipa": "dɑrk"
    },
    {
     "en": "torch",
-    "cn": "n. 手电筒"
+    "cn": "n. 手电筒",
+    "ipa": "tɔrʧ"
    },
    {
     "en": "voice",
-    "cn": "n. （说话的）声音"
+    "cn": "n. （说话的）声音",
+    "ipa": "vɔɪs"
    },
    {
     "en": "parrot",
-    "cn": "n. 鹦鹉"
+    "cn": "n. 鹦鹉",
+    "ipa": "ˈpɛrət"
    }
   ]
  },
@@ -4439,27 +4947,33 @@
   "words": [
    {
     "en": "customer",
-    "cn": "n. 顾客"
+    "cn": "n. 顾客",
+    "ipa": "ˈkəstəmər"
    },
    {
-    "en": "forget (forgot, forgotten)",
-    "cn": "v. 忘记"
+    "en": "forget",
+    "cn": "v. 忘记",
+    "ipa": "fərˈgɛt"
    },
    {
     "en": "manager",
-    "cn": "n. 经理"
+    "cn": "n. 经理",
+    "ipa": "ˈmænɪʤər"
    },
    {
     "en": "serve",
-    "cn": "v. 照应，服务，接待"
+    "cn": "v. 照应，服务，接待",
+    "ipa": "sərv"
    },
    {
     "en": "counter",
-    "cn": "n. 柜台"
+    "cn": "n. 柜台",
+    "ipa": "ˈkaʊntər"
    },
    {
     "en": "recognize",
-    "cn": "v. 认出"
+    "cn": "v. 认出",
+    "ipa": "ˈrɛkəgˌnaɪz"
    }
   ]
  },
@@ -4512,35 +5026,43 @@
   "words": [
    {
     "en": "during",
-    "cn": "prep.在……期间"
+    "cn": "prep.在……期间",
+    "ipa": "ˈdʊrɪŋ"
    },
    {
     "en": "trip",
-    "cn": "n. 旅行"
+    "cn": "n. 旅行",
+    "ipa": "trɪp"
    },
    {
     "en": "travel",
-    "cn": "v. 旅行"
+    "cn": "v. 旅行",
+    "ipa": "ˈtrævəl"
    },
    {
     "en": "offer",
-    "cn": "v. 提供"
+    "cn": "v. 提供",
+    "ipa": "ˈɔfər"
    },
    {
     "en": "job",
-    "cn": "n. 工作"
+    "cn": "n. 工作",
+    "ipa": "ʤɑb"
    },
    {
     "en": "guess",
-    "cn": "v. 猜"
+    "cn": "v. 猜",
+    "ipa": "gɛs"
    },
    {
-    "en": "grow (grew, grown)",
-    "cn": "v. 长，让……生长"
+    "en": "grow",
+    "cn": "v. 长，让……生长",
+    "ipa": "groʊ"
    },
    {
     "en": "beard",
-    "cn": "n. （下巴上的）胡子，络腮胡子"
+    "cn": "n. （下巴上的）胡子，络腮胡子",
+    "ipa": "bɪrd"
    }
   ]
  },
@@ -4580,27 +5102,33 @@
   "words": [
    {
     "en": "water",
-    "cn": "v. 浇水"
+    "cn": "v. 浇水",
+    "ipa": "ˈwɔtər"
    },
    {
     "en": "terribly",
-    "cn": "adv. 非常"
+    "cn": "adv. 非常",
+    "ipa": "ˈtɛrəbli"
    },
    {
     "en": "dry",
-    "cn": "adj. 干燥的，干的"
+    "cn": "adj. 干燥的，干的",
+    "ipa": "draɪ"
    },
    {
     "en": "nuisance",
-    "cn": "n. 讨厌的东西或人"
+    "cn": "n. 讨厌的东西或人",
+    "ipa": "ˈnusəns"
    },
    {
-    "en": "mean (meant, meant)",
-    "cn": "v. 意味着，意思是"
+    "en": "mean",
+    "cn": "v. 意味着，意思是",
+    "ipa": "min"
    },
    {
     "en": "surprise",
-    "cn": "n. 惊奇，意外的事"
+    "cn": "n. 惊奇，意外的事",
+    "ipa": "səˈpraɪz"
    }
   ]
  },
@@ -4647,23 +5175,28 @@
   "words": [
    {
     "en": "famous",
-    "cn": "adj. 著名的"
+    "cn": "adj. 著名的",
+    "ipa": "ˈfeɪməs"
    },
    {
     "en": "actress",
-    "cn": "n. 女演员"
+    "cn": "n. 女演员",
+    "ipa": "ˈæktrəs"
    },
    {
     "en": "at least",
-    "cn": "至少"
+    "cn": "至少",
+    "ipa": "æt list"
    },
    {
     "en": "actor",
-    "cn": "n. 男演员"
+    "cn": "n. 男演员",
+    "ipa": "ˈæktər"
    },
    {
-    "en": "read (read, read)",
-    "cn": "v. 通过阅读得知"
+    "en": "read",
+    "cn": "v. 通过阅读得知",
+    "ipa": "rid"
    }
   ]
  },
@@ -4713,43 +5246,53 @@
   "words": [
    {
     "en": "wave",
-    "cn": "v. 招手"
+    "cn": "v. 招手",
+    "ipa": "weɪv"
    },
    {
     "en": "track",
-    "cn": "n. 跑道"
+    "cn": "n. 跑道",
+    "ipa": "træk"
    },
    {
     "en": "mile",
-    "cn": "n. 英里"
+    "cn": "n. 英里",
+    "ipa": "maɪl"
    },
    {
-    "en": "overtake5 (overtook, overtaken)",
-    "cn": "v. 从后面超越，超车"
+    "en": "overtake",
+    "cn": "v. 从后面超越，超车",
+    "ipa": "ˈoʊvərˌteɪk"
    },
    {
     "en": "speed limit",
-    "cn": "限速"
+    "cn": "限速",
+    "ipa": "spid ˈlɪmət"
    },
    {
     "en": "dream",
-    "cn": "v. 做梦，思想不集中"
+    "cn": "v. 做梦，思想不集中",
+    "ipa": "drim"
    },
    {
     "en": "sign",
-    "cn": "n. 标记，牌子"
+    "cn": "n. 标记，牌子",
+    "ipa": "saɪn"
    },
    {
-    "en": "driving licence6",
-    "cn": "驾驶执照"
+    "en": "driving licence",
+    "cn": "驾驶执照",
+    "ipa": "ˈdraɪvɪŋ ˈlaɪsəns"
    },
    {
     "en": "charge",
-    "cn": "v. 罚款"
+    "cn": "v. 罚款",
+    "ipa": "ʧɑrʤ"
    },
    {
     "en": "darling",
-    "cn": "n. 亲爱的（用作表示称呼）"
+    "cn": "n. 亲爱的（用作表示称呼）",
+    "ipa": "ˈdɑrlɪŋ"
    }
   ]
  },
@@ -4792,15 +5335,18 @@
   "words": [
    {
     "en": "Egypt",
-    "cn": "n. 埃及"
+    "cn": "n. 埃及",
+    "ipa": "ˈiʤɪpt"
    },
    {
     "en": "abroad",
-    "cn": "adv. 国外"
+    "cn": "adv. 国外",
+    "ipa": "əˈbrɔd"
    },
    {
     "en": "worry",
-    "cn": "v. 担忧"
+    "cn": "v. 担忧",
+    "ipa": "ˈwəri"
    }
   ]
  },
@@ -4842,15 +5388,18 @@
   "words": [
    {
     "en": "reporter",
-    "cn": "n. 记者"
+    "cn": "n. 记者",
+    "ipa": "rɪˈpɔrtər"
    },
    {
     "en": "sensational",
-    "cn": "adj. 爆炸性的，耸人听闻的"
+    "cn": "adj. 爆炸性的，耸人听闻的",
+    "ipa": "sɛnˈseɪʃənəl"
    },
    {
     "en": "mink coat",
-    "cn": "貂皮大衣"
+    "cn": "貂皮大衣",
+    "ipa": "mɪŋk koʊt"
    }
   ]
  },
@@ -4894,23 +5443,28 @@
   "words": [
    {
     "en": "future",
-    "cn": "n. 未来的"
+    "cn": "n. 未来的",
+    "ipa": "ˈfjuʧər"
    },
    {
     "en": "get married",
-    "cn": "结婚"
+    "cn": "结婚",
+    "ipa": "gɪt ˈmɛrid"
    },
    {
     "en": "hotel",
-    "cn": "n. 饭店"
+    "cn": "n. 饭店",
+    "ipa": "hoʊˈtɛl"
    },
    {
     "en": "latest",
-    "cn": "adj. 最新的"
+    "cn": "adj. 最新的",
+    "ipa": "ˈleɪtəst"
    },
    {
     "en": "introduce",
-    "cn": "v. 介绍"
+    "cn": "v. 介绍",
+    "ipa": "ˌɪntrəˈdus"
    }
   ]
  },
@@ -4954,27 +5508,33 @@
   "words": [
    {
     "en": "football",
-    "cn": "n. 足球"
+    "cn": "n. 足球",
+    "ipa": "ˈfʊtˌbɔl"
    },
    {
     "en": "pool",
-    "cn": "n. 赌注"
+    "cn": "n. 赌注",
+    "ipa": "pul"
    },
    {
-    "en": "win (won, won)",
-    "cn": "v. 赢"
+    "en": "win",
+    "cn": "v. 赢",
+    "ipa": "wɪn"
    },
    {
     "en": "world",
-    "cn": "n. 世界"
+    "cn": "n. 世界",
+    "ipa": "wərld"
    },
    {
     "en": "poor",
-    "cn": "adj. 贫穷的"
+    "cn": "adj. 贫穷的",
+    "ipa": "pur"
    },
    {
     "en": "depend",
-    "cn": "v. 依靠（on）"
+    "cn": "v. 依靠（on）",
+    "ipa": "dɪˈpɛnd"
    }
   ]
  },
@@ -5024,23 +5584,28 @@
   "words": [
    {
     "en": "extra",
-    "cn": "adj. 额外的"
+    "cn": "adj. 额外的",
+    "ipa": "ˈɛkstrə"
    },
    {
     "en": "overseas",
-    "cn": "adj. 海外的，国外的"
+    "cn": "adj. 海外的，国外的",
+    "ipa": "ˈoʊvərˈsiz"
    },
    {
     "en": "engineering",
-    "cn": "n. 工程"
+    "cn": "n. 工程",
+    "ipa": "ˈɛnʤəˈnɪrɪŋ"
    },
    {
     "en": "company",
-    "cn": "n. 公司"
+    "cn": "n. 公司",
+    "ipa": "ˈkəmpəˌni"
    },
    {
     "en": "line",
-    "cn": "n. 线路"
+    "cn": "n. 线路",
+    "ipa": "laɪn"
    }
   ]
  },
@@ -5062,55 +5627,68 @@
   "words": [
    {
     "en": "excited",
-    "cn": "adj. 兴奋的"
+    "cn": "adj. 兴奋的",
+    "ipa": "ɪkˈsaɪtɪd"
    },
    {
     "en": "get on",
-    "cn": "登上"
+    "cn": "登上",
+    "ipa": "gɪt ɔn"
    },
    {
     "en": "middle-aged",
-    "cn": "adj. 中年的"
+    "cn": "adj. 中年的",
+    "ipa": "ˈmɪdəl ˈeɪʤɪd"
    },
    {
     "en": "opposite",
-    "cn": "prep.在……对面"
+    "cn": "prep.在……对面",
+    "ipa": "ˈɑpəzɪt"
    },
    {
     "en": "curiously",
-    "cn": "adv.好奇地"
+    "cn": "adv.好奇地",
+    "ipa": "ˈkjʊriəsli"
    },
    {
     "en": "funny",
-    "cn": "adj. 可笑的，滑稽的"
+    "cn": "adj. 可笑的，滑稽的",
+    "ipa": "ˈfəni"
    },
    {
     "en": "powder",
-    "cn": "n. 香粉"
+    "cn": "n. 香粉",
+    "ipa": "ˈpaʊdər"
    },
    {
     "en": "compact",
-    "cn": "n. 带镜的化妆盒"
+    "cn": "n. 带镜的化妆盒",
+    "ipa": "ˈkɑmpækt"
    },
    {
     "en": "kindly",
-    "cn": "adv. 和蔼地"
+    "cn": "adv. 和蔼地",
+    "ipa": "ˈkaɪndli"
    },
    {
     "en": "ugly",
-    "cn": "adj. 丑陋的"
+    "cn": "adj. 丑陋的",
+    "ipa": "ˈəgli"
    },
    {
     "en": "amused",
-    "cn": "adj. 有趣的"
+    "cn": "adj. 有趣的",
+    "ipa": "əmˈjuzd"
    },
    {
     "en": "smile",
-    "cn": "v. 微笑"
+    "cn": "v. 微笑",
+    "ipa": "smaɪl"
    },
    {
     "en": "embarrassed",
-    "cn": "adj. 尴尬"
+    "cn": "adj. 尴尬",
+    "ipa": "ɪmˈbɛrəst"
    }
   ]
  },
@@ -5127,83 +5705,103 @@
   "words": [
    {
     "en": "surround",
-    "cn": "v.   包围"
+    "cn": "v. 包围",
+    "ipa": "səraʊnd"
    },
    {
     "en": "wood",
-    "cn": "n.   树林"
+    "cn": "n. 树林",
+    "ipa": "wʊd"
    },
    {
     "en": "beauty spot",
-    "cn": "风景点"
+    "cn": "风景点",
+    "ipa": "ˈbjuti spɑt"
    },
    {
     "en": "hundred",
-    "cn": "n.   百"
+    "cn": "n. 百",
+    "ipa": "ˈhənərd"
    },
    {
     "en": "city",
-    "cn": "n.   城市"
+    "cn": "n. 城市",
+    "ipa": "ˈsɪti"
    },
    {
     "en": "through",
-    "cn": "prep.穿过"
+    "cn": "prep.穿过",
+    "ipa": "θru"
    },
    {
     "en": "visitor",
-    "cn": "n.   参观者，游客，来访者"
+    "cn": "n. 参观者，游客，来访者",
+    "ipa": "ˈvɪzɪtər"
    },
    {
     "en": "tidy",
-    "cn": "adj. 整齐的"
+    "cn": "adj. 整齐的",
+    "ipa": "ˈtaɪdi"
    },
    {
     "en": "litter",
-    "cn": "n.   杂乱的东西"
+    "cn": "n. 杂乱的东西",
+    "ipa": "ˈlɪtər"
    },
    {
     "en": "litter basket",
-    "cn": "废物筐"
+    "cn": "废物筐",
+    "ipa": "ˈlɪtər ˈbæskət"
    },
    {
     "en": "place",
-    "cn": "v.   放"
+    "cn": "v. 放",
+    "ipa": "pleɪs"
    },
    {
-    "en": "throw( threw; thrown)",
-    "cn": "v.   扔，抛"
+    "en": "throw",
+    "cn": "v. 扔，抛",
+    "ipa": "θroʊ"
    },
    {
     "en": "rubbish",
-    "cn": "n.   垃圾"
+    "cn": "n. 垃圾",
+    "ipa": "ˈrəbɪʃ"
    },
    {
     "en": "count",
-    "cn": "v.   数，点"
+    "cn": "v. 数，点",
+    "ipa": "kaʊnt"
    },
    {
     "en": "cover",
-    "cn": "v.   覆盖"
+    "cn": "v. 覆盖",
+    "ipa": "ˈkəvər"
    },
    {
     "en": "piece",
-    "cn": "n.   碎片"
+    "cn": "n. 碎片",
+    "ipa": "pis"
    },
    {
-    "en": "tyre1",
-    "cn": "n.   轮胎"
+    "en": "tyre",
+    "cn": "n. 轮胎",
+    "ipa": "taɪər"
    },
    {
     "en": "rusty",
-    "cn": "adj. 生锈的"
+    "cn": "adj. 生锈的",
+    "ipa": "ˈrəsti"
    },
    {
     "en": "among",
-    "cn": "prep.在……之间"
+    "cn": "prep.在……之间",
+    "ipa": "əˈməŋ"
    },
    {
-    "en": "prosecute4",
-    "cn": "v.   依法处置"
+    "en": "prosecute",
+    "cn": "v. 依法处置",
+    "ipa": "ˈprɑsəˌkjut"
    }
   ]
  }

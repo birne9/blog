@@ -11,6 +11,8 @@ export interface Concept {
 export interface LessonWord {
     en: string;
     cn: string;
+    // 美式音标(无斜杠, UI 显示时加 /…/)
+    ipa?: string;
 }
 
 // 列表页轻量目录条目(全量课文按需加载)

@@ -30,8 +30,16 @@
             <div class="section" v-if="lesson.words.length">
                 <div class="section_label">生词和短语</div>
                 <div class="words_grid">
-                    <div class="word_item" v-for="(w, i) in lesson.words" :key="i">
-                        <div class="word_en">{{ w.en }}</div>
+                    <div class="word_item" v-for="(w, i) in lesson.words" :key="i" @click="speakWord(w)">
+                        <div class="word_en">
+                            <span class="word_text">{{ w.en }}</span>
+                            <svg class="word_speaker" viewBox="0 0 24 24" width="13" height="13" aria-hidden="true">
+                                <path d="M3 9v6h4l5 5V4L7 9H3z" fill="currentColor" />
+                                <path d="M15.5 8.5a4.5 4.5 0 0 1 0 7" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round" />
+                                <path d="M18 6a8 8 0 0 1 0 12" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round" />
+                            </svg>
+                        </div>
+                        <div class="word_ipa" v-if="w.ipa">/{{ w.ipa }}/</div>
                         <div class="word_cn">{{ w.cn }}</div>
                     </div>
                 </div>
@@ -118,6 +126,35 @@ watch(() => route.query.id, () => {
 watch(() => route.query.book, () => {
     window.scrollTo(0, 0)
 })
+
+// 点击生词卡片朗读(浏览器内置语音合成, 美式发音)
+let enVoice: SpeechSynthesisVoice | null = null
+const pickVoice = () => {
+    if (enVoice || !('speechSynthesis' in window)) return
+    const voices = window.speechSynthesis.getVoices()
+    enVoice = voices.find((v) => v.lang === 'en-US')
+        || voices.find((v) => v.lang.startsWith('en-US'))
+        || voices.find((v) => v.lang.startsWith('en'))
+        || null
+}
+if ('speechSynthesis' in window) {
+    pickVoice()
+    // 部分浏览器语音列表异步加载, 就绪后重新选择
+    window.speechSynthesis.onvoiceschanged = () => {
+        enVoice = null
+        pickVoice()
+    }
+}
+const speakWord = (w: { en: string }) => {
+    if (!('speechSynthesis' in window) || !w.en) return
+    pickVoice()
+    const u = new SpeechSynthesisUtterance(w.en)
+    u.lang = 'en-US'
+    if (enVoice) u.voice = enVoice
+    u.rate = 0.85
+    window.speechSynthesis.cancel()
+    window.speechSynthesis.speak(u)
+}
 </script>
 <style lang="less" scoped>
 .lesson {
@@ -208,10 +245,31 @@ watch(() => route.query.book, () => {
                     border-radius: 8px;
                     padding: 12px 14px;
                     box-sizing: border-box;
+                    cursor: pointer;
+                    transition: background-color 0.2s ease;
+                    &:hover {
+                        background-color: #eef3fb;
+                    }
                     .word_en {
+                        display: flex;
+                        align-items: center;
+                        gap: 5px;
                         font-size: 15px;
                         font-weight: bold;
                         color: #000;
+                        .word_text {
+                            word-break: break-word;
+                        }
+                        .word_speaker {
+                            color: #999;
+                            flex-shrink: 0;
+                        }
+                    }
+                    .word_ipa {
+                        font-size: 12px;
+                        color: #3a6ea5;
+                        margin-top: 3px;
+                        word-break: break-word;
                     }
                     .word_cn {
                         font-size: 13px;
@@ -283,6 +341,12 @@ watch(() => route.query.book, () => {
                 .words_grid {
                     grid-template-columns: repeat(2, 1fr);
                     gap: 8px;
+                    .word_item {
+                        padding: 10px 12px;
+                        .word_ipa {
+                            font-size: 11px;
+                        }
+                    }
                 }
             }
         }
