@@ -20,16 +20,23 @@
                         <div class="rate_ctrl" title="朗读语速">
                             <span v-for="opt in RATE_OPTIONS" :key="opt.value" :class="{ active: readRate === opt.value }" @click="setRate(opt.value)">{{ opt.label }}</span>
                         </div>
-                        <div class="read_btn" :class="{ reading: isReading }" :title="isReading ? '停止朗读' : '朗读全文'" @click="toggleRead">
-                            <svg v-if="!isReading" class="read_icon" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
+                        <div class="read_btn" :class="{ reading: isReading && !isPaused }" :title="readBtnTitle" @click="toggleRead">
+                            <svg v-if="!isReading || isPaused" class="read_icon" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
                                 <path d="M3 9v6h4l5 5V4L7 9H3z" fill="currentColor" />
                                 <path d="M15.5 8.5a4.5 4.5 0 0 1 0 7" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round" />
                                 <path d="M18 6a8 8 0 0 1 0 12" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round" />
                             </svg>
                             <svg v-else class="read_icon" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
+                                <rect x="6" y="5" width="4" height="14" rx="1" fill="currentColor" />
+                                <rect x="14" y="5" width="4" height="14" rx="1" fill="currentColor" />
+                            </svg>
+                            <span>{{ readBtnLabel }}</span>
+                        </div>
+                        <div class="read_btn stop_btn" v-if="isReading" title="停止朗读" @click="stopRead">
+                            <svg class="read_icon" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
                                 <rect x="6" y="6" width="12" height="12" rx="2" fill="currentColor" />
                             </svg>
-                            <span>{{ isReading ? '停止朗读' : '朗读全文' }}</span>
+                            <span>停止</span>
                         </div>
                     </div>
                 </div>
@@ -229,6 +236,8 @@ const lineSents = computed<string[][]>(() => {
     })
 })
 const isReading = ref(false)
+// 暂停中(高亮停在当前句)
+const isPaused = ref(false)
 // 当前朗读句所在的行与句号(高亮用)
 const activeLine = ref(-1)
 const activeSent = ref(-1)
@@ -241,11 +250,50 @@ const RATE_OPTIONS = [
 const readRate = ref(0.75)
 const setRate = (v: number) => {
     readRate.value = v
-    // 朗读中切换语速: 当前句播完后, 后续句子按新语速朗读
+    // 朗读中切换语速: 当前句播完后, 后续句子按新语速朗读(暂停中切换则继续时即生效)
 }
 const stopRead = () => {
     if ('speechSynthesis' in window) window.speechSynthesis.cancel()
     isReading.value = false
+    isPaused.value = false
+    activeLine.value = -1
+    activeSent.value = -1
+}
+// 当前正在播(或暂停在)的句子在队列中的位置
+let curLi = 0
+let curSi = 0
+// 从(li, si)起朗读第一句非空文本, 播完自动推进
+const speakSentence = (li: number, si: number) => {
+    if (!isReading.value || isPaused.value) return
+    const sents = lineSents.value
+    while (li < sents.length) {
+        while (si < sents[li].length) {
+            const text = sents[li][si].trim()
+            const cl = li
+            const cs = si
+            si++
+            if (!text) continue
+            curLi = cl
+            curSi = cs
+            activeLine.value = cl
+            activeSent.value = cs
+            const u = new SpeechSynthesisUtterance(text)
+            u.lang = 'en-US'
+            if (enVoice) u.voice = enVoice
+            u.rate = readRate.value
+            u.pitch = 1
+            u.volume = 1
+            u.onend = () => speakSentence(li, si)
+            u.onerror = () => speakSentence(li, si)
+            window.speechSynthesis.speak(u)
+            return
+        }
+        li++
+        si = 0
+    }
+    // 全文朗读结束
+    isReading.value = false
+    isPaused.value = false
     activeLine.value = -1
     activeSent.value = -1
 }
@@ -256,46 +304,39 @@ const readArticle = () => {
     pickVoice()
     window.speechSynthesis.cancel()
     isReading.value = true
-    let li = 0
-    let si = 0
-    const speakNext = () => {
-        if (!isReading.value) return
-        // 找到下一句非空文本
-        while (li < sents.length) {
-            while (si < sents[li].length) {
-                const text = sents[li][si].trim()
-                const curLine = li
-                const curSent = si
-                si++
-                if (!text) continue
-                activeLine.value = curLine
-                activeSent.value = curSent
-                const u = new SpeechSynthesisUtterance(text)
-                u.lang = 'en-US'
-                if (enVoice) u.voice = enVoice
-                u.rate = readRate.value
-                u.pitch = 1
-                u.volume = 1
-                u.onend = () => speakNext()
-                u.onerror = () => speakNext()
-                window.speechSynthesis.speak(u)
-                return
-            }
-            li++
-            si = 0
-        }
-        // 全文朗读结束
-        isReading.value = false
-        activeLine.value = -1
-        activeSent.value = -1
-    }
-    speakNext()
+    isPaused.value = false
+    curLi = 0
+    curSi = 0
+    speakSentence(0, 0)
 }
+const pauseRead = () => {
+    if (!isReading.value || isPaused.value) return
+    // 先标记暂停再取消当前句(避免取消触发的回调推进到下一句)
+    isPaused.value = true
+    if ('speechSynthesis' in window) window.speechSynthesis.cancel()
+    // 高亮保留在暂停的当前句
+}
+const resumeRead = () => {
+    if (!isReading.value || !isPaused.value) return
+    isPaused.value = false
+    // 从暂停的当前句重新朗读
+    speakSentence(curLi, curSi)
+}
+const readBtnLabel = computed(() => {
+    if (!isReading.value) return '朗读全文'
+    return isPaused.value ? '继续' : '暂停'
+})
+const readBtnTitle = computed(() => {
+    if (!isReading.value) return '朗读全文'
+    return isPaused.value ? '继续朗读' : '暂停朗读'
+})
 const toggleRead = () => {
-    if (isReading.value) {
-        stopRead()
-    } else {
+    if (!isReading.value) {
         readArticle()
+    } else if (isPaused.value) {
+        resumeRead()
+    } else {
+        pauseRead()
     }
 }
 // 离开页面时停止朗读
@@ -417,6 +458,13 @@ onBeforeUnmount(stopRead)
                         &.reading {
                             background-color: #fc7e0f;
                             color: #fff;
+                        }
+                    }
+                    .stop_btn {
+                        color: #555;
+                        border-color: #ddd;
+                        &:hover {
+                            background-color: #f5f5f5;
                         }
                     }
                 }
@@ -569,6 +617,9 @@ onBeforeUnmount(stopRead)
                         }
                         .read_btn {
                             padding: 8px 16px;
+                        }
+                        .stop_btn {
+                            padding: 8px 12px;
                         }
                     }
                 }
