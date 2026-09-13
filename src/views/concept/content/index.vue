@@ -16,16 +16,21 @@
             <div class="section" v-if="lesson.en.length">
                 <div class="section_head">
                     <div class="section_label">课文</div>
-                    <div class="read_btn" :class="{ reading: isReading }" :title="isReading ? '停止朗读' : '朗读全文'" @click="toggleRead">
-                        <svg v-if="!isReading" class="read_icon" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
-                            <path d="M3 9v6h4l5 5V4L7 9H3z" fill="currentColor" />
-                            <path d="M15.5 8.5a4.5 4.5 0 0 1 0 7" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round" />
-                            <path d="M18 6a8 8 0 0 1 0 12" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round" />
-                        </svg>
-                        <svg v-else class="read_icon" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
-                            <rect x="6" y="6" width="12" height="12" rx="2" fill="currentColor" />
-                        </svg>
-                        <span>{{ isReading ? '停止朗读' : '朗读全文' }}</span>
+                    <div class="head_actions">
+                        <div class="rate_ctrl" title="朗读语速">
+                            <span v-for="opt in RATE_OPTIONS" :key="opt.value" :class="{ active: readRate === opt.value }" @click="setRate(opt.value)">{{ opt.label }}</span>
+                        </div>
+                        <div class="read_btn" :class="{ reading: isReading }" :title="isReading ? '停止朗读' : '朗读全文'" @click="toggleRead">
+                            <svg v-if="!isReading" class="read_icon" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
+                                <path d="M3 9v6h4l5 5V4L7 9H3z" fill="currentColor" />
+                                <path d="M15.5 8.5a4.5 4.5 0 0 1 0 7" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round" />
+                                <path d="M18 6a8 8 0 0 1 0 12" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round" />
+                            </svg>
+                            <svg v-else class="read_icon" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
+                                <rect x="6" y="6" width="12" height="12" rx="2" fill="currentColor" />
+                            </svg>
+                            <span>{{ isReading ? '停止朗读' : '朗读全文' }}</span>
+                        </div>
                     </div>
                 </div>
                 <div class="en_block">
@@ -227,6 +232,17 @@ const isReading = ref(false)
 // 当前朗读句所在的行与句号(高亮用)
 const activeLine = ref(-1)
 const activeSent = ref(-1)
+// 朗读语速选项(慢/常/快)
+const RATE_OPTIONS = [
+    { label: '慢速', value: 0.6 },
+    { label: '常速', value: 0.75 },
+    { label: '快速', value: 1 },
+]
+const readRate = ref(0.75)
+const setRate = (v: number) => {
+    readRate.value = v
+    // 朗读中切换语速: 当前句播完后, 后续句子按新语速朗读
+}
 const stopRead = () => {
     if ('speechSynthesis' in window) window.speechSynthesis.cancel()
     isReading.value = false
@@ -257,7 +273,7 @@ const readArticle = () => {
                 const u = new SpeechSynthesisUtterance(text)
                 u.lang = 'en-US'
                 if (enVoice) u.voice = enVoice
-                u.rate = 0.75
+                u.rate = readRate.value
                 u.pitch = 1
                 u.volume = 1
                 u.onend = () => speakNext()
@@ -345,29 +361,63 @@ onBeforeUnmount(stopRead)
                 display: flex;
                 align-items: center;
                 justify-content: space-between;
-                .read_btn {
+                flex-wrap: wrap;
+                gap: 8px;
+                .head_actions {
                     display: flex;
                     align-items: center;
-                    gap: 6px;
-                    cursor: pointer;
-                    font-size: 14px;
-                    font-weight: 600;
-                    color: #fc7e0f;
-                    background-color: #fff;
-                    border: 1px solid #fc7e0f;
-                    border-radius: 20px;
-                    padding: 6px 16px;
-                    transition: all 0.2s ease;
-                    user-select: none;
-                    .read_icon {
+                    gap: 8px;
+                    margin-left: auto;
+                    .rate_ctrl {
+                        display: inline-flex;
+                        border: 1px solid #fc7e0f;
+                        border-radius: 20px;
+                        overflow: hidden;
                         flex-shrink: 0;
+                        span {
+                            font-size: 13px;
+                            font-weight: 600;
+                            color: #fc7e0f;
+                            padding: 5px 10px;
+                            cursor: pointer;
+                            user-select: none;
+                            transition: all 0.2s ease;
+                            & + span {
+                                border-left: 1px solid #fc7e0f;
+                            }
+                            &:hover {
+                                background-color: #fff4e8;
+                            }
+                            &.active {
+                                background-color: #fc7e0f;
+                                color: #fff;
+                            }
+                        }
                     }
-                    &:hover {
-                        background-color: #fff4e8;
-                    }
-                    &.reading {
-                        background-color: #fc7e0f;
-                        color: #fff;
+                    .read_btn {
+                        display: flex;
+                        align-items: center;
+                        gap: 6px;
+                        cursor: pointer;
+                        font-size: 14px;
+                        font-weight: 600;
+                        color: #fc7e0f;
+                        background-color: #fff;
+                        border: 1px solid #fc7e0f;
+                        border-radius: 20px;
+                        padding: 6px 16px;
+                        transition: all 0.2s ease;
+                        user-select: none;
+                        .read_icon {
+                            flex-shrink: 0;
+                        }
+                        &:hover {
+                            background-color: #fff4e8;
+                        }
+                        &.reading {
+                            background-color: #fc7e0f;
+                            color: #fff;
+                        }
                     }
                 }
             }
@@ -511,8 +561,15 @@ onBeforeUnmount(stopRead)
             }
             .section {
                 .section_head {
-                    .read_btn {
-                        padding: 8px 16px;
+                    .head_actions {
+                        .rate_ctrl {
+                            span {
+                                padding: 7px 11px;
+                            }
+                        }
+                        .read_btn {
+                            padding: 8px 16px;
+                        }
                     }
                 }
                 .en_block p {
