@@ -30,7 +30,7 @@
             <div class="section" v-if="lesson.words.length">
                 <div class="section_label">生词和短语</div>
                 <div class="words_grid">
-                    <div class="word_item" v-for="(w, i) in lesson.words" :key="i" @click="speakWord(w)">
+                    <div class="word_item" v-for="(w, i) in lesson.words" :key="i" :class="{ speaking: speakingIndex === i }" :title="w.ipa ? '点击朗读' : ''" @click="speakWord(w, i)">
                         <div class="word_en">
                             <span class="word_text">{{ w.en }}</span>
                             <svg class="word_speaker" viewBox="0 0 24 24" width="13" height="13" aria-hidden="true">
@@ -129,13 +129,35 @@ watch(() => route.query.book, () => {
 
 // 点击生词卡片朗读(浏览器内置语音合成, 美式发音)
 let enVoice: SpeechSynthesisVoice | null = null
+// 高质量音色关键词(优先选择更清晰自然的音色)
+const QUALITY_VOICE_KEYS = ['google', 'natural', 'neural', 'premium', 'enhanced', 'samantha', 'aria', 'jenny', 'guy', 'ava', 'emma', 'zira', 'david', 'mark']
+const voiceScore = (v: SpeechSynthesisVoice): number => {
+    const name = v.name.toLowerCase()
+    const lang = v.lang.toLowerCase()
+    let score = 0
+    if (lang === 'en-us') score += 100
+    else if (lang.startsWith('en-us')) score += 90
+    else if (lang.startsWith('en')) score += 50
+    for (const key of QUALITY_VOICE_KEYS) {
+        if (name.includes(key)) score += 30
+    }
+    if (v.localService) score += 10
+    return score
+}
 const pickVoice = () => {
     if (enVoice || !('speechSynthesis' in window)) return
     const voices = window.speechSynthesis.getVoices()
-    enVoice = voices.find((v) => v.lang === 'en-US')
-        || voices.find((v) => v.lang.startsWith('en-US'))
-        || voices.find((v) => v.lang.startsWith('en'))
-        || null
+    let best: SpeechSynthesisVoice | null = null
+    let bestScore = 0
+    for (const v of voices) {
+        if (!v.lang.toLowerCase().startsWith('en')) continue
+        const s = voiceScore(v)
+        if (s > bestScore) {
+            bestScore = s
+            best = v
+        }
+    }
+    enVoice = best
 }
 if ('speechSynthesis' in window) {
     pickVoice()
@@ -145,14 +167,25 @@ if ('speechSynthesis' in window) {
         pickVoice()
     }
 }
-const speakWord = (w: { en: string }) => {
+// 当前朗读中的词卡索引(高亮反馈)
+const speakingIndex = ref(-1)
+const speakWord = (w: { en: string }, index: number) => {
     if (!('speechSynthesis' in window) || !w.en) return
     pickVoice()
+    // 先取消当前朗读(部分移动端浏览器需先取消再排队)
+    window.speechSynthesis.cancel()
     const u = new SpeechSynthesisUtterance(w.en)
     u.lang = 'en-US'
     if (enVoice) u.voice = enVoice
-    u.rate = 0.85
-    window.speechSynthesis.cancel()
+    u.rate = 0.7
+    u.pitch = 1
+    u.volume = 1
+    const done = () => {
+        if (speakingIndex.value === index) speakingIndex.value = -1
+    }
+    u.onend = done
+    u.onerror = done
+    speakingIndex.value = index
     window.speechSynthesis.speak(u)
 }
 </script>
@@ -250,6 +283,12 @@ const speakWord = (w: { en: string }) => {
                     &:hover {
                         background-color: #eef3fb;
                     }
+                    &.speaking {
+                        background-color: #dcebfb;
+                        .word_speaker {
+                            color: #fc7e0f;
+                        }
+                    }
                     .word_en {
                         display: flex;
                         align-items: center;
@@ -327,6 +366,12 @@ const speakWord = (w: { en: string }) => {
 @media (max-width: 600px) {
     .lesson {
         padding: 16px 12px 40px;
+        .nav_top {
+            .back {
+                display: inline-block;
+                padding: 8px 0;
+            }
+        }
         .card {
             padding: 22px 16px;
             .card_head {
@@ -342,17 +387,27 @@ const speakWord = (w: { en: string }) => {
                     grid-template-columns: repeat(2, 1fr);
                     gap: 8px;
                     .word_item {
-                        padding: 10px 12px;
+                        padding: 12px;
+                        min-height: 44px;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        .word_en {
+                            font-size: 15px;
+                        }
                         .word_ipa {
-                            font-size: 11px;
+                            font-size: 12px;
                         }
                     }
                 }
             }
         }
         .nav_bottom {
+            gap: 10px;
             .nav_btn {
-                padding: 10px 16px;
+                flex: 1;
+                text-align: center;
+                padding: 12px 0;
             }
         }
     }
