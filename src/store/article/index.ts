@@ -11,15 +11,6 @@ export const useAticleStoreHook = defineStore('article', {
     state: () => ({
         directory: [
             {
-                title: '移动端如何进行适配',
-                path: '/article/1.html',
-                desc: '移动端适配',
-                type: 'CSS',
-                date: 'Jan 18,2024',
-                coverImg: "",
-                id: 1,
-            },
-            {
                 title: 'Java 基础(一):基础语法',
                 path: '/article/java-basics.html',
                 desc: '变量、数据类型、运算符、流程控制、方法与数组',

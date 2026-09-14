@@ -2,7 +2,8 @@
   <div class="article_h5">
     <div v-for="(item, index) in list" :key="index" class="article_h5_box" @click="goArticleDetail(item.path)">
       <div class="article_h5_box_left">
-        <img src="../../static/images/coverImg.jpeg" alt="" />
+        <img v-if="item.coverImg" :src="item.coverImg" alt="" />
+        <ArticleCover v-else :id="item.id" :type="item.type" />
       </div>
       <div class="article_h5_box_right">
         <div class="article_h5_box_right_title">
@@ -22,6 +23,7 @@ const router = useRouter();
 
 import { useAticleStoreHook } from "@/store/article/index";
 import { Article } from "./type";
+import ArticleCover from "./components/ArticleCover.vue";
 // 获取文章仓库数据
 const articleStore = useAticleStoreHook();
 // 获取文章列表
@@ -53,7 +55,8 @@ const goArticleDetail = (path: string) => {
     display: flex;
     align-items: center;
 
-    img {
+    img,
+    .article_cover {
       width: 80px;
       height: 80px;
       border-radius: 5px;
