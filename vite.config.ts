@@ -4,7 +4,6 @@ import { fileURLToPath } from "url";
 import vue from "@vitejs/plugin-vue";
 import vueJsx from "@vitejs/plugin-vue-jsx";
 
-import postCssPxToRem from 'postcss-pxtorem'
 export default defineConfig(({ mode }: ConfigEnv): UserConfig => {
     // 获取当前工作目录
     const root = process.cwd();
@@ -86,20 +85,5 @@ export default defineConfig(({ mode }: ConfigEnv): UserConfig => {
                 "#": fileURLToPath(new URL("./types", import.meta.url)),
             },
         },
-        css:{
-            postcss:{
-              plugins:[
-                postCssPxToRem({
-                  rootValue:37.5,
-                  propList:['*'],
-                  exclude:(files:any)=>{
-                    if(files.indexOf('h5')>-1)return false
-                    return true
-                  }
-                })
-              ]
-            }
-          }
-        
     };
 });

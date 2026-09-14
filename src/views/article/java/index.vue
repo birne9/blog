@@ -215,7 +215,7 @@ const goList = () => {
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 767px) {
     .java_doc {
         padding: 16px 12px 40px;
         .nav_top {

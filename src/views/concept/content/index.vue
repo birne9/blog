@@ -591,7 +591,7 @@ onBeforeUnmount(stopRead)
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 767px) {
     .lesson {
         padding: 16px 12px 40px;
         .nav_top {
