@@ -91,6 +91,14 @@ const routes: Array<RouteRecordRaw> = [
                     title: 'httpArticle',
                 },
             },
+            {
+                path: '/article/springboot-:slug.html',
+                name: 'springbootArticle',
+                component: () => import('../views/article/java/index.vue'),
+                meta: {
+                    title: 'springbootArticle',
+                },
+            },
             // 文章模块--end
 
             // 新概念模块--start

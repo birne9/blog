@@ -7,6 +7,8 @@ import xml from 'highlight.js/lib/languages/xml'
 import bash from 'highlight.js/lib/languages/bash'
 import http from 'highlight.js/lib/languages/http'
 import json from 'highlight.js/lib/languages/json'
+import ini from 'highlight.js/lib/languages/ini'
+import yaml from 'highlight.js/lib/languages/yaml'
 import 'highlight.js/styles/github.css'
 import { escapeHtml } from './highlight'
 
@@ -17,15 +19,20 @@ hljs.registerLanguage('xml', xml)
 hljs.registerLanguage('bash', bash)
 hljs.registerLanguage('http', http)
 hljs.registerLanguage('json', json)
+hljs.registerLanguage('ini', ini)
+hljs.registerLanguage('yaml', yaml)
 
 // 围栏语言别名归一化: vue 文件按 xml 语法高亮(自带 <script> 内 JS 子语言);
-// jsx/tsx 归到 javascript(v11 的 JS 语法自带 JSX 标签解析, jsx 是它的官方别名)
+// jsx/tsx 归到 javascript(v11 的 JS 语法自带 JSX 标签解析, jsx 是它的官方别名);
+// properties 按 ini 高亮(键值对同构), yml 是 yaml 的简称
 const LANG_ALIAS: Record<string, string> = {
     js: 'javascript',
     jsx: 'javascript',
     tsx: 'javascript',
     vue: 'xml',
     html: 'xml',
+    properties: 'ini',
+    yml: 'yaml',
 }
 
 export function highlightCode(code: string, lang?: string): string {

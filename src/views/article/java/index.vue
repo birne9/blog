@@ -77,6 +77,11 @@ const loaders: Record<string, () => Promise<{ default: string }>> = {
     'react-effect': () => import('../content/react-effect.md?raw'),
     'http-basics': () => import('../content/http-basics.md?raw'),
     'http-auth': () => import('../content/http-auth.md?raw'),
+    'springboot-start': () => import('../content/springboot-start.md?raw'),
+    'springboot-ioc': () => import('../content/springboot-ioc.md?raw'),
+    'springboot-rest': () => import('../content/springboot-rest.md?raw'),
+    'springboot-mybatis': () => import('../content/springboot-mybatis.md?raw'),
+    'springboot-response': () => import('../content/springboot-response.md?raw'),
 }
 
 watch(() => route.path, async () => {
