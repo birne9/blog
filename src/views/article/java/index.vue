@@ -64,6 +64,7 @@ const loaders: Record<string, () => Promise<{ default: string }>> = {
     query: () => import('../content/query.md?raw'),
     join: () => import('../content/join.md?raw'),
     transaction: () => import('../content/transaction.md?raw'),
+    'index-opt': () => import('../content/index-opt.md?raw'),
 }
 
 watch(() => route.path, async () => {
