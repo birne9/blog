@@ -56,15 +56,19 @@ let loadSeq = 0
 
 // 各文章正文(按需加载, 打包时自动分包)
 const loaders: Record<string, () => Promise<{ default: string }>> = {
-    basics: () => import('../content/basics.md?raw'),
-    oop: () => import('../content/oop.md?raw'),
-    api: () => import('../content/api.md?raw'),
-    advanced: () => import('../content/advanced.md?raw'),
-    relational: () => import('../content/relational.md?raw'),
-    query: () => import('../content/query.md?raw'),
-    join: () => import('../content/join.md?raw'),
-    transaction: () => import('../content/transaction.md?raw'),
-    'index-opt': () => import('../content/index-opt.md?raw'),
+    'java-basics': () => import('../content/basics.md?raw'),
+    'java-oop': () => import('../content/oop.md?raw'),
+    'java-api': () => import('../content/api.md?raw'),
+    'java-advanced': () => import('../content/advanced.md?raw'),
+    'sql-relational': () => import('../content/relational.md?raw'),
+    'sql-query': () => import('../content/query.md?raw'),
+    'sql-join': () => import('../content/join.md?raw'),
+    'sql-transaction': () => import('../content/transaction.md?raw'),
+    'sql-index-opt': () => import('../content/index-opt.md?raw'),
+    'vue-template': () => import('../content/vue-template.md?raw'),
+    'vue-component': () => import('../content/vue-component.md?raw'),
+    'vue-computed': () => import('../content/vue-computed.md?raw'),
+    'vue-composition': () => import('../content/vue-composition.md?raw'),
 }
 
 watch(() => route.path, async () => {
@@ -73,11 +77,11 @@ watch(() => route.path, async () => {
     doc.value = null
     window.scrollTo(0, 0)
 
-    // 从文章目录取元信息(标题/分类/日期/简介), path 形如 /article/sql-query.html
+    // 从文章目录取元信息(标题/分类/日期/简介), path 形如 /article/vue-template.html
     const path = route.path
     const meta = articleStore.directory.find((item) => item.path === path)
-    const m = path.match(/^\/article\/(?:java|sql)-(.+)\.html$/)
-    const loader = m ? loaders[m[1]] : undefined
+    const m = path.match(/^\/article\/([a-z]+)-(.+)\.html$/)
+    const loader = m ? loaders[m[1] + '-' + m[2]] : undefined
     if (!loader || !meta) {
         if (seq === loadSeq) loaded.value = true
         return
