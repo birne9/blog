@@ -60,6 +60,7 @@ const loaders: Record<string, () => Promise<{ default: string }>> = {
     basics: () => import('../content/basics.md?raw'),
     oop: () => import('../content/oop.md?raw'),
     api: () => import('../content/api.md?raw'),
+    advanced: () => import('../content/advanced.md?raw'),
 }
 
 watch(() => route.params.slug, async (s) => {
