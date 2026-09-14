@@ -82,6 +82,10 @@ const loaders: Record<string, () => Promise<{ default: string }>> = {
     'springboot-rest': () => import('../content/springboot-rest.md?raw'),
     'springboot-mybatis': () => import('../content/springboot-mybatis.md?raw'),
     'springboot-response': () => import('../content/springboot-response.md?raw'),
+    'ts-types': () => import('../content/ts-types.md?raw'),
+    'ts-interface': () => import('../content/ts-interface.md?raw'),
+    'ts-vue': () => import('../content/ts-vue.md?raw'),
+    'ts-react': () => import('../content/ts-react.md?raw'),
 }
 
 watch(() => route.path, async () => {
