@@ -1,5 +1,12 @@
 <template>
     <div class="article_list container">
+        <div class="tabs" role="tablist" aria-label="文章分类">
+            <div v-for="t in TABS" :key="t.id" class="tab" role="tab"
+                :aria-selected="t.id === activeCat"
+                :class="{ active: t.id === activeCat }" @click="activeCat = t.id">
+                {{ t.name }}
+            </div>
+        </div>
         <div v-for="(item, index) in list" :key="index" class="article_box" @click="goArticleDetail(item.path)">
             <div class="article_box_left">
                 <img v-if="item.coverImg" :src="item.coverImg" alt="" />
@@ -17,7 +24,7 @@
     </div>
 </template>
 <script setup lang="ts">
-import { computed } from "vue";
+import { computed, ref } from "vue";
 import { useRouter } from "vue-router";
 const router = useRouter();
 
@@ -26,9 +33,17 @@ import { Article } from "./type";
 import ArticleCover from "./components/ArticleCover.vue";
 // 获取文章仓库数据
 const articleStore = useAticleStoreHook();
-// 获取文章列表
+
+// 前后端分类页签, 前端在前
+const TABS = [
+    { id: 'frontend', name: '前端' },
+    { id: 'backend', name: '后端' },
+] as const
+const activeCat = ref<'frontend' | 'backend'>('frontend')
+
+// 获取文章列表(按当前页签过滤)
 const list = computed<Article[]>(() => {
-    return articleStore.directory;
+    return articleStore.directory.filter((item) => item.cat === activeCat.value);
 });
 
 // 跳转文章详情页
@@ -43,6 +58,38 @@ const goArticleDetail = (path: string) => {
 .article_list {
     padding-top: 10px;
     padding-bottom: 40px;
+
+    .tabs {
+        display: flex;
+        gap: 10px;
+        margin-top: 20px;
+        margin-bottom: 14px;
+        /* 窄屏页签可横向滑动 */
+        overflow-x: auto;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+        &::-webkit-scrollbar {
+            display: none;
+        }
+        .tab {
+            flex-shrink: 0;
+            padding: 7px 16px;
+            border-radius: 18px;
+            background-color: #f5f5f5;
+            color: #000;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+            &:active {
+                background-color: #ececec;
+            }
+            &.active {
+                background-color: #fc7e0f;
+                color: #fff;
+            }
+        }
+    }
 
     .article_box {
         background-color: #f5f5f5;
@@ -105,6 +152,24 @@ const goArticleDetail = (path: string) => {
     .article_list {
         padding-top: 20px;
         padding-bottom: 60px;
+
+        .tabs {
+            gap: 12px;
+            margin-top: 32px;
+            margin-bottom: 18px;
+
+            .tab {
+                padding: 8px 28px;
+                border-radius: 20px;
+                font-size: 15px;
+                &:hover {
+                    background-color: #ececec;
+                }
+                &.active:hover {
+                    background-color: #fc7e0f;
+                }
+            }
+        }
 
         .article_box {
             padding: 10px 20px;
