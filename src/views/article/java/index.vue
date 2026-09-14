@@ -14,11 +14,11 @@
             </div>
             <div class="doc_body">
                 <template v-for="(b, i) in doc.blocks" :key="i">
-                    <h2 v-if="b.type === 'h2'" class="blk_h2">{{ b.text }}</h2>
-                    <h3 v-else-if="b.type === 'h3'" class="blk_h3">{{ b.text }}</h3>
-                    <p v-else-if="b.type === 'p'" class="blk_p">{{ b.text }}</p>
+                    <h2 v-if="b.type === 'h2'" class="blk_h2" v-html="b.text"></h2>
+                    <h3 v-else-if="b.type === 'h3'" class="blk_h3" v-html="b.text"></h3>
+                    <p v-else-if="b.type === 'p'" class="blk_p" v-html="b.text"></p>
                     <pre v-else-if="b.type === 'code'" class="blk_code"><code>{{ b.text }}</code></pre>
-                    <div v-else-if="b.type === 'tip'" class="blk_tip">{{ b.text }}</div>
+                    <div v-else-if="b.type === 'tip'" class="blk_tip" v-html="b.text"></div>
                 </template>
             </div>
         </div>
@@ -37,6 +37,7 @@ import { useRoute, useRouter } from 'vue-router'
 import { ArticleBlock } from '../content/type';
 import { parseMarkdown } from '../content/parse';
 import { useAticleStoreHook } from '@/store/article/index';
+import { escapeHtml, highlightVueKeywords } from '../content/highlight';
 
 const route = useRoute()
 const router = useRouter()
@@ -88,12 +89,18 @@ watch(() => route.path, async () => {
     }
     const mod = await loader()
     if (seq !== loadSeq) return
+    // Vue 系列正文做关键词高亮(转义+包 <code class="kw">); 其余系列只转义, 与 v-html 渲染配套
+    const isVue = m?.[1] === 'vue'
+    const blocks = parseMarkdown(mod.default).map((b) => {
+        if (b.type === 'code') return b
+        return { ...b, text: isVue ? highlightVueKeywords(b.text) : escapeHtml(b.text) }
+    })
     doc.value = {
         type: meta.type,
         date: meta.date,
         title: meta.title,
         desc: meta.desc,
-        blocks: parseMarkdown(mod.default),
+        blocks,
     }
     loaded.value = true
 }, { immediate: true })
@@ -202,6 +209,16 @@ const goList = () => {
                 font-size: 14px;
                 line-height: 1.8;
                 color: #555;
+            }
+            // 关键词高亮(v-html 注入的内容不带 scope 属性, 须用 :deep)
+            :deep(.kw) {
+                font-family: 'SF Mono', Menlo, Monaco, Consolas, monospace;
+                font-size: 0.88em;
+                background-color: #fff4e8;
+                color: #c2410c;
+                padding: 1px 5px;
+                border-radius: 4px;
+                margin: 0 1px;
             }
         }
     }
