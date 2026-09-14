@@ -107,6 +107,14 @@ const routes: Array<RouteRecordRaw> = [
                     title: 'tsArticle',
                 },
             },
+            {
+                path: '/article/fullstack-:slug.html',
+                name: 'fullstackArticle',
+                component: () => import('../views/article/java/index.vue'),
+                meta: {
+                    title: 'fullstackArticle',
+                },
+            },
             // 文章模块--end
 
             // 新概念模块--start

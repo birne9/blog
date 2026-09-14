@@ -86,6 +86,11 @@ const loaders: Record<string, () => Promise<{ default: string }>> = {
     'ts-interface': () => import('../content/ts-interface.md?raw'),
     'ts-vue': () => import('../content/ts-vue.md?raw'),
     'ts-react': () => import('../content/ts-react.md?raw'),
+    'fullstack-design': () => import('../content/fullstack-design.md?raw'),
+    'fullstack-backend': () => import('../content/fullstack-backend.md?raw'),
+    'fullstack-vue': () => import('../content/fullstack-vue.md?raw'),
+    'fullstack-react': () => import('../content/fullstack-react.md?raw'),
+    'fullstack-deploy': () => import('../content/fullstack-deploy.md?raw'),
 }
 
 watch(() => route.path, async () => {
@@ -106,13 +111,15 @@ watch(() => route.path, async () => {
     const mod = await loader()
     if (seq !== loadSeq) return
     // Vue/React 系列正文做关键词高亮(转义+包 <code class="kw">); 其余系列只转义, 与 v-html 渲染配套
+    // 全栈系列里 fullstack-vue/fullstack-react 两篇按 slug 归入对应高亮
     const kind = m?.[1]
+    const slug = m?.[2]
     const blocks = parseMarkdown(mod.default).map((b) => {
         if (b.type === 'code') return { ...b, text: highlightCode(b.text, b.lang) }
         return {
             ...b,
-            text: kind === 'vue' ? highlightVueKeywords(b.text)
-                : kind === 'react' ? highlightReactKeywords(b.text)
+            text: kind === 'vue' || slug === 'vue' ? highlightVueKeywords(b.text)
+                : kind === 'react' || slug === 'react' ? highlightReactKeywords(b.text)
                 : escapeHtml(b.text),
         }
     })

@@ -3,7 +3,7 @@ export interface Article {
     path: string;
     desc: string;
     type: string;
-    cat: 'frontend' | 'backend';
+    cat: 'frontend' | 'backend' | 'fullstack';
     date: string;
     coverImg:string;
     id:number

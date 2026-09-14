@@ -10,6 +10,7 @@ import json from 'highlight.js/lib/languages/json'
 import ini from 'highlight.js/lib/languages/ini'
 import yaml from 'highlight.js/lib/languages/yaml'
 import typescript from 'highlight.js/lib/languages/typescript'
+import nginx from 'highlight.js/lib/languages/nginx'
 import 'highlight.js/styles/github.css'
 import { escapeHtml } from './highlight'
 
@@ -23,6 +24,7 @@ hljs.registerLanguage('json', json)
 hljs.registerLanguage('ini', ini)
 hljs.registerLanguage('yaml', yaml)
 hljs.registerLanguage('typescript', typescript)
+hljs.registerLanguage('nginx', nginx)
 
 // 围栏语言别名归一化: vue 文件按 xml 语法高亮(自带 <script> 内 JS 子语言);
 // jsx/tsx 归到 javascript(v11 的 JS 语法自带 JSX 标签解析, jsx 是它的官方别名);
@@ -37,6 +39,7 @@ const LANG_ALIAS: Record<string, string> = {
     tsx: 'typescript',
     properties: 'ini',
     yml: 'yaml',
+    conf: 'nginx',
 }
 
 export function highlightCode(code: string, lang?: string): string {

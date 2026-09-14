@@ -34,12 +34,13 @@ import ArticleCover from "./components/ArticleCover.vue";
 // 获取文章仓库数据
 const articleStore = useAticleStoreHook();
 
-// 前后端分类页签, 前端在前
+// 前后端分类页签, 前端在前, 全栈收尾
 const TABS = [
     { id: 'frontend', name: '前端' },
     { id: 'backend', name: '后端' },
+    { id: 'fullstack', name: '全栈' },
 ] as const
-const activeCat = ref<'frontend' | 'backend'>('frontend')
+const activeCat = ref<'frontend' | 'backend' | 'fullstack'>('frontend')
 
 // 获取文章列表(按当前页签过滤)
 const list = computed<Article[]>(() => {
