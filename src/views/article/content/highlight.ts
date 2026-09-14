@@ -8,6 +8,7 @@ const VUE_KEYWORDS = [
     'onBeforeUnmount',
     'storeToRefs',
     'createWebHistory',
+    'inheritAttrs',
     'defineProps',
     'defineEmits',
     'defineExpose',
@@ -63,6 +64,9 @@ const VUE_KEYWORDS = [
     'setter',
     'provide',
     'inject',
+    'mitt',
+    'Pinia',
+    'pinia',
 ].sort((a, b) => b.length - a.length)
 
 // React 关键词: Hooks 与常用 API、JSX 相关属性与概念。同样按长度降序, 长词优先匹配

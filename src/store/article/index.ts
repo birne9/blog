@@ -113,7 +113,7 @@ export const useAticleStoreHook = defineStore('article', {
             {
                 title: 'Vue 基础(二):组件与通信',
                 path: '/article/vue-component.html',
-                desc: 'props、emit、插槽与组件拆分',
+                desc: '九种通信方式:props/emit、provide/inject、mitt与Pinia按场景选',
                 type: 'Vue 基础',
                 cat: 'frontend',
                 date: 'Sep 14,2026',
