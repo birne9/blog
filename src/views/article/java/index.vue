@@ -37,7 +37,7 @@ import { useRoute, useRouter } from 'vue-router'
 import { ArticleBlock } from '../content/type';
 import { parseMarkdown } from '../content/parse';
 import { useAticleStoreHook } from '@/store/article/index';
-import { escapeHtml, highlightVueKeywords } from '../content/highlight';
+import { escapeHtml, highlightVueKeywords, highlightReactKeywords } from '../content/highlight';
 import { highlightCode } from '../content/codeHighlight';
 
 const route = useRoute()
@@ -71,6 +71,10 @@ const loaders: Record<string, () => Promise<{ default: string }>> = {
     'vue-component': () => import('../content/vue-component.md?raw'),
     'vue-computed': () => import('../content/vue-computed.md?raw'),
     'vue-composition': () => import('../content/vue-composition.md?raw'),
+    'react-jsx': () => import('../content/react-jsx.md?raw'),
+    'react-state': () => import('../content/react-state.md?raw'),
+    'react-render': () => import('../content/react-render.md?raw'),
+    'react-effect': () => import('../content/react-effect.md?raw'),
 }
 
 watch(() => route.path, async () => {
@@ -90,11 +94,16 @@ watch(() => route.path, async () => {
     }
     const mod = await loader()
     if (seq !== loadSeq) return
-    // Vue 系列正文做关键词高亮(转义+包 <code class="kw">); 其余系列只转义, 与 v-html 渲染配套
-    const isVue = m?.[1] === 'vue'
+    // Vue/React 系列正文做关键词高亮(转义+包 <code class="kw">); 其余系列只转义, 与 v-html 渲染配套
+    const kind = m?.[1]
     const blocks = parseMarkdown(mod.default).map((b) => {
         if (b.type === 'code') return { ...b, text: highlightCode(b.text, b.lang) }
-        return { ...b, text: isVue ? highlightVueKeywords(b.text) : escapeHtml(b.text) }
+        return {
+            ...b,
+            text: kind === 'vue' ? highlightVueKeywords(b.text)
+                : kind === 'react' ? highlightReactKeywords(b.text)
+                : escapeHtml(b.text),
+        }
     })
     doc.value = {
         type: meta.type,

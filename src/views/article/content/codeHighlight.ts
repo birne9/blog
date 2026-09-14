@@ -14,9 +14,12 @@ hljs.registerLanguage('javascript', javascript)
 hljs.registerLanguage('xml', xml)
 hljs.registerLanguage('bash', bash)
 
-// 围栏语言别名归一化: vue 文件按 xml 语法高亮(自带 <script> 内 JS 子语言)
+// 围栏语言别名归一化: vue 文件按 xml 语法高亮(自带 <script> 内 JS 子语言);
+// jsx/tsx 归到 javascript(v11 的 JS 语法自带 JSX 标签解析, jsx 是它的官方别名)
 const LANG_ALIAS: Record<string, string> = {
     js: 'javascript',
+    jsx: 'javascript',
+    tsx: 'javascript',
     vue: 'xml',
     html: 'xml',
 }
