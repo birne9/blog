@@ -75,6 +75,8 @@ const loaders: Record<string, () => Promise<{ default: string }>> = {
     'react-state': () => import('../content/react-state.md?raw'),
     'react-render': () => import('../content/react-render.md?raw'),
     'react-effect': () => import('../content/react-effect.md?raw'),
+    'http-basics': () => import('../content/http-basics.md?raw'),
+    'http-auth': () => import('../content/http-auth.md?raw'),
 }
 
 watch(() => route.path, async () => {

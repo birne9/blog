@@ -83,6 +83,14 @@ const routes: Array<RouteRecordRaw> = [
                     title: 'reactArticle',
                 },
             },
+            {
+                path: '/article/http-:slug.html',
+                name: 'httpArticle',
+                component: () => import('../views/article/java/index.vue'),
+                meta: {
+                    title: 'httpArticle',
+                },
+            },
             // 文章模块--end
 
             // 新概念模块--start
