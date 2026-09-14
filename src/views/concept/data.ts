@@ -1,8 +1,14 @@
-import { Lesson, LessonBrief } from './type'
+import { Lesson, LessonBrief, GrammarSection } from './type'
 import book1Index from './book1-index.json'
 import book2Index from './book2-index.json'
 import book3Index from './book3-index.json'
 import book4Index from './book4-index.json'
+
+// 语法讲解条目(按册拆 chunk, 详情页按需加载)
+export interface GrammarEntry {
+    lesson: number;
+    sections: GrammarSection[];
+}
 
 // 四册元信息: 第一册奇数课72篇课文+偶数课72篇练习, 其余三册连续编号
 export interface BookMeta {
@@ -80,4 +86,16 @@ export async function loadBookLessons(book: number): Promise<Lesson[]> {
 
 export function getBookMeta(book: number): BookMeta {
     return BOOKS.find((b) => b.id === book) || BOOKS[0]
+}
+
+// 语法讲解(动态 import, 按册拆 chunk; 未提供讲解的册返回空数组)
+export async function loadBookGrammar(book: number): Promise<GrammarEntry[]> {
+    switch (book) {
+        case 1: {
+            const m = await import('./book1-grammar.json')
+            return m.default as unknown as GrammarEntry[]
+        }
+        default:
+            return []
+    }
 }

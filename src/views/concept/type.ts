@@ -34,6 +34,12 @@ export interface WrittenExercise {
     items: string[];
 }
 
+// 语法讲解块: 标题(自学导读/课堂笔记/语法/词汇学习) + 段落
+export interface GrammarSection {
+    title: string;
+    content: string[];
+}
+
 export interface Lesson {
     lesson: number;
     title: string;

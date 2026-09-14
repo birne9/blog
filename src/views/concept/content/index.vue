@@ -81,6 +81,14 @@
                 </div>
             </div>
 
+            <div class="section" v-if="grammarSections.length">
+                <div class="section_label">语法讲解</div>
+                <div class="grammar_group" v-for="(g, i) in grammarSections" :key="i">
+                    <div class="grammar_title">{{ g.title }}</div>
+                    <p class="grammar_para" v-for="(para, j) in g.content" :key="j">{{ para }}</p>
+                </div>
+            </div>
+
             <div class="section" v-if="isPractice && lesson.exercises && lesson.exercises.length">
                 <div class="section_label">书面练习</div>
                 <div class="ex_group" v-for="(ex, i) in lesson.exercises" :key="i">
@@ -117,8 +125,8 @@
 <script setup lang="ts">
 import { computed, ref, watch, onBeforeUnmount } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
-import { Lesson } from '../type';
-import { loadBookLessons, getBookMeta } from '../data';
+import { Lesson, GrammarSection } from '../type';
+import { loadBookLessons, loadBookGrammar, getBookMeta } from '../data';
 import LessonCover from '../components/LessonCover.vue';
 
 const route = useRoute()
@@ -151,6 +159,25 @@ const lesson = computed<Lesson | undefined>(() => {
     const id = Number(route.query.id)
     if (!id) return undefined
     return lessons.value.find((l: Lesson) => l.lesson === id)
+})
+
+// 语法讲解: 按册按需加载(奇数课带讲解, 偶数课无)
+interface GrammarEntry {
+    lesson: number;
+    sections: GrammarSection[];
+}
+const grammarMap = ref<Map<number, GrammarSection[]>>(new Map())
+let grammarSeq = 0
+watch(() => book.value, async (b) => {
+    const seq = ++grammarSeq
+    const data = await loadBookGrammar(b)
+    if (seq === grammarSeq) {
+        grammarMap.value = new Map(data.map((e: GrammarEntry) => [e.lesson, e.sections]))
+    }
+}, { immediate: true })
+const grammarSections = computed<GrammarSection[]>(() => {
+    if (!lesson.value) return []
+    return grammarMap.value.get(lesson.value.lesson) || []
 })
 
 // 练习课(偶数课): 有句型练习, 无课文/译文
@@ -553,6 +580,28 @@ onBeforeUnmount(stopRead)
                         border-radius: 50%;
                         background-color: #fc7e0f;
                     }
+                }
+            }
+            .grammar_group {
+                background-color: #fafafa;
+                border: 1px solid #f0f0f0;
+                border-radius: 8px;
+                padding: 14px 16px;
+                margin-bottom: 14px;
+                &:last-child {
+                    margin-bottom: 0;
+                }
+                .grammar_title {
+                    font-size: 14px;
+                    font-weight: bold;
+                    color: #c2410c;
+                    margin-bottom: 8px;
+                }
+                .grammar_para {
+                    font-size: 15px;
+                    line-height: 1.9;
+                    color: #333;
+                    margin: 6px 0;
                 }
             }
             .ex_group {
