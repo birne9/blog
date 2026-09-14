@@ -4,7 +4,7 @@ import book2Index from './book2-index.json'
 import book3Index from './book3-index.json'
 import book4Index from './book4-index.json'
 
-// 四册元信息: 第一册只有奇数课(72篇), 其余三册连续编号
+// 四册元信息: 第一册奇数课72篇课文+偶数课72篇练习, 其余三册连续编号
 export interface BookMeta {
     id: number;
     name: string;
@@ -18,8 +18,8 @@ export const BOOKS: BookMeta[] = [
         id: 1,
         name: '第一册',
         title: '新概念英语第一册',
-        desc: 'New Concept English · Book 1 — 课文共 72 篇，中英对照，点击进入阅读',
-        count: 72,
+        desc: 'New Concept English · Book 1 — 课文 72 篇 + 练习课 72 篇，中英对照，点击进入阅读',
+        count: 144,
     },
     {
         id: 2,

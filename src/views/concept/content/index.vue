@@ -8,7 +8,7 @@
                 <div class="card_cover">
                     <LessonCover :lesson="lesson.lesson" />
                 </div>
-                <div class="card_num">新概念英语{{ bookMeta.name }} · Lesson {{ lesson.lesson }}</div>
+                <div class="card_num">新概念英语{{ bookMeta.name }} · Lesson {{ lesson.lesson }}<span v-if="isPractice" class="kind_badge">练习课</span></div>
                 <div class="card_title">{{ lesson.title }}</div>
                 <div class="card_title_cn" v-if="lesson.titleCn">{{ lesson.titleCn }}</div>
             </div>
@@ -56,6 +56,13 @@
                 </div>
             </div>
 
+            <div class="section" v-if="isPractice">
+                <div class="section_label">句型练习</div>
+                <div class="drill_block">
+                    <p v-for="(line, i) in lesson.drill" :key="i">{{ line }}</p>
+                </div>
+            </div>
+
             <div class="section" v-if="lesson.words.length">
                 <div class="section_label">生词和短语</div>
                 <div class="words_grid">
@@ -71,6 +78,21 @@
                         <div class="word_ipa" v-if="w.ipa">/{{ w.ipa }}/</div>
                         <div class="word_cn">{{ w.cn }}</div>
                     </div>
+                </div>
+            </div>
+
+            <div class="section" v-if="isPractice && lesson.exercises && lesson.exercises.length">
+                <div class="section_label">书面练习</div>
+                <div class="ex_group" v-for="(ex, i) in lesson.exercises" :key="i">
+                    <div class="ex_head">
+                        <span class="ex_letter">{{ ex.letter }}</span>
+                        <span class="ex_instruction">{{ ex.instruction }}</span>
+                    </div>
+                    <div class="ex_example" v-if="ex.example">
+                        <div class="ex_example_label">示例</div>
+                        <p v-for="(line, j) in splitLines(ex.example)" :key="j">{{ line }}</p>
+                    </div>
+                    <div class="ex_item" v-for="(item, j) in ex.items" :key="j">{{ item }}</div>
                 </div>
             </div>
         </div>
@@ -130,6 +152,11 @@ const lesson = computed<Lesson | undefined>(() => {
     if (!id) return undefined
     return lessons.value.find((l: Lesson) => l.lesson === id)
 })
+
+// 练习课(偶数课): 有句型练习, 无课文/译文
+const isPractice = computed(() => !!(lesson.value?.drill && lesson.value.drill.length > 0))
+// 示例文本按换行拆分渲染
+const splitLines = (s: string) => s.split('\n').filter((l) => l.trim().length > 0)
 
 // 按当前册内的课程序号定位上一篇/下一篇
 const lessonIndex = computed(() => {
@@ -382,6 +409,17 @@ onBeforeUnmount(stopRead)
                 font-size: 14px;
                 font-weight: 600;
                 color: #fc7e0f;
+                .kind_badge {
+                    display: inline-block;
+                    margin-left: 8px;
+                    font-size: 12px;
+                    font-weight: 600;
+                    color: #3a6ea5;
+                    background-color: #e8f0fa;
+                    border-radius: 4px;
+                    padding: 1px 6px;
+                    vertical-align: middle;
+                }
             }
             .card_title {
                 font-size: 28px;
@@ -495,6 +533,91 @@ onBeforeUnmount(stopRead)
                     line-height: 1.9;
                     color: #444;
                     margin: 8px 0;
+                }
+            }
+            .drill_block {
+                p {
+                    font-size: 16px;
+                    line-height: 1.9;
+                    color: #000;
+                    margin: 8px 0;
+                    padding-left: 16px;
+                    position: relative;
+                    &::before {
+                        content: '';
+                        position: absolute;
+                        left: 0;
+                        top: 13px;
+                        width: 6px;
+                        height: 6px;
+                        border-radius: 50%;
+                        background-color: #fc7e0f;
+                    }
+                }
+            }
+            .ex_group {
+                margin-bottom: 24px;
+                &:last-child {
+                    margin-bottom: 0;
+                }
+                .ex_head {
+                    display: flex;
+                    align-items: baseline;
+                    gap: 10px;
+                    margin-bottom: 10px;
+                    .ex_letter {
+                        flex-shrink: 0;
+                        width: 26px;
+                        height: 26px;
+                        line-height: 26px;
+                        text-align: center;
+                        font-size: 14px;
+                        font-weight: bold;
+                        color: #fff;
+                        background-color: #fc7e0f;
+                        border-radius: 6px;
+                    }
+                    .ex_instruction {
+                        font-size: 15px;
+                        font-weight: 600;
+                        color: #000;
+                    }
+                }
+                .ex_example {
+                    background-color: #fff4e8;
+                    border-left: 3px solid #fc7e0f;
+                    border-radius: 4px;
+                    padding: 10px 14px;
+                    margin-bottom: 10px;
+                    .ex_example_label {
+                        font-size: 12px;
+                        font-weight: 600;
+                        color: #fc7e0f;
+                        margin-bottom: 4px;
+                    }
+                    p {
+                        font-size: 15px;
+                        line-height: 1.8;
+                        color: #444;
+                        margin: 4px 0;
+                    }
+                }
+                .ex_item {
+                    font-size: 15px;
+                    line-height: 1.9;
+                    color: #000;
+                    padding-left: 14px;
+                    position: relative;
+                    &::before {
+                        content: '';
+                        position: absolute;
+                        left: 0;
+                        top: 13px;
+                        width: 6px;
+                        height: 6px;
+                        border-radius: 50%;
+                        background-color: #999;
+                    }
                 }
             }
             .words_grid {

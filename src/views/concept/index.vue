@@ -20,6 +20,7 @@
             <div class="box_right">
                 <div class="box_right_title">
                     <span>{{ item.type }}</span>
+                    <span v-if="item.kind === 'practice'" class="kind_badge">练习课</span>
                 </div>
                 <div class="box_right_content">{{ item.title }}</div>
                 <div class="box_right_desc">{{ item.desc }}</div>
@@ -151,9 +152,20 @@ onMounted(() => {
             min-width: 0;
             .box_right_title {
                 font-size: 12px;
+                display: flex;
+                align-items: center;
+                gap: 8px;
                 span {
                     font-weight: 600;
                     color: #fc7e0f;
+                }
+                .kind_badge {
+                    font-size: 12px;
+                    font-weight: 600;
+                    color: #3a6ea5;
+                    background-color: #e8f0fa;
+                    border-radius: 4px;
+                    padding: 1px 6px;
                 }
             }
             .box_right_content {

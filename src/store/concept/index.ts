@@ -17,11 +17,13 @@ export const useConceptStoreHook = defineStore('concept', {
         directory(state): Concept[] {
             return getBookIndex(state.activeBook).map((l) => ({
                 title: l.title,
-                desc: l.titleCn,
+                // 练习课无中文标题, 用内容说明兜底
+                desc: l.titleCn || (l.kind === 'practice' ? '句型练习与书面练习' : ''),
                 type: `Lesson ${l.lesson}`,
                 date: '',
                 coverImg: '',
                 id: l.lesson,
+                kind: l.kind || 'lesson',
             }))
         },
     },
