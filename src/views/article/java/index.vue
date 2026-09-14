@@ -50,7 +50,6 @@ interface Doc {
     blocks: ArticleBlock[]
 }
 
-const slug = ref(String(route.params.slug || ''))
 const doc = ref<Doc | null>(null)
 const loaded = ref(false)
 let loadSeq = 0
@@ -61,19 +60,23 @@ const loaders: Record<string, () => Promise<{ default: string }>> = {
     oop: () => import('../content/oop.md?raw'),
     api: () => import('../content/api.md?raw'),
     advanced: () => import('../content/advanced.md?raw'),
+    relational: () => import('../content/relational.md?raw'),
+    query: () => import('../content/query.md?raw'),
+    join: () => import('../content/join.md?raw'),
+    transaction: () => import('../content/transaction.md?raw'),
 }
 
-watch(() => route.params.slug, async (s) => {
+watch(() => route.path, async () => {
     const seq = ++loadSeq
-    slug.value = String(s || '')
     loaded.value = false
     doc.value = null
     window.scrollTo(0, 0)
 
-    // 从文章目录取元信息(标题/分类/日期/简介)
-    const path = '/article/java-' + slug.value + '.html'
+    // 从文章目录取元信息(标题/分类/日期/简介), path 形如 /article/sql-query.html
+    const path = route.path
     const meta = articleStore.directory.find((item) => item.path === path)
-    const loader = loaders[slug.value]
+    const m = path.match(/^\/article\/(?:java|sql)-(.+)\.html$/)
+    const loader = m ? loaders[m[1]] : undefined
     if (!loader || !meta) {
         if (seq === loadSeq) loaded.value = true
         return
