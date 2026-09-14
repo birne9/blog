@@ -19,6 +19,7 @@
   },
   "homepage": "https://birne9.github.io/blog",
   "dependencies": {
+    "highlight.js": "^11.12.0",
     "mitt": "^3.0.1",
     "pinia": "^2.1.7",
     "pinia-plugin-persistedstate": "^3.2.1",

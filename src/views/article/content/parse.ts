@@ -16,6 +16,7 @@ export function parseMarkdown(src: string): ArticleBlock[] {
         const line = lines[i]
         if (line.startsWith('```')) {
             flush()
+            const lang = line.slice(3).trim() // 围栏语言标记, 如 ```java
             const code: string[] = []
             i++
             while (i < lines.length && !lines[i].startsWith('```')) {
@@ -23,7 +24,7 @@ export function parseMarkdown(src: string): ArticleBlock[] {
                 i++
             }
             i++ // 跳过结束围栏
-            blocks.push({ type: 'code', text: code.join('\n') })
+            blocks.push({ type: 'code', text: code.join('\n'), lang: lang || undefined })
         } else if (/^#{2,3}\s/.test(line)) {
             flush()
             const level: 'h2' | 'h3' = line.startsWith('###') ? 'h3' : 'h2'

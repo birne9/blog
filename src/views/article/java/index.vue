@@ -17,7 +17,7 @@
                     <h2 v-if="b.type === 'h2'" class="blk_h2" v-html="b.text"></h2>
                     <h3 v-else-if="b.type === 'h3'" class="blk_h3" v-html="b.text"></h3>
                     <p v-else-if="b.type === 'p'" class="blk_p" v-html="b.text"></p>
-                    <pre v-else-if="b.type === 'code'" class="blk_code"><code>{{ b.text }}</code></pre>
+                    <pre v-else-if="b.type === 'code'" class="blk_code"><code class="hljs" v-html="b.text"></code></pre>
                     <div v-else-if="b.type === 'tip'" class="blk_tip" v-html="b.text"></div>
                 </template>
             </div>
@@ -38,6 +38,7 @@ import { ArticleBlock } from '../content/type';
 import { parseMarkdown } from '../content/parse';
 import { useAticleStoreHook } from '@/store/article/index';
 import { escapeHtml, highlightVueKeywords } from '../content/highlight';
+import { highlightCode } from '../content/codeHighlight';
 
 const route = useRoute()
 const router = useRouter()
@@ -92,7 +93,7 @@ watch(() => route.path, async () => {
     // Vue 系列正文做关键词高亮(转义+包 <code class="kw">); 其余系列只转义, 与 v-html 渲染配套
     const isVue = m?.[1] === 'vue'
     const blocks = parseMarkdown(mod.default).map((b) => {
-        if (b.type === 'code') return b
+        if (b.type === 'code') return { ...b, text: highlightCode(b.text, b.lang) }
         return { ...b, text: isVue ? highlightVueKeywords(b.text) : escapeHtml(b.text) }
     })
     doc.value = {
@@ -198,6 +199,11 @@ const goList = () => {
                     font-size: 14px;
                     line-height: 1.7;
                     color: #000;
+                }
+                // github.css 主题自带的 .hljs 底色/内边距交给外层, 内部置透明
+                :deep(.hljs) {
+                    background: transparent;
+                    padding: 0;
                 }
             }
             .blk_tip {
