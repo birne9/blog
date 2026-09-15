@@ -507,3 +507,162 @@ export function renderVocabLines(text: string, ipaMap?: Record<string, string>):
     }
     return entries.map((e) => renderEntryB(e, ipaMap)).join('')
 }
+
+// ==================== 语法讲解结构化渲染 ====================
+// 讲解段落为自由文本, 常见结构:
+//  a) 编号要点: "1．Good morning．早上好。..." / "（1）..." 子要点, 常多处粘连在同一段
+//  b) Step 步骤: "Step 1.确定特殊疑问词"
+//  c) 句内例句对: "This is your watch.这是你的手表。" 英文句(可为连续多句)+中文句
+// 策略: 编号标记只在句界边界处拆分(零丢字, 仅摘除标记符号); 例句对按句界切分后
+//  保守配对(英文句必须以 .!?。！？ 结尾且 ≤100 字, 中文句 ≤36 字且不含英文), 其余原样保留
+
+// 语法块: 无编号的纯文本块 / 带编号的要点块
+interface GrammarBlock {
+    no?: string;
+    kind?: 'num' | 'sub' | 'step';
+    text: string;
+}
+
+// 编号标记: （(）?数字 + 分隔符, 如 1．/ 2. / 1、/ （1）/（2）
+// 括号完整时(（1）)分隔符可有可无; 无括号时必须带 [．.、]
+// 仅当标记位于段落起始或前一个非空白字符为句界(。！？；：/空格)时才算要点边界,
+// 避免 "3个冠词" "1-one" "48个音标" "Lesson 15～16" 等误拆
+const G_POINT_RE = /((?:[（(]\d+[）)][．.、]?|\d+[．.、]))\s*/g
+
+export function splitGrammarBlocks(text: string): GrammarBlock[] {
+    const blocks: GrammarBlock[] = []
+    let pending: GrammarBlock | null = null
+    let last = 0
+    let m: RegExpExecArray | null
+    G_POINT_RE.lastIndex = 0
+    while ((m = G_POINT_RE.exec(text))) {
+        const marker = m[1]
+        const before = text.slice(last, m.index)
+        const atStart = last === 0 && !before.trim()
+        const prev = before.length ? before[before.length - 1] : ''
+        // 标记前的文本: 属于上一要点或独立成段
+        let lead = before
+        let kind: GrammarBlock['kind'] = /[（(]/.test(marker) ? 'sub' : 'num'
+        const isStep = /(^|[：:\s])Step\s*$/i.test(lead)
+        if (isStep) {
+            lead = lead.replace(/\s*Step\s*$/i, '')
+            kind = 'step'
+        } else if (!atStart) {
+            // ASCII '.' 歧义最大("at 7."句末 vs "1."列表), 仅当前接中文句界时才视为标记;
+            // 全角分隔符(．、)与括号(（1）)沿用宽松句界(含空格)
+            const okPrev = marker.slice(-1) === '.' ? /[。！？；：]/.test(prev) : /[\s。！？；：]/.test(prev)
+            if (!okPrev) continue
+        }
+        if (lead.trim()) {
+            if (pending) pending.text += lead
+            else blocks.push({ text: lead })
+        }
+        if (pending) blocks.push(pending)
+        pending = { no: (marker.match(/\d+/) || [''])[0], kind, text: '' }
+        last = m.index + m[0].length
+    }
+    const tail = text.slice(last)
+    if (pending) {
+        pending.text += tail
+        blocks.push(pending)
+    } else if (tail.trim()) {
+        blocks.push({ text: tail })
+    }
+    return blocks
+}
+
+// 按句界切分文本: 。！？；与 ! ? 均断句, '.' 仅在后接中文/句末时断(避免 Mr. 之类缩写误断)
+function splitGrammarRuns(text: string): string[] {
+    const runs: string[] = []
+    let cur = ''
+    const push = () => { if (cur) { runs.push(cur); cur = '' } }
+    for (let i = 0; i < text.length; i++) {
+        const c = text[i]
+        cur += c
+        if ('。！？；'.indexOf(c) >= 0) { push(); continue }
+        if (c === '!' || c === '?') { push(); continue }
+        if (c === '.') {
+            let j = i + 1
+            while (j < text.length && /\s/.test(text[j])) j++
+            const nx = j < text.length ? text[j] : ''
+            if (!nx || /[\u4e00-\u9fff]/.test(nx) || '。！？；!?'.indexOf(nx) >= 0) push()
+        }
+    }
+    push()
+    return runs
+}
+
+function isEnRun(s: string): boolean {
+    return /[A-Za-z]/.test(s) && !/[\u4e00-\u9fff]/.test(s)
+}
+function isZhRun(s: string): boolean {
+    return /[\u4e00-\u9fff]/.test(s) && !/[A-Za-z]/.test(s)
+}
+
+// 句界级例句对识别: 英文句(≤100字, 以 .!?。！？ 结尾)后紧跟中文句(≤36字) → 例句块;
+// 连续英文句合并为一条; 其余文本原样拼接(关键词高亮)
+function renderGrammarText(text: string): string {
+    const runs = splitGrammarRuns(text)
+    const out: string[] = []
+    let prose = ''
+    const flushProse = () => {
+        if (prose.trim()) {
+            out.push('<div class="gp-text">' + highlightGrammarKeywords(prose) + '</div>')
+        }
+        prose = ''
+    }
+    const enBuf: string[] = []
+    const flushEn = (zhText?: string) => {
+        if (!enBuf.length) return
+        flushProse() // 例句块前的解说文字先落盘, 保证原文阅读顺序
+        const enText = enBuf.join(' ')
+        enBuf.length = 0
+        const spk = '<span class="vd-spk vd-ex-spk" data-word="' + attrEscape(enText) + '" title="点击朗读例句">' + SPK_SVG + '</span>'
+        const enHtml = '<div class="gp-ex-en">' + spk + '<span class="gp-ex-txt">' + escapeHtml(enText) + '</span></div>'
+        const zhHtml = zhText ? '<div class="gp-ex-zh">' + escapeHtml(zhText) + '</div>' : ''
+        out.push('<div class="gp-ex">' + enHtml + zhHtml + '</div>')
+    }
+    for (const r of runs) {
+        const t = r.trim()
+        if (!t) continue
+        if (isEnRun(t) && /[.!?。！？]$/.test(t) && t.length <= 100) {
+            enBuf.push(t)
+            continue
+        }
+        if (enBuf.length && isZhRun(t) && t.length <= 36) {
+            flushEn(t)
+            continue
+        }
+        if (enBuf.length) {
+            prose += (prose ? ' ' : '') + enBuf.join(' ')
+            enBuf.length = 0
+        }
+        prose += (prose ? ' ' : '') + t
+    }
+    if (enBuf.length) flushEn()
+    flushProse()
+    return out.join('')
+}
+
+// 语法讲解段落渲染入口: 编号要点(圆徽章)/Step 步骤/子要点(浅色徽章缩进)/纯文本段
+export function renderGrammarLines(text: string): string {
+    const blocks = splitGrammarBlocks(text)
+    const parts: string[] = []
+    for (let i = 0; i < blocks.length; i++) {
+        const b = blocks[i]
+        const inner = renderGrammarText(b.text)
+        if (b.no === undefined) {
+            parts.push('<div class="gp-para">' + inner + '</div>')
+            continue
+        }
+        const prev = i > 0 ? blocks[i - 1] : null
+        // 子要点: 紧跟任一编号要点/步骤之后即缩进嵌套
+        const isSub = b.kind === 'sub' && !!prev && prev.no !== undefined
+        const badge = b.kind === 'step'
+            ? '<span class="gp-badge gp-step">Step ' + escapeHtml(b.no) + '</span>'
+            : '<span class="gp-badge' + (b.kind === 'sub' ? ' gp-sub' : '') + '">' + escapeHtml(b.no) + '</span>'
+        parts.push('<div class="gp-point' + (isSub ? ' gp-nested' : '') + '">' + badge +
+            '<div class="gp-body">' + inner + '</div></div>')
+    }
+    return parts.join('')
+}

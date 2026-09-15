@@ -87,7 +87,7 @@
                     <div class="grammar_title">{{ g.title }}</div>
                     <template v-for="(para, j) in g.content" :key="j">
                         <div v-if="g.title === '词汇学习'" class="vocab_block" v-html="renderVocabLines(para, ipaMap)" @click="onVocabClick"></div>
-                        <p v-else class="grammar_para" v-html="highlightGrammarKeywords(para)"></p>
+                        <div v-else class="grammar_block" v-html="renderGrammarLines(para)" @click="onVocabClick"></div>
                     </template>
                 </div>
             </div>
@@ -130,7 +130,7 @@ import { computed, ref, watch, onBeforeUnmount } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { Lesson, GrammarSection } from '../type';
 import { loadBookLessons, loadBookGrammar, getBookMeta } from '../data';
-import { highlightGrammarKeywords, renderVocabLines } from './highlight';
+import { highlightGrammarKeywords, renderVocabLines, renderGrammarLines } from './highlight';
 import LessonCover from '../components/LessonCover.vue';
 import ipaMap from '../ipa-map.json';
 
@@ -609,33 +609,136 @@ onBeforeUnmount(stopRead)
                 }
             }
             .grammar_group {
-                background-color: #fafafa;
-                border: 1px solid #f0f0f0;
-                border-radius: 8px;
-                padding: 14px 16px;
+                background-color: #ffffff;
+                border: 1px solid #e8edf4;
+                border-radius: 12px;
+                padding: 16px 18px 14px;
                 margin-bottom: 14px;
                 &:last-child {
                     margin-bottom: 0;
                 }
                 .grammar_title {
-                    font-size: 14px;
-                    font-weight: bold;
-                    color: #c2410c;
-                    margin-bottom: 8px;
+                    font-size: 16px;
+                    font-weight: 700;
+                    color: #1b2b45;
+                    line-height: 1.4;
+                    margin-bottom: 10px;
+                    padding-left: 10px;
+                    border-left: 4px solid #2f6fe4;
                 }
-                .grammar_para {
-                    font-size: 15px;
-                    line-height: 1.9;
-                    color: #333;
-                    margin: 6px 0;
-                    :deep(.kw) {
-                        font-family: 'SF Mono', Menlo, Monaco, Consolas, monospace;
-                        font-size: 0.88em;
-                        background-color: #fff4e8;
-                        color: #c2410c;
-                        padding: 1px 5px;
-                        border-radius: 4px;
-                        margin: 0 1px;
+                .grammar_block {
+                    // 编号要点: 圆徽章 + 内容
+                    :deep(.gp-point) {
+                        display: flex;
+                        gap: 10px;
+                        margin: 12px 0;
+                        .gp-badge {
+                            flex-shrink: 0;
+                            min-width: 22px;
+                            height: 22px;
+                            padding: 0 6px;
+                            border-radius: 11px;
+                            background-color: #2f6fe4;
+                            color: #ffffff;
+                            font-size: 13px;
+                            font-weight: 700;
+                            display: inline-flex;
+                            align-items: center;
+                            justify-content: center;
+                            margin-top: 4px;
+                            box-sizing: border-box;
+                            &.gp-sub {
+                                background-color: #ffffff;
+                                border: 1px solid #bcd3f7;
+                                color: #2f6fe4;
+                                font-size: 12px;
+                            }
+                            &.gp-step {
+                                border-radius: 6px;
+                                background-color: #33475b;
+                                font-size: 12px;
+                                letter-spacing: 0.3px;
+                            }
+                        }
+                        .gp-body {
+                            flex: 1;
+                            min-width: 0;
+                        }
+                        &.gp-nested {
+                            margin: 6px 0 6px 14px;
+                            padding-left: 12px;
+                            border-left: 2px dashed #dde7f5;
+                        }
+                    }
+                    :deep(.gp-para) {
+                        margin: 6px 0;
+                    }
+                    // 正文: 语法术语橙色高亮
+                    :deep(.gp-text) {
+                        font-size: 15px;
+                        line-height: 1.9;
+                        color: #3a4653;
+                        margin: 4px 0;
+                        .kw {
+                            font-family: 'SF Mono', Menlo, Monaco, Consolas, monospace;
+                            font-size: 0.88em;
+                            background-color: #fff4e8;
+                            color: #c2410c;
+                            padding: 1px 5px;
+                            border-radius: 4px;
+                            margin: 0 1px;
+                        }
+                    }
+                    // 例句块: 英文加粗带喇叭 + 中文灰译
+                    :deep(.gp-ex) {
+                        background-color: #f4f8fd;
+                        border-left: 3px solid #2f6fe4;
+                        border-radius: 6px;
+                        padding: 7px 12px;
+                        margin: 6px 0;
+                        .gp-ex-en {
+                            display: flex;
+                            align-items: flex-start;
+                            font-size: 14.5px;
+                            font-weight: 600;
+                            color: #1f2937;
+                            line-height: 1.7;
+                            .gp-ex-txt {
+                                flex: 1;
+                                min-width: 0;
+                            }
+                            .vd-ex-spk {
+                                display: inline-flex;
+                                align-items: center;
+                                justify-content: center;
+                                flex-shrink: 0;
+                                width: 18px;
+                                height: 18px;
+                                border-radius: 50%;
+                                color: #3b7ce8;
+                                cursor: pointer;
+                                user-select: none;
+                                margin-right: 6px;
+                                margin-top: 3px;
+                                transition: background-color 0.15s ease;
+                                &:hover {
+                                    background-color: #e8f0fe;
+                                }
+                                &:active {
+                                    background-color: #d8e6fc;
+                                }
+                                svg {
+                                    width: 11px;
+                                    height: 11px;
+                                }
+                            }
+                        }
+                        .gp-ex-zh {
+                            font-size: 13px;
+                            color: #8a99ac;
+                            line-height: 1.6;
+                            margin-top: 3px;
+                        }
                     }
                 }
                 .vocab_block {
@@ -1010,6 +1113,18 @@ onBeforeUnmount(stopRead)
                         }
                         .word_ipa {
                             font-size: 12px;
+                        }
+                    }
+                }
+                .grammar_group {
+                    padding: 14px 12px 12px;
+                    .grammar_block {
+                        :deep(.gp-point) {
+                            gap: 8px;
+                            &.gp-nested {
+                                margin-left: 6px;
+                                padding-left: 8px;
+                            }
                         }
                     }
                 }
