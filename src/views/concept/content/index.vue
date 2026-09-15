@@ -495,10 +495,12 @@ onBeforeUnmount(stopRead)
                 justify-content: space-between;
                 flex-wrap: wrap;
                 gap: 8px;
+                // 控制区与课文卡片之间留出呼吸空间
+                margin-bottom: 18px;
                 .head_actions {
                     display: flex;
                     align-items: center;
-                    gap: 8px;
+                    gap: 12px;
                     margin-left: auto;
                     .rate_ctrl {
                         display: inline-flex;
@@ -510,7 +512,7 @@ onBeforeUnmount(stopRead)
                             font-size: 13px;
                             font-weight: 600;
                             color: #fc7e0f;
-                            padding: 5px 10px;
+                            padding: 8px 13px;
                             cursor: pointer;
                             user-select: none;
                             transition: all 0.2s ease;
@@ -537,7 +539,7 @@ onBeforeUnmount(stopRead)
                         background-color: #fff;
                         border: 1px solid #fc7e0f;
                         border-radius: 20px;
-                        padding: 6px 16px;
+                        padding: 9px 18px;
                         transition: all 0.2s ease;
                         user-select: none;
                         .read_icon {
@@ -552,6 +554,7 @@ onBeforeUnmount(stopRead)
                         }
                     }
                     .stop_btn {
+                        padding: 9px 14px;
                         color: #555;
                         border-color: #ddd;
                         &:hover {
