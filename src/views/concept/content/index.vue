@@ -1093,17 +1093,23 @@ onBeforeUnmount(stopRead)
             }
             .section {
                 .section_head {
+                    // 移动端控制区与课文卡片之间留出呼吸空间
+                    margin-bottom: 18px;
                     .head_actions {
+                        flex-wrap: wrap;
+                        gap: 10px 12px;
                         .rate_ctrl {
                             span {
-                                padding: 7px 11px;
+                                padding: 8px 13px;
                             }
                         }
                         .read_btn {
-                            padding: 8px 16px;
+                            flex-shrink: 0;
+                            padding: 9px 18px;
                         }
                         .stop_btn {
-                            padding: 8px 12px;
+                            flex-shrink: 0;
+                            padding: 9px 14px;
                         }
                     }
                 }
