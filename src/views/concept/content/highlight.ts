@@ -434,12 +434,18 @@ function renderHead(e: VdEntry, ipaMap: Record<string, string> | undefined): str
     return '<div class="vd-head">' + parts.join('') + '</div>'
 }
 
-// 例句块
+// 属性转义: 额外处理双引号, 供 data-word 使用
+function attrEscape(s: string): string {
+    return escapeHtml(s).replace(/"/g, '&quot;')
+}
+
+// 例句块(英文句带喇叭, 点击朗读整句)
 function renderExamples(examples: VdExample[], word: string): string {
     return examples.map((ex) => {
         const parts: string[] = []
         if (ex.en) {
-            parts.push('<div class="vd-ex-en">' + highlightHeadword(escapeHtml(ex.en), word) + '</div>')
+            const spk = '<span class="vd-spk vd-ex-spk" data-word="' + attrEscape(ex.en) + '" title="点击朗读例句">' + SPK_SVG + '</span>'
+            parts.push('<div class="vd-ex-en">' + spk + highlightHeadword(escapeHtml(ex.en), word) + '</div>')
         }
         if (ex.zh) parts.push('<div class="vd-ex-zh">' + escapeHtml(ex.zh) + '</div>')
         return '<div class="vd-ex">' + parts.join('') + '</div>'

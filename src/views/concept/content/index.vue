@@ -737,6 +737,30 @@ onBeforeUnmount(stopRead)
                                 font-weight: 700;
                                 color: #2f6fe4;
                             }
+                            .vd-ex-spk {
+                                display: inline-flex;
+                                align-items: center;
+                                justify-content: center;
+                                width: 18px;
+                                height: 18px;
+                                border-radius: 50%;
+                                color: #3b7ce8;
+                                cursor: pointer;
+                                user-select: none;
+                                margin-right: 6px;
+                                vertical-align: -3px;
+                                transition: background-color 0.15s ease;
+                                &:hover {
+                                    background-color: #e8f0fe;
+                                }
+                                &:active {
+                                    background-color: #d8e6fc;
+                                }
+                                svg {
+                                    width: 11px;
+                                    height: 11px;
+                                }
+                            }
                         }
                         .vd-ex-zh {
                             font-size: 13px;
