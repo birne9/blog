@@ -445,7 +445,7 @@ function renderExamples(examples: VdExample[], word: string): string {
         const parts: string[] = []
         if (ex.en) {
             const spk = '<span class="vd-spk vd-ex-spk" data-word="' + attrEscape(ex.en) + '" title="点击朗读例句">' + SPK_SVG + '</span>'
-            parts.push('<div class="vd-ex-en">' + spk + highlightHeadword(escapeHtml(ex.en), word) + '</div>')
+            parts.push('<div class="vd-ex-en">' + spk + '<span class="vd-ex-txt">' + highlightHeadword(escapeHtml(ex.en), word) + '</span></div>')
         }
         if (ex.zh) parts.push('<div class="vd-ex-zh">' + escapeHtml(ex.zh) + '</div>')
         return '<div class="vd-ex">' + parts.join('') + '</div>'

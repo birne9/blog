@@ -730,9 +730,15 @@ onBeforeUnmount(stopRead)
                         padding: 8px 14px;
                         margin-top: 8px;
                         .vd-ex-en {
+                            display: flex;
+                            align-items: flex-start;
                             font-size: 14.5px;
                             color: #1f2937;
                             line-height: 1.7;
+                            .vd-ex-txt {
+                                flex: 1;
+                                min-width: 0;
+                            }
                             .vd-kw {
                                 font-weight: 700;
                                 color: #2f6fe4;
@@ -741,6 +747,7 @@ onBeforeUnmount(stopRead)
                                 display: inline-flex;
                                 align-items: center;
                                 justify-content: center;
+                                flex-shrink: 0;
                                 width: 18px;
                                 height: 18px;
                                 border-radius: 50%;
@@ -748,7 +755,8 @@ onBeforeUnmount(stopRead)
                                 cursor: pointer;
                                 user-select: none;
                                 margin-right: 6px;
-                                vertical-align: -3px;
+                                // 与首行文字垂直居中: (行高-图标)/2 ≈ 3px
+                                margin-top: 3px;
                                 transition: background-color 0.15s ease;
                                 &:hover {
                                     background-color: #e8f0fe;
