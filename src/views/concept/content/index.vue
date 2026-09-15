@@ -85,7 +85,10 @@
                 <div class="section_label">语法讲解</div>
                 <div class="grammar_group" v-for="(g, i) in grammarSections" :key="i">
                     <div class="grammar_title">{{ g.title }}</div>
-                    <p class="grammar_para" v-for="(para, j) in g.content" :key="j" v-html="highlightGrammarKeywords(para)"></p>
+                    <template v-for="(para, j) in g.content" :key="j">
+                        <div v-if="g.title === '词汇学习'" class="vocab_block" v-html="renderVocabLines(para)"></div>
+                        <p v-else class="grammar_para" v-html="highlightGrammarKeywords(para)"></p>
+                    </template>
                 </div>
             </div>
 
@@ -127,7 +130,7 @@ import { computed, ref, watch, onBeforeUnmount } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { Lesson, GrammarSection } from '../type';
 import { loadBookLessons, loadBookGrammar, getBookMeta } from '../data';
-import { highlightGrammarKeywords } from './highlight';
+import { highlightGrammarKeywords, renderVocabLines } from './highlight';
 import LessonCover from '../components/LessonCover.vue';
 
 const route = useRoute()
@@ -611,6 +614,47 @@ onBeforeUnmount(stopRead)
                         padding: 1px 5px;
                         border-radius: 4px;
                         margin: 0 1px;
+                    }
+                }
+                .vocab_block {
+                    :deep(p) {
+                        font-size: 15px;
+                        line-height: 1.85;
+                        margin: 4px 0;
+                    }
+                    :deep(.kw) {
+                        font-family: 'SF Mono', Menlo, Monaco, Consolas, monospace;
+                        font-size: 0.88em;
+                        background-color: #fff4e8;
+                        color: #c2410c;
+                        padding: 1px 5px;
+                        border-radius: 4px;
+                        margin: 0 1px;
+                    }
+                    :deep(.vocab-head) {
+                        color: #1f2937;
+                        margin-top: 12px;
+                        b {
+                            font-weight: 700;
+                            color: #111827;
+                        }
+                        .vocab-no {
+                            color: #c2410c;
+                            font-weight: 700;
+                            margin-right: 2px;
+                        }
+                    }
+                    :deep(.vocab-word) {
+                        margin-top: 4px;
+                    }
+                    :deep(.vocab-sense) {
+                        padding-left: 1.4em;
+                        color: #c2410c;
+                        font-weight: 600;
+                    }
+                    :deep(.vocab-ex) {
+                        padding-left: 2.8em;
+                        color: #555;
                     }
                 }
             }

@@ -87,10 +87,49 @@ function escapeHtml(s: string): string {
 
 // 通用关键词高亮: 转义后把匹配到的词包成 <code class="kw">
 // 前导捕获组 (^|[^A-Za-z0-9_]) 代替 (?<!...) 反向断言, 兼容旧版 Safari;
-// 尾随 (?![A-Za-z0-9_]) 防止半词误伤; i 修饰符让英文术语大小写都能命中
+// 尾随 (?![A-Za-z0-9_]) 防止半词误伤; i 修饰符让英文术语大小写都能命中;
+// 关键词里的点号(如 int.)须转义, 否则会当作通配符误伤 into 之类单词
 export function highlightGrammarKeywords(text: string): string {
     const out = escapeHtml(text)
-    const kwAlt = GRAMMAR_KEYWORDS.join('|')
+    const kwAlt = GRAMMAR_KEYWORDS.map((k) => k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|')
     const kwRe = new RegExp('(^|[^A-Za-z0-9_])(' + kwAlt + ')(?![A-Za-z0-9_])', 'gi')
     return out.replace(kwRe, '$1<code class="kw">$2</code>')
+}
+
+// 词汇学习多行渲染: 数据按 \n 分行存储, 此处逐行识别层级
+// 编号词条头(1．word POS 释义) -> vocab-head 加粗单词词性
+// 义项行(（2）释义) -> vocab-sense 橙色
+// 词汇列表词条行(feel v. 感觉 / come home [在家]) -> vocab-head 加粗英文部分
+// 其余 -> vocab-ex 例句缩进
+export function renderVocabLines(text: string): string {
+    const parts: string[] = []
+    for (const raw of text.split('\n')) {
+        const line = raw.trim()
+        if (!line) continue
+        // 1. 编号词条头行: 1．look v.（1）看，瞧，观，望：
+        const head = line.match(/^(\d+[．.]\s*)([A-Za-z][A-Za-z'. /-]*?)(?=\s*[\u4e00-\u9fa5（(（:：]|$)([\s\S]*)$/)
+        if (head) {
+            parts.push('<p class="vocab-head"><span class="vocab-no">' + escapeHtml(head[1]) + '</span><b>' + escapeHtml(head[2].trim()) + '</b>' + highlightGrammarKeywords(head[3]) + '</p>')
+            continue
+        }
+        // 2. 义项行: （2）面向，朝向：
+        if (/^[（(]\d+[）)]/.test(line)) {
+            parts.push('<p class="vocab-sense">' + highlightGrammarKeywords(line) + '</p>')
+            continue
+        }
+        // 3. 词汇列表词条行(无编号, 英文在前中文在后, 且不含句末标点): feel v. 感觉
+        // 排除"整句+译文"型例句: 英文串以 . 结尾且末词不是词性缩写(如 time.)时视为例句
+        const word = line.match(/^([A-Za-z][A-Za-z'. /-]*?)(?=\s*[\u4e00-\u9fa5（(（\[【]|$)([\s\S]*)$/)
+        if (word && /[\u4e00-\u9fa5]/.test(word[2]) && !/[。！？]/.test(line)) {
+            const run = word[1].trim()
+            const isPosTail = /(?:^|\s)(?:n|v|adj|adv|prep|pron|conj|aux|art|int|interj|interjection|num)\.$/.test(run)
+            if (!/[.]$/.test(run) || isPosTail) {
+                parts.push('<p class="vocab-head vocab-word"><b>' + escapeHtml(run) + '</b>' + highlightGrammarKeywords(word[2]) + '</p>')
+                continue
+            }
+        }
+        // 4. 例句行
+        parts.push('<p class="vocab-ex">' + highlightGrammarKeywords(line) + '</p>')
+    }
+    return parts.join('')
 }
