@@ -86,7 +86,7 @@
                 <div class="grammar_group" v-for="(g, i) in grammarSections" :key="i">
                     <div class="grammar_title">{{ g.title }}</div>
                     <template v-for="(para, j) in g.content" :key="j">
-                        <div v-if="g.title === '词汇学习'" class="vocab_block" v-html="renderVocabLines(para)"></div>
+                        <div v-if="g.title === '词汇学习'" class="vocab_block" v-html="renderVocabLines(para, ipaMap)" @click="onVocabClick"></div>
                         <p v-else class="grammar_para" v-html="highlightGrammarKeywords(para)"></p>
                     </template>
                 </div>
@@ -132,6 +132,7 @@ import { Lesson, GrammarSection } from '../type';
 import { loadBookLessons, loadBookGrammar, getBookMeta } from '../data';
 import { highlightGrammarKeywords, renderVocabLines } from './highlight';
 import LessonCover from '../components/LessonCover.vue';
+import ipaMap from '../ipa-map.json';
 
 const route = useRoute()
 const router = useRouter()
@@ -260,11 +261,25 @@ if ('speechSynthesis' in window) {
 }
 // 当前朗读中的词卡索引(高亮反馈)
 const speakingIndex = ref(-1)
+// 朗读一段英文(词卡/词汇学习喇叭共用, 美式发音)
+const speakText = (text: string) => {
+    if (!('speechSynthesis' in window) || !text) return
+    stopRead()
+    pickVoice()
+    // 先取消当前朗读(部分移动端浏览器需先取消再排队)
+    window.speechSynthesis.cancel()
+    const u = new SpeechSynthesisUtterance(text)
+    u.lang = 'en-US'
+    if (enVoice) u.voice = enVoice
+    u.rate = 0.7
+    u.pitch = 1
+    u.volume = 1
+    window.speechSynthesis.speak(u)
+}
 const speakWord = (w: { en: string }, index: number) => {
     if (!('speechSynthesis' in window) || !w.en) return
     stopRead()
     pickVoice()
-    // 先取消当前朗读(部分移动端浏览器需先取消再排队)
     window.speechSynthesis.cancel()
     const u = new SpeechSynthesisUtterance(w.en)
     u.lang = 'en-US'
@@ -279,6 +294,13 @@ const speakWord = (w: { en: string }, index: number) => {
     u.onerror = done
     speakingIndex.value = index
     window.speechSynthesis.speak(u)
+}
+// 词汇学习词条喇叭: 事件委托读取 data-word 朗读单词
+const onVocabClick = (e: MouseEvent) => {
+    const el = (e.target as HTMLElement).closest('.vd-spk') as HTMLElement | null
+    if (!el) return
+    const word = (el.dataset.word || '').trim()
+    if (word) speakText(word)
 }
 
 // ============ 课文朗读(逐句合成, 当前句高亮) ============
@@ -617,44 +639,134 @@ onBeforeUnmount(stopRead)
                     }
                 }
                 .vocab_block {
-                    :deep(p) {
-                        font-size: 15px;
-                        line-height: 1.85;
-                        margin: 4px 0;
-                    }
-                    :deep(.kw) {
-                        font-family: 'SF Mono', Menlo, Monaco, Consolas, monospace;
-                        font-size: 0.88em;
-                        background-color: #fff4e8;
-                        color: #c2410c;
-                        padding: 1px 5px;
-                        border-radius: 4px;
-                        margin: 0 1px;
-                    }
-                    :deep(.vocab-head) {
-                        color: #1f2937;
-                        margin-top: 12px;
-                        b {
-                            font-weight: 700;
-                            color: #111827;
-                        }
-                        .vocab-no {
-                            color: #c2410c;
-                            font-weight: 700;
-                            margin-right: 2px;
+                    // 有道词典风格词条卡片
+                    :deep(.vd-entry) {
+                        background-color: #f8fafd;
+                        border: 1px solid #e8edf4;
+                        border-radius: 10px;
+                        padding: 14px 18px 12px;
+                        margin-bottom: 12px;
+                        &:last-child {
+                            margin-bottom: 0;
                         }
                     }
-                    :deep(.vocab-word) {
+                    :deep(.vd-head) {
+                        display: flex;
+                        align-items: center;
+                        flex-wrap: wrap;
+                        gap: 2px 10px;
+                        margin-bottom: 2px;
+                        .vd-word {
+                            font-size: 20px;
+                            font-weight: 700;
+                            color: #1b2b45;
+                        }
+                        .vd-ipa {
+                            font-size: 14px;
+                            color: #8a99ac;
+                        }
+                        .vd-spk {
+                            display: inline-flex;
+                            align-items: center;
+                            justify-content: center;
+                            width: 22px;
+                            height: 22px;
+                            border-radius: 50%;
+                            color: #3b7ce8;
+                            cursor: pointer;
+                            user-select: none;
+                            transition: background-color 0.15s ease;
+                            &:hover {
+                                background-color: #e8f0fe;
+                            }
+                            &:active {
+                                background-color: #d8e6fc;
+                            }
+                        }
+                        .vd-note {
+                            font-size: 13px;
+                            color: #8a99ac;
+                        }
+                    }
+                    :deep(.vd-group) {
                         margin-top: 4px;
                     }
-                    :deep(.vocab-sense) {
-                        padding-left: 1.4em;
-                        color: #c2410c;
-                        font-weight: 600;
+                    :deep(.vd-pos-line) {
+                        margin-top: 8px;
+                        padding-bottom: 4px;
+                        border-bottom: 1px dashed #e4eaf2;
+                        .vd-pos {
+                            display: inline-block;
+                            font-size: 12px;
+                            font-weight: 600;
+                            color: #2f6fe4;
+                            background-color: #e9f1fe;
+                            border-radius: 4px;
+                            padding: 1px 8px;
+                        }
                     }
-                    :deep(.vocab-ex) {
-                        padding-left: 2.8em;
-                        color: #555;
+                    :deep(.vd-sense) {
+                        margin-top: 8px;
+                    }
+                    :deep(.vd-sense-top) {
+                        display: flex;
+                        align-items: baseline;
+                        gap: 8px;
+                        .vd-sno {
+                            font-size: 13px;
+                            font-weight: 600;
+                            color: #8a99ac;
+                            flex-shrink: 0;
+                        }
+                        .vd-meaning {
+                            font-size: 15px;
+                            color: #303a46;
+                            line-height: 1.7;
+                        }
+                    }
+                    :deep(.vd-ex) {
+                        background-color: #f1f5fa;
+                        border-radius: 8px;
+                        padding: 8px 14px;
+                        margin-top: 8px;
+                        .vd-ex-en {
+                            font-size: 14.5px;
+                            color: #1f2937;
+                            line-height: 1.7;
+                            .vd-kw {
+                                font-weight: 700;
+                                color: #2f6fe4;
+                            }
+                        }
+                        .vd-ex-zh {
+                            font-size: 13px;
+                            color: #8a99ac;
+                            line-height: 1.6;
+                            margin-top: 3px;
+                        }
+                    }
+                    :deep(.vd-simple) {
+                        .vd-head {
+                            margin-bottom: 0;
+                            .vd-word {
+                                font-size: 17px;
+                            }
+                            .vd-pos {
+                                font-size: 12px;
+                                font-weight: 600;
+                                color: #2f6fe4;
+                                background-color: #e9f1fe;
+                                border-radius: 4px;
+                                padding: 1px 8px;
+                            }
+                            .vd-trans {
+                                font-size: 14.5px;
+                                color: #4a5568;
+                            }
+                        }
+                        .vd-ex {
+                            margin-top: 6px;
+                        }
                     }
                 }
             }
