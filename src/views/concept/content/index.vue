@@ -569,22 +569,33 @@ onBeforeUnmount(stopRead)
                 border-left: 4px solid #fc7e0f;
             }
             .en_block {
+                // 经典书卷风: 纸张卡片 + 衬线字体 + 宽行距
+                background-color: #fdfcf7;
+                border: 1px solid #ece4d3;
+                border-radius: 10px;
+                padding: 22px 28px;
+                box-shadow: 0 1px 3px rgba(70, 58, 34, 0.06);
                 p {
-                    font-size: 17px;
-                    line-height: 1.9;
-                    color: #000;
-                    margin: 10px 0;
+                    font-family: Georgia, 'Times New Roman', 'Songti SC', serif;
+                    font-size: 18px;
+                    line-height: 2.1;
+                    letter-spacing: 0.3px;
+                    color: #26251f;
+                    margin: 12px 0;
                     .sent_speaking {
-                        background-color: #ffedd5;
+                        background-color: #ffedd2;
                         border-radius: 3px;
+                        padding: 1px 2px;
                     }
                 }
             }
             .zh_block {
                 p {
+                    font-family: 'Songti SC', 'STSong', 'SimSun', 'Noto Serif SC', Georgia, serif;
                     font-size: 16px;
-                    line-height: 1.9;
-                    color: #444;
+                    line-height: 2;
+                    letter-spacing: 0.4px;
+                    color: #756d5e;
                     margin: 8px 0;
                 }
             }
@@ -1096,8 +1107,15 @@ onBeforeUnmount(stopRead)
                         }
                     }
                 }
-                .en_block p {
-                    font-size: 16px;
+                .en_block {
+                    padding: 16px 14px;
+                    p {
+                        font-size: 16.5px;
+                        line-height: 2;
+                    }
+                }
+                .zh_block p {
+                    font-size: 15px;
                 }
                 .words_grid {
                     grid-template-columns: repeat(2, 1fr);
