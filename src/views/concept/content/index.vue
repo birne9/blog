@@ -85,7 +85,7 @@
                 <div class="section_label">语法讲解</div>
                 <div class="grammar_group" v-for="(g, i) in grammarSections" :key="i">
                     <div class="grammar_title">{{ g.title }}</div>
-                    <p class="grammar_para" v-for="(para, j) in g.content" :key="j">{{ para }}</p>
+                    <p class="grammar_para" v-for="(para, j) in g.content" :key="j" v-html="highlightGrammarKeywords(para)"></p>
                 </div>
             </div>
 
@@ -127,6 +127,7 @@ import { computed, ref, watch, onBeforeUnmount } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { Lesson, GrammarSection } from '../type';
 import { loadBookLessons, loadBookGrammar, getBookMeta } from '../data';
+import { highlightGrammarKeywords } from './highlight';
 import LessonCover from '../components/LessonCover.vue';
 
 const route = useRoute()
@@ -602,6 +603,15 @@ onBeforeUnmount(stopRead)
                     line-height: 1.9;
                     color: #333;
                     margin: 6px 0;
+                    :deep(.kw) {
+                        font-family: 'SF Mono', Menlo, Monaco, Consolas, monospace;
+                        font-size: 0.88em;
+                        background-color: #fff4e8;
+                        color: #c2410c;
+                        padding: 1px 5px;
+                        border-radius: 4px;
+                        margin: 0 1px;
+                    }
                 }
             }
             .ex_group {
