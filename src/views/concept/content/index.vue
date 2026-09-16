@@ -693,6 +693,9 @@ onBeforeUnmount(stopRead)
                         line-height: 1.9;
                         color: #3a4653;
                         margin: 4px 0;
+                        min-width: 0;
+                        overflow-wrap: break-word;
+                        word-break: break-word;
                         .kw {
                             font-family: 'SF Mono', Menlo, Monaco, Consolas, monospace;
                             font-size: 0.88em;
@@ -720,6 +723,8 @@ onBeforeUnmount(stopRead)
                             .gp-ex-txt {
                                 flex: 1;
                                 min-width: 0;
+                                overflow-wrap: break-word;
+                                word-break: break-word;
                             }
                             .vd-ex-spk {
                                 display: inline-flex;
@@ -752,6 +757,8 @@ onBeforeUnmount(stopRead)
                             color: #8a99ac;
                             line-height: 1.6;
                             margin-top: 3px;
+                            overflow-wrap: break-word;
+                            word-break: break-word;
                         }
                     }
                 }
@@ -855,6 +862,8 @@ onBeforeUnmount(stopRead)
                             .vd-ex-txt {
                                 flex: 1;
                                 min-width: 0;
+                                overflow-wrap: break-word;
+                                word-break: break-word;
                             }
                             .vd-kw {
                                 font-weight: 700;
@@ -892,6 +901,8 @@ onBeforeUnmount(stopRead)
                             color: #8a99ac;
                             line-height: 1.6;
                             margin-top: 3px;
+                            overflow-wrap: break-word;
+                            word-break: break-word;
                         }
                     }
                     :deep(.vd-simple) {

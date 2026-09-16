@@ -104,7 +104,7 @@ export function highlightGrammarKeywords(text: string): string {
 //  词头(单词大字+音标+喇叭) → 词性分组 → 义项编号+释义 → 例句块(英文关键词高亮+中文译文)
 
 // 词性缩写(含 n．/n. 全半角点与 modal verb/interjection 全写)
-const POS_ABBR = '(?:n|v|adj|adv|prep|pron|conj|aux|art|int|interj|interjection|num)'
+const POS_ABBR = '(?:n|v|adj|adv|prep|pron|conj|aux|art|int|interj|interjection|num|vt|vi)'
 
 // 行首词性剥离: " v.（1）看..." -> pos=v. rest=（1）看...
 // 缩写必须带点, 全写(mode verb/interjection)可不带, 避免 "near" 被误当成 n.
@@ -299,8 +299,9 @@ function parseSense(s: string, fallbackPos: string): VdSense {
     }
 }
 
-// A 型词条头行: "1．look v.（1）看，瞧，观，望："
-const HEAD_RE = /^(\d+)[．.]\s*([A-Za-z][A-Za-z'. -]*?)(?=\s*[\u4e00-\u9fa5（\[:：]|$)([\s\S]*)$/
+// A 型词条头行: "1．look v.（1）看，瞧，观，望：" / "1．watch, look at 与 follow"
+// 词头英文部分允许 全半角点/逗号/斜杠/省略号/波浪线/加号; 遇 中文/括号/冒号/数字/引号 停靠
+const HEAD_RE = /^(\d+)[．.]\s*([A-Za-z][A-Za-z'.,/．，／…～+ -]*?)(?=\s*[\u4e00-\u9fa5（(\[0-9:：“]|$)([\s\S]*)$/
 // B 型词条行: "feel v. 感觉" / "come home [在家，谈及回家]"
 const WORD_RE = /^([A-Za-z][A-Za-z'. /-]*?)(?=\s*[\u4e00-\u9fa5（\[【:：]|$)/
 

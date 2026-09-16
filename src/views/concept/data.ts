@@ -95,6 +95,18 @@ export async function loadBookGrammar(book: number): Promise<GrammarEntry[]> {
             const m = await import('./book1-grammar.json')
             return m.default as unknown as GrammarEntry[]
         }
+        case 2: {
+            const m = await import('./book2-grammar.json')
+            return m.default as unknown as GrammarEntry[]
+        }
+        case 3: {
+            const m = await import('./book3-grammar.json')
+            return m.default as unknown as GrammarEntry[]
+        }
+        case 4: {
+            const m = await import('./book4-grammar.json')
+            return m.default as unknown as GrammarEntry[]
+        }
         default:
             return []
     }
