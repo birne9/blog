@@ -1,0 +1,4650 @@
+const e=[{lesson:1,sections:[{title:"自学导读",content:["1．Last week I went to the theatre.上星期我去看戏。 （1）句首的“Last week”点明叙述的事情发生的时间是上星期。因此整篇课文的时态基本上应是过去时（包括过去进行时），直接引语部分的时态除外。","（2）动词 go 的原义是离开一个地方去另一个地方，与介词 to 连用后，常加上主语所要去的目的地来代表主语的动作目的。课文中 go to the theatre = go to the theatre to see a play，即去剧场看戏。类似的还有 go to the cinema = go to the cinema to see a film（去电影院看电影）。这种表达方式简明扼要。请注意在以下的短语中名词前通常不加冠词：","go to school 上学","go to bed 上床，睡觉","go to church 上教堂，去做礼拜(cf．第1册第68课 at school, at church；第1册第85课 have been to school/church)","2．had a very good seat，座位很好。 seat 一般指戏院、汽车等配置的固定座位，也可以抽象地表示“座位”或“位子”的概念： the front seat of a car 汽车的前座 Take a seat, please. 请坐。","3．The play was very interesting. 戏很有意思。 interesting 属于现在分词形式的形容词，意思是“使人感兴趣”。 它通常与非人称主语连用或修饰某个事物： This is an interesting book/idea. 这是一本有趣的书／一个令人感兴趣的主意。","4．…were sitting behind me. They were talking loudly.……坐在我的身后，大声地说着话。 这两句的时态为过去进行时。（cf．第7课语法）","5．I got very angry. 我非常生气。","get 在这里有“逐渐变得”的含义，接近 become，是个表示过程的动词，表示状态的变化。而 I was very angry 则仅表示当时的状态是生气，并不暗示过程。","6．in the end, 最后，终于。 表示一段较长的时间之后或某种努力之后：","She tried hard to finish her homework by herself. In the end, she had to ask her brother for help.","她试图自已完成家庭作业，但最后她不得不请她兄弟帮忙。","7．none of your business, 不关你的事。 （1） sb. 's business 指某人（所关心的或份内）的事： It is my business to look after your health. 我必须照顾你的身体健康。 This is none of his business. 这根本不关他的事。 （2）表示否定的代词 none 意义上相当于 not any 或 no one，但语气较强： She kept none of his letters. 他的信件她一封也没有保留。 None of my friends left early. 我的朋友没有一个早离开的。 none of 这个短语有时可以表达一种断然、甚至粗暴的口气， 尤其是在祈使句中： None of your silly remarks! 别说傻话了！","8．a private conversation，私人间的谈话。","在西方文化中人们对 private（私人的，个人的）这个概念很看重。这个词的名词形式 privacy 有“隐私（权）”的意思。所以课文中的小伙子会振振有词地说“This is a private conversation!”不过他忘了他是在一个 public place（公众场合），而且他们的说话声太大，已经影响了别人。"]},{title:"语法",content:["简单陈述句的语序(Word order in simple statements)","主语一般为名词、代词或名词短语，通常位于动词之前。动词必须与主语“一致”，所以主语决定动词的单复数形式（如 I am, you are, he has）。宾语一般为名词、代词或名词短语。在主动句中，宾语一般位于动词之后。一个句子不总需要有宾语。状语的位置比较灵活。当一个句子里有一种以上的副词时，地点副词的一般位置是在方式副词之后、时间副词之前，如上面的最后一个例句。时间状语可以在句尾，也可以在句首：","Last night Lucy went to the theatre.","昨晚露西去剧院看戏了。","I heard a voice at the door just now.","我刚才听到门口有声音。","Sam listened to the story quietly.","萨姆静静地听着故事。","The man ran away quickly.","那人很快跑掉了。（无宾语）"]},{title:"词汇学习",content:[`1．enjoy vt.
+基本意义为“欣赏”、“享受”、“喜爱”，后面一般跟名词、代词（包括反身代词）或动名词形式。
+（1）Jane doesn't enjoy swimming. She enjoys going to the theatre.
+简不喜欢游泳。她喜欢去剧院看戏。
+（2）Enjoy yourself!
+好好玩吧！
+We always enjoy ourselves.
+我们总是玩得很开心。
+2．pay
+（1）vt./vi.支付（价款等）：
+Have you paid the taxi-driver?
+你给出租车司机钱了吗？
+You can pay a deposit of thirty pounds…
+您可以先付30英镑的定金……
+I paid 50 dollars for this skirt.
+我花50美元买了这条裙子。
+I'll pay by instalments.
+我将分期付款。
+（2）vt./vi. 给予（注意等）；去（访问）：
+They did not pay any attention.
+他们毫不理会。
+We paid a visit to our teacher last Sunday. 上星期天我们去拜访了老师。
+（3）n. 工资，报酬：
+I have not received my pay yet.
+我还没有领到工资。
+3．bear vt.
+（1）承受，支撑，承担，负担：
+Can the ice bear my weight?
+这冰能承受我的体重吗？
+Who will bear the cost?
+谁来承担这笔费用？
+（2）忍受（一般与 can/could 连用于疑问句及否定句中）：
+She eats too fast. I can't bear to watch/watching her.
+她吃得太快。我看着受不了。
+How can you bear living in this place?
+你怎么能受得了住在这个地方？
+In the end, 1 could not bear it.
+最后，我忍不住了。`]},{title:"课堂笔记",content:["private  adj.私人的","it's my private letter/house ；private school:私立学校","public：公众的，公开的","public school ； public letter 公开信 ；public place :公共场所","privacy：隐私  it's a privacy. adj.","Private Ryan》 private soldier：大兵","private citizen 普通公民  private life：私生活","conversation n.谈话","subject of conversation：话题","talk.可以正式，也可以私人的","conversation. 比较正式一些","let's have a talk","They are having a conversation.","conversation 用的时候比 talk 正式，意思上往往不非常正式.","talk： 可正式可不正式","dialogue：对话","China and Korea are having a dialogue. 正式","chat: 闲聊","gossip6:嚼舌头","have a + talk/chat/dialogue/conversation/gossip 名词变动词","theatre  n.剧场，戏剧","cinema: 电影院","seat  n.座位","have a good seat(place)","take a seat : 座下来，就座","take your seat/take a seat","Is the seat taken? 这个座位有人吗？no/yes","sit sit down ,please","seat take your seat,please","be seated,please 更为礼貌","seat 是及物动词，后面有宾语","sit 是不及物动词，后面不加宾语","seat 后面会加人; seat sb; seat him; seat:让某人就座","sit   he is sitting there.","you seat him;"]},{title:"讲解",content:["Last week","go to the theatre","see a film,go to the cinema","go to the +地点 表示去某地干嘛","go to the doctor's 去看病","go to the dairy 去牛奶店","go to the + 人 + 's 表示去这个人开的店","go to the butcher's 买肉","go to school: 去上学","go to church: 去做礼拜","go to hospital(医院):去看病","go to the Great Wall","go home; 跟 Home 相连一定表示没有事情可做,回家休息","I am at Home","enjoy, enjoy oneself:玩的开心","enjoy+sth :喜欢,从当中得到一种享受","I like something very much./I love something.","I enjoy the class.","I enjoy the music.","I enjoy the book.","enjoy the dinner/film/progeam/game","were sitting :当时正座在","过去进行时态 :过去的某个时间正在发生的动作","一个故事的背景往往用进行时态描述","I+be+v(ing)","The girl was reading a book in the garden.A boy came to her.","got :变得,表示一种变化,got angry","I am/was angry 是一个事实","I got angry:强调变化过程","It is hot.","It got hot.","got 取代 be 动词,got 是一个半联系动词,可以直接加形容词","说话的时候喜欢用缩略.I'm not,he isn't,they aren't","写的时候会说:I am not,he is not,they are not","I didn't do sth,I did not do sth","hear:听见","hear+人:听见某人的话","I could not hear you.Beg your pardon?","I couldn't hear you./I couldn't hear a word./I couldn't catch your word.","I couldn't hear you clearly./I couldn't catch your words.","Beg your pardon? /I couldn't catch your words.","turn round:转头","pay any attention","表示注意,pay attention; 对什么加以注意,pay attention to sth","not any=no","I could not bear it./you./the noise.","I can't hear a word.","美音:肯定 .I can,否定,I can't,只能根据上下文来定","hear a word, a word 等于一句话","He didn't say a word.","May I speak to Jim?/May I have a word with Jim?","It's none of your business./None of your business/It's my Business.","I couldn't bear you.","This is private conversation!","private :私人的,不想与别人共享","I can't hear a word.","hear a word of sb (actors)","写作当中的第一步从完整句子开始写起","Word order in simple statements: 简单陈述句的语序","陈述句一定是有主语,有动词,有宾语,有句号","Last week","1 ---主语一般有名词或代词构成","2 ---谓语由动词充当","3 ---宾语","4 ---副词或介词短语,对方式或状态提问,往往做状语 I like her very much","5 ---地点状语","6 ---时间状语可以放在句首或句末 I like the girl very much in Beijing last year.","简单陈述句一定不能少的是主语","6. Immediately left he. He left immediately.","13. The little boy; an apple; this morning; ate greedily; in the Kitchen. The little boy ate an apple greedily in the Kitchen this morning. 4  game; played; yesterday; in their room; the children; quietly The children played games quietly in their room yesterday. 主语——>动词——>宾语——>状语 状语: 放在最前面是副词,方式状语,表示状态/程度的状语,下面是地点,然后是时间","1.主语和动词不能少","2.如果时间和地点连在一起,先放地点,再放时间 如果问何时何地,是一个固定搭配 when and where"]}]},{lesson:2,sections:[{title:"自学导读",content:["1．It was Sunday. 那是个星期天。 在句子中，我们常常用 it 指时间、天气、温度或距离。这种 it 有时被称为“虚主语” （empty subject），因为它没有实际意义。它之所以存在，是因为英语句子必须包含主语和谓语。请注意以下例句： 表示时间： It is 8 o'clock. 8点了。 表示天气： It's raining again. 又下雨了。 It is cold. 天气冷。 表示环境： It was dark outside. 外面一片漆黑。 作为第3人称单数的中性代词，it 可以指一件东西、一个事件或者用来指是什么人： It was my aunt Lucy. 是我姑母露西。（打来电话者） It is a lovely baby. 真是个可爱的小宝宝。","2．on Sundays, 在星期天的时侯。 （1）复数形式指每个星期日，或大部分星期日，与一般现在时连用，表示经常性的行为： We do not go to school on Sundays. 星期天我们不上学。 I never get up early on Sundays. 星期天我从来不早起。 （2）介词 on 一般用于表示某一天的时间短语中： on Monday 星期一 on Friday 星期五 on Monday morning 在星期一早上 on that day 在那一天 当我们使用 last, next 和 this, that 时，介词（以及定冠词）必须省略： I'll see you next/this Friday. 下个／这个星期五再见。 Last Sunday I got up very late. 上个星期天我起得很晚。","3．I sometimes stay in bed until lunchtime. 有时我要一直躺到吃午饭的时候。 （1）在表达卧床的意思时 bed 前不需加冠词： You must stay/remain in bed for another two days. 你必须再卧床两天。 What time did you go to bed last night? 你昨晚几点睡的？ It is time for bed now. 该睡觉了。 （2）until 用于表示动作、状态等的持续，可以译为“一直到……为止”或“在……以前”。在肯定句中，它与表示持续性状态的动词连用，表示持续到某一时刻： I'll wait here until 5. 我会在这里等到5点钟。 在否定句中，它通常与描述短暂动作的动词连用，表示“到……为止”、“直到……才”： She cannot arrive until 6. 她到6点才能来。 The rain did not stop until this morning. 直到今天早上雨才停了。","4．arrive by train, 坐火车来。 by air 乘飞机 by bicycle/bike 骑自行车 by boat 乘船 by bus 乘公共汽车 by car 乘小汽车 by land 由陆路 by plane 乘飞机 by sea 由海路 by ship 乘船 by train 乘火车 Every morning he goes to school by bus. 他每天早上坐公共汽车去上学。 Long ago people could go to America only by ship/sea. 很早以前人们只能乘船去美洲。 如果是特指的交通工具，则要加冠词或其他限定词： My aunt left by the 9：15 train. 我姑妈乘9点1刻的火车走的。","5．Dear me, 天哪。 这个感叹方式可以表示惊愕、困惑、同情等。还可以说“Oh, dear!”或“Dear, dear!”"]},{title:"语法",content:["1．现在进行时(The present progressive tense) 和一般现在时(The present simple tense) 现在进行时表示说话时正在进行的动作或正在发生的事件，往往与 now, just, still 等副词连用（cf. 第1册第31课）： John is still sleeping. 约翰还在睡觉。 Jane is just dressing up. 简正在打扮。 Mrs. Smith is cooking now. 史密斯太太现在正在做饭。 一般现在时可以表示习惯性动作，往往与频度副词连用，如 often, always, sometimes, never 等： Do you often come here? 你常来这儿吗？ I always to the library on Friday. 星期五我经常去图书馆。 Helen never writes to her brother Tony. She sometimes rings him. 海伦从来不给她兄弟托尼写信。她有时给他打电话。 现在进行时也用来表示当前（一段时间）的动向： Jack is working hard these days. 杰克最近工作很努力。 He does not usually work hard. 他通常是不努力工作的。","2．感叹句(Exclamations) 以 what 开头的感叹句结构为： What＋adj.＋n. +主语+谓语！ 主语和谓语经常被省略： What an interesting play (it is)! 多么有趣的一出戏！ What a lot of flowers! 这么多花呀！ What fools they are! 他们真傻！ 如果没有形容词，则往往表示批评或不大好的意思： What a thing to say! 多么难听的话啊！ What a day! 鬼天气！"]},{title:"词汇学习",content:[`1．ring vt.
+（1）鸣，响，发出清脆响亮的声音：
+Just then, the telephone rang.
+正在这时，电话铃响了。
+Every morning the clock rings at 6.
+这钟每天早上6点响。
+（2）打电话给（美国英语中用 call）：
+Please ring me when you get home.
+到家后请来个电话。
+Did you ring the doctor?
+你给医生打电话了吗？
+2．repeat
+（1）vt. 重复：
+Will you repeat the last word?
+您能重说一下最后一个字吗？
+They are repeating that wonderful play.
+他们正在重演那部精彩的戏剧。
+（2）vi. 重做，重说：
+Please repeat after me.
+请跟我重复。
+Don't repeat.
+不要重复。`]},{title:"课堂笔记",content:["until      prep.直到","直到...才; 直到...为止","后面加(时间状语)从句,前面就是主句","1) His father didn't die until he came back. (肯定) 直到他回来,他爸爸才死。","2) His father was alive until he came back. (否定) 直到他回来为止,他爸爸都是活着的。 到他回来这一点之前,没死 : not die; 活的 : 不加 not. 把 until 作为时间终止线 从句的时间终点之前,这个动作做了还是没做? 做了——肯定; 没做——否定. A.  waited      B.didn't wait A.leave   B.left   C.didn't leave I stay in bed until twelve o'clock. I didn't get up until 12 o'clock. outside     adv. 外面 作状语 He is waiting for me outside. It is cold outsid. ring(rang.rung) v.(铃、电话等)响 (刺耳的) The telephone(door bell) is ringing. jingle(bell): (铃儿) 响叮当 给某人打电话 : ring sb. Tomorrow I'll ring you. 打电话(名) : give sb. a ring remmember to ring me/reember to give me a ring 戒指(名词) aunt       n.姑,姨,婶,舅妈 uncle: 叔叔 cousin: 堂兄妹 nephew12: 外甥 niece13: 外甥女 repeat      v.重复"]},{title:"讲解",content:["On Sundays: 所有的星期天,每逢星期天","never: 从来不 (可以直接用在动词前面)","=not (变成否定句,前面一定要加助动词)","I don't like her.=I never like her.","因为是上个星期,所以时态不是一般现在时。","look out of :朝窗外看","从...里:from,out of","dark: 天很黑","What a day?","What + a + n.——感叹句","It is terrible day.==> What a terrible day!","Ｗhat＋a／an (+a.)＋ｎ．(＋主语＋谓语）","What a terrible day!","what a good girl (she is)!","What a day!","有上下文和一定的语境，才能省略形容词。","just then: 就在那时","如果不知道对方性别，可以用 it 取代","Who are you?/Who is it ?","just 只会出现在＂现在完成时＂","by train","by 直接加交通工具（不能有任何修饰词，复数）","I go out by bus/on two buses.","如果加修饰词，就要换掉 by","I'm coming to see you. 我将要来看你。","用 come 的现在进行时态 be coming 表示一般将来","go,come leave,arrive,land,meet,die,start,return,join...","Dear me:天哪","My god14!","My dear!","Now,often and Always 表示现在和经常发生的动作","Now——现在进行时（说话的当时正在发生，现阶段正在发生）","Often ad Always——一般现在时",'"现阶段"',"I am working as a teacher.","I do.../he does...","I get up...","一般现在时，是一种习惯，真理，是过去，现在和未来都会发生的事情。","现在还在睡觉","He is still sleeping.","频率副词往往放在句子中间，实义动词前，非实义动词后","非实义动词：1.系动词（be)","2.助动词帮助动词构成时态的(do,does,will,shall,have,had,has)","3.情态动词：（must,can,may) p Exercises",'1.are playing; "always" play; is kicking"now"; is running',`2.are you doing; am leaving; (用进行时态表达将来时:go,come.leave,arrive join,return,die,land,meet) "别人用什么时态，你就用什么时态＂ are you leaving come go(I go to bed hungry.形容词做状语） (rarely 很少） listen "doesn't work" feel What+a/an+a.+n.+主语+谓语 What 对名词感叹`,"3.He is causing a lot of trouble 名词:trouble 主语:he 动词:is causing What (a lot of) trouble( he is causing)!",'5."not early" late(adj./adv.) lately15(adv.)=recently(how are you going lately?) A',"8.A look(vi.):表示看的动作；后面一定要加介词 see(vt.)  : 表示看的结果； 后面直接加宾语 watch : 表示观看; 后面直接加宾语，但宾语一定是能够活动的东西","11.D lunch :中餐 food :食物 dinner:正餐 meal :一顿饭 频率副词,放在实义动词前，非实义动词后; 如果即有实义动词又有非实义动词．要放在两个之间 疑问句中副词往往放在主语的后面"]}]},{lesson:3,sections:[{title:"自学导读",content:["1．A friendly waiter taught me a few words of Italian. 一位好客的服务员教了我几句意大利语。 （1）虽然 friendly 是以-ly 结尾，在拼法上与许多副词一样，但它却是形容词： He always greets me in a friendly way. 他总是亲切地和我打招呼。 She gave me a friendly greeting. 她友好地和我打了一下招呼。 He is not very friendly to John. 他对约翰不太友善。 类似的形容词有： brotherly, fatherly, manly, lovely, motherly 等。 （2）a few 可与复数可数名词连用，表示肯定，含有 some, a small number of（一些，少数几个）的意思： The police would like to ask him a few questions. 警察要问他一些问题。 Mother is coming in a few days. 妈妈过几天就要来了。","2．Then he lent me a book. 之后还借给我一本书。","像 send, buy, give 等动词一样，lend 可以有两个宾语：一个直接宾语（通常指物），一个间接宾语（通常指人）。（cf. 本课语法）在这句话中，lend 的直接宾语为 a book，间接宾语为 me。","Would you lend me your pen?","能把你的笔借我用一下吗？","Yesterday I lent my dictionary to Mary.","昨天我把字典借给了玛丽。","3．…but I did not understand a word.……但一个字也不懂。not…a 的否定意义比单用 not 要强。课文的最后一句加了 single”，语气更强。","4．Every day I thought about postcards. 我每天都想着明信片的事。 think about 可以指某一段时间一直在想／考虑某事： I often think about the lovely holiday we had last year. 我经常回想我们去年度过的愉快的假期。 What are you thinking about? 你在想什么？ I'm thinking about my friends. 我在想我的朋友们。","5．make a big decision, 作出一项重大决定。 make/take a decision, 作出决定。这是个常用的词语搭配，可以灵活使用： It was not easy for me to make/ take this decision. 对我来说作出这项决定并不容易。 You have made/taken a wrong decision. 你作出了个错误的决定。 Have you made/taken a decision? 你决定了吗？","6．I spent the whole day in my room…我在房间里关了整整一天…… （1）spend 与表示时间的词／短语连用时，意思为“花（时间）”、“度过”： We're going to spend three days in the country. 我们打算到乡下去3天。 spend 还可以表示“花钱”： If we spend all the money, we'll be poor again. 如果我们把所有的钱都花光了，我们又会变穷的。 I can't spend any more on this car. 我不能再为这车花钱了。 （2）whole 表示“整整的”、“整个的”： a whole year 一整年 a whole bottle of milk 一整瓶牛奶 two whole weeks 整整两星期"]},{title:"语法",content:["1．一般过去时 (The simple past tense) 与一般现在时 上一课的语法提到一般现在时可以表示习惯性或经常性的动作。在用一般现在时询问有关习惯的问题时可用 ever。 一般过去时通常表示过去发生的而现在已经结束的事件、动作或情况。它通常指动作何时发生，而不指动作持续多久。因此，过去时与表明事情何时发生的状语连用是非常重要的。","像 last summer, last winter, last week, last night 等这类状语只能与过去时连用，不能与现在时连用，因为它们确指过去的时间。","2．直接宾语 (Direct object) 与间接宾语 ( Indiret object)","许多及物动词后可以有两个宾语，直接宾语通常是动作所涉及的事物，间接宾语表示动作是对谁做的或为谁做的，通常是人。这类动词有 give, show, send, bring, lend, tell, return, write, pay, teach, make, buy, find 等。通常间接宾语在前，紧跟动词；不过，如想要强调直接宾语，也可将它置于动词之后、间接宾语之前。这时，间接宾语之前则必须用介词 to 或 for："]},{title:"词汇学习",content:[`1．spoil vt.
+（1）弄坏，损坏，糟蹋：
+The sad news spoiled our weekend.
+这不幸的消息使我们没能过好周末。
+The rain spoiled the school sports.
+这场雨把学校运动会弄得一团糟。
+（2）宠坏，惯坏，溺爱：
+Julie loves her son too much. She has spoiled him.
+朱莉太爱她的儿子了。她把他惯坏了。
+Don't spoil your children.
+不能太惯孩子。
+2．public
+（1）adj. 公共的，公众的，社会的：
+There is a public library in this town.
+这镇上有一个公共图书馆。
+I always sit in public gardens on Sundays.
+星期天我经常去公园坐坐。
+（2）adj. 公开的，众人皆知的：
+Their secret meeting was made public 20 years later.
+他们的秘密会晤20年以后才被公开。
+（3）n.公众，群众，大众：
+The public is/ are pleased with his explanation.
+公众对他的解释很满意。
+The museum is open to the public on Sunday.
+这家博物馆星期天对公众开放。`]},{title:"课堂笔记",content:["send v. 寄，送","send sth.to sb./send sb.sth","give sb.sth./give sth.to sb.","send/take children to school","take: 某人亲自送","send: 通过第三人去送","postcard n. 明信片","send him a card","namecard/visiting card : 名片","Here is my namecard.","ID card:身份证","credit card:信用卡","cash card","spoil(spoiled or spoilt) v. 使索然无味，损坏","break: 打破","spoil: 把东西的质量变得不好；生活中不顺心的事;宠坏，溺爱","His parents spoiled the boy. 宠坏","This spoiled my day.","What you said spoiled me.","His arrival spoiled my hoilday.","damage: 破坏，程度不一定很重","destroy：破坏，彻底摧毁","museum n. 博物馆","Palace Museum:故宫","public adj. 公共的","private","public shool/place/house(pub:酒吧)","in private: 私下里的","in public: 公开的","Why not have a conversation in public?","friendly adj. 友好的","lovely adj.","waiter n. 服务员，招待员","waiter","waitress","chief waiter","shop assistant","attendant","lend v. 借给","borrow from","lend sth.to sb","lend sb.sth.","decision n. 决定","v. decide","make a big/great dicision","whole adj. 整个的","all the...","the whole...","single adj. 唯一的，单一的","double"]},{title:"讲解",content:["The baby spoilded my night.","Italian/Italy","and 先后往往是对等的概念","teach sb.sth.","a little Italian","I can speak a little English/a few words of English","think about: 考虑，思考","think over : 仔细考虑","last:表示＂上一个＂或＂最后一个＂，表示＂最后一个＂时要加冠词 the","I spend the whole day in my room.","spend+时间+地点","I spend three hours in the sea.","I spend my weekend at my mother's.","I spend three hours in the classroom everyday.","I spend a lot of time in traffic jam.","review","spoil","send/lend/teach sb.sth.","send/lend/teach sth. to sb","Special Difficulties】","双宾语：直接宾语（表示动作结果）和间接宾语（动作目标）","give sb.sth.","sb: 间接宾语","sth: 直接宾语","间接宾语在后面时，其前必须加 to(对……而言）或 for（为……而做）","give a book to me. I buy a book for you","take flowers to my wife.","order soup for you.","可以翻译为＂给＂、＂替＂、＂为＂的，就用 for; 如果只能翻译为＂给＂的，","就用 to","与 for 相连的 buy,order,make,find","find sth.for sb.","do sb.a favor 帮某人一个忙","Do me a favor please./Do a favor for me.","1.He paid some money to the shop-keeper.","3.The writer brought the man a bottle of beer. What do you think of? What do you think of the weather today? cold,chilly,freeze, I'll freeze. What do you think of TV program last night? send somebody something send something to somebody give, take, pass, read, sell, buy find something for somebody make buy  Do a favor for me. Can I order something for you?","４．找特殊疑问词的时候一定要根据答案来决定 who whom 人做主语提问——who  对宾语提问——whom 如果对主语提问，则句子的的语序和陈述句语序一样 如果对非主语来提问，则句子要使用特殊疑问词＋一般疑问句的语序 A 正确 Who/Whom did the waiter teach a few words of Italian?","5. He spoke to the writer like a friend. in...way :以...方式 D 正确 friendly 单独用，形容词，一般做定语来用 作为状语表示这个人做什么事情很友好，用短语 in a friendly way","7.whole all the day; all of us C 正确 all of 后面如果加代词，代词前面不需要修修饰词 一旦要加名词，前面一定要加 the all of the friends  all of the students","10.the last day, final——形容词 end——名词／动词 bottom——名词     形容词修饰 day latest:最新的   latest news  latest style","11.think about:考虑、思考、想 make up one's mind:下定决心 change one's mind:改变主意 make a wish : 愿望 B 正确 dies 有具体的过去时间一定是具体的过去式 一般现在时 bought kept"]}]},{lesson:4,sections:[{title:"自学导读",content:["1．He is working for a big firm and he has already visited a great number of different places in Australia. （他）正在为一家大公司工作，并且已经去过澳大利亚的不少地方了。 （1） work for 指“在……上班／任职”： 表达“上班”这个意思时还可以说 work at： She works at a department store. 她在一家百货商店上班。","（2）a number of 只能接可数名词的复数形式。通常，number 前有 great, large, good, small, certain 等形容词，数量大小也随之改变：","A large/ great number of our students are Danish.","我们的学生中有许多是丹麦人。","There are a small number of spelling mistakes in your homework.","你的家庭作业里有少数几个拼写错误。","2．He will soon visit Darwin. 他不久还将到达尔文去。","will 表示将来要发生的事。这句话的时态是一般将来时。（cf. 第12课语法）下一句话 From there, he will fly to Perth 也是一般将来时。","3．My brother has never been abroad before, so he is finding this trip very exciting. 我弟弟以前从未出过国，因此，他觉得这次旅行非常激动人心。 （1）这句话由两个简单句组成，后一句由连词 so 引导，为表示结果的状语从句。 （2）find 作“发现”、“发觉”讲时宾语往往带补足语（一般为形容词），说明宾语的状况、性质等： I find the film very interesting. 我觉得这电影很有趣。 She found Ton's room very dirty. 她发现汤姆的房间非常脏。 She has already found herself wrong. 她已经发现自己错了。 需要注意的是，find 一词很少用于进行时态，一般用于过去时、完成时及一般现在时等。"]},{title:"语法",content:["1．现在完成时与现在进行时","现在完成时的时间概念有时是不确定的。（cf. 第1册第83～88课）我们所关心的是现存的结果，或者过去发生的事对现在的影响。现在完成时不能和明确表示过去的副词（如 ago, yesterday 等）连用。经常和现在完成时连用的副词和副词短语有：before（now）（〈在此〉以前）；so far（到目前为止）；up to now （直到现在）；just（刚刚）；already（已经）；lately（最近）；now（现在）；疑问句和否定句中常用 ever, yet, never, not… ever 等。现在进行时经常用于表示在短期内正在进行的动作或存在的情况，因此往往不需要和时间状语连用。试比较：","2．同位语 (Appositives) 一个名词（或短语等）与另一个名词（或短语）并列而作为其说明或限定成分时称为同位语。同位语与它所补充说明的成分之间用逗号隔开。课文中有两句话含有同位语： I have just received a letter from my brother, Tim. 我刚刚收到弟弟蒂姆的来信。（Tim 是 my brother 的同位语。它们指的是同一个人。Tim 用来补充说明 my brother 的名字）","He has just bought an Australian car and has gone to Alice Springs, a small town in the centre of Australia.","他刚买了一辆澳大利亚小汽车，现在去了澳大利亚中部的小镇艾利斯斯普林斯。（在这句话中 a small town in the centre of Australia 是 Alice Springs 的同位语，补充说明这是个多大的镇子，在什么地方）","在译成汉语时，同位语或者插入主句中，或者另译为一句，很少像英语中那样用逗号隔开。请参阅课文中两个句子的译文。同位语如果太长，可以另译为一句。如课文中第二个例句的后半部分可以译为：“现在去了艾利斯斯普林斯。这是澳大利亚中部的一个小镇。”","同位语的其他例子如：","This is John, one of my best friends.","这位是约翰。他是我最好的朋友之一。","Mrs. Smith, my neighbour, has never been abroad.","我的邻居史密斯夫人从来没有出过国。"]},{title:"词汇学习",content:[`1．receive vt.
+（1）接到，收到，得到：
+When did you receive that letter?
+你什么时候收到那封信的？
+Susan received a gift/card this morning.
+今天上午苏珊收到了一份礼物／一张卡。
+receive 是“收到”，指的是一个被动的动作，主观上接受与不接受并不清楚。take 则是主动地“拿”、“取”：
+He told me to take the keys from his pocket.
+他让我从他口袋里把钥匙拿出来。
+I received a beautiful pen from my uncle. My brother took it from me yesterday.
+我叔叔给了我一枝漂亮的钢笔。昨天我弟弟把笔拿走了。
+（2）招待，接待：
+You need a large room if you are going to receive so many guests.
+如果你要接待这么多客人，你就需要一个大房间。
+We usually receive guests on Saturday.
+我们通常星期六招待宾客。
+2．different adj. (名词为 difference)
+（1）不同的，相异的（经常与 from 连用）：
+Desks are different from tables.
+书桌与桌子不一样。
+My room is different form yours.
+我的房间与你的不同。
+We are planning something different this year.
+我们今年有不同的打算。
+（2）各种各样的，不同的：
+He has visited many different places in China.
+他去过中国的不少地方。
+This department store sells a large number of different things.
+这家百货商店出售许多各种各样的东西。`]},{title:"词汇学习",content:[`1．exciting adj. 令人兴奋的：
+excite4:激动
+excited:
+-ed: 自己感到
+-ing:令人感到
+exciting boy
+interesting man
+The man is interesting.
+The news exciting,I am excited
+其宾语一定是人
+The news excited me.
+让后面的人感到．．．
+2．interesting:令人感到有趣的
+3．interested: 感到有意思的
+The book interests me.
+4．receive v. 接受，收到：
+5．accept：同意接收
+6．receive:客观的收到
+This morning I received a bunch of flowers from a boy,but I didn't accept
+it.
+7．take take the exam：接收考试； take advice 接收建议
+receive/have
+receive/have a letter from somebody.
+8．firm n. 商行，公司：
+company
+9．different adj. 不同的：
+10．centre n. 中心：
+11．abroad adv. 在国外：
+副词，直接和动词连用
+go aroad
+live abroad
+study abroad`]}]},{lesson:5,sections:[{title:"自学导读",content:["1．Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons. 平赫斯特离锡尔伯里只有5英里，但詹姆斯·斯科特先生未能为他新的汽车修理部搞到一部电话机，所以他买了12只鸽子。 （1）这句话由3个部分组成。but 引导的句子与前面的句子为并列关系，so 引导的句子表示结果。 （2）from 在这里表示距离上相隔，译为“离”、“从”等： The school is a mile (away) from my house. 学校离我家有一英里。 She has been away from home for 5 days now. 她离家已有5天了。","2．Yesterday, a pigeon carried the first message from Pinhurst to Silbury. 昨天，一只鸽子把第一封信从平赫斯特带到锡尔伯里。 （1）from…to…表示从一个地方到另一个地方。如下文中的 from one garage to the other。这个短语中顺序比较重要，不能搞错方向： He flew from Beijing to Moscow. 他从北京坐飞机去莫斯科。 He looked at the girl from head to foot. 他把这姑娘从头到脚打量了一下。 The news spread from house to house. 家家户户都得知了这条消息。 （2）message 在这里的意思是“（口头或书面的）信息”、“信”： an oral/ written message 口信／便条 Hers is a message for you from your sister. 这是你姐姐／妹妹给你留的便条。 John has gone to his office. Would you like to leave him a message? 约翰去办公室了。你愿意给他留个口信吗？ 与 message 相关的另一个词是 messenger，意为“送信人”、“信使”等。","3．Up to now, Mr. Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other. 到目前为止，斯科特先生从一个汽车修理部向另一个发送了大量索取备件的信件和其他紧急函件。","（1）这句话看起来很长，但却是个简单句。sent 有两个宾语，一是 requests，二是 messages。from one garage to the other 是整个句子的状语。","（2）up to now 相当于 until／till now，意思是“迄今”、“到目前为止”，一般与现在完成时连用：","Up to now, he has not been very hard-working.","到目前为止，他一直不是很用功。","Up to now, he has collected a good number of stamps.","到目前为止，他已收集了许多邮票。","（3）request 作名词“要求”、“请求”讲时，往往需要补充说明其内容，如课文中 requests for spare parts（索取备件的信件）。","She sent a request for help to Gary.","她向加里请求帮助。","He granted my request for more time.","他同意了我延长时间的请求。","（4）a great many 在这句话中为形容词短语。many 单独使用时前面不加 a，但加了 great/ good 等形容词后，前面要加 a","A great many trees were destroyed in the storm.","好多树在这场暴风雨中被毁坏了。","a great many 还可以作代词短语用：","He has read a great many of the books in this room.","这房间的书他好多都读过了。","4．In this way, he has begun his own private‘telephone’ service. 就这样，他开始了自己的私人“电话”业务。","（1）service 作为不可数名词时通常用于表示旅馆、餐馆以及商店等对旅客、顾客等的侍候、接待或服务；它作为可数名词时可以表示为帮助他人所采取的行动或所做的工作：","The service in that hotel is quite good.","那家旅馆的服务很不错。","You have done me a great service.","你帮了我很大的忙。","（2）在课文中，service 的意思是“业务”、“公用事业”等。这类用法一般有： the mail service（邮政业务）； the telephone service（电话业务）；a travel service（旅行社）；a news service（通讯社）等。可以看出，service 既可以指公用事业的业务，也可以指办这些业务的机构。因此，课文中的“‘ telephone’service”实际上是个大词，有一种幽默感。"]},{title:"语法",content:["1．一般过去时与现在完成时 在表示过去某个特定时间发生的事情或动作时，要用一般过去时： Yesterday, a pigeon carried the first message from Pinhurst to Silbury. 昨天，一只鸽子把第一封信从平赫斯特带到锡尔伯里。","在表示刚刚或者已经完成一个动作并且对现在有影响时，则要用现在完成时，时间状语可以是不特指的 now, just，或者是 for 引导的一段时间，或者不加任何时间状语：","He has written a book.","他写了一本书。","…now he has just bought another garage in Pinhurst.","……现在他刚在平赫斯特买下了另一个汽车修理部。（现在拥有）","在一段文章中可以同时出现一般现在时、一般过去时和现在完成时。因此，要根据具体情况灵活运用这些时态，体会它们之间的区别：","I have a brother, Tom. He is an engineer. He has been abroad for three years now. Several days ago, I received a letter from him.","我有一个弟弟，名叫汤姆。他是位工程师。他出国已3年了。几天前我收到了一封他的来信。","2．带 way 的一些短语 名词 way 的用法很灵活，能组成不同的搭配： （1）in the/ one's way, 妨碍（某人）： You are in my way. 你挡着我了。 Don't stand in the way. I can't see the blackboard. 别挡着我的视线。我看不见黑板了。 （2） in the way, 按照，以……方式： You can make the cake in the way I have told you. 你可以按我告诉你的方法做蛋糕。 （3） on the/ one's way, 在途中： I met Mary on my way to school. 我在去学校的路上遇到了玛丽。 （4） by the way, 顺便提一下（插入语，改变话题时使用）： By the way, have you met Bill before? 顺便问一下，你以前见过比尔吗？ （5） in a way, 在某种程度上，从某种意义来说： In a way you are right. 从某种意义上说你是对的。"]},{title:"词汇学习",content:[`1．cover
+（1）vt. 盖，覆盖：
+Snow covered the whole village.
+大雪覆盖了整个村庄。
+She covered the child with a coat.
+她给孩子盖了件外衣。
+（2）vt. 行过（一段距离），走过（通常不用被动语态）：
+He covered sixty miles this morning.
+他今天上午走了60英里。
+You can cover the distance to the museum in ten minutes.
+你10分钟就可以走到博物馆。
+（3）n. 覆盖物，盖子，罩子，套子：
+Put a cover on the box!
+给这盒子加个罩！
+2．spare
+（1）vt. 抽出（时间等），让给：
+Have you got five minutes to spare?
+你能抽出5分钟时间吗？
+（2）vt. 饶恕，赦免：
+The robbers spared his life.
+强盗们没要他的命。
+（3）adj.多余的，空闲的，剩下的，备用的：
+You can sleep in the spare bedroom.
+你可以睡在那间空着的卧室。
+I have no spare time now.
+我现在没有空闲时间。
+She has some spare money.
+她有一些活钱。
+Where can I get spare parts for this machine?
+我从哪里可以找到这台机器的备件？`]},{title:"课堂笔记",content:["pigeon n. 鸽子","It's not my pigeon. 这不是我的过错＝None of my busness.","message n. 信息","information...不可数","leave sb. a message:给...留便条","I'll leave you a message.","take a message for sb: 替...捎口信","Can I take a message for you?","Can you take a message for me?","cover v. 越过","cover:覆盖","cover+距离：越过   cover the distance","distance n. 距离","distant:(a)远距离的","importance:(n.)重要  important:(a.)重要的","different:(a.) 不同的  difference：（n.)不同","keep distance:保持距离","request n. 要求，请求","request for: 对...有请求，有需求","I have a request for the cake.","request sb.to do sth...要求某人做．．＝ask sb.to do sth.","require sb.to do sth.","you are required/asked to do...","spare part 备件","service n. 业务，服务","serve:(v.) 服务，接待","service:(n.)服务，业务","I am glad to be at your service. 我很乐意为您效劳．","——Thank you.","——You are welcome./Not at all./That's (all)right./(It's) My pleasure.","/That's ok.","——Thank you for your listening.","—No thanks."]},{title:"讲解",content:["garage:车库，车行","another:其它的很多个中的一个","other: 其它的","the other:","Pinhurst is five miles (away) from Silbury.","Bus stop is only one mile from school/here.","Bus stop is only one mile (away).","--How for...? 多远","How far(away) is the bus stop?","How far is your Home(from here)?","My Home is ten miles away from here.","get a telephone:得到电话，安装电话","for:为了","just...完成时态","from...to...:从一个地点的另外一个地点","carry:带着，携带","I take my sister to the cinema.","I carried my son.","I carry the bag.","cover the distance:飞过那段距离","up to now:到现在为止(现在完成时)","request for:对...的需求","a great many:许多（＋可数名词复数）","a great number of：许多（＋可数名词复数）","...request and ...message(并列)","other:其它的","urgent:紧急的   sth.urgent:紧急的事情","another:其它中的一个（＋单数名词）","the other:两个之中的另外一个   one...the other","other:(a.)+n. 其它的","Some boys are playing football.and others are rowing/going boat.","One is watering the flowers,and the other is reading.","Can you show me another?","Special Difficulties】","in this way:这样,以这种方式","in a friendly way","in a way : 从某种意义上来说","in the way:挡路","≠out of the way:让路","by the way:随便说一声，随便问一下（开头——转移话题，随意）","on the way（to):在去...的途中（陈述句）","in the family way:怀孕了，快有小孩了","on the way to school/the office,on the way Home.","In a way,you are kind.","Sorry,you are in the way.","Get out of the way.","The woman is in the family way.","(1) ...On the way...","Athens14:雅典   London:伦敦","(2)...in the way","这种方式","I do...in the way you showed me.","I fly the kite in the way you showed me.","(3)...By the way...","(4)...in a way...","从某种意义上来说","(5).....","get one's own way:随心所欲","soon:不久以后，强调的是时间上的快","He will soon visit Darwin.He will visit Darwin＿＿，","(a)quickly  (b)for a short time  (c) shortly  (d)in a hurry","He went quickly .quickly 指的是动作上的快","for a short time:不久，表示动作延续一段时间","soon:不久以后，表示在这段时间之后","shortly=soon.不久以后","in a hurry:匆忙的指的是动作","(4)...b...","so 表示前面是原因，后面是结果","That's why :那就是为什么，前者是原因","That's why+从句：那就是......原因，前者是原因，后者 why 后面是结果","I was caught in the traffic jam.That's why I was late.","be 动词后面是表语，后面的从句是表语从句","That's 后面的表语从句常常用特殊疑问词引导，再加一个句子","That's when we can start class.","That's where we will have a meeting.","That's how I get to school.","(8)......one...the other...","another:另外一个","another=an+other","an/a 是冠词","his/my/your 是形容词性物主代词","my mother's 是名词所有格","在语法上，以上三个词是不能同时并存的，一般要用只能用其中一个","a bag/my bag","his,形容词物主代词，another=an+other","another 强调的是剩下的还有好几个当中的一个，强调的是有三个以上","other:其它的，加单数就表示一个，his 取代 the 的位置","语法的范围正在放宽松","else:其他的","疑问代词，who else,what else can I do for you?","anyone else,anything else?不定代词","else 会放在被修饰词的后面，会修饰两种词，疑问词和不定代词","different:不同的","时态填空】","yesterday,一般过去时","up till now/up to now,现在完成时","never 属于频率副词，频率副词一定会放在实义动词之前，非实义动词之后","burn:燃烧，yet,现在完成时的标志","in the first World War,in+具体的过去年代是具体的过去时间，一般过去时","already:已经","When,对时间点提问","要不然和将来时连用，When will you do sth?","如果确定不和将来时连用，一般情况 When 的出现意味着一般过去时","现在完成时会用 How long 定位","last night,一般过去时","just","动词的时态的第一种概念：根据这句话本身找关键词","完形填空一句话的出的结论不一定是正确的，往往要根据上下文的时间得出时态"]}]},{lesson:6,sections:[{title:"自学导读",content:["1．I have just moved to a house in Bridge Street. 我刚刚搬进了大桥街的一所房子。","move 常用的意义是“动”、“移动”。在这句话里它的意思是“搬家”、“迁移”，为不及物动词。在表达“搬家”这个意思时 move 可以单独使用，也可以组成短语 move to, move into, move in, move out 等：","Jack has moved out. John will move in the day after tomorrow.","杰克已经搬走了。约翰后天搬进来。","2．He asked me for a meal and a glass of beer. （他问）我要一顿饭和一杯啤酒。 在表示请求时，可以用 ask＋sb. ＋for＋sth.,也可以直接用 ask for: Don't always ask others for help. 别总向他人求助。 He never asks his parents for money. 他从来不向父母要钱。","3．in return for this, 作为报答，作为交换。 in return 可以单独使用，也可以加介词 for 说明原因：","You lent me this interesting book last month. In return (for it), I'll show you some picture books.","你上个月把这本有趣的书借给了我。作为报答，我将给你看一些画册。","In return for your help, I invite you to spend the weekend with my family.","你帮了我的忙。作为回报，我邀请你与我的家人一起过这个周末。","4．Later a neighbour told me about him. 后来，一位邻居告诉了我他的情况。 介词 about 可以和一些动词连用，以表示“关于……（的）”、“涉及……（的）”： Please tell me about the accident. 请告诉我这次事故的一些情况。 He spoke to me about his dog. 他和我讲了讲他的狗。 I have read about him. 关于他的情况我曾经读到过。","5．once a month, 每月一次。 once 表示频率时后面直接加表示时间的名词： Jane wrote to her parents once a week. 简每星期给父母写封信。 He goes back to the South once a year. 他每年回一次南方。 The postman calls once a day. 邮递员每天来一次。"]},{title:"语法",content:["1．a, the 与 some 的用法 当表示不确定的某个人或东西时，用不定冠词 a/an: He bought a book this afternoon. 今天下午他买了本书。 There is a man in front of your car. 你的汽车前面有一个男人。 当表示不可数的名词时，则需要由不定冠词加量词组成词组： A cup of coffee, please. 请给我来一杯咖啡。 I need a sheet of paper. 我需要一张纸。 当表示一类事物的性质、状态时，可以用下列方法表示： A tiger is a dangerous animal. 老虎是一种危险的动物。 Tigers are dangerous. 老虎是危险的。 Salt is necessary for/ to us all. 我们大家都需要盐。 some 用于表示不确定的某些人或东西，可数和不可数都可以： He put some books on the desk. 他把一些书放在了桌上。 Some students are absent today. 今天有些学生缺席了。 I like to put some sugar in the soup. 我喜欢在汤里加些糖。 如果指某个确定的人或事物或者上文已提到过的人或事物，则要用定冠词 the（有时相当于 this/ that）: The man has just left. 那人刚走。 Do you still want the ticket? 你还想要这张票吗？ Yesterday I saw a beautiful skirt in a shop. But the skirt was too expensive. 昨天我在商店看见一条漂亮的裙子。但是那裙子太贵了。 在姓名、地名、国名（非复合词）以及月份、星期等前面不加任何冠词：","Tom is in Germany now. He studies physics in Berlin. He has a house in Bridge Street.","汤姆现在在德国。他在柏林学习物理学。在大桥街他有一所房子。","April is a pleasant month.","4月气候宜人。","He has classes on Monday.","他星期一有课。","冠词的用法比较复杂，需慢慢积累。","2．短语动词 (Phrasal verbs)","许多动词加上介词或副词后就会改变词义，因此需要记住整个短语，并根据上下文的意义判断动词在句子中的意思。常见的短语动词有： put on（穿上，戴上）， take off（脱掉，摘掉）， look for （寻找），look after（照顾，照料）：","Don't put the cup on the table!","别把杯子放在桌上！","It is cold outside. Put on your coat.","今天外面冷。穿上外衣。","Someone has taken my pen.","有人把我的钢笔拿走了。","Take off your wet shoes, please.","请把你的湿鞋子脱掉。","She looked at the picture carefully.","她仔细地看着那幅画。","What are you looking for?","你在找什么？","She looked after the sick baby for three days.","她照顾了那个病孩子3天。"]},{title:"词汇学习",content:[`1．knock
+（1）vi. 敲门：
+Someone is knocking at the door.
+有人在敲门。
+I knocked, but no one answered.
+我敲了敲门，但是没人答应。
+（2）vt./vi. 碰撞：
+You always knock things off the table. 你总是碰掉桌上的东西。
+Jim was knocked over by a bus this morning.
+今天上午吉姆被一辆公共汽车撞倒了。
+She has knocked a cup over again.
+她又碰倒了一个杯子。
+（3）vt. 把（某人）打成……状态：
+Bob is very strong. He knocked Tom out yesterday.
+鲍勃很强壮，他昨天把汤姆打昏过去了。
+（4）与 off 连用时有一些特殊的含义。一般用于口语。
+A vt.（价格上）减去，除去，打折扣：
+They knocked five dollars off the price of the coat.
+他们把这件上衣的价格降低了5美元。
+B vi. 下班，停止，中断（工作等）：
+When do you usually knock off?
+你一般什么时候下班？
+He knocked off for lunch at half past eleven.
+他11点半休息吃中午饭。
+2．call
+（1）vt./vi. 叫，喊：
+I heard someone calling.
+我听见有人在喊叫。
+（2）vt. 呼唤，召唤：
+Lucy is sick. Please call a doctor.
+露西病了。请去叫个医生来。
+（3）vi. 访问，拜访；（车、船等）停靠：
+Amy called(at our house) yesterday.
+艾米昨天来（我们家）了。
+I have just called on Mr. Frith.
+我刚刚去看望过弗里斯先生。
+The train calls at large stations only.
+这列火车只停大站。`]},{title:"课堂笔记",content:["beggar n. 乞丐","beg v.乞求","I beg your pardon?","ask for :请求得到","beg for :乞求得到","food n. 食物 不可数","a lot of food","pocket n. 衣服口袋","inner pocket:内口袋","jacket pocket","coat pocket","pocket book:袖珍书","pocket dictionary:袖珍词典","pocket money：（小孩）零花钱","change:零钱","get exact change：准备好正确的零花钱","beer money:（男孩）零花钱","pocket pick:车上的小偷","call v. 拜访，光顾","visit","call sb:给某人打电话","call up sb:给某人打电话","call back:回某人电话","Can you take a message for me?","Can you tell him to call back?","call on sb 拜访某人","call at,at 一般和地点相连","call at+地点＝visit someplace 拜访某地","I will call on you.","I will call at your Home.","call out =shout,大声喊","call in sb:招集和邀请某人","For the project,the government called in a lot of experts."]},{title:"讲解",content:["move to :搬到","knock at:敲","knock at the door","knock at the window","beer;bear","ask sb for sth:问某人要什么东西；request for","for;为了这个目的去请求某人，sb 更多的时候不出现，ask for sth","The boy asked for money again/once more.","in return for this：作为对什么的回报","in return:作为回报","He doesn't want anything in return.","hospitality6:热情","I'll buy a present for him in return for hospitality.","this 在代词当中常常指代上文的一件事情","stood on his head：倒立","stand on one's hands:用手着地","跪着，膝盖：knees,stand on one's knees","躺着，躺：lie,lie in bed,lie on one's back:仰面躺着","lie on one's side:侧躺","趴着：lie on one's stomach","give him a meal","go away","later：后来","tell sb about sth,about:关于，通过其他事自己得出结论，tell you about him","tell sb sth:告诉某人某件事(把事情直接告诉)，tell you the news","tell you the word","tell you about the word","everybody 作为主语一定作单数看待，属于不定代词","所有的不定代词作为主语一律为单数看待","calls at every house","in the street 英国写／on the street 美国写","once a month:一个月一次，单位表达方式","a.表示每月一次，计量单位","five kilometers an hour","ask for,是 ask sb for sth 的省略","Percy Buttons?a beggar","He calls at eery house in the street once a month and asks for a meal","and a glass of bear","a,the 和 some","a:单数，可数名词","the:可加单数/复数，还可加不可数名词，加在什么名词前面都对","some:只能加在不可数名词的前面或可数名词复数的前面","a 和 the 的区别","a 是泛指，a man;特指，the man","在文章当中第一次出现名词的时候往往用 a 和 an 修饰，第二次出现的时候用 the","在表示一种笼统感念的陈述句中可以省略 a 和 some","Yesterday I bought a book,Books are not very expensive.","笼统感念：某某一类／一种东西","I have just drunk a glass of milk ,Milk is very refreshing.","I ate an apple./Apples are delicious.","I like oranges.Would you like some oranges?","Mrs.Jones bought a bag of flour,a bag of sugar,and some tea.","She always buys flour,sugar and tea at the grocer's","a 和 the","A man is walking towards me.The man is carrying a parcel.The parcel","is full of meat.","Names","We cannot put a or the in front of names","表示某某一类人当中，具有这种特征当中的一个，a Mr.zhang","某些动词的后面加上介词或副词以后就会改变词义，这种新的组合称作短语动词","put:放，put on","take:拿走，take off","look:看，look at:看，look for:寻找，look afrer:照顾，look out:当心","call,call at,call on,call in ,call back,call for","knock，knock at:敲，knock off,knock over,knock out","knock off:下班，He knocked off earlier.","knock sth off+地点，knock the vase off the table","knock off:打折，knock 10% off the price.","knock over,A car knocked the boy over.","如果有地点，off; 无地点，over,I knocked the boy off the bicycle.","knock out :打陨，boxer:拳击手","在拳击场合中，把人打倒在地叫 knock out","无地点","knock out","knock off","knock 10% off the price of all the goods","say 说/tell 告诉","He says + 句子；He says+that+句子；say to sb.","tell sb.+句子：tell sb.+that+句子","He said to me/he told me","Percy Buttons 作为从句的主语","一个简单句只有一个主语一个动词","He told me Percy Bottons was a Beggar.","6.. they all/all they all of us/all of them 我们所有人 all of us,we all each/every 每一个 each:强调个体；every 强调整体 every adj.+n. 每一个（书，本，人等） each adj.&pron.:each adj.+n; each pron.直接作主语或者宾语 every person likes... each person likes.../each likes... every 不能做主语；each 强调个体，使用第三人称单数 once a month:每月一次，属于频率 对频率提问：how often 提问多久：how long 提问次数：how many times How many times do you visit your mother each month? How long do you visit your mother?对时间提问 How often do you visit your mother?对时间和次数提问 How soon 多久以后 How soon will you finish your Homework? out of work 失业 I am out of work,/I lose my job. piece of:a piece of cheese 一块奶酪 bit： bar:a bar of chocolate---一块巧克力 bar 门闩：长条状：a bar of chocolate; a bar of soap block 块，一大块: block v.堵塞；block n.房子 packet:一包 a piece of.../a bit of... same age and size 同年代同样式 street 两边有房子的街道 way, on the way,in the way 挡住某人的路（强调方向） road 路的通称：road Home 通往家的路 route 路线"]}]},{lesson:7,sections:[{title:"自学导读",content:["1．…detectives were waiting at the airport all morning. ……侦探们在机场等了整整一上午。","all 一般直接加表示时间的单数名词构成副同短语，如：all day （整整一天），all night（整夜），all week（整星期），all winter（整个冬天），all year（整年）等。但不说 all hour。","whole 在表达同样的意思时一般要加冠词或数词，如：a whole day/ year（一整天／年），two whole weeks（整整两星期）。","2．…someone had told the police that thieves would try to steal the diamonds. ……有人向警方报告，说有人企图偷走这些钻石。 that 后面的部分为动词 tell 的宾语从句。从句中的时态为过去将来时（would）。","3．When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield. 当飞机到达时，一些侦探等候在主楼内，另一些侦探则守候在停机坪上。","（1）这个长句子由3个部分组成：when 引导的是整个句子的时间状语从句；some of…building 为主句；while 引导的是动作与主句的动作同时进行的时间状语从句。while 作为连词表示“和……同时”、“当……时候”时常常引导一个过去进行时从句。（cf. 本课语法）","（2）地点状语 on the airfield 与第一句中的 at the airport 意义相近。注意介词 on 和 at 的不同搭配。","（3）代词 others 常常和 some 连用，表示“有些（人）……，也有些（人）……”或者“有的……，其余的……”：","Some students are very hard-working; others are not.","有些学生非常用功；有些则不然。","Some of the novels are interesting; (the) others are not.","在这些小说中，有些很有趣，其他的则不然。","4．keep guard, 守望，警戒，与 stand guard（站岗，放哨）意思相近。 Two thieves kept guard around the house while the others entered it. 两个小偷在屋子外面守着，其他的则进了屋。 They kept a close guard over the thieves. 他们对小偷们严加看管。","5．to their surprise, 令他们吃惊的是。","这个短语中的所有格形容词 their 也可以换成其他所有格形容词：(much) to my/ his surprise, to our surprise 等。一般不说 to your surprise."]},{title:"语法",content:["1．过去进行时(The past progressive tense) 构成：be 的过去式+现在分词（注意现在分词的构成）","（1）过去进行时主要表示过去某个时刻或某段时间正在进行的动作。过去进行时和一般过去时经常同在一个句子里使用。过去进行时表示过去正在进行的动作或情况，一般过去时则表示比较短暂的动作或事件。正在进行中的动作或情况往往由连词 when, while, as, just as 等引导：","While/ When/ As I was sweeping the floor, I found your pen.","我扫地的时候，发现了你的钢笔。","while 通常只引导持续时间较长的动作，并且主句和从句可以同时用过去进行时，而 when 和 as 一般不这么用：","John was watching TV while his wife was talking with a neighbour over the phone.","当他的妻子和一位邻居在电话中聊天时，约翰一直在看电视。","Some students were dancing and singing while others were eating and drinking.","有些学生在唱歌跳舞，而另一些则在吃喝。","Just as I was opening the front door, the telephone rang.","我正开前门的时候，电话铃响了。","Just as I was leaving the house, you came in.","你进来的时候我正要出门。","when 也可以引导比较短暂的动作，while 和 as 则一般不行：","We were having supper when the lights went out.","我们正在吃晚饭时灯灭了。","2）过去进行时往往与表示一段时间的状语连用，如 all morning, all night, all day, all evening, the whole week 等，表示这段时间一直在干什么： They were preparing for the party for two whole days. 整整两天他们一直在为晚会进行准备。","2．短语动词中的小品词(The particles)","在上一课的语法中已经提到，许多动词加上介词或副词后就会改变词义。这些介词和副词通常被称为小品词。它们没有词形变化。有些小品词既可以作介词又可以作副词。判断一个小品词是副词还是介词要看小品词有没有带宾语。有宾语的是介词，没有宾语的是副词。介词的位置相对固定些：I am looking for Tim.","我在找蒂姆。（for 为介词，位置不能变动）","She looked after the baby.","她照顾那孩子。（after 为介词）","He put the fire/ it out.","他灭了火。（out 为副词）","Mother woke the children/ them up.","母亲把孩子们叫醒了。（up 为副词）","She took the picture/ it down.","她把画取了下来。（down 为副词）","Please turn the radio/ it off.","请把收音机关掉。（off 为副词）","He turned it on.","约翰打开了电视。（on 为副词）","Put the cake on the table.","把蛋糕放在桌上。（on 为介词）","She is walking up the hill.","她正向山上走去。（up 为介词）"]},{title:"词汇学习",content:[`1．expect
+（1）vt./vi. 预计，预料：
+We expect a cold winter this year.
+我们预计今年冬天会冷。
+Jim has failed in mathematics as his teacher expected.
+正如他老师所预料的那样，吉姆数学考试没及格。
+（2）vt. 等待，期待，盼望：
+I'm expecting a letter from Jimmy.
+我在等待吉米的一封信。
+They are expecting guests tonight.
+今晚有人要去他们那里作客。
+expect 所表示的等待一般暗含着根据某些信息或规律而作出相应反应的意思，而 wait(for)主要指“等待”这个动作本身：
+He waited for her for more than an hour, but she did not come.
+他等了她一个多小时，但她没来。
+Wait a minute, please.
+请等一下。
+（3）vt. 认为，猜想（一般用于口语）：
+I expect you've heard the news.
+我想你已经听到这个消息了。
+2．steal
+（1）vt. vi. 偷盗，行窃：
+Someone has stolen my bike.
+有人把我的自行车偷走了。
+John never steals.
+约翰从不偷东西。
+（2）vt. 巧妙地占有，偷偷地弄到手：
+He has stolen away Mary's heart.
+他已赢得玛丽的芳心。
+（3）vi. 偷偷地行动，悄悄靠近：
+He stole into the room.
+他悄悄地进了房间。`]},{title:"课堂笔记",content:["detective n. 侦探","detective story 侦探小说","airport n. 机场","airfield n. 飞机起落的场地","port 港口；airport 航空港","field 田野；airfield 停机坪","at the airport","on the airfield","expect v. 期待，等待","except 除……之外","expect／ik'spekt/ v. 期待，等待","I think so.","I expect so.我希望如此［口语］","expect sb.to do sth.期待某人做某事","expect sth.及物动词：I expect your letter.","I expect you to write back.","wait for sth./wait for sb.不及物动词","expect:心理上的等待","wait for:动作上的等待","I wait for my mother.","I expect my mother to come back.","valuable adj. 贵重的","precious adj. 珍贵的","value n.---valuable adj.有价值的","sth.is valuable/sth.is precious","precious 带有感情色彩的","precious photo 珍贵的照片","price 价格；priceless adj.-less 表否定；没有价格的，无价的","valueless adj. 没有价值，不足道的","worth 值：worthless adj. 无价值的","parcel n. 包裹","diamond n. 钻石","precious stone 宝石","crystal 水晶; jade 玉","diamond ring 钻石戒指","steal v. 偷","steal,stole,stolen","steal sth. 偷（某物）","rob sb. 抢(某人)","My wallet was stolen.","I was robbed.","rob the bank","main adj. 主要的","main building; main street","main sentence; main idea","不与人连用","guard n. 警戒，守卫","life guard 救生员/body guard 保镖","stone n. 石子","sand n. 沙子","本课重点：过去进行时，一般过去时","一般过去时与现在完成时","共同点：动作在过去都做过了。","区别：过去式只能强调过去的事，和现在没有任何关系。","I ate a piece of bread.","现在完成时，过去的事情对现在产生的影响。","I have eaten a piece of bread this morning.I'm not hungry.","The clock stopped.陈述事实","The clock has stopped.过去的事实对现在造成影响","It snowed yesterday.","It has snowed yesterday.强调对现在造成影响"]},{title:"讲解",content:["all morning=all the morning","The plane was late 飞机晚（点）了","The bus was late./The train was late.","detectives 没有强调一些侦探或者那些侦探，强调侦探这种人","笼统感念，可不加 some,the","....were waiting... 故事背景，用进行时态","They were expecting...期待着心理上的等","They were waiting for...","a valuable parcel of diamonds","a cup of tea 强调的是茶","South Africa 南非","a few hours earlier 几个小时以前","a few hours before/a few hours ago","someone had told...过去完成时，过去以前发生的事情","...that thieves would try to...","would+do 过去将来时,间接方式，转述，站在过去看未来","that 从句．典型的宾语从句，起转述作用","steal sth.","one...the other.../some...others...","others=other+名词复数","...the plane arrived,...were waiting inside the main building","while others were waiting on...","when; while 当……时候","while 能用 when 代替； 但是 when 却不一定能用 while 代替．","while+从句，动作一定会延续","when+延续性动词／瞬间动词；when he arrived","when he died","when,while 强调动作同时发生","过去进行时：","在过去的某一点时间，或者是过去某一动作同时发生的另外一个动作","瞬间动词（arrive)无进行时态","I am arriving 进行时态表示将要","When he arrived,I was having dinner.","同时发生的两个动作，均用过去进行时","When I was doing my Homework,my mother was cooking.","When my mother was doing the housework,my father was watching TV.","同时发生的两个动作","1.一个用一般过去时，另一个用过去进行时","2.分工的情况，均用过去进行时 When the plane arrived,...were waiting inside the main building while others were waiting on... Two men took the parcel off... take sth.off...=take sth.away from... and carried it into...carried 表示看得很重 Customs House 海关 While... ...were keeping guard at the door,two others opened the parcel. 表面上是分工，两个动作同时开始，不是同时开始同时结束，延续时间不一致， 长一点时间的动作用进行时态，短时间的动作用过去时． When someone knocked at the door,I was having dinner. keep guard 守卫；at the door 在门边 two others=two other detectives To their surprise to one's surprise,让某人惊讶的是 To my surprise,the teacher was late. to one's joy To my joy, my mother came here yesterday. to one's excitement To our excitement,our team wins. be full of ...装满 My bag was full of books. The cup is full of water. 总结 a few hours ealier 几个小时以前 two others to one's surprise,... be full of 装满 重点：过去动作同时发生的时态","1.过去两个动作同时发生，习惯上一个用一般过去时，另一个用过去进行时 ；动作长用过去进行时，动作短用一般过去时；分工的情况，动作的开始时间和 结束时间几乎相同，均用过去进行时； I was listening to the radio,my sister was dancing.","2.两个动作在同时段进行，在不同时间结束，先发生的动作未结束，另一个动作 发生，先发生的动作用进行时态，另一个动作用过去时． When the telephone rang,I was opening the door.先开门 When the telephone was ringing, I opened the door. 电话先响","3.瞬间动词没有进行时态，所以两个动作同时发生，延续性动词用进行时态，瞬间 动词使用过去时态。 Special Difficulties】 Do you remember these sentences? come and look at... I am looking for... v.+prep.+宾语 Now read these sentences v.+prep./adv.代表不同的意思 look at 看；look after 照料 v.+prep./adv.+宾语（ｎ．） v.+宾语（n./pron.)+prep./adv. take off the coat……take the coat off/take it off coat n.作宾语 put on your shoes/put your shoes on/put them on 宾语的位置和词性取决于施加动作的动词 介词出现，一定要有宾语，所以 v.+prep.+宾语(n.) 副词可省略．v.+宾语(n./pron.)+adv. 或 v.+adv.+宾语(n.) at,after prep; off adv. vt.+宾语 vi.+prep.+宾语 take vt./look vi. I always take money with me. put the book on the desk--> put vt. put out...-->out adv. He is looking for his pen.……for prep.","1.give away...-->give(vt.)-->give...away","2.woke up...-->wake sb.(vt.);up(adv.)-->wake...up... wake me up.叫醒我；代词做宾语，放在动词与副词之间","3.look for...-->look(vi.)","4.cut off...-->cut(vt.);cut oneself;cut hair","5.put on...-->put...on...","6.give it back...-->it(pron.)","7.lift up...-->up(adv.)可省略；lift(up)sth;lift sth.up","8.take off...;put on...--->take (vt.)put(vt.)","9.look at...--->look(vi.)","10.send her away...---her(pron.)","11.pull down...-->pull(vt.);down(adv.) pull one's leg 开玩笑","12.make up...--->make(vt.)up one's mind 习惯用法不换,语法可换","13.ask for...-->ask(sb.)for sth. 省略 sb.","14.throw away...-->throw(vt.)...away... 宾语的位置和词性取决于施加动作的动词 vt.+adv.+宾语(n.) vt.+宾语(n./pron.)+adv. vi+prep.+宾语(n.) 词组当中的练习，短语 be interested in 如果不能接收，就记住－－放弃 如果已经说过，还没有明白，就要执著弄懂","5.had done.——两个动作先后发生（一个动作结束，另一个动作才发生）用过去 完成时 before:在……之前   as soon as:一……就","8.expect,wait I expect so.  I expect your letter. expect somebody to do wait for expect somebody to expecting","9.valuable……precious  value:名词 worth 后面一定要加动词   something is worth... The book is worth reading. worthy16……be worthy of  worthless……something is worthless","10.加 something 做宾语的一定是 steal"]}]},{lesson:8,sections:[{title:"自学导读",content:["1．Nearly everybody enters for‘The Nicest Garden Competition’each year, but Joe wins every time. 几乎每个人都参加每年举办的“最佳花园竞赛”，而每次都是乔获胜。 （1）nearly 和 almost 意义相似，表示“几乎”、“差不多”、“差点儿”的意思： I'm nearly/ almost ready. 我快准备好了。 I have nearly forgotten his name. 我差点把他的名字忘了。 He nearly missed the train. 他差点没赶上火车。 （2）each 和 every 均可译为“每一个”，二者常常可以互相代替使用： Every/ Each time I wash the car it rains. 每次我擦洗汽车，天总是下雨。 但是 each 更强调个体。它常用以指一个确定的并通常是有限的数目： Each child in the school was questioned. 学校里的每个孩子都被询问过了。 every 却不那么强调个体，常用来指一个大的、不确定的数目：Every child enjoys Christmas. 所有的/每个孩子都喜欢过圣诞节。 另外，each 既可以作形容词又可以作代词，但 every 只能作形容词： They each have a share. 他们每人都有一份。 Each of us has his own work to do. 我们每个人都有自己的工作要干。","2．Bill Frith's garden is larger than Joe's. 比尔·弗里斯的花园比乔的花园大。","名词加-'s 表示所属关系，构成名词的所有格。这类名词往往指有生命的东西，特别是人。所有格的语法作用相当于形容词，限定后面的名词。这个被限定的名词在上下文中第二次被提到时可以省略，只要不引起误解：","This is Mary's boy friend, not Jane's.","这是玛丽的男朋友，不是简的。","My pen is lost. This one is my brother's.","我的钢笔丢了。这枝是我兄弟的。","John's handwriting is better than Mary's and Catherine's.","约翰的书法比玛丽的和凯瑟琳的都要好。","3．He has made neat paths and has built a wooden bridge over a pool. 他修筑了一条条整洁的小路，并在一个池塘上架了一座小木桥。","make 和 build 在这里是同义词，都可以解释为“修建”、“建造”。与汉语的写作习惯一样，用英语写作时同一段文字中尤其是在同一句话中应尽量避免使用重复的词，以使文章显得生动（特殊的修辞手法例外）。","make 和 build 之间的区别主要是：make 的词义比较笼统、广泛，可以解释为“做”、“作出”、“制造”等，而 build 的意义主要限于建筑业，指“建造”、“建设”、“盖房子”、“修筑（桥梁等）”：","They have built a new house.","他们盖了一座新房子。","They have made a road along the river.","他们沿这条河筑了一条路。","Have you made the skirt by yourself?","这裙子是你自己做的吗？"]},{title:"语法",content:["形容词和副词的比较级和最高级","在英语中形容词和副词一般可以有比较级和最高级。比较级相当于汉语中“比……更……”这种句型，最高级则表示在某个范围“最……”的概念。最高级在使用时前面通常要加定冠词 the，并有一个短语或从句限定其范围。","（1）比较级和最高级的构成","单音节词和少数双音节词（如以辅音+-y 结尾的词）在词尾加-er, -est，以辅音+-y 结尾的词要先将-y 变成-i，再在词尾加上-er, -est:","hard----harder----hardest                 small----smaller----smallest","young----younger----youngest         lean----cleaner----cleanest","busy----busier----busiest","以-e 结尾的词加-r 和-st:","large----larger----largest nice----nicer----nicest","以一个辅音字母结尾的单音节词要双写最后一个字母，然后再加-er, -ext:","big----bigger----biggest                    thin----thinner----thinnest","有一些双音节词在构成比较级和最高级形式时，既可以在单词结尾处加-er 和-est，也可与 more/ less 和 most/ least 连用。如 narrow, clever, common, pleasant 等。但如无把握时，双音节词用 more 和 most 则较为可靠。两个音节以上的单词如下：","interesting----more              interesting----most interesting","有些形容词和副词的比较级和最高级的构成并不规则","good/ well----better----best            bad/ ill----worse----worst","many/ much----more----most        little----less----leas","told----older/ older----oldest/ eldest","far----farther3/ further----farthest/ furthest","（2）在使用比较级时，如果需要把所比较的两项都提到，那么就必须在比较级后用 than：","I know him better than you do.","我比你了解他。","Jane's hair is darker than Mary's.","简的头发比玛丽的黑。","My room is cleaner than the one next door.","我的房间比隔壁房间干净。","如果比较级之所指很清楚，它可独立存在：","(3）最高级的限定范围一般用 of, among, in 等介词短语：","John is the tallest of the three brothers.","这3个兄弟中约翰个子最高。","This is the coldest day in ten years.","这是10年来最冷的一天。","限定范围也可以是从句：","Mary is the most intelligent person I've ever met.","玛丽是我所遇到的最聪明的人。","如果范围很清楚，则可以省略：","April is the best season.","4月是最好的季节。（暗含范围“一年中”）","He is always the best.","他总是最优秀的。（暗含范围“在我们当中”）"]},{title:"词汇学习",content:[`1．enter
+（1）vt./vi. 进入：
+Joe entered the room quietly.
+乔悄悄地走进了房间。
+Always knock on the door before you enter.进入前要先敲门。
+（2）vt./vi. 参加，加入：
+We've entered into an agreement.
+我们已达成一项协议。
+He soon entered their conversation.
+他很快便加入了他们的谈话。
+（3）enter for 是“报名参加”的意思：
+She entered (her name/ herself) for the mathematics competition.
+她报名参加数学竞赛。
+He entered his son for the English examination.他让儿子参加英语考试。
+2．every 构成的合成词
+every 和 one, body, thing 可以构成复合不定代词 everyone, everybody 和 everything。它们一般都写成一个词。everyone 和 everybody 一般可以替换使用，后面的代词既可以用单数，也可以用复数，但它们本身均被视为单数：
+Everyone/ Everybody knows what he has to do.
+每一个人都知道自己必须做什么。
+Everyone/ Everybody knows what they have to do.
+每个人都知道自己必须做什么。
+Everything is going well.
+一切都很顺利。
+与 every 一样可以构成这类合成词的单词还有 some, any 和 no。`]},{title:"课堂笔记",content:["competition n. 比赛，竞赛","race car race","football match","contest baby contest","beauty contest 选美","暗地里的竞争－competition","game","neat adj. 整齐的，整洁的","neat=tidy","path n. 小路，小径","wooden adj. 木头的","pool n. 水池","人工的 swimming pool","pond 天然的  good pond","good  bad  比较级－than","最高级－of all","He is the tallest of all. He is the tallest in the room.","the+ -est","more interesting  the most interesting","三个或者是三个音节以上——多音节","比较级的构成：more+原级    最高级的构成：the most+原级","单音节的词用 er","双音节   以 y 结尾的双音节词+er","clever  cleverer  more clever","slowly  more slowly","often  more often","fun:快乐   more fun 美国人用","无规律：good  bad;  many much; few  little","many much--more most little--less least","far old  far--farther  farthest further furthest","farther:距离上的远和更远   further:程度  further more","old--older oldest  elder eldest","older:比...大    elder：做定语修饰其他名词  elder sister","She is older than somebody"]},{title:"讲解",content:["Joe Bill   the writer","the most beautiful   the largest  the worst","Joe's garden is the most beautiful.","Bill's garden is the largest.","The writer's is the worst.","比较的东西都是同类的事物","enter for:报名参加，强调报名  take jpart in 真真参加","enter for the exam","win:赢   won--won I win. I lose","win something  I win the book.  I win the gold cup","win 后面往往是奖品","win a prize:赢得了一个奖","win a prize for:因为...而获奖","win 不能接对手","defeat+对手  I defeat you."]}]},{lesson:9,sections:[{title:"自学导读",content:["1．…a large crowd of people had gathered under the Town Hall clock. ……一大群人聚集在市政厅的大钟下面。 had gathered 为过去完成时，表示过去某个时刻之前已经完成的动作。（cf. 第14课语法）","2．It would strike twelve in twenty minutes' time. 再过20分钟，大钟将敲响12下。 （1）这句话的时态为过去将来时。 （2）in+表示时间长度的短语可译为“……时间之后”，一般与将来时连用： Please wait a moment here. Jack will be back in a few minutes. 请在此稍候。杰克几分钟之后就回来。 （3）strike 的基本含义是“打”、“击”： She struck the man in the face. 她打了那人的脸。 当用于钟、乐器等东西时，它有“敲”、“弹”的含义： When I entered the room, the clock struck five. 我进屋时，钟敲响了5点。","3．We waited and waited, but nothing happened. 我们等啊等啊，可情况没有变化。 动词 happen 作“发生”、“出现”讲时，主语是物： Have you heard what happened to Sam this morning? 你听说今天上午萨姆发生了什么事了吗？ An interesting thing happened last night. 昨晚发生了一件有趣的事。","4．The big clock refused to welcome the New Year. 那座大钟不愿意迎接新年。 这句话中的两个动词 refuse 和 welcome 在一般情况下主语都是人。我们可以说： Susan's friends welcomed her with flowers when she returned from abroad. 苏珊从国外回来时，她的朋友们用鲜花欢迎她。 在书上的这句话中，用大钟作主语是一种拟人手法。 语法 Grammar in use","1．引导时间状语的介词 in, on, at, during, till 与 until （1）用 in 的时间短语有： 表示一天中的某段时间： in the morning 在早上 in the afternoon/ evening 在下午／晚上 表示月份、年份： in March 在3月 in September 在9月 in 1984 在1984年 表示季节： in (the) spring 在春天 in (the) winter 在冬天 in+ 一段时间有两种含义。它可以表示“在某段时间之内”，这时它可以与现在时、过去时或将来时连用，一般与完成某个动作有关： I always eat my breakfast in ten minutes. 我总是在10分钟之内吃完早饭。 I finished the examination in two hours. 我在两小时之内做完了考题。 另外，它还可以表示“……时间之后”，与将来时连用：Mother will be back in ten days. 母亲10天后回来。 （2）用 on 的时间短语有： 表示星期： on Monday 星期一 on Friday 星期五 on Monday morning/evening 在星期一早上／晚上表示日期： on June 1st 在6月1日 on 23rd March 在3月23日 （在书写日期时没有冠词，但在口语中则分别读为：on June the first, on the 23rd of March） 表示星期+日期： on Monday, June 1st 在6月1日，星期一 表示具体时间： on that day 在那一天 on that evening 在那天晚上 My brother's birthday is on August 12th.我哥哥的生日是8月12日。 （3）用 at 的时间短语有： 表示确切的时间： at 10 o'clock 在10点钟 at 5 'clock 在5点钟 表示用餐时间： at lunch/ dinner time 在午饭／正餐时间 at teatime 在茶点时间 表示其他时刻： at noon/ night/ midnight 在中午／夜里／半夜 at this time 在这时 Liz came to see me at ten/ teatime. 莉兹10点／在茶点时来看我了。 （4）during 后必须跟一个名词，可以指整个一段时间。它有时可以用 in 替代： It was very hot during the summer. 那年夏天很热。 He has phoned four times during the last half hour. 在这半小时内他打了4次电话。 但在下面的例句中则不可用 in 替代 during: I met him sometime during the week. 我是在这一周的某天遇见他的。 During the whole winter it never snowed. 整个冬季一直没下雪。 （5）from…till…指一段明确的时间： The tourist season runs from June till October. 旅游季节从6月一直到10月。 （6）当所用动词只表示一个短暂的动作（如 finish, leave）时，则只能在否定句中用 till/ until: I won't leave till/ until Monday. 我要到星期一才离开。","2．否定句的两种形式：not any 与 no 对于一般疑问句，可以有两种否定的回答：","否定词 no 比 not any 的语气要强，但这两种否定的意义是相同的。no 可构成复合词 nobody, none, nothing, nowhere; any 可构成复合词 anybody, anything 和 anywhere:","在一个句子中通常只能有一个否定词（包括 never, hardly 等词）：","而除黑人英语外一般不说：* I can't get no eggs.*"]},{title:"词汇学习",content:[`1．gather
+（1）vt. 使集拢，集合，召集：
+He gathered a large crowd of people round him.
+他在自己周围聚集了一大群人。
+（2）vt. 收集，采集，收（庄稼等）：
+The children are out in the field gathering flowers.
+孩子们在外面地里采花。
+It has taken me a lifetime to gather all these books.
+收集所有这些书花了我一辈子的时间。
+（3）vi. 集拢，聚集，集合：
+They gathered under the Town Hall clock.
+他们聚集在市政厅的大钟下面。
+2．refuse
+（1）vt. 拒绝（接受、服从等）：
+She refused the gift.
+她拒绝接受这份礼物。
+（2）vt. 拒不，不肯，不愿：
+Mary refused to tell her age.
+玛丽不愿说出自己的年龄。
+John refused to change his mind.
+约翰拒不改变主意。
+（3）vi. 拒绝，不接受：
+I offered to pay him for his help, but he refused.
+对于他的帮助我提出给他报酬，但他拒绝了。`]},{title:"课堂笔记",content:["welcome n. 欢迎；v. 欢迎","a cold welcome 冷遇","welcome to＋地点","welcome to China","welcome to my home/welcome Home/welcome back","You are welcome./welcome adj.","You are welcome to+地点","crowd n. 人群","person","people","crowd :in the crowd","I spotted him in the crowd 一眼看见","a crowd of people 没有次序的人群，拥挤的人群","a group of people 有次序的人群","crowd v.拥挤，挤满","a large crowd of people 一大群人／crowds of people 许多人，人山人海","gather v. 聚集","people gathered 人们聚集在一起，尤指自发性的聚集","hand n. （表或机器的）指针","hand n.手","minute hand/second hand/hour hand","second hand 二手的，旧的","wait me a moment/wait me a few seconds(for a few secs.)","secs.:seconds 的缩写","shout v. 喊叫","call out 大声喊叫","cry out 大声哭喊","scream 尖叫","refuse v. 拒绝","laugh v. 笑"]},{title:"讲解",content:["A cold welcome 冷遇","cold 冷的，寒冷的，冷淡的","cold fish 冷漠的人","lucky dog 幸运的人","My brother is a cold fish.",'What doews "a cold welcome" refer to ?',"refer to 指……","On Wednesday evening","in the evening","wednesday 修饰 evening","Town Hall 市政厅","the last day of the year 一年中的最后一天","a large crowd of the peopley 一大群人","had gathered 强调事件的时间是过去的过去","It 指 clock","strike v.strike the clock 敲钟/clock strike 钟自己响","knock at the door","Listen,the clock is striking.","strike twelve 数字表示敲击的次数","in twenty minutes' time 20分钟之后","in 表示在段时间以后","根据时态判别 in 表示的含义","would strike 过去将来时，从过去看未来","We will finish class in half an hour.","minutes'名词所有格","It will leave in...minutes'time","in twenty(minutes'time)名词所有格可省略","my mother's ,Kit's,Tom's","名词所有格可以用来表达时间","an hour's time","名词以-s 结尾或者本身是以-s 结尾的复数名词，所有格加 ’","名词所有格表示时间或距离","How far is the school from here?","3 minutes' walk.","pass 过了","to 没到","...minutes pass...前半小时","25 minutes passed eight","...minutes to ...后半小时","a quarter to nine/15 minutes to nine","时刻指点时间，时间指段时间","时刻前的介词用 at","at five to twelve 作时间状语","一般过去时 the clock stopped","顺序句式...,the clock stopped at five to twelve.","An hour passed and then,he arrived.","...minutes later 几分钟以后","some time passed and then,sth happened.","big minute hand 大分针","waited and waited 等啊等啊，强调动作的重复","walked and walked ,run and run","but 然而，表转折","nothing happened","happen vi.事情做主语，事情发生","what happened?","someone shouted 有人大声喊","It's two minutes past twelve!","I go to school at seven o'clock.时间状语","It's nine o'clock;现在9点了","The clock has stopped!现在完成时，强调过去动作导致的结果。","I have had my breakfast.我已经吃过早餐了","I have...","I read a book...","I looked at my watch.","It was true...这是一个事实","It was true that+从句","refuse to do sth.拒绝去做某事","I refuse to leave.我拒绝离开","I refuse to move.我拒绝移动","at that moment :just then 就在那时","at the moment: now 现在，此刻，在此时","过去时 began to laugh and sing."]}]},{lesson:10,sections:[{title:"自学导读",content:["1．One good turn deserves another,（标题）礼尚往来。 （1）名词 turn 的含义之一是“（帮助或损害他人的）举动”、“行为”： Yesterday George did me a good/ an ill turn. 乔治昨天做了一件对我有利／不利的事。 He is always ready to do a turn for others. 他总是乐于为他人做好事。 （2）deserve 的意义为“应受”、“应得（奖赏、惩罚等）”、“值得”，通常为及物动词： His words deserve attention. 他的话值得注意。 Mary deserves the prize. 玛丽应得这个奖。","2．He gets a good salary…他的薪水很高…… good 在这里的意思是“相当大／多的”、“相当可观的”： It takes me a good three hours to get there. 我花了整整3小时才到达那里。","3．…but he always borrows money from his friends and never pays it back. ……但他却总是向朋友借钱，并且从来不还。 （1）连词 and 在这句话中可解释为“并且”、“另外”(in addition)。 （2）pay 在这里的意思是“偿还（债务等）”。 pay 还可以解释为“付”、“支付（价款、账单等）”，如课文的最后一句话： …so now you can pay for my dinner! ……所以现在你可以替我付饭钱了！ pay 既是及物动词也可以是不及物动词： How much did you pay for that dress? 那件衣服你花了多少钱？ I paid the bill. 我付了账。"]},{title:"语法",content:["1．在前10课的语法中，我们比较了一般过去时、一般现在时、现在完成时、现在进行时和过去进行时等时态以及和它们相关的时间状语，另外还学习了被动语态。现在我们通过例句简要回顾一下所学过的内容：","2．动词+名词／代词+ 带 to 的不定式 某些动词之后的带 to 的不定式之前可以有一个名词或代词。有些动词后的名词／代词可有可无，但有和没有经常影响整个句子的意义： I want to speak to John. 我想和约翰谈话。(=I will speak.) I want you to speak to John. 我希望你和约翰谈谈。(=You will speak.)","但是，还有一些动词后面用不定式作宾语时，其后通常必须有一名词或代词。这类动词有：allow, advise, help, teach, tell, request 等等。这类动词不但可用于主动语态，也可用于被动语态：","Mr. Turner did not allow us to see the picture.","特纳先生没让我们看那幅画。","We were not allowed to see the picture.","人们不许我们看那幅画。","He taught me to paint.","他教我绘画。","Jane helped Julie to cook the meal.","简帮着朱莉做饭。"]},{title:"词汇学习",content:[`1．salary 与 wage
+salary 可译为“薪金”、“薪水”，通常指职员、脑力劳动者（如律师、教师、医生等）的收入，数额比较固定，一般按月支付：
+My salary is paid on the 28th of the month.
+我每月28号领工资。
+wage 可译为“工资”、“工钱”，通常指技工或一般体力劳动者的收入，按周或天支付。wage 一般用复数形式 wages:
+When I worked as a waiter, the wages were low, but the tips were good.
+我当侍者时工资不高，但小费可观。
+Women often get low wages.
+妇女的报酬通常很低。
+2．borrow 与 lend
+borrow 的意思是“借”、“借入”，经常与 from 连用：
+He borrowed my pen yesterday. He hasn't given me it yet.
+他昨天借了我的钢笔，到现在他还没有还我。
+Can I borrow ￡ 20 from you please? I'll pay/ give it back tomorrow.
+我能从您这里借20英镑吗？我明天就还给您。
+lend 的意思是“把……借给”、“借出”，经常与介词 to 连用：
+He refused to lend any money to Tom.
+他不肯借给汤姆钱。
+Can you lend me ￡ 20 please? I'll pay/ give it back tomorrow.
+您能借给我20英镑吗？我明天就还给您。
+Can you lend your car to me this afternoon?
+你今天下午能把车借我用一下吗？`]},{title:"课堂笔记",content:["jazz n. 爵士音乐","a kind of music","musical adj. 音乐的","music student : the student who learned music","musical student :有音乐天赋的","instrument n. 乐器","instrument=musical instrument","clavichord n. 古钢琴","a kind of instrument","recently adv. 最近","recently=lately","damage v. 损坏","key n. 琴键"]},{title:"讲解",content:["be done","call sb.sth.","sb.be called","be made","be made in +地点","be made of/be made from(看不出原料/多种原料）:由……制造（材料）","The ring is made of gold.","It is made from plastic.","be made into:被……制成","The gold is made into a ring.","is done:被动语态的一般现在时","was done:被动语态的一般过去时","使用那一个不取决于动词，而取决于该句话的时态","只要见到 ago,一定使用过去时","主动语态的主语变到被动语态中要在前面加 by","play: 1.跟球类连用，直接＋球类；2.跟乐器连用，＋the+乐器","play music on + 乐器","hard: 修饰动作程度的重和深","汉语中习惯用主动形式，英语中习惯用被动形式","be+动词的 ing 形式：进行时态","be+done: 被动语态","be being done：被动语态的现在进行时","be 动词有多少种时态，被动语态就有多少种","have been done","will be done","can be done","had been done","is/am/are/was/were/ done","I will make a cake./Tomorrow the cake will be made.","The cake has been made.","The cake was made.","The cake had been made.","强调对象是人用主动，强调对象是物用被动，被强调的部分永远做主语","双重所有格／双重属格：名词＋of＋名词所有格（名词性的物主代词）","只有一张照片 my photo","很多照片中的一张 a photo of mine","It happened to a friend of mine.","Special difficulties】","1.of 2.in 3.from","1.He borrowed a record of mine.","2.She showed me a picture of John's","3.It was an idea of hers.","4.A letter of yours was found on my desk.",`5.Some friends of theirs came to see me. 双重属格结构： "a friend of my father" "my father's friend(s)"  ……只有一个（很多）朋友 "a friend of my father's" √ 强调很多当中的一个或几个的时候，选用双重属格结构 "we are not allowed to touch it."不被允许 肯定结构中 must 和 have to 是一个感念 否定结构中 must 和 have to 就不一样了 mustn't:不准，不可以 have to 的否定：不必(have 实意动词）……don't have to You don't have to go to school. You mustn't go to school. keep(kept,kept):保持；保存 keep sth.+地点：在某地放...（状态） put:放（动作） That's where That's 后面＋以特殊疑问词引导的从句 That's why:那就是...的原因 That's where:那就是...地点 lift:举起 carry:扛着，背着，抱着 hold:拥有，持有，握着 have:拥有 "damaged"……可以修复 destroy……无法修复 pain……有身体的疼痛 hurt……hurt oneself／身体的某个部位/feelings: 受伤,伤害 身体的某个部位＋hurt: ...疼痛 My hand hurts. My leg hurts. Hurt my leg. broke——打破，打断，打碎 I broke my leg.`]}]},{lesson:11,sections:[{title:"自学导读",content:["1．One good turn deserves another,（标题）礼尚往来。 （1）名词 turn 的含义之一是“（帮助或损害他人的）举动”、“行为”： Yesterday George did me a good/ an ill turn. 乔治昨天做了一件对我有利／不利的事。 He is always ready to do a turn for others. 他总是乐于为他人做好事。 （2）deserve 的意义为“应受”、“应得（奖赏、惩罚等）”、“值得”，通常为及物动词： His words deserve attention. 他的话值得注意。 Mary deserves the prize. 玛丽应得这个奖。","2．He gets a good salary…他的薪水很高…… good 在这里的意思是“相当大／多的”、“相当可观的”： It takes me a good three hours to get there. 我花了整整3小时才到达那里。","3．…but he always borrows money from his friends and never pays it back. ……但他却总是向朋友借钱，并且从来不还。 （1）连词 and 在这句话中可解释为“并且”、“另外”(in addition)。 （2）pay 在这里的意思是“偿还（债务等）”。 pay 还可以解释为“付”、“支付（价款、账单等）”，如课文的最后一句话： …so now you can pay for my dinner! ……所以现在你可以替我付饭钱了！ pay 既是及物动词也可以是不及物动词： How much did you pay for that dress? 那件衣服你花了多少钱？ I paid the bill. 我付了账。"]},{title:"语法",content:["1．在前10课的语法中，我们比较了一般过去时、一般现在时、现在完成时、现在进行时和过去进行时等时态以及和它们相关的时间状语，另外还学习了被动语态。现在我们通过例句简要回顾一下所学过的内容：","2．动词+名词／代词+ 带 to 的不定式 某些动词之后的带 to 的不定式之前可以有一个名词或代词。有些动词后的名词／代词可有可无，但有和没有经常影响整个句子的意义： I want to speak to John. 我想和约翰谈话。(=I will speak.) I want you to speak to John. 我希望你和约翰谈谈。(=You will speak.)","但是，还有一些动词后面用不定式作宾语时，其后通常必须有一名词或代词。这类动词有：allow, advise, help, teach, tell, request 等等。这类动词不但可用于主动语态，也可用于被动语态：","Mr. Turner did not allow us to see the picture.","特纳先生没让我们看那幅画。","We were not allowed to see the picture.","人们不许我们看那幅画。","He taught me to paint.","他教我绘画。","Jane helped Julie to cook the meal.","简帮着朱莉做饭。"]},{title:"词汇学习",content:[`1．salary 与 wage
+salary 可译为“薪金”、“薪水”，通常指职员、脑力劳动者（如律师、教师、医生等）的收入，数额比较固定，一般按月支付：
+My salary is paid on the 28th of the month.
+我每月28号领工资。
+wage 可译为“工资”、“工钱”，通常指技工或一般体力劳动者的收入，按周或天支付。wage 一般用复数形式 wages:
+When I worked as a waiter, the wages were low, but the tips were good.
+我当侍者时工资不高，但小费可观。
+Women often get low wages.
+妇女的报酬通常很低。
+2．borrow 与 lend
+borrow 的意思是“借”、“借入”，经常与 from 连用：
+He borrowed my pen yesterday. He hasn't given me it yet.
+他昨天借了我的钢笔，到现在他还没有还我。
+Can I borrow ￡ 20 from you please? I'll pay/ give it back tomorrow.
+我能从您这里借20英镑吗？我明天就还给您。
+lend 的意思是“把……借给”、“借出”，经常与介词 to 连用：
+He refused to lend any money to Tom.
+他不肯借给汤姆钱。
+Can you lend me ￡ 20 please? I'll pay/ give it back tomorrow.
+您能借给我20英镑吗？我明天就还给您。
+Can you lend your car to me this afternoon?
+你今天下午能把车借我用一下吗？`]},{title:"词汇学习",content:[`1．turn n. 行为，举止：
+2．behavior：行为，举止
+pay attention to your behavior
+3．turn：对人有影响力的行为
+4．deserve v. 应得到，值得：
+He deserves praise.他应该得到表扬
+Yor deserve the best.你应该得到最好的
+deserve + n.
+5．promotion：提升
+He deserved a promotion.
+6．deserve to do: 应该...
+She deserved to be punished.
+Good work deserves good pay.
+7．lawyer n. 律师：
+8．lawyer's office：律师事务所
+9．bank  n. 银行：
+10．rob the bank：抢银行
+11．salary n. 工资：
+12．pay：工资（salary+wage) 通用
+13．salary:工资（月薪，年薪）……有固定工作或管理阶层
+14．wage:工资（按小时，周计算的）……不稳定的工作
+15．bonus：奖金，分红
+16．collet:搜集，领取  collect salary/wage：领工资
+17．immediately adv. 立刻：
+18．at once：立刻，马上
+19．right now：现在
+right away：＝at once,immediately 立刻，马上`]},{title:"讲解",content:["One good turn deserves another 礼尚往来，善有善报","One bad turn deserves another 恶有恶报","work for……强调工作","work in……强调 in 后面的地点","some/several years ago","名词-s,前面省略了 some","working at a bank 比较稳定","He gets a good salary.薪水不错","The teachers in the new oriental school can get good salary.","borrow from：从...借","never=not 前面不需要加助动词","pay back：还钱","and 连接三个并列的动词","at the same table：坐在同一张桌子旁边","at table：吃饭","at the table:坐在桌子旁边","Would you like to join us?","has never borrowed 潜台词 perhaps,this time he would borrow from me","ask sb.to do 请求某人做...","to my surprise:真让我惊讶","pay for：为...而付钱","ask for:问...要","I have paid for you a dinner.","I have paid 20 dollars for the book.（强调）","It's my treat.我请客","Let's go dutch.AA 制","This time is your treat. next time is my turn."]}]},{lesson:12,sections:[{title:"自学导读",content:["1．Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow. 我们的邻居查尔斯·艾利森船长明天就要从朴次茅斯启航了。 （1）这个句子以及本课的大部分句子用的是一般将来时（cf. 本课语法）","（2）句子的主语部分 our neighbour 和 Captain Charles Alison 为同位语。（cf. 第4课语法）下文 He will be in his small boat,Topsail 中的 Topsail 也为同位语。","2．We'll meet him at the harbour early in the morning. 明天一大早我们将在码头为他送行。 在表示时间的短语 in the morning, in the afternoon 等前面可以再加上 early, late 等副词，以便更确切地表示时间： Tony will arrive late in the afternoon. 托尼下午晚些时候才能抵达。","3．Topsail is a famous little boat.“涛波赛”号是艘有名的小艇。 little 除了表示形体上小的意义之外，还含有“可爱”的意思，是个带有感情色彩的词。如 little Tom（小汤姆）就有一种亲昵的味道。","4．It has sailed across the Atlantic many times．它已经多次横渡大西洋。 across 是对某个细长物“横切”、“横断”、“横渡”等，尤指河流、马路等等。","5．Captain Alison will set out at eight o'clock…艾利森船长将于8点钟启航…… set out 在这里的意思是“出发”、“动身”，是固定短语。","6．We'll see his boat and then we'll say goodbye to him. 我们将参观他的船，然后和他告别。 表示告别通常用 say goodbye (to sb.): I have come to say goodbye (to you). 我是来（向你）告辞的。","7．We are very proud of him. 我们真为他感到自豪。 be proud of (sb.) 是个常用搭配，表示“为（某人）感到自豪”： Mr. Baker is proud of his son. 贝克先生为他的儿子感到自豪。","8．He will take part in an important race across the Atlantic. 他将参加一次重大的横渡大西洋的比赛。 take part (in) 是固定短语，表示“参加”、“参与（某项活动）”： We all took part in the competition. 我们都参加了这次竞赛。"]},{title:"语法",content:["一般将来时 (The simple future tense)","一般将来时由 will（第1人称时可用 shall）加动词原形构成，可用来预言将来发生的事，如说出我们设想会发生的事或者请对方预言将要发生什么事。will 可用于所有人称。当 You and I 为主语时，通常避免用 shall:","You and I will work in the same office.","你和我将在同一个办公室工作。","will 在书面语和流利的口语中，在元音之后可以缩略为-'ll，如 I'll, we'll, you'll 等：","我们5点钟回来。","-'ll 在下列场合也可用于辅音之后：","人名之后：","Tom'll be here soon.","汤姆马上就来这儿。","疑问词之后：","When'll Mary be back?","玛丽什么时候回来？","普通名词之后：","The concert'll start in a minute.","音乐会一会儿就要开始了。","That film'll be on next Sunday.","那部影片下星期天上映。","在否定式中，will not 可以缩略为-'ll not 或 won't; shall not 缩略为 shan't（在美国英语中很少用 shan't, 用 shall 表示将来也不常用）：","I/ we won't/ shan't go.","我／我们不会去。","Won't you have some cake?","你不吃点蛋糕吗？"]},{title:"词汇学习",content:[`1．sail
+（1）vi.（船）航行，扬帆行驶：
+Topsail has sailed across the Atlantic many times.“涛波赛”已多次横渡大西洋。
+The ship is sailing for New York.
+这艘船正驶向纽约。
+（2）vi.（人）乘船航行：
+Captain Alison will sail from Portsmouth tomorrow.
+艾利森船长明天将从朴次茅斯启航。
+I want to sail around the world.
+我想乘船周游世界。
+（3）n. 帆，篷：
+This boat has white sails.
+这条小船的帆是白色的。
+2．be+ 副词构成表语
+动词 be 如与不同的副词连用则意义不同（主要由副词的意义决定）：
+He will be away for two months.
+他将离开两个月。（away 表示“离开”、“不在”）
+Can you be back before six o'clock?
+你6点钟以前能回来吗？
+You can't see Tom now. He isn't in.
+你现在见不到汤姆。他不在。
+Come tomorrow. I'll be out today.
+明天来吧。我今天要出去。
+Everything is over between them.
+他们之间一切都已结束了。
+3．set+ 副词构成的短语动词
+（1）set out, 出发，动身：
+When'll you set out for London?
+你什么时候（出发）去伦敦？
+He set out early this morning.
+他今天一大早就出发了。
+（2）set off,出发，启程：
+I'll set off for home the day after tomorrow.
+我后天动身回家。
+（3）set up, 创立，建立；创（纪录）：
+Mr. Jackson has set up a school in the village.
+杰克逊先生在这座村子里开办了一所学校。
+Has Tom set up a new world record?
+汤姆创造了一项新的世界纪录了吗？`]},{title:"词汇学习",content:[`1．luck n. 运气，幸运：
+good luck
+bless you 保重
+break your leg=good luck
+lucky dog 幸运儿
+lucky day 幸运日
+unlucky
+luckily adv.
+2．captain n. 船长：
+3．sail v. 航行：
+4．harbour n. 港口：
+port air port
+5．proud adj. 自豪：
+6．be proud of：以...为自豪
+Parents are proud of their children.
+pride n. take pride in
+自满
+7．important adj. 重要的：
+importance n.
+课文讲解】
+Portsmouth
+将来时态    early in the morning：一大早
+late in the afternoon  傍晚
+meet somebody＋地点 去某地接某人
+I'll meet you at the station.
+see somebody off 送行，目送
+in his small boat  Topsail
+little……往往倾注了一定的感情   small……没有感情
+8．famous：好的评价
+9．sailed across：横渡   the Atlantic：大西洋
+over……过桥
+once twice  three times......
+表示次数的时候，for 一定不能加
+I do something twice.
+10．set out：出发   set off   begin something
+plenty: enough  a lot of：指客观上的多
+plenty of  I have plenty of money.相对多
+see--visit  Can I see it?
+say goodbye to somebody; say hello to;  say sorry to
+I said hello to him this morning.
+You must say sorry to somebody.
+be away  He has been there. leave……短暂性动词不能和段时间连用
+He will leave. be＋形容词（介词短语）
+短暂动词 代替   状态
+arrive ……  be here/there
+leave ……    be away
+die  ……    be dead
+join  ……  be a soldier/in the army
+He has been away for two hours.
+He left two hours ago.点时间
+take part in;  enter for
+I have entered for the meeting,but now I don't want to take part in
+the meeting.
+横渡大西洋的比赛  across the Atlantic 介词短语做定语放在被修饰词的
+后面
+on the desk  The book is on the desk.
+at the door. the person at the door.
+总结
+和水面有关，横渡……across
+meet somebody+地点 see somebody off
+be away
+Special Difficulties】
+一般将来时
+be＋副词   be in ; Is Tome in?在家
+11．be out:出去  be away：离开  be on：上映  The film is on.
+12．be back    be up to something:胜任某件事情，能够做某件事
+is over   game is over.
+be  set  set out set off  set up
+13．Topsail...C
+will...将要完成
+has... 已经完成
+be in the race：take part in the race 参加比赛
+at the race 在比赛场地观看比赛
+拜访某地 call at
+在某个小地点 at the airport
+be in the race：take part in the race`]}]},{lesson:13,sections:[{title:"自学导读",content:["1．The Greenwood Boys are a group of pop singers. “绿林少年”是一个流行歌曲演唱团。 （1）group 的含义是“组”、“群”、“群体”、“团体”。通常用 a group of 表示一群或一个团体： On my way home, I met a group of students. 我在回家的路上遇见了一群学生。 You can see a group of islands in the middle of the lake. 你可以看到湖的中央有一群岛屿。 （2）pop 是 popular 的缩写形式，主要用于口语，意为“通俗的”、“流行的”、“大众的”： Do you like pop songs/ music? 你喜欢流行歌曲／音乐吗？","2．At present, they are visiting all parts of the country. 目前他们正在全国各地巡回演出。 （1）时间状语 at present 意义与 now 相同，意为“目前”、“现在”，是个固定短语： The doctor is very busy at present. Come here tomorrow morning. 医生现在非常忙。你明天上午来吧。 （2）all 在这里的意思是“各种的”、“各个”，与它通常的意思（“所有的”或“一切的”）稍有不同： You can find all kinds of shoes in this store. 在这家商店你可以见到各种各样的鞋。","3．As usual, the police will have a difficult time. 同往常一样，警察的日子将不好过。 （1）usual 的含义为“通常的”、“平常的”、“惯常的”，as usual 是固定短语，可译为“像平常一样”、“照例”： On that day, he was late for work as usual. 那天，他像平常一样，上班又迟到了。 （2）difficult 在这里可以解释为“难对付的”、“费劲的”，指麻烦比较多。","4．They will be trying to keep order. 他们将设法维持秩序。","order 常用的意义是“次序”、“顺序”。在这句话中它的含义是“治安”、“秩序”，一般用于 keep order（维持秩序），public order （治安）等短语中。","5．It is always the same on these occasions. 每逢这种场合，情况都是这样。 当用 occasion 表示在某个／些场合时，它与介词 on 连用： John has met Mary on three different occasions. 约翰曾在3个不同的场合见过玛丽。"]},{title:"语法",content:["1．将来进行时(The future progressive tense) 将来进行时由 will/ shall+ be+ 现在分词构成，通常用于表示最近或很久的将来正在进行的动作。 将来进行时常用来表示说话人设想已经安排好的事： By this time tomorrow, I'll be lying on the beach. 到明天这个时间，我将正在海滩上躺着。","虽然将来进行时与一般将来时有时表达的意思差不多，但它们之间还是有一些区别的。一般将来时中的 will 经常具有蓄意为之的含义（如表示主语的意愿、决心、许诺等），将来进行时不具有这些含义，只表示单纯的将来，或者说只陈述将来的事实，但它具有一种“温和效应”，语气比单用 will 时委婉客气：","2．名词的所有格 我们一般只对人和某些生物用-s。名词所有格放在其所修饰的名词之前，但在上下文很清楚时名词可以省略： I'll go in Mike's car and you can go in Andy's. 我坐迈克的车去，你可以坐安迪的。 名词所有格的构成有一条最简单的规则，即除了以-s 结尾的复数名词只需加一省字号（'）外，任何人称名词都可以加-'s。具体情况如下： （1）在单数名词及不以-s 结尾的人名后加-'s: a child's words 小孩的话 Tom's new job 汤姆的新工作 （2）以-s 结尾的单数名词后加-'s: a waitress's job 一个女招待员的工作 （3）在规则的复数名词之后加省字号（'）: boys' school 男校 （4）如果是用 and 连接的两个人名，则在第二个人名上加-'s: John and Mary's child 约翰和玛丽的孩子 也可能同时有两个所有格： My brother's neighbour's sister is a nurse. 我兄弟的邻居的妹妹／姐姐是一名护士。 （5）以-s 结尾的人名后应加-'s，如 Hans's address（汉斯的地址）。不过有时我们却既可以单用省字号也可以用-'s: Mr. Jones'/ Jones's car 琼斯先生的汽车 有些无生命的物体后面也可以用所有格，如与时间有关的： a day's work 一天的工作 a month's salary 一个月的薪水 a week or two's time 一两周时间 表示值多少钱也可以用所有格： two pounds' worth of bread 两英镑的面包"]},{title:"词汇学习",content:[`1．meet
+（1）vt./vi. （偶然）遇见，遇到：
+（2）vt. （约定地点或时间）和……会面，迎接：
+Most of the young people in the town will be meeting them at the station.
+镇上的大部分青年人将到车站迎接他们。
+Who will be meeting you when you arrive in London?
+你到伦敦时谁将去接你？
+（3）vt. （经介绍）和……相识／见面：
+I'd like to meet your brother.
+我很想认识你兄弟。
+Very pleased to meet you.
+认识您非常高兴。
+2．performance n.
+（1）执行，完成，履行：
+He is praised for the excellent performance of his duties.
+他由于出色地履行了自己的职责而受到了表扬。
+（2）表现，工作情况：
+His performance in the mathematics exam is not very good.
+他数学考得不太好。
+（3）演出，表演：
+The pop singers will give five performances.
+这些流行歌手将演出5场。`]},{title:"讲解",content:["全文几乎都是将来时态","汉译英要学会缩句：找谓语动词","...are a gruop of six girls.","at present 目前","up to now/so far 到目前为止","nowadays adv.目前","be doing 正在做某事","visit v.拜访、参观；（歌手）巡演","all parts of the country 全国各地","all parts of the world 全世界各地；介词用 in","in all parts of the world 在全世界各地","visit＋地点，表示去某地","They stay in all parts of the world.","某某人到中国访问  visit china","带有职业相关目的 visit some place","The headmasters of the New Oriental school visited Lanzhou.","将要到达这里 be arriving here","will be doing 将来进行时态；理解为一般将来时的另一种形式；","将来进行时态的意思往往等于一般将来时态。","We will be acting.我们将要行动了","...will be coming by train...",",..will be meeting them...","and conj.连接","the young people in the town 镇上的年轻人","most of the young people in the town 镇上的大部分年轻人","most of...大多数的","most of the books; most of the time","most of + the...","most of the young people","most young people","most students/most of the students.","tomorrow evening 明天晚上","...will be singing...将演出，避免重复，使用 sing","at the Workers'Club 在工人俱乐部","yesterday evening 昨天晚上","this evening 今天晚上","night:last night 昨天夜间；tonight 今天夜间；","tomorrow night 明天夜间； next night 第二天晚上","逗留五天...will be staying here for five days","演出五场...give five performances","as usual 象往常一样","The police will have a difficult time...","have a good time 玩得开心； have a hard time 生活得艰辛","have a difficult time.日子不象平时那样惬意","try to do 设法做某事，尽力做某事","keep order 维持次序","...on these accasion(s)每逢这种场合","the same 表示情况相同","Why are you late?","What took you so long?","注意同一意思的多种表达方式"]},{title:"特殊难点",content:["名词所以格：","（ａ）在单数名词及不以 -s 结尾的人名后加 's;","(ｂ）在规则的复数名词的 -s 后面加所有格符号 ';","（ｃ）在以 -s 结尾的单数名词后加 -'s;","（ｄ）在以 -s 结尾的人名后面即可以用 's 也可以用所有格符号 ';","in twenty minutes' time","3 minutes'walk(drive)","how much minced meat...?","I want ten pounds' worth of minced meat."]}]},{lesson:14,sections:[{title:"自学导读",content:["1．After I had left a small village in the south of France, I drove on to the next town. 在离开法国南部的一个小村庄后，我继续驶往下一个城镇。 （1）表示一个大范围中的某一个地方时要用介词 in: Beijing is in the north of China. 北京位于中国的北部。 （2）副词 on 紧跟在动词后面时可以表示“向前”、“继续下去”等意义： He talked on until everybody had gone. 他滔滔不绝地讲到大家都走了。 I was reading when my friend called. After he had gone, I went on to read. 我朋友来看我时我正在看书。他走了以后我便继续看书。","2．I stopped and he asked me for a lift. 我把车停下，他向我提出要求搭车。 名词 lift 的含义之一是“（给步行者）搭便车”、“免费搭车”： Last night, I had to walk home. No one would give me a lift. 昨晚我不得不走回家。谁也不愿意让我搭车。 I was lucky today. I got a lift soon after I had left the village. 我今天运气好，离开村子不久就搭上了便车。","3．As soon as he had got into the car, I said good morning to him in French and he replied in the same language. 他一上车，我就用法语向他问早上好，他也同样用法语回答我。 （1）表示时间的固定短语 as soon as 通常表示“一……就……”，即两个动词之间相隔时间非常短： Tell him the news as soon as you meet him. 你一遇见他就把这消息告诉他。 （2）表示用某种语言作为交际手段时介词用 in，表示讲某种语言时可以不加介词： speak English/ French 讲英语／法语 That book is written in German. 那本书是用德语写的。 He replied the question in English. 他用英语回答了这个问题。"]},{title:"语法",content:["过去完成时(The simple past perfect tense)","过去完成时由 had+ 过去分词构成，它表示过去某时或某动作发生之前已经完成的动作或情况，即“较早的过去”。在用","过去完成时态的句子中，常用的连词有 when, after, as soon as, until, by that time 等：","When I woke up in the morning, she had already had","her breakfast.","当我早上醒来时，她已经吃过早饭了。","After he had said goodbye to us all, Captain Alison started his journey.","当艾利森船长和我们大家都道了别之后，他就启程了。","Did you really ring the police?","你真的给警方打电话了？","It was a mistake. I realized it as soon as I had rung them.","我犯了个错误。刚给他们打完电话我就意识到了。","I didn't know that she was a famous actress until you had told me.","直到你告诉我时我才知道她是位名演员。","常与现在完成时连用的副词如 already, just, never, never…before 也常与过去完成时连用，以强调事件发生的先后次序：","The boys loved the zoo. They had never seen wild animals before.","男孩们喜欢动物园，以前他们从没见过野兽。","在有些用过去完成时的句子中没有明确的时间状语，但通过上下文可以看出动作发生的先后"]},{title:"词汇学习",content:[`1．ask 与 ask for
+ask 最常用的意思是“问”、“询问”：
+I asked (Mary) a question.
+我（向玛丽）问了一个问题。
+它也可以表达“请求”、“要求”或“邀请”等意思：
+They asked Tony to sing a song.
+他们请托尼唱支歌。
+They asked her to spend the weekend with them.
+他们邀请她一起度周末。
+ask for 表示“要”、“要求”：
+You are always asking for help.
+你总是要人帮忙。
+I asked for a cup of coffee, but they gave me a cup of tea.
+我要的是一杯咖啡，但他们却给了我一杯茶。
+2．except, except for 与 apart from
+3者都表示“除……以外”，有时可以互相代替使用：
+Everyone has helped in some way apart from/ except for/except you.
+每个人都帮了点忙，只有你没有。
+I have no other books except/ except for these.
+除了这些书以外我再没有其他书了。
+但是 except 不用于句首，except for/ apart from 则可以：
+Apart from/ Except for you, everyone has helped in some way.
+除了你，每个人都帮了点忙。
+3．短语 which of, either of, neither of 与 both of
+这些短语都可用于指两个人或两件事。
+（1）当询问在两个或更多的人或事物中偏爱哪一个或选择哪一个时，可用 which:
+I like both of these bags. Which of the two do you prefer?
+这两个包我都喜欢。你喜欢哪一个？
+（2）either 与 neither 都是对两个人或物而言（后接单数名词）。either 指 one or the other（不是这个就是那个），either 和 neither 后跟 of 时则指两个事物中的每一个：
+(3）both 只指两个人或物。当它用在名词前时，of 可有可无：
+Both books/ Both of the books are interesting.
+两本书都很有趣。
+当 both 用在代词前面时，其后必须加 of:
+Both of us/ them left early.
+我们俩／他们俩都走得很早。
+I love both of you.
+我爱你们俩。`]},{title:"词汇学习",content:[`1．amusing adj. 好笑的，有趣的：
+amused5:感到好笑的
+amuse v.
+动词后面会加人做宾语
+The story amused me.
+The story is amusing.
+i am amused.
+2．interesting:有意思
+The book is interesting.
+The book is amusing.
+3．funny:好笑的，可以指贬义，开心的，令人开心的
+interesting/funny story
+4．experience n. 经历：
+经验：不可数名词
+经历：可数名词
+He has a lot of experience.
+He has a lot of experiences.
++s(a/an),经历；原形，经验
+experienced6:有经验的
+He is an experienced doctor.
+5．wave v. 招手：
+wave to sb;向某人招手
+6．lift n. 搭便车：
+be 动词＋形容词/介词
+be 动词后面不能是名词，一旦是名词，就认为主语和后面的名词是等号关系
+I am a teacher.
+I was a lift.
+take a bus/taxi/lift
+7．take a lift:搭便车
+I take a list.
+The student gave me a lift.
+8．give sb a lift:让某人搭便车
+B wants to take a lift.
+A will give B a lift.
+9．thumb lift :拇指便车
+I want to take a list.
+10．reply v. 回答：
+answer
+He answered/replied.
+answer sth/reply to sth.
+11．answer the letter：回信
+I will reply to the letter.
+12．language n. 语言：
+13．native language：母语
+mother tongue
+The native language is Chinese.
+My mother tongue is Chinese.
+14．journey n. 旅行：
+15．begin a trip：开始一个旅行
+begin a journey
+trip,travel,tour
+16．trip：短距离旅行或出差
+go on Business/go on a trip
+17．travel：周游（长途）
+tour,为了玩
+18．tourist：游客
+19．journey：所有的旅行
+go on a journey, 3 days' journey
+2 hours' journey
+20．voyage：旅行（海上）
+21．flight：空中飞行
+22．journey：偏重于陆地旅行
+trip;travel;tour;journey;voyage;flight`]},{title:"讲解",content:["搭便车：take a lift","给某人搭便车：give sb a lift","路程，旅行：journey","经历：experience.","一般有意思，interesting、funny, amusing 顷向于让某人笑出声","I had an amusing experience last year.","after,从句的标志，后面叫时间主语从句","when,while,as：当什么时候，until,before,after","简单句当中一个谓语，有从句有主句，从句一个谓语动词，主句一个谓语动词","after：在什么什么之后，主句的动作发生在从句之后，从句的动作发生在主句的","前面，从句的动作发生在前，主句的动作发生在后","如果两个都是过去时，同时发生，会用进行时态；如果一先一后，发生在前的动作","为过去完成时（had done）","after 后面的从句一个变成过去时，一个变成过去完成时，一定是从句用过去完成时。","before：在什么什么之前，主句发生在从句之前，主句用过去完成时。","地点做介词短语修饰前面的名词","in the south of","表达方位的表达方式一共有3个介词，in,on,to","没有相接的，是相离的，to","接壤，on","在什么里面，in","drive to：开车去某地，drive on (on:继续），on 加在动词的后面表示继续","on the way：在路上，在途中","wave to sb：冲某人挥手","I stopped=I stopped the car.","ask sb for sth：请求某人要求得到什么东西","as soon as：一...就...户名一定要加一个句子（时间主语从句），","后面的先发生","As soon as I had received the letter,I ringed/called him back.","只要是状语从句，一旦遇到将来时，变为一般现在时","As soon as you arrive,you must call me.","As soon as 强调两个动作几乎是连在一起的","say goodbye,say sorry,say hello,say good morning to him","用某种语言：in＋某种语言","I speak English.I say a word in Chinese.","reply 要想加宾语要加 to","in the smae language","as soon as：一...就...","As soon as I had entered the room,I took off my coat at once.","apart from：除了什么之外，except","except,except for,apart from","1.when except is used at the beginning of a sentence,it is followed by for.","2.apart from 习惯上喜欢放句首，apart from=except=besides 如果认为整体之中做这件事情的人除了整体之外，还有这个人也做了，是加号 如果认为整体之中做这件事情的人除了整体之外，这个人没有做，是减号 All the passengers are millionaire except us. 减号","3.except：从整体之中减掉，besides 如果放在句首，统一用 apart from","4.except for 含有对整体中的某一个方面不满意 The article is very good except for his handwriing. except for 可以不放在句首，强调整体当中某一方面除外，剩下的整体都不错 Except for his height,he is very excellent."]},{title:"特殊难点",content:["I invited everyone except George. Except for George I invited everyone.","Except for/apart from this,everything is in order."]},{title:"特殊难点",content:["a.ask and ask for","ask sth：问什么什么东西，ask a question/ask sb","ask for sth：要求得到，ask for the answer","c.which of ,either of, neither of ,both of","either of :两者当中的任何一个","neither of：两者都不","which of :那一个，which of the two","both of：两者都","Which of the two do you like?","I want both of them.I want either of them.I want neither of them."]}]},{lesson:15,sections:[{title:"自学导读",content:["1．The secretary told me that Mr. Harmsworth would see me. 秘书告诉我说哈姆斯沃斯先生要见我。 would 在这里不是表示单纯的过去将来时，而是表示“想……”、“要……”的意思： What would you like to have? 你想要吃（喝）什么？ John wouldn't lend me his bicycle. 约翰不愿意把他的自行车借给我。","2．He did not look up from his desk when I entered. 我进去的时候，他连头也没抬。 在这句话的 look up 中，look 是它的本义“看”、“瞧”。look up 一般表示原先在埋头干什么之后抬头看： He looked up(from his book)when he heard a noise. 他听到声音后就抬起了头。（原先在读书）","3．I knew that my turn had come. 我知道这次该轮到我了。 turn 在这里是名词，意为“轮流”、“轮班”、“（依次轮流时各自的）一次机会”： I have already asked two questions. Now it's your turn. 我已经问了两个问题。该轮到你了。 When his turn came, he couldn't speak any word. 轮到他时，他却一个字也说不出来。","4．‘Mr. Harmsworth,’I said in a weak voice.“哈姆斯沃斯先生，”我无力地说。 weak 在这里不是指身体虚弱，而是指声音“微弱”、“无力”，因为怕被开除而感到紧张。","5．Then he smiled and told me I would receive an extra thousand pounds a year! 然后他微笑了一下告诉我说，我每年将得到 1，000英镑的额外收入。 （1）extra 表示“额外的”、“外加的”、“份外的”： On Sundays, I usually get some extra sleep. 星期天我通常要多睡一会儿。 Last month, he was paid an extra hundred pounds. 他上个月多得了100英镑。 （2）a 在这里可译为“每一”： I went to London once a month. 我每月去一次伦敦。 Jack telephoned Pauline four times a day. 杰克每天给波琳打4次电话。"]},{title:"语法",content:["间接引语（Indirect speech）","把某人所说的话告诉另外一个人时，应该使用间接引语（有的语法书称之为“转述引语”）。引述动词（如 say，tell）可能是现在时，也可能是过去时（最常用）。间接陈述句的时态往往受引述动词的影响。引述陈述句时最常用的动词是 say 和 tell。它们之间的区别是 tell 后面必须跟表示人称的间接宾语（tell sb….），而 say 后面则可跟或不跟 to +讲话对象。如果需要提到听话者，tell +间接宾语通常比 say + to +sb. 更常用。在 say 和 tell 后面一般不可加逗号。如果间接引语中的引述动词是现在时，那么其后的时态通常与原来口头陈述句的时态相同。转述刚刚说完的话时通常如此；引述动词如果是过去时，那么间接引语中的时态通常要“往回移”（即“倒移”）。一条普遍的规则是“现在时变为过去时，过去时变为过去完成时”。直接引语：","‘I can see him now!’","“我现在可以见他！”"]},{title:"词汇学习",content:[`1．nervous adj.
+（1）神经质的，神经紧张的：
+She is a nervous woman. Do you see that nervous smile on her face?
+她是个神经质的女人。你看见她脸上那种神经质的微笑了吗？
+（2）紧张的，担心的，情绪不安的：
+I feel very nervous before exams.
+我在考试前感到非常紧张。
+He had never spoken in public, so he was very nervous.
+他从未当众讲过话，因此他非常紧张。
+（3）与 nervous 容易混淆的另一个词是 irritable8（易怒的，急躁的）：
+Our teacher is an irritable old lady. She gets angry easily.
+我们的老师是位脾气急躁的老太太。她很容易生气。
+2．afford vt.
+（1）买得起（常与 can 连用）：
+We can/can't afford a car this year.
+我们今年买得起/买不起小汽车。
+（2）担负得起（损失、后果等），花得起（时间）（常与 can 连用）：
+I can't afford to be ill again.
+我不能再病了。
+I can only afford one week for the trip.
+我只能为这次旅行抽出一周的时间。
+（3）提供，给予：
+Joe afforded us a room for the night.
+那天晚上乔为我们提供了一个房间过夜。`]},{title:"词汇学习",content:[`1．secretary n. 秘书：
+history
+secret
+2．nervous adj. 精神紧张的：
+be nervous
+3．worried：为以后的事情担心
+4．upset:不安的
+5．afford v. 负担得起：
+afford sth.
+I can afford the hoilday.有时间去
+afford money/time
+afford to do sth.
+I can afford five yuan./I can afford the book.
+/I can afford to buy the book.
+6．weak adj. 弱的：
+7．interrupt v. 插话，打断：
+(n.)interruption
+8．disturb：打扰某人
+9．interrupt：打断某人的话
+Sorry to...`]},{title:"讲解",content:["look down upon10/on sb：瞧不起某人","I look down upon my sister.","I look down 往地上看","The firm could not afford to pay such large salaries.","collect salary 领薪水","pay salary 支付薪水","so 的后面加形容词或副词","such 的后面加名词，容许在该名词前面加修饰词","所有的间接引语都是宾语从句","My turn has come.","It is my turn.轮到我了","in a ... voice","in a loud(大声)/low (低声)／weak(心里不踏实)／strong(理直气壮) voice","a year","an extra thousand","再有多少：数量＋extra＋名词","two others","two more/once more","another three days"]},{title:"特殊难点",content:["office：办公室","study： 书房","desk： 课桌"]}]},{lesson:16,sections:[{title:"自学导读",content:["1．She must be at least thirty-five years old. 她至少也有35岁了。 （1）at least 是一固定短语，表示“至少”： He borrowed at least five books from the library. 他从图书馆至少借了5本书。 If you can't clean the car, you can at least help me to clean it. 如果你不能擦车，你至少可以帮我擦。 （2）我们已学过两种年龄表示法。一种是“数字+years old”，作表语： My father is fifty-seven, years old now. 我父亲现在已57岁了。 另一种是“数字+ -year-old”，作定语： Last week, my four-year-old daughter, Sally, was in vited to a children's party. 上周，我4岁的女儿萨莉应邀去参加一个儿童晚会。","2．In spite of this… 尽管如此…… （1）in spite of 为固定短语，意为“不管”、“尽管”，后面可以跟名词、代词或从句： In spite of the rain, they went on their journey. 尽管下雨，他们还是继续旅行。 In spite of what you have said about her, she is much better than Mary. 不管你说她什么，她比玛丽要好得多。 （2）this 代指上句话，即“她至少也有35岁”这个事实。","3．This time, she will be a girl of seventeen. 这一次，她将扮演一个17岁的少女。 be 在这里是“扮演”的意思： Tonight, Karen Marsh is Helen. 今晚卡伦·马什扮演海伦。","4．In the play, she must appear in a bright red dress and long black stockings. 演出时她必须穿一条鲜红色的裙子和黑色的长筒袜。 （1）in 在这句话中表示“穿着”、“戴着”： The girl in red over there is my neighbour. 那边那个穿红衣服的女孩是我的邻居。 John was in a black dress this morning. 约翰今天上午穿的是件黑衣服。 （2）dress 一般指连衣裙、套裙，也可以指外穿的衣服或特定场合穿的礼服： Everyone is in evening dress tonight. 今晚大家都穿了晚礼服。","5．Darling, it must be terrible to be grown up! 亲爱的，长成大人真可怕啊！ （1）it 为先行词，代替 to be grown up，这个不定式是句子真正的主语。再如： it is a pleasant thing to have many friends. 有许多朋友是件令人愉悦的事。 （2）这句话的言外之意是她还没有长成大人，还是个小姑娘，因为她用的是表示推测的 must。（cf. 本课语法"]},{title:"语法",content:["情态助动词 must","（1） must 一般译为“必须”，可以表示“必要”、“命令或强制”、“邀请”、“决心”、“不可推卸的责任”等多种含义。它没有时态和人称变化，通常只用于现在时和将来时。在其他时态中，must 的有些含义可以由 have to 或 have got to 来补足。这 3种形式一般可以互换，但彼此是有差别的。用于第一人称时，have to 和 have got to 强调客观的要求或外在的原因，must 则强调主观的要求或表示说话的人认为自己有权做某事：","I have to look after the baby.","我得照管这孩子。（因为客观原因）","I must see the boss.","我必须见老板。（主观要求）","They must leave (tomorrow).","他们（明天）必须出发。","They had to leave.","他们（当时）不得不出发。（过去时中用 have to 代替）","They have had to leave.","（2）have to 和 have got to 往往可以互换：","I have to/have got to leave home every morning at 7:30.","我每天早上7点半就得离开家。","但是，与 always，sometimes 等频度副词连用时，用 have to 往往比用 have got to 好：","I often have to get up at 5. Do you ever have to get up at 5?","我经常5点就得起床。你有时候也得5点起床吗？","have got to 比 have to 听上去要更加口语化一些：","（3）在表达“难道你不能不（做……）”的含义时，一般用“Must you…？”句型而不用“Do you have to…？”或“Have you got to…？”句型：","(4）must 还可以用来表示推测：","He must be at home now.","他现在肯定在家。","He must be mad to drive anywhere today!","他今天居然开车出去，真是疯了！"]},{title:"词汇学习",content:[`1．appear vi.
+（1）出现，显露：
+Suddenly, a car appeared.
+突然，一辆小汽车出现了。
+（2）当众露面；登场（演出等）：
+I can't appear in this dress at the party.
+我不能在晚会上穿着这身衣服露面。
+Miss Marsh will appear in tonight's play.
+在今晚的这场剧中，马什小姐将会登场。
+（3）似乎，看起来好象（与 seem 同义）：
+She appears to know you.
+她似乎认识你。
+Now it appears you are wrong.
+现在看来你是错的。
+2．grow vi.
+（1）生长，成长，发育：
+Trees of this kind don't grow in our country.
+我们国家不长这种树。
+How tall you've got! You've grown a lot.
+你已经这么高了！你长了不少。
+（2）grow up 长成，成熟（其被动态表示长大成人）：
+Lucy has grown up a lot since I last saw her.
+自从我上次见到她之后，露西已成熟了许多。
+What do you want to do when you're grown up?
+等你长大了，你想干什么？
+3．as 的几种用法
+（1）作为介词，它可以表示“作为”、“以……身份”等：
+In this film, he appeared as a policeman.
+在这部影片中，他扮演一名警察。
+As a mechanic, he can't always keep himself clean.
+作为一名机修工，他无法总保持身上干净。
+（2）作为连词，它可以表示“因为”、“正当……时候”、“以……方式”或“如同……那样”等含义：
+You must take care of the baby tomorrow as I am going to London.
+由于我要去伦敦，你明天必须照料这孩子。（因为，由于）
+As we were talking about him, he knocked at the door.
+我们正谈论他的时候，他敲门了。（正当……时候）
+She cooked the dinner as her mother taught her.
+她按母亲教她的方式做了晚餐。（以……方式）`]},{title:"词汇学习",content:[`1．park v. 停放（汽车）：
+parking，stop
+2．stop the car：车在运动中停下来
+3．park：停放
+4．parking area：停车场
+5．traffic n. 交通：
+6．traffic police：交通警
+7．traffic lights：交通灯
+first crossing/turning
+8．traffic jam：交通堵塞
+in the traffic jam
+I spend a lot of time in traffic jam
+9．heavy traffic：繁重的交通
+10．in heavy traffic：交通拥挤
+I was ordered to drive in heavy traffic.
+11．ticket  n. 交通违规罚款单：
+12．note n. 便条：
+13．message：消息
+note：纸条，纸钞
+14．make notes：做笔记
+15．area n. 地段：
+16．area：场地，地段（一块对方）
+17．place：地点
+18．region：地区（交战，开火）
+In this region,there were a lot of wars.
+19．sign n. 指示牌：
+20．reminder n. 提示：
+remind v.：提示，提醒
+remind sb of sth
+remind sb to do sth
+An older photo can remind me of my childhood.
+You remind me of your mother.
+21．reminder：可以指人，可以指物
+22．fail v. 无视，忘记：
+fail v.失败
+fail＋宾语：失败做某事
+23．fail in doing sth：在某些方面失败
+He failed./He failed in examination.
+24．fail to do：没有能够在某事
+He failed to swim acrooss the river.
+not fail to do sth.一定能够某事
+I can not fail to pass it.
+You can not fail to drive it.你一定能够驾驶
+If you receive a request like this,You can not fail to obey it.
+If you arrived in Beijing ,you cannot fail to find the New Oriental
+School.
+25．obey v. 服从：`]},{title:"讲解",content:["fail,fail to do sth,not fail to do sth：一定能够做","park：停放","in the wrong place","wrong：不合适的， right：合适的","He is the right person who you are looking for.","They met(A met B)in the wrong place at the wrong time.","You met the wrong person in the wrong place at the wrong time.","真实条件句：假设很有可能发生．If it snows","只要是状语从句，一律用一般现在取代一般将来","如果在条件从句中，从句往往是一般现在时，主句仍然为一般将来时","真实条件句中，从句往往为现在时，主句中会用一般将来时或祈使句","If he is sleeping,don't wake him up.","If 引导的叫条件句，without 后面的名词也叫条件句","without+n.：如果没有","Without water,fish cannot live.","however=but,然而","however 常常放在句首或句子中都可以，but 习惯放在两个句子之间","but 转折性语义比较强，however 转折语义比较弱","traffic police：交通警","sometimes：有几次，有时，偶尔","on my car","sir,直接称呼的时候不和姓相连","１．表示尊称","２．考研不知道对方姓什么，只要知道对方是男性就可以 welcome sb to+地点：欢迎某人来某地 pay attention to：注意（思想上） if.真实条件 You will enjoy your stay here,enjoy：享受，stay(n.) I have enjoyed my stay here. Enjoy your stay here. only a reminder==not a ticket receive a quest like this,cannot fail to obey it 总结 主句会有祈使句，一般将来时，情态动词 without＋名词：如果没有，起了条件的作用 withou your help/rain however=but,往往一出现，前后都有标点符号隔开，后面会加逗号，but 不会 对一个不认识的男士，sir; mister 的后面一定要加姓，sir 的后面不能加姓 sir/madam enjoy your stay here I have enjoyed my stay here. You cannot fail to obey it:你一定会遵守"]},{title:"特殊难点",content:["a.police,一定会做复数看待","b.pay attention to,care,take care of,look after","pay attention to：思想上注意，notice","care：关心，在意，  I don't car：我不在乎，who cares：我不在乎","take care of==look after：照顾，照料","c.remind and remember","remind：提醒，remind sb of sth, remind sb to do sth","remember：记起，记得","(1) Do you remember? remember sth","(2) remember 记得吗？","(3) remember to do sth：记得要去做，remember to send the letter","remember doing sth：记得已经做了,I remembered sending the letter.","Rember sb to your another：前者向后者表示问候","Rember me to your mother：代我向你母亲问好","送行：goodbye","Have you enjoy your stay here? I have enjoyed my stay here.","Remember me to your family.","Today I will meet sb at the airport/station.","Hello,good morning,/afternoon.","Long time no see.","How are you?Fine,thank you,and you?I am fine too,thank you.","Welcome to Beijing."]}]},{lesson:17,sections:[{title:"词汇学习",content:[`1．appear v. 登场，扮演：
+2．appear：显示，露面≠disappear(都是不及物动词）
+The plane disappeared.
+The plane appeared.
+The actor appeared.
+3．appear as：扮演...角色
+He appeared as a prince.
+on the stage;在舞台上
+appear on the stage as....
+My aunt appeared on the stage as young girl.
+I work as a teacher.
+She worked as a nurse.
+4．appear：露面，显得
+He appears nervous.
+He appears happy.
+I appears tired.
+5．stage n. 舞台：
+6．on the stage：在舞台上
+7．in the stage：在某一阶段
+8．bright adj. 鲜艳的：
+9．bright red：鲜红色
+10．bright yellow：明黄色
+11．bright blue：宝蓝色
+12．stocking n. （女用）长筒袜：
+13．sock n. 短袜：`]},{title:"讲解",content:["actress：女演员","actor：男演员","以-or,-er 结尾的，是男性","以-ress 结尾的，是女性","waiter：男服务员","waitress：女服务员","prince：王子","princess：公主","god：神  （God：上帝）","goddess：女神","lion：公狮子","lioness：母狮子","doctor：男医生","woman doctor：女医生","thirty-five years old：三十五岁","must be","must + 动词原形：＂不得不，必须：（对现在的）推测＂","least……little 的最高级＂至少，最少＂","at most……＂最多＂","She is fifteen years old.","She must be fifteen years old.","She must be at most fifteen years old.","She must be at least fifteen years old.","She must be a model.","in spite of：尽管","in spite of this：尽管如此","In spite of this,I still like school.","join:参加了某一种团体","take part in :参加某一种活动","attend：出席","join the army：参军","join the party：入党","join us:(口)加入我们中来","join sb./sth.","take part in the race：参加比赛","take part in a play","take part in the party","attend meeting：参加会议，出席会议","attend the party：出席宴会","attend class：上课","This time：这一次","a girl of seventeen","She is eighteen years old.","She is a girl of eighteen.","She is a old man of sixty.","must do：必须做 ＝have to; 推测","in……（介词）穿着...样的衣服 （＋颜色、衣服）","用介词短语取代动词，避免了一句话中出现两个动词","The boy in green.","in a bright red dress：鲜红色的连衣裙","long black stocking：长的黑色长筒袜","last year in another play（表示扮演过很多的角色）","had to：必须（不能加介词，＋动词原形）","bright,orange-coloured dress：鲜艳的桔黄色衣服","ever==at any time：任何时候（时间副词）","it must be：一定（推测）","must +原形……对现在的推测","it……形式主语，用不定式做真正的主语","grown up：（形容词短语）成年人","grow up：（人）成长","be a grown-up：作为一个成年人","must be thirty-five years old","It is a secret/privacy.","I forget it."]},{title:"特殊难点",content:["(a) As:",'As a young girl...(介词)"作为"',"As I learned,...(代词)＂正如＂","As I am busy==because＂由于＂","As I was leaving the house...==when＂当...时＂","Do as you are told. as……方式状语从句的引导词","I work as...＂作为...工作＂","(b) Dress,Suit,Costume5:","dress：＂裙子，晚礼服，连衣裙＂（女式）","suit：＂套装＂（男式）","costume：＂演出服，民族服装，某一年代所穿的服装＂","(c)Grow,Grow up：","grow：＂长＂","grow up：＂生长，成长＂（指人）"]}]},{lesson:18,sections:[{title:"自学导读",content:["1．After I had had lunch at a village pub, I looked for my bag. 我在一家乡村小酒店吃过午饭后，就找我的提包。 （1）have 在 have lunch 这个词组中是完全动词而不是助动词，因此，像其他完全动词一样，它的过去完成时要加助动词 had。 （cf. 本课语法） （2）pub 为 public house（酒店，酒吧）的缩略形式，在英国英语的口语中较常见： Let's go to the pub for a drink. 咱们去酒店喝杯酒吧。 （3）look for 强调“寻找”这个动作，而不涉及结果： I looked for my key everywhere, but I couldn't find it. 我到处寻找我的钥匙，但还是没找到。","2．I had left it on a chair beside the door…我曾把它放在门边的椅子上…… leave 除了“离去”、“离开”、“出发”的意思，还可以表示“把（人、物）留下”、“遗留”、“丢下”等： The dog has left your bag by a tree. 那狗把你的提包丢在了一棵树旁。 Have you left anything in the car? 你有没有把什么东西丢在车里？ Leave the books on the desk. 把书放在课桌上。","3．My dog had taken it into the garden. He often does this!我的狗把它弄到花园里去了，他常干这种事！","he 在这里指代的是狗。动物通常用 it 来代表，即被看成像东西一样。但是，指宠物、家畜或民间故事中的动物时，我们经常也用 he，she，who 等，即使得它们“人格化”并具有性别。用阴性代词指某个动物或东西时尤其有一种亲切的含义：","I have a little cat. She drinks milk every morning.","我有一只小猫。她每天早上喝牛奶。","George's parrot, Henry, can speak a few words. He always calls when there are lights.","乔治的鹦鹉亨利能说几个单词。只要有灯光他就叫。"]},{title:"语法",content:["完全动词 have","（1）动词 have 有两种用法。一是作为助动词构成各种完成时（包括过去、现在、将来）和完成进行时：","I haven't seen him this morning.","我今天上午没见过他。","When I rang, Tim had already left.","我打电话的时候，蒂姆已经走了。","（2）have 还可以作完全动词。当它作“具有”、“拥有”讲时，它和 have got 通常可以互换。在英国英语中，疑问句和否定句中","have（具有）的用法与 be 相同，即可以不用助动词 do（或 did）。","I haven't got any pencils.","我没有铅笔。","在美国英语中，常用 do，did 等与 have 一起构成疑问句和否定句：","这种形式在英国英语中现在也常见了。","have 作“具有”、“拥有”讲时是状态动词，不能用于进行时态或被动语态。它通常用于一般现在时：","You can have these apples if you want them. I've got a lot more.","如果你想要这些苹果你可以把它们拿走。我还有许多。","He has(got) a Ford.","他有一辆福特牌汽车。","在其他时态中，一般用 have 而不用 have got：","He had a Ford last year.","去年他有过一辆福特牌汽车。","I have had this car for three years.","这辆汽车我已用了3年了。","Last week, Jimmy had a bad cold.","上星期吉米得了重感冒。","（3）have 作完全动词时，还可以表示 eat，drink，enjoy，take 等意思，这时它是行为动词，可以用于包括进行时的各种时态：","Have a cigarette, Sam.","萨姆，请抽烟。","We will have dinner at seven o'clock.","我们将于7点开饭。","Sam and I had lunch together today.","我和萨姆今天一起吃的午饭。","I'm having a drink.","我正在喝点东西。","当 have 用于表示这些含义时，它必须与 do 和 did 等连用以构成疑问句和否定句："]},{title:"词汇学习",content:[`1．beside 与 besides
+介词 beside 常用的含义为“在……旁边”、“在……附近”：
+Come and sit beside us.
+过来坐在我们旁边吧。
+There is a chair beside the door.
+门旁边有一把椅子。
+besides 的词形与 beside 很相似，但意义却相差甚远。besides 作副词时表示“而且”、“并且”、“此外”等意思：
+She has so much else to do besides.
+此外，她还有许多其他事要做。
+I'm quite busy today. Besides, I've got a bad cold.
+我今天很忙，而且我还感冒得厉害。
+besides 还可以作介词，表示“除……之外（还）”：
+There were a lot of people at the party besides us.
+除了我们以外，晚会上还有许多（其他）人。
+2．give 的几个固定搭配
+及物动词 give 常用的含义是“给予”、“交给”：
+Give me some water, please.
+请给我一些水。
+I lent him some books last month and he has given them back to me this morning.
+我上个月曾借给他一些书。他今天上午都还给我了。可以看出，give 与 back 连用时，它的意义并没有发生太大的变化。但是，当它与其他副词连用时，意义往往会有变化，有时变化非常大：
+He gave away all his books to the library.
+他把所有的书都赠给了这家图书馆。（give away：赠送）
+Give in your examination papers after you've finished.
+考卷做好后就交上来。（give in：上交，呈交）
+You can do what you like. I will never give in.
+你想干什么就干什么。我决不屈服。（give in：屈服，让步）
+He gave up drinking a few years ago.
+他几年前戒酒了。（give up：放弃，抛弃）
+Jack has given up the watch he stole last week.
+杰克把他上星期偷的表交了出来。（give up：交出，让出）`]}]},{lesson:19,sections:[{title:"自学导读",content:["1．The play may begin at any moment. 剧马上就要开演了。 The guests may arrive at any moment. 客人们马上就要来了。 It may/might rain(at) any moment. 这天气随时都可能下雨。","2．I'm sorry, we've sold out. 对不起，票已售完。 （1）这句话中用了缩略形式 I'm(=I am) 和 we've(=we have)。缩 略形式一般用于口语和非正式文体中。在正式文体中要避免使用。 （2）sell out 为固定短语，可指“（店主）售完（某种货物）” 、“（货）被售完”： They have sold out of eggs. 他们的鸡蛋卖完了。 Tickets for tonight's performance are sold out. 今晚演出的门票已售完。","3．What a pity! 真可惜！ 这是一个常用的表示可惜、遗憾的感叹句。我们还可以说： What a pity(it is) you can't see their performance! 你不能观看他们的演出真是遗憾！","4．I went back to the ticket office at once. 我马上又回到 售票处。 at once 为固定短语，在这里可译为“马上”、“立刻”：When  he heard the news, he went home at once. 听到这消息，他立刻就回家了。 Please come at once. 请立刻就来。","5．Could I have those two tickets please？我可以买那两张票 吗？ （1）could 虽然是 can 的过去式，但在这里并不表示过去，而是指 现在。用 could 提出请求或建议比 can 要委婉。（cf.本课语法） （2）在这句话中，have=buy，是行为动词。（cf. 第18课语法）","6．I might as well have them. 我还是买下的好。 may as well 表示“还不如”、“无甚差别”，和 might as well 一 般可以互换： It's not very far, so we may/might as well go on foot. 那地方不太远，所以我们还不如走着去。"]},{title:"语法",content:["情态助动词 can 与 may","can（过去式为 could）原义为“能”，表示“有能力”、“能够 ”等：","Can you drive a car?","你会开车吗？","Jim couldn't run very fast when he was a boy.","吉姆小时候不能跑很快。","（1）请求别人允许或答复时一般用 can，could，may 和 may 的过去 式 might。在这4个词中，can 最常用，也最不正式；could 比 can 表示更 “犹豫”和客气，通常用在不能确定请求是否会得到同意的时候；may 比 can 和 could 更正式、更客气、更恭敬；might 显得最犹豫，也最客气 、最恭敬，但不及上述3个词常用。实际上，是一般性的请求时，can， could，may 往往可以互换。含有情态助动词的普通答语为：","肯定：","Of course you can/may.","你当然可以。（不可用 could 或 might）","否定：","No, you can't/may not.","不，你不可以。（不用 could not 或 might not）","（2）may 和 might 还可以表示可能。如果说话人对所说事实确信无 疑，就可以用 be 或其他完全动词：","Jane is at home now.","简现在在家。（确切的事实）","但如果不敢确定，则可以说：","Jane may/might be at home.","简可能/或许在家。","might 比 may 更不确定。它们也可以表示过去可能已经发生过的事"]},{title:"词汇学习",content:[`1．hurry
+（1）vi. 赶紧，赶快，匆忙：
+We'd better hurry if we want to see the performance.
+如果我们想看演出的话，我们最好赶快走。
+Hurry up! The film may begin at any moment.
+快点！电影马上就要开始了。
+When he saw that it was already eight o'clock, he hurried  to the office.
+当他发现已经8点钟的时候，他赶紧去了办公室。
+（2）n．急忙，匆忙，仓促：
+I'm in a hurry now. I'll write the letter tomorrow.
+我现在有急事。我明天再写信。
+In his hurry, he dropped some coins on the floor.
+匆忙之中，他把一些硬币掉在了地上。
+2．exclaim
+（1）vt./vi. （由于痛苦、愤怒、惊异、欣喜等）叫喊，惊叫：
+When she saw the gift, she exclaimed in delight.
+她看到礼物后高兴得叫了起来。
+‘What a beautiful picture!’she exclaimed.
+她惊讶地叫道：“多美的一幅画呀！”
+（2）vi.，（表示抗议等）大声叫喊：
+She exclaimed against the rudeness of the young man.
+她愤怒地斥责那位年轻人的粗鲁行为。
+3．return
+（1）vi. 回，返回：
+Tim has just returned from Australia.
+蒂姆刚从澳大利亚回来。
+He returned home yesterday.
+他昨天回来的。
+（2）vt. 把……送回，归还，退回：
+He returned the books to the library.
+他把书还给了图书馆。
+He returned two tickets, as Jack and Tom were too busy and  they couldn't go to the theatre.
+他退了两张票，因为杰克和汤姆太忙了，不能去看戏。`]},{title:"词汇学习",content:[`1．hurry v. 匆忙：
+in a hurry(n.)：匆忙
+If you are not in a hurry. (时间、动作上的)
+If you are not busy. (行为上的）
+in no hurry(n.)：不匆忙
+I am in no hurry.
+hurry up(v.)：快点
+2．go to：去
+3．hurry to：匆匆忙忙地去
+He goes to school.=He hurries to school.
+4．come in：进来
+5．hurry in：匆匆忙忙地进来
+6．go out：出去
+7．hurry out：匆匆忙忙地出去
+8．ticket office 售票处：
+9．pity n. 令人遗憾的事：
+pity(n.)
+What a pity! 真遗憾
+It is a pity.
+It is pity to be grown up. (it 做形式主语)
+It is a pity to steal a bicycle.
+I am sorry(a.). 我感到很遗憾。
+I am sorry to hear that.
+10．exclaim v. 大声说：
+11．shout：大声喊＝cry,call out
+12．return v. 退回：
+13．return to：回来
+14．ruturn money：还钱  ＝pay back,repay
+15．sadly adv. 悲哀地，丧气地：
+涵盖了所有悲哀`]},{title:"讲解",content:["at any moment：在任何时候，随时","at the moment：＝now","at that moment：＝just then 就在那时","I will help you at any time.","may+动词原形 ＂可能＂","may (must,can't) have done……对过去的推测","must,can't,may+动词原形，表示对现在、未来的推测","must：一定，很可能  She must be a model.","may：有可能      She may be a model.","can't：不可能     She can't be a model.","She must(may,can't) have been a model.","I must have watched TV.","I may have watched TV.","I can't have watched TV.","I hurried to the ticket office. 匆忙地","May I do...? 我可以吗？","have 是最活跃的词，可以指任何的意思。","have coffee：喝咖啡","have ticket：买票 （习惯用法）","I'll have/take sth. 我买...","sell out：卖完了","what a pity! 真令人遗憾！","Can(May) I...? 我可以...吗？","Can you...? 你可以...吗？","Could I...? 我现在可以...吗？（更委婉的说法）","they 指 tickets","for next Wednesday's performance","用名词所有格来取代时间：＂...时间的＂","用介词 for","ticket for＋事情","ticket to＋地点","May I have a tickett to Tianjing?","May I have a ticket for the spots meeting?","still：还……可以和任意时态连用","still，yet……都和完成时态连用","might as well,may as well+动词原形，＂还是...好＂（无可奈 何）","had better：＂最好＂＋动词原形（积极心态）","I might as well take the umbrella with me.","共有的概念＂推测＂","十七课：对现在的推测","十九课：对现在和过去的推测","不在于 must,may,can't 是什么时态，而在于后面加的是原形还是 have done。","加原形是对现在的推测，加 have done 对过去的推测。","may：⑴推测＂可能＂","⑵＂可以＂","⑶ may,might 对语气的强弱","may as well=might as well＂还是...好＂","上述说讲是对现在和未来的推测，对过去的推测用虚拟语气"]}]},{lesson:20,sections:[{title:"自学导读",content:["1．I often fish for hours without catching anything. 我经常一钓数小时却一无所获。 without 通常表示“缺乏”、“没有”： I can't repair the car without your help. 没有你的帮助我无法修理这车。 当它位于动名词前时，它表示“不曾”、“不”： They tried to leave the restaurant without paying. 他们企图不付账就离开餐馆。 John left the room without telling anyone. 约翰离开房间时不曾告诉任何人。","2．Instead of catching fish, they catch old boots and rubbish. 他们往往鱼钓不到，却钓上来些旧靴子和垃圾。 instead 有“作为替代”、“反而”等含义，一般以短语形式 instead of 出现： Jack took part in the race instead of Tony. 杰克代替托尼参加了比赛。 Instead of sugar, he bought some salt. 他没有买糖，而是买了些盐。 副词 instead 单独使用时一般出现在句尾： If you don't want a holiday in England, why don't you go to Australia instead? 如果你不想在英国度假，那你为什么不去澳大利亚呢？","3．I am even less lucky. 我的运气甚至还不及他们。 less 是 little 的比较级，意为“不及”、“不如”、“更少”： Tom has got little chocolate, and Jack has got even less. 汤姆只有一点儿巧克力，杰克则更少。 I spend less time on English than on French. 我花在英语上的时间比花在法语上的少。 （cf. 第8课语法）","4．…I always go home with an empty bag. ……然后空着袋子回家。 with 可以表示“有……的”、“持有……的”、“随身带着……”等： Who's the man with the umbrella? 那个带伞的男人是谁？ Who's the man with the beard? 那个留胡子的男人是谁？ Who's the woman with the little boy? 带着那个小男孩的女人是谁？","5．I'm not really interested in fishing. 我并不是真的对钓鱼有兴趣。 表示“对……感兴趣”一般用 be interested in sth. /doing sth.: Tim is only interested in food. 蒂姆只对食物感兴趣。 I'm interested in collecting stamps. 我对集邮有兴趣。"]},{title:"语法",content:["动名词（The Gerund）（1）","动名词和现在分词的形式完全一样，都是由动词+-ing 构成。-ing 形式作名词时称为动名词。从广义上讲，动名词可以代替名词，尽管它像动词一样可带宾语。像名词一样，它可以作主语：","Dancing is fun. I love it.","跳舞有意思，我喜欢跳舞。","Walking quickly is difficult.","走快是很难的。（动名词+副词作主语）","Washing the car makes him dirty.","擦洗汽车把他身上弄脏了。（动名词+宾语作主语）","动名词也可以作宾语或介词宾语：","Mary is keen on cooking.","玛丽热衷于烹调。（介词宾语）","Congratulations on passing your exams!","祝贺你通过考试！","可以带动名词的介词通常有 before，after，instead of，without 等。用介词+动名词结构可以将两个短句合为一句话，或者将一个从句变为动名词结构。动名词的否定式是在它前面直接加 not：","Tom always knocks before entering a room.","汤姆在走进一个房间前总要敲门。","He apologized for not writing to you.","他为没给你写信而表示道歉。","动名词也可以用表示完成时的 having +过去分词结构：","You can't leave the restaurant without having paid the bill.","在没有付账之前你不能离开饭店。"]},{title:"词汇学习",content:[`1．catch vt.
+（1）捉住，逮住，捕获：
+The police have caught the thief.
+警察已逮住那个小偷。
+Have you caught any fish today?
+你今天钓到鱼了吗？
+（2）抓住，握住：
+Tom caught the thief by the arm.
+汤姆抓住小偷的胳膊。
+Can you catch the ball?
+你能接住球吗？
+（3）及时赶到，赶上：
+I want to catch the eight nineteen(train) to London.
+我想赶8点19分的火车去伦敦。
+2．realize vt.
+（1）实现（希望、目标、愿望等）：
+She has realized her hope to be an actress.
+她实现了自己当一名演员的愿望。
+（2）使变为事实，使发生（常用于被动语态）：
+This plan can never be realized.
+这个计划永远不可能变成事实。
+（3）认识，知道，明白，意识到：
+I went into the wrong room without realizing it.
+我无意中走错了房间。
+I hope you realize that you've made a big mistake.
+我希望你明白你已经犯了个大错误。
+realize 和 understand 表示这个意思时有时可以互换，有时则不可以。在上面的例句中，第1句不可用 understand，第2句则可以。又如：
+I an did not understand English.
+伊恩不懂英语。（不可用 realize）
+3．interested 与 interesting
+大多数现在分词和许多过去分词都可以作形容词用。常见的以-ed 和-ing 结尾的成对的形容词有 excited/ exciting, tired/ tiring, interested/ interesting 等。以-ed 结尾的形容词常与人称主语连用，表示人的情绪、状态、喜好等；以-ing 结尾的形容词则常与非人称主语连用，表明事物的某种特征、性质等：
+This story is exciting.
+这故事激动人心。
+I am excited by the story.
+我因这故事而兴奋。
+It was an exciting finish.
+（比赛的）结尾激动人心。
+Sally was very excited because she had never travelled on a train before.
+萨莉非常激动，因为她从未乘过火车。
+The play was very interesting.
+戏很有意思。
+Are you interested in plays?
+你对戏剧有兴趣吗？`]},{title:"词汇学习",content:[`1．catch v. 抓到：
+catch fish,catch thief
+2．catch cold：染上感冒
+3．catch a bus：赶车
+4．catch one's breath：摒住呼吸
+catch sight of(see)：看见
+5．catch fire：着火
+6．catch one's eyes：吸引某人注意力
+7．fisherman n. 钓鱼人，渔民：
+8．boot n. 靴子：
+a pair of boots
+9．waste n. 浪费：
+You are wasting time.
+a waste of
+It is a waste of time.
+10．realize v. 意识到：
+I realized that I was wrong.
+实现，realize one's dream`]},{title:"讲解",content:["fish 一般情况下作为不可数名词用","There are a lot of fishes（表示种类）in the sea.","fish(v.)：钓鱼，捕鱼","主语通常由名词和代词充当，以及动词＋ing","for+时间……表示一段时间","for hours=for some hours","without(prep.)","介词后面一定要加宾语","动词＋ing：1.做主语；2.做宾语","anything 用在否定句中","without 作为状语而出现，表示结果状语","He went out without saying any words.","Without asking for money,the boy went to school.","without 后面的动作是主语来做","(v.)worry sb. The house worried me.","My daughter worried me.","(adj.)be worried about 主语为宾语而感到担心","I was never worried about this.","instead of 后面的词一定是没有做的，可以放在主句后面","without 强调没有做某件事，instead of 强调这件事没做成而做成了另外一件事","我原准备做……但是后来做了……","I go to school instead of staying at home.","I bought books instead of buying dresses.","less+原级 (不如) : A is less ... than B","spend+时间+在某地：在某地度过……时间","after(conj.)+从句，从句主语必须是主句的主语才能换成下面一种形式","after(prep.)+名词／动词的 ing 形式","After I go to school,I learned a lot of knowledge.","After going to school,I learned a lot of knowledge.","with: 带着","without；没带","give up doing/stop doing：放弃做某事","be interested in 主语对什么感兴趣","在船上 in the boat","not at all 在否定句中起强调作用"]}]},{lesson:21,sections:[{title:"自学导读",content:["1．I live near an airport and passing planes can be heard night and day. 我住在一个机场附近，过往飞机日夜不绝于耳。 （1）passing 是现在分词，作形容词用，表示“经过的”、“过往的”：He stopped a passing car. 他挡住了一辆过往汽车。 He forgot the man with passing time. 随着时间的消逝，他忘掉了那个人。 （2）night and day 是固定短语，意为“日日夜夜”、“夜以继日”：He thought of the matter night and day. 他日夜在想这个问题。 He worked night and day. 他夜以继日地工作。","2．The airport was built years ago, but for some reason it could not be used then. 机场是许多年前建的，但由于某种原因当时未能启用。 （1）years 前面不加确定的数词时，一般表示“许多年”，weeks 等的用法与它相似： He left the city years ago. 他多年前就离开了这座城市。 I have not seen him for weeks. 我已经有好几个星期没见他了。 （2）some 在这里不表示“一些”，而表示“某个”、“某种”等： I'll tell you someday. 有一天我会告诉你的。 We'll talk about it some other time. 我们改日再谈这件事。","3．…it came into use. ……机场开始使用了。 come into use 为固定短语，表示“开始被使用”： When did the train come into use? 这火车什么时候开始使用的？ The road came into use last month. 这条路上个月通车了。","4．Over a hundred people must have been driven away from their homes by the noise. 有一百多人肯定是被噪音逼得已经弃家远去。 情态动词 must +be 表示根据事实所作的推论，这在第1册第127课已经讲过。在这句话中，must+完成时态表示对过去某事的推测： This pen is John's. He must have been here. 这枝钢笔是约翰的。他一定来过这里。","5．I am one of the few people left. 我是少数留下来的人中的一个。 （1）one of 表示特指的一群人/一些东西中的一个，后面的名词用复数： One of the girls standing over there is Tim's sister. 在那些站在那儿的女孩当中有一个是蒂姆的姐姐/妹妹。 You can take one of these bags. 你可以从这些提包中拿走一个。 （2）left 相当于 who are left(by the others)。即其他人走了以后而留下了他们。"]},{title:"语法",content:["被动语态（2）","在第10课的语法中，我们已经讲了被动语态的基本形式以及它在用了一般现在时、现在完成时、现在进行时和一般过去时的句子中的使用情况。被动语态还可以和大部分情态动词连用（包括具有部分情态功能的 will 和 would）。","He may have been told the news.","他或许已被告知这消息了。"]},{title:"词汇学习",content:[`1．drive
+（1）vt./vi. 驾驶，驾车：
+You must have been driving at seventy miles an hour.
+你刚才一定是以每小时70英里的速度开车。
+Mary drives(her car) very slowly.
+玛丽开车开得很慢。
+（2）vt. 赶，驱赶，围赶（猎物、敌人等）：
+With the help of two dogs, he drove the sheep down the mountain.
+在两只牧羊犬的帮助下，他把羊从山上赶了下来。
+（3）vt. 逼迫，迫使：
+Aeroplanes are slowly driving me mad.
+飞机正在慢慢地把我逼疯。
+The death of all her children has driven her mad.
+她所有的孩子的去世把她逼疯了。
+2．home 与 house
+home 一般译为“家”、“家庭”，着重指所居住的人，常有爱、温暖、舒适、安全等隐含意义。house 通常译为“房子”、“房屋”、“住宅”，指的是建筑物。试体会它们的区别：
+They live in a large house.
+他们住在一所大房子里。（不可用 home）
+My father is at home now.
+我父亲现在在家。（不可用 house/at house）
+Tom must be somewhere in the house.
+汤姆肯定在这屋子里的某个地方。（不可用 home）
+I have a sweet home.
+我有一个甜蜜的家庭。（不可用 house）`]},{title:"词汇学习",content:[`1．mad adj. 发疯：
+sb is mad.
+mad 为...而疯狂
+be mad about
+I'm mad about English.
+crazy 为……而疯狂的
+be crazy about
+go insance
+I slowly go insance.
+go+adj. 变得...
+They are going bananas. =go crazy=go mad
+2．reason n. 原因：
+as+句子
+because+句子
+for this reason 由于这个理由、原因
+For this reason,I was late.
+3．sum n. 量：
+a great many + 可数名词复数
+a large ...
+a great number of + 可数名词复数
+plenty of 足够的
+a sum of 一笔
+a large sum of 大量的
+a large sum of money
+4．determined adj. 坚定的，下决心的：
+determine v.下定决心
+make up one's mind
+decide to do sth.
+make a decision：decision
+make a decision to do sth.
+be determined to do sth.下定决心做某事
+Mad or not? = mad or not mad（省略）？
+or not 在疑问词的后面，表示是还不是，选择概念
+Why do people think the writer is mad?
+drive sb. mad 逼某人发疯
+drive v. 驾驶，开车
+You are driving me mad.
+The teacher is slowly driving me mad.
+night and day 日日夜夜
+passing planes 过往飞机；pass v.passing 作定语；正在经过的
+sleeping baby 正在睡觉的小孩
+waiting car 正在等待的车
+be built
+years ago = many years ago
+for some reason 由于某个理由
+some + 可数名词单数；some 表示某一个
+some＋不可数名词单数：一些 some water
+some＋可数名词复数：一些 some books
+some＋可数名词单数：某一 some book
+however 用于句首，句中，用逗号隔开
+come into use : into prep.; use n.投入使用；主动概念，没有被动式
+be used 被动表示 被使用
+over a hundred ...
+must have done 过去发生，推测
+must have been done 被动
+drive 逼
+away from 从某地离开
+their homes 他们的家；house 房子/home 家
+by the noise 被噪音
+over a hundred people 主语
+must have been done 谓语
+away from 从某地离开；out of somewhere 从某地出来
+one of ... 之一
+left：leave 过去分词，表示被留下来的
+left 作定语放在被修饰词的后面，剩下的……东西
+I have a bag left.
+There is ten cents left in my pocket.
+will be done 被动语态的将来时态
+knock down 撞到
+offter：given, give sb. sth./give sth.to sb.双宾语
+双宾语的被动语态：主语有两种可能；以 sb.做主语或以 sth.做主语
+被动语态的标志 be done
+give sb. sth.
+被动 sb. be given sth.
+give sth. to sb.
+被动 sth. be given to sb.
+用离动词最近的宾语做主语
+原文句型结构 sb. be offered sth.
+to 不定式表示目的
+go away :leave
+be determined to do sth.下定决心做某事
+Everybody says...
+从句 I must be mad
+they are probably right.他们也许是对的
+probably adv.很可能`]},{title:"特殊难点",content:["drive v. 开车，驾驶","drive to 开车去往某地","I drove to Tianjing yesterday","drive sb. mad 逼疯","drive sb. away from 把某人赶走","drive sb. out of 把某人赶出去","drive sb. back 撵回去","home & house","home 带有感情色彩的","house 就是房子","home adv./house n.","get to 表示到达","at home 固定短语，在家"]}]},{lesson:22,sections:[{title:"自学导读",content:["1．A glass envelope, （标题）玻璃信封。 因为第一封信是装在瓶子里的，瓶子便成了那张写有地址的纸条的玻璃信封。","2．My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland. 我的女儿简从未想过会收到荷兰一位同龄姑娘的来信。","文中 dreamed of 后面的部分都是宾语。动名词 receiving 带有自己的宾语 a letter。（ cf. 第  20课语法）receive… from…表示“从……收到……”。","3．Last year, we were travelling across the Channel and Jane put a piece of paper with her name and address on it into a bottle. 去年，当我们横渡英吉利海峡时，简把写有她姓名和住址的一张纸条装进了一只瓶子。 （1）在写到过去的事情时，一般过去时和过去进行时可以连用。过去进行时往往用来表示背景，一般过去时表示发生的动作。 在这句话中，travelling across the Channel 是个持续时间较长的背景动作。 （2）the Channel=the English Channel（channel 如果大写，并且除了 the 以外没有其他定语时，则指英吉利海峡）。 （3）with 在这里表示“有”、“带有”、“具有”等，指纸条上写的内容。","4．She never thought of it again… 此后她就再没去想那只瓶子…… think of 指“考虑”、“想”、“想起”等： Do you ever think of the girls you met at a party? 你会想起你在一个晚会上遇到的姑娘们吗？","5．Both girls write to each other regularly now. 现在这两位姑娘定期通信了。","both 的用法在第14课词汇学习中已经讲过。它用在名词前面时，of 可有可无。在 both girls 中，both 为形容词；在 both of the…结构中，both 为代词。each other 指互相，一般作宾语。","6．Letters will cost a little more, but they will certainly travel faster. 这样会稍微多花点钱，但肯定是快得多了。 （1）more 和 faster 都是副词的比较级。这里隐含的比较成分是邮局寄信与海上漂瓶。 （2）动词 cost 意为“（使）花费”、“价钱为……”，其主语通常为某物或某件事情： It costs a lot to buy a house. 买一所房子要花许多钱。 The dress cost me twenty pounds. 这件连衣裙花了我20英镑。"]},{title:"语法",content:["后面可跟 of，from，in 和 on 的动词","许多动词后面加上介词后仍具有其通常意义，但它们与哪些介词连用却往往是固定的，如 borrow from，believe in（相信，信仰），receive from 等。还有些动词可与不同的介词连用，而动词的意义改变并不大，如 dream of/about，help in/with，expect of/from 等。在学习中，要牢记哪些介词与它们连用。如下动词和介词通常可以分开使用，可以有自己的宾语，并且大部分都可用于被动结构。","（1）与 of 连用的动词","Someone must warn him of the difficulties. 必须有人提醒他有这些困难。","He has already been warned of them.","他已经被警告过了。（被动结构）","Don't expect too much of your child.","不要对你的孩子期望太高。","He must have spoken of the matter to John.","他肯定对约翰谈起过这件事。","I have never heard of the actress.","我从来没听说过这位女演员。","（2）与 from 连用的动词","He borrowed three books from Mary.","他从玛丽那里借了3本书。","He always asks for help from his parents. 他总是向父母求助。","（3）与 in 连用的动词","Do you believe in everything he says?","你相信他的每一句话吗？","She delights in working hard.","她喜欢努力工作。","He failed in his French test.","他法语考试没通过。","Jack helped me in driving the sheep home.","杰克帮我把羊赶回家。","Mrs. Turner is experienced in teaching. 特纳夫人很有教学经验。","（4）与 on 连用的动词","He finally decided on going home. 他最后决定回家。","You can't live on fruit only.","你不能只吃水果。","Last Sunday, we called on Mr. Dupont.","上星期天，我们拜访了杜邦先生。"]},{title:"词汇学习",content:[`1．dream
+（1）vt. 做梦，梦见：
+I dreamt/dreamed I was in Scotland. 我梦见我在苏格兰。
+（2）vt. 做梦，梦见（与 of，about 连用）：
+I often dream of/about you.
+我经常梦见你。
+I dreamt of a large empty room.
+我梦见一个很大的空房间。
+（3）n.梦；梦想，幻想。
+I dreamt/had an interesting dream last night.
+昨晚我做了一个有趣的梦。
+Have you heard of the American Dream?
+你听说过美国之梦吗？
+2．throw vt.
+（1）投，扔，抛：
+Don't throw stones at the dog.
+别向那狗扔石头。
+Throw the ball to Tom.
+把球扔给汤姆。
+Shall I throw this old newspaper away?
+我把这旧报纸扔掉好吗？
+（2）把……对准目标；向……作出举动：
+George was very happy today. Julie had thrown a smile at him in the morning.
+乔治今天很开心。早上朱莉朝他微笑了一下。
+The boss threw him an angry look.
+老板恼怒地看了他一眼。`]},{title:"词汇学习",content:[`1．dream v. 做梦，梦想：
+have a dream
+dream a dream
+have a good dream
+sweat
+Have a good/sweat dream.
+She is daydreaming.
+2．daydreaming：思想开小差
+dream of doing something
+3．think of：想、考虑
+4．dream of：梦想
+I dreamed of flying in the sky.
+dream on 继续做梦，痴心妄想
+5．dream boat：梦中情人，梦寐以求的
+6．age n. 年龄：
+7．teengager：十几岁的人
+8．channel n. 海峡：
+9．throw v. 扔，抛：
+threw thrown
+throw away 扔掉`]},{title:"讲解",content:["同位语 My daughter  Jane","of one's own age  He is boy of my own age.","with 放在名词后面做定语","I have a bag with books in it.","with 放在句子后面做状语用","think of：考虑   dream of：梦想","write to：给某人写信  write to me","each other：相互－往往强调两者之间的相互","one another：强调三或三者以上的相互","will cost   will travel","一旦用 cost,主语一定是物","something cost somebody","more：即可做形容词，又可做代词   give me more","a little 可以修饰比较级：稍微","much more：多的多","It's a little hotter. It's much hotter.","It's expensive.    That is more expensive.","That is a little more expensive.","That is much more expensive.","much faster 快的多"]}]},{lesson:23,sections:[{title:"自学导读",content:["1．I had a letter from my sister yesterday. 昨天我收到了姐姐的一封信。 have 在这里相当于 receive。（cf. 第18课语法）","2．She lives in Nigeria… We are now living in a beautiful new house in the country. 她住在尼日利亚……我们现在住在乡间的一栋漂亮的新住宅里。 （1）live 指长期居住，一般不用进行时。第二个例句中的进行时是为了强调目前的居住情况。 （2）country 指“乡下”（与 town 相对）时，一般与 the 连用，而不与 my 等所有格形容词连用，指“祖国”时则可以： I enjoy living in the country. 我喜欢住在乡下。 My country is China. 我的祖国是中国。","3．If she comes, she will get a surprise.如果她来了，她会感到非常惊奇的。 surprise 在这里是可数名词，指“令人惊奇的事”、“意想不到的事”： It's a surprise to me that they can't sell their flat. 他们无法卖掉他们的公寓，这对我来说是件意想不到的事。 surprise 也可以作不可数名词，表示“惊讶”： She looked at the man in surprise. 她惊讶地看着那人。","4．Work on it had begun before my sister left. 这栋房子在我姐姐离开之前就已动工了。 work（工作，作业）在这里是抽象的不可数名词，因此它前面不需要加冠词。我们还可以说： Life is short. 生命是短暂的。（life 也是抽象的不可数名词）","5．…I told her that she could stay with us.……告诉她说，她可以和我们住在一起。 stay 在这里是不及物动词，表示“暂住”、“逗留”。stay with 是一固定搭配，表示“跟……暂住在一起”： He stayed with his uncle last week. 上周他住在他叔叔那儿了。","6．It must be the only modern house in the district. 它肯定是这个地区惟一的一栋现代化住宅。 （1）modern 可以指“现代的”（相对于古代等时期而言），也可以指“现代化的”、“时髦的”、“新式的”： This car/dress looks quite modern. 这辆车/这件衣服看上去很时髦。 Cars appeared only in the modern period. 汽车是现代才出现的。 （2） district 一般译为“地区”、“行政区”或“地域”、“地带”，通常隶属于某个整体或具有某些地理特征： This district of London is very quiet. 伦敦的这个地区很冷清。 The Lake District of Northern England is very beautiful. 英国北部的湖区非常美丽。"]},{title:"语法",content:["1．复习第12～21课部分语法 在第12～21课的语法中，我们学习了一般将来时、将来进行时、过去完成时、间接引语、条件句、情态动词、完全动词 have、动名词等内容。 I had a letter from him last month. He told me he had returned home. 我上个月收到他的一封信。他告诉我他已经回家了。（完全动词 have 在这里相当于 receive；过去完成时表示在过去某个时间前完成的动作） He left the room without taking his umbrella. 他没有拿上自己的伞就离开了房间。（动名词作介词宾语；动名词有自己的宾语）","2．there is 和 it is 的用法","在说明或询问人或物等的存在时即可用 there be 结构。这种结构可以用一般现在时，也可以用一般过去时、一般将来时及现在完成时等时态。在用 there 表示过存在之后，就必须用 it 或者人称代词作进一步说明：","There's a bus coming, but it's full.","有一辆公共汽车来了，不过车上坐满了人。","There's a man at the door. It's the postman.","门口有个人，那是邮递员。","There were many people at the party last night.","昨天晚上的晚会上有许多人。（一般过去时）","There will be a letter for you tomorrow.","你明天将会有一封信。（一般将来时）","但是，当 it 作为“虚主语”表示时间、距离、天气等概念时，不可用 there be 结构（cf. 第2课课文详注）：","It's Monday.","是星期一。","It's raining.","天在下雨。","It's fifteen miles to the station.","离车站有15英里。"]},{title:"词汇学习",content:[`1．complete
+（1）vt. 完成，结束：
+The house was completed five months ago.
+这栋房子是5个月以前竣工的。
+Work on the new school will be completed next year.
+新学校明年能竣工。
+（2）adj. 完整的，全部的：
+Do you know the complete story?
+你知道整个故事吗？
+This is a complete family.
+这是个父母双全的家庭。
+（3）adj. 十足的，彻底的，绝对的：
+There is complete silence in the room.
+房间里一点儿声音也没有。
+That was a complete surprise.
+那完全是件意外的事。
+2．strange adj.
+（1）外地的，异乡的：
+Living in a strange land is not always a pleasant thing.
+客居他乡并不总是一件令人愉快的事。
+（2）陌生的，生疏的：
+That morning, he saw a strange face in the classroom.
+那天早上，他在教室里看到了一张陌生的面孔。
+This city is quite strange to me.
+我对这座城市很不熟悉。
+（3）不平常的，奇特的，奇怪的，古怪的：
+The house looks strange to some people.
+这房子在有些人看来很古怪。
+A strange thing happened this afternoon.
+这天下午发生了一件奇怪的事。`]},{title:"词汇学习",content:[`1．complete v. 完成：
+finish
+complete the building
+finish/complete homework
+finish/complete doing sth.
+complete(adj.)：完全的，完整的
+2．modern adj. 新式的，与以往不同的：
+现代的  modern history/house/art
+3．modernization：现代化
+4．strange adj. 奇怪的：
+5．stranger：陌生人
+6．strange：奇怪的，陌生的
+be strange to sth. 对……不习惯
+7．district n. 地区  行政划分的区域：`]},{title:"讲解",content:["get a surprise：感到惊奇","to one's surprise","shock","get a shock","离一个名词最近的词跟该词的关系最密切","beautiful new house","spare old cloth","work 后面要加名词的话一定要加 on"]}]},{lesson:24,sections:[{title:"自学导读",content:["1．I had just lost ￡50 and I felt very upset. 我刚刚丢了50英镑，感到非常烦恼。 （1）lose 指“遗失”、“丢失”时，宾语一般为钱物： Don't lose your ticket/key. 别把你的票／钥匙丢了。 （2）feel +形容词一般指心情“觉得……”、“感觉到……”： Do you feel hungry now? 你觉得饿吗？ I feel happy/excited. 我觉得开心／激动。 feel upset 表示“心烦意乱、“很苦恼”。","2．The manager was sympathetic, but be could do nothing. 经理深表同情，但却无能为力。","could do nothing 可以补全为 could do nothing about it，即关于此事他什么忙也帮不上。do 为完全动词，表示“做”、“干”。do 类似的用法还有：","Is there anything I can do for you?","我能给您做点什么吗？","3．Everyone's losing money these days. 现在大家都在丢钱。 （1）days 可以指“时期”、“时代”，如 in his boyhood days（在他的童年时代）。these days 指“现今”。 （2）现在进行时在这里表示动作的频繁，仿佛随时都有人丢钱似的。","4．‘Well,’I said to the manager,‘there is still some honesty in this world!’“是啊，”我对那位经理说，“这世界上还是有诚实可言的！” well 作为感叹词可以表达多种感情，如惊讶、让步等，在这里表示松了一口气（因为钱没丢）。"]},{title:"语法",content:["复习第2～23课部分语法","除了第23课语法中复习过的内容外，在第2～23课中，我们还学习了 what 引导的感叹句、动词的直接宾语和间接宾语、否定句的两种形式、动词和小品构成的短语动词、作形容词的现在分词与过去分词的区别等内容。","What a beautiful garden (it is)!","多美的花园！","He lent me his dictionary.","他把字典借给了我。（me 为间接宾语，his dictionary 为直接宾语）","与动词连用的小品词如果能与动词分开使用，即它的位置可变动，那么这个小品词一般为副词；如果位置不可变动，则一般为介词。","I'm looking for my brother.","我在找我的兄弟。（for 为介词）"]},{title:"词汇学习",content:[`1．complain vi．
+（1）抱怨，发牢骚，诉苦（常与 of，about 连用）：
+She is always complaining.
+她总是发牢骚。
+Don't complain about/of the weather.
+别抱怨天气。
+（2）控告，抗议（与 of，about 连用）：
+The people in that district complained to the police about the noise from that factory.
+那家工厂噪音太大，当地的人们已向警方投诉。
+Mary complained to the Jacksons about the rubbish they had thrown everywhere.
+杰克逊一家乱扔垃圾，玛丽已向他们提出抗议。
+2．wicked adj．
+（1）邪恶的，坏的（道德上）：
+Don't believe him. He is a wicked person.别相信他。他很坏。
+She saw a wicked smile on his face.
+她发现他脸上带着恶意的微笑。
+（2）淘气的，顽皮的（尤指小孩）：
+Don't be so wicked, Tom.
+汤姆，别这么淘气。
+（3）（天气）恶劣的：
+Few people walked about in this wicked weather.
+很少有人在这么恶劣的天气四处走动。`]},{title:"词汇学习",content:[`1．manager n. 经理：
+2．boss：有钱
+3．manager：干事
+4．head：重要，亲密的人物
+5．upset adj. 不安：
+6．sympathetic adj. 表示同情的：
+7．complain v. 抱怨：
+complain of/about to sb.
+8．wicked adj. 很坏的，邪恶的：
+evil
+9．contain v. 包含，内装：
+10．container：集装箱
+11．contain：用容器装 The bag contains books.
+include：
+12．honesty n. 诚实：
+honest(adj.)
+honestly(adv.)`]},{title:"讲解",content:["telephone number 名词可以修饰名词","the village fair","feel+(adj.)","not any=no","Sorry,I could do nothing for you.","用进行时态取代一般现在时，表示不满","start to do","start doing","outside(prep.)","I can do nothing for you.","nothing=not any thing, not any=no","something,肯定句","nothing 和 not 不可能同时并存","everything","6. outside adv&prep. He is outside./He is outside the school. out of：从...到外面去，一定要和有实在意义的动词连用，get/go/come out of out：在...外面，adv 不会加名词","10. lose：丢失，人丢失东西 miss：怀念，错过，丢失（missing） My keys are lost/missing. I lose my book/My book was lost(is missing.) 人丢了只能用 missing My child is missing. missing boy 失踪的孩子 go away 离开（人走），something was gone go：走 be gone:不见了，Gone with wind：飘（随风而逝），My book is gone. disappear:不见了（瞬间） be disappearing 慢慢的 His money disppeared lose sth./sth. be lost sth is missing sth is gone. sth/sb. disappear/disappeared Unit 2"]}]},{lesson:25,sections:[{title:"语法",content:["并列句的语序（Word order in compound statements）","在第1课的语法中，我们学习了简单陈述句的语序，它一般为：主语+动词+宾语（可有可无）+状语（可有可无，分为方式、地点和时间状语，位置相对比较灵活）。通过并列连词可以把几个简单句连接起来构成一个并列句。在并列句中，各分句要根据上下文的要求按逻辑次序排列，但各分句都同等重要并独立存在。我们常常把并列句中的各分句看成是并列主句。常用的并列连词有：and， and then， but， so， yet，or， both…and，either…or， neither…nor， not only…but also/but…as well 等。这些并列连词可以用来表示另加（and）、对比（but，yet）、选择（or）、连续（and then）以及结局或结果（so）。并列句基本上保留了简单句的词序"]},{title:"词汇学习",content:[`1．wonder
+（1）vt./vi.感到惊讶，感到诧异：
+They wondered that there was a modern building in that district.
+那个地方居然有一座现代化建筑，他们感到很惊讶。
+He wondered at the beauty of the old town.
+这座古老小镇的美丽令他惊讶不已。
+（2）vt./vi.（对……）感到疑惑／怀疑，想知道：I wonder/I'm wondering if we've made a mistake.我怀疑我们是否犯了个错误。
+I wonder what will happen next.
+我很想知道下一步会发生什么事。
+Will he come to dinner? I wonder.
+他会来吃饭吗？我怀疑。
+（3）n．奇迹，奇观，奇才；惊奇，惊讶：
+Jane is a wonder. She never fails in her examinations.
+简是个奇才。她从来没有考试不及格过。
+She looked at the boss in wonder.
+她惊讶地看着老板。
+the seven wonders of the world in ancient times 世界古代7大奇观
+2．each other
+从原则上讲，这个短语指两个人“互相”：
+You and I must try to help each other.
+你我两个人必须尽力互相帮助。
+有时，这个短语也可以用来指许多人之间“互相”：
+We must all help each other.
+我们大家都必须互相帮助。`]}]},{lesson:26,sections:[{title:"自学导读",content:["1．They always tell you what a picture is‘about’.（他们）总是告诉你一张画的“意思”是什么。 This is a book about Australia. 这是一本关于澳大利亚的书。 They are talking about modern art. 他们在谈论现代艺术。","课文中这句话可以直译为：他们总是告诉你某一幅画是“关于”什么的，也就是一幅画的“意思”是什么。about 放在引号里，一是指这些人谈论画的时候经常用到这个词，二是表示一种讽刺，因为有些画没有任何“意思”。","2．They are just pretty patterns.它们就是些好看的图案。 just 在此处指“只是”、“仅仅（是）”，而不是指“刚才”、“正好”、“正是： It was just a wrong number. 这只是一个错误的号码。（即只不过是拨错了号码） It's just six o'clock. 正好6点。 I've just heard the news. 我刚刚听到这个消息。","3．We like them in the same way that we like pretty curtain material. 我们喜爱它们就像我们喜爱漂亮的窗帘布一样。 in the same way that/as 是个连接短语，用于表示比较，可译为“像／和……一样”： She walks in the same way that/as her sister did. 她的走路姿势和她姐姐以前走路的姿势一模一样。","4．I think that young children often appreciate modern pictures better than anyone else. 我觉得小孩子们往往比任何人都更能欣赏现代绘画。","else 经常与不定代词连用（如 everyone else，someone else，anything else 等），表示“另外／加”、“其它／他的”或“不同的”：","Can you find anyone else?","你还可以找到其他人吗？","I can find nothing else here except an old dictionary.","除了一本旧字典，我在这儿再也找不到别的东西了。","课文中的这句话表示小孩子们比其他任何人都更能欣赏现代绘画。","5．…she always tells me whether my pictures are good or not. ……她总能说出我的画是好还是坏。 连接词 whether…or not 可以表示选择： I don't know whether you are interested (in it) or not. 我不知道你（对它）是否感兴趣。 You must help him, whether you like him or not. 不管你是否喜欢他，你（都）必须帮助他。","6．She looked at it critically for a moment. 她用挑剔的目光看了一会儿。 for a moment 为固定短语，表示“片刻”、“一会儿”： They looked at each other for a moment. 他们互相对视了一会儿。","7．It's all right. 还可以吧。 all right 为固定短语，在这里表示“令人满意的”、“不错的”： The performance of the Greenwood Boys at the Workers' Club was all right. “绿林少年”演唱团在工人俱乐部的那场演出还不错。 all right 还可以表达许多其他意思，如表示同意等。"]},{title:"语法",content:["一般现在时（cf．第2课语法）","（1）一般现在时可以用于表述现在的特征或状态：","I am an art student and I paint a lot of pictures.","我是个学美术的学生，画了很多画。（目前状态）","它也经常用于表述经常性或习惯性的动作，或带有普遍性的情况，频度副词可有可无：","Many people pretend that they understand modern art.","有很多人装成很懂现代艺术的样子。（普遍情况，不带频度副词）","They always tell you what a picture is‘about’.","他们总是告诉你一张画的“意思”是什么。（经常性动作，带频度副词 always）","一般现在时还用于表示普遍性真理：","Summer follows spring.","春去夏来。","（2）有些表示状态和感觉的动词通常用于一般现在时。这些动词","一般不用于进行时：appear，appreciate，be，believe，notice，feel，find，forget，resemble，hear，know，like，look like，remember，see，think，understand 等：","He's listening to that music! He must like it!","他正在听那音乐！他肯定喜欢它！","I can't understand this picture.","我看不懂这幅画。","Can you see any mistakes?","你能发现有什么错误吗？","I heard some voices.","我听到有些说话声。"]},{title:"词汇学习",content:[`1．notice
+（1）vt．注意到，察觉到（不用于进行时）：
+You never notice what's going on around you.
+你从来不注意身边发生的事。
+Did you notice him leaving?
+他离开的时候你发现了吗？
+I've noticed that it is warmer here than in England.
+我发现这里比英国暖和。
+（2）n．注意，察觉：
+The girl in red caught his notice.
+那位穿红衣服的姑娘引起了他的注意。
+（3）n．（书面的）通知，布告，海报：
+I know there's a meeting, because someone put up a notice outside the Town Hall.
+我知道有个集会，因为有人在市政厅外面贴了个通知。
+2．hang vt./vi.
+（1）（将……）悬挂，吊：
+I'm hanging this picture on the wall.
+我正在把这幅画挂到墙上去。
+Will you please hang the coat?
+请把衣服挂起来好吗？
+A pretty curtain hangs over the window.
+窗户上挂着一个漂亮的窗帘。
+（2）垂下：
+John was very tired. He sat in a chair and hung (down) his head.
+约翰非常疲倦。他垂着头坐在椅子上。
+（3）安装……使能转动／摆动：
+Have you hung the door?
+你把门装上了吗？
+3．upside down
+（1）上下颠倒：
+When Percy Buttons stands on his head, everything appears upside down to him.
+当珀西·巴顿斯头顶地倒立时，一切东西在他看来都是上下颠倒的。
+You've hung the picture upside down.
+你把画挂倒了。
+（2）乱七八糟，混乱不堪：
+My little boy always makes the room upside down.
+我的小儿子总是把房间弄得乱七八糟。
+These men have made the whole country upside down.
+这些人把整个国家搞得一团糟。`]},{title:"词汇学习",content:[`1．art n. 艺术：
+art student 艺术系的学生
+English student 学英语的学生
+student of England
+英国学生
+artist 艺术家
+artiste 艺人
+art gallery 艺术画廊
+black art 巫术
+2．critic n. 评论家：
+criticise v. 批评，批判
+criticism n. 批评，批判
+critical adj. 挑剔的
+critically adv. 爱挑剔的
+He criticised my painting.
+You are critical.
+3．paint v. 画：
+draw a picture 用线条画
+paint a picture 强调油画
+painting
+oil painting
+Chinese painting 中国国画
+Beijing opera 国戏，京剧
+4．pretend v. 假装：
+pretend to do something
+When his mother came in,the baby pretended to go to sleep.
+pretend that...
+5．pattern n. 图案：
+pattern drills
+pattern 模式，典范
+6．curtain n. 窗帘，幕布：
+7．material n. 材料：
+listening material 听力材料
+8．appreciate v. 鉴赏：
+enjoy 欣赏
+enjoy the music
+I like poems.
+I love...
+I enjoy...得到乐趣
+I appreciate... 程度一个比一个深
+appreciate something
+appreciate doing sth
+I appreciate your help.
+我很感激你的帮助
+9．notice v. 注意到：
+pay attention to 思想上的注意
+I notice the boy. 细节上的注意
+I notice the beauty spot.
+10．whether conj. 是否：
+If 在表示是否的时候可以被 whether 所取代
+If 在表示如果的时候不可以用 whether 取代
+If it will rain...
+Whether it will rain...
+Whether it will rain or not...
+I wondered if it will rain.
+Whether he is mad or not.
+11．hang v. 悬挂，吊：
+hang hanged hanged 绞死
+hang hung  hung   悬挂
+The thief was hanged.
+The coat was hung.
+12．critically adv. 批评地：
+13．upside down 上下颠倒地  两个同样的发音连在一起时，前边的音省去不读：`]},{title:"讲解",content:["They always tell you what a picture is about.","tell you 后是 what 引导的宾语从句","just 仅仅，表强调","We like them...","them 指 pictures","pretty curtain material 漂亮的窗帘布","In the same way that","In a way 以某种方式","The son walked in the same way that his father walked.","I love you in the same way that I love my father.","I love you just in the same way that I love money.","make an appointment","When will it be conveniet for you?","I like something.","I like something very much.","I like something better.","I like something best.","I like water best.","I like water better.","I like water very much.","else 跟在 anyone,anything 的后面","who else,what else","They can appreciate modern arts best.","better than anyone else 表示最高级的含义","The teacher is the tallest.","The teacher is taller than anyone else.","The book is more expensive than anything else.","They notice more.","Whether ...or not= if","picture on the wall","isn't it upside down? 是否定疑问句","It isn't a fine day.","It is bad weather.","Is it bad weather?","Isn't it bad weather?","Aren't you lucky? 你真幸运","否定疑问句起肯定作用...","Isn't it a boy?"]}]},{lesson:27,sections:[{title:"自学导读",content:["1．…the boys put up their tent in the middle of a field.……孩子们在田野中央搭起了帐篷。 in the middle of 表示“在……当中”、“在……中间”，既可以用于表示地理位置，又可以用于表示时间或在某个过程当中： He heard someone shouting in the middle of the night. 午夜前后，他听到有人大声叫喊。 Mary was in the middle of reading when her aunt arrived. 玛丽的姑妈到达时，玛丽正在读书。 in the centre of（在……中部／中央）则一般用于表示地理位置： Alice Spring is a small town in the centre of Australia. 艾利斯斯普林斯是澳大利亚中部的一个小镇。","2．…they cooked a meal over an open fire.……他们就在篝火上烧起了饭。 open fire 指无遮盖的、没有围起来的火，如篝火、盆火等。","3．…they told stories and sang songs by the campfire.……（他们）就围在营火旁讲起了故事，唱起了歌。介词 by 表示“在……旁边”、“靠近”，通常指距离非常近：Come and sit by me. 过来靠我坐。 There are many trees by the river. 河边有许多树。","4．But some time later it began to rain.但过了一阵子，天下起雨来。 副词 later 表示“后来”、“以后”、“过后”： He told me he would come again later (on). 他告诉我他以后会再来的。 I met her again a few days later. 几天以后我又遇见了她。","5．The stream wound its way across the field and then flowed right under their tent! 那小溪弯弯曲曲穿过田野，然后正好从他们的帐篷底下流过去！ （1）wind 表示“曲折而行”时，既可以是及物动词，又可以是不及物动词： The car wound through the village. 汽车曲曲折折地穿过村子。 The river winds its way through this district. 这条河弯弯曲曲地流经这个地区。 （2）right 在此处表示强调，意为“正好”、“恰恰”、“就”。这种用法多见于口语中： I met him right here. 我就是在这里见到他的。 He hit the man right on the nose. 他正好打中那人的鼻子。"]},{title:"语法",content:["一般过去时（cf．第3课语法）","在并列句中，各分句在时态上通常要保持一致。在叙述过去发生的事件时，动词基本上都用一般过去时，但有时也会出现过去完成时和过去进行时，它们的同时使用并不违反动词的“一致原则”：","They all leapt out of their sleeping bags and hurried outside. It was raining heavily and they found that a stream had formed in the field.","他们全都跳出睡袋，跑到外面。雨下得很大，他们发现地上已经形成了一条小溪。","由于一般过去时常常表示过去某个特定的时间发生的事件，因此，它常与 when，where 等疑问词连用。除了时间状语可以表示特定的时间之外，地点状语也可以暗示或包括特定的时间：","Where did you last see her?","你最近在什么地方见过她？","一般过去时与一般现在时在上下文中同时使用可以表示对比："]},{title:"词汇学习",content:[`1．smell
+（1）vt．嗅，闻：
+I love to smell flowers.
+我喜欢闻花。
+I'm smelling the fish to see if it's all right.
+我正在闻这条鱼，看看它是否还新鲜。
+I (can) smell something burning.
+我（能）闻到什么东西烧焦的气味。
+（2）vi．闻起来有……气味，散发……气味：
+This fish smells bad.
+这鱼馊了。
+You smell of soap.
+你身上有肥皂味。
+（3）n．气味：
+I can't stand the smell in this room.
+我受不了这房间里的气味。
+There is a sweet smell in the air.
+空气中有种芳香味。
+2．form
+（1）vi．形成，产生：
+During the conversation ,an idea formed in his mind.
+在谈话的过程中，他有了一个主意。
+Ice forms when it is cold enough.
+如果冷到一定的程度，冰就会形成。
+（2）n．形状，外形：
+The ice cream is made in the form of a ball.
+冰淇淋做成球形。
+I don't like the form of the cake.
+我不喜欢这蛋糕的形状。
+（3）n．表格：
+If you want to enter for the competition, you must fill in these forms.
+如果你想报名参加比赛，你必须填写这些表格。
+3．与 put 有关的短语动词
+在第6课和第7课的语法中，我们学习了短语动词。与 put 有关的短语动词我们学过 put on 和 put out：
+I'm putting on my coat.
+我正在穿衣服。
+…they put out the fire and crept into their tent.
+……他们扑灭了篝火，钻进了帐篷。
+与 put 有关的动词短语还有 put up， put down， put off， put away 等：
+（1）put up 可以有“建造”、“搭建”、“为……提供膳宿”、“夜宿”等含义，而 put up with 则表示“容忍”、“忍受”：
+They put up their tent in the middle of a field.
+他们在田野中央搭起了帐篷。
+It's raining heavily. We must put them up tonight.
+雨下得很大。我们今晚必须为他们安排住宿。
+I can't believe that he can put up with this.
+我无法相信他能容忍这件事。
+（2） put down 有“写下”、“记录下”的含义：
+（3） put off 可以表示“推迟”、“拖延”：
+Do your exercises now. Don't put them off until tomorrow.
+现在就做作业。别拖到明天。
+The meeting has been put off.
+会议推迟了。
+（4）put away 可以表示“把……收起”、“放好”：
+Put these books away, please.
+请把这些书收起来。
+I have put away all my clothes.
+我把我所有的衣服都放好了。`]},{title:"词汇学习",content:[`1．tent n. 帐篷：
+2．field n. 田地，田野：
+airfield 飞机场（介词用 on）
+in the field
+in one's field 在...领域
+He is an expert in his field.
+football field 足球场地
+3．smell v. 闻起来：
+smell 作半联系动词，接表语，接形容词
+The food smelt good.
+感官动词
+You look fine.
+You look better.
+You look beautiful.
+taste 尝起来
+The food smelt good,and it tasted better.
+sound 听起来
+look taste sound smell feel
+feel；⑴感到 I feel ill.
+⑵用手的感受，The blackbroad felt cold.
+4．wonderful adj. 极好的：
+Great ! Excellent !  brilliant  fantastic
+She is an excellent teacher.
+outstanding
+5．campfire n. 营火，篝火：
+fire 可数也不可数
+6．creep v. 爬行：
+climb the tree. climb up or down
+crawl / The baby is crawling on the floor.
+creep out 蹑手蹑脚
+climb crawl creep
+7．sleeping bag 睡袋：
+passing plane 正在路过的飞机
+动词加 ing 变成形容词作定语有二个意思：
+⑴ 正在...
+⑵ 用来做...
+sleeping bag/sleeping dog
+listening material
+walking stick 拐杖
+8．comfortable adj. 舒适的，安逸的：
+9．soundly adv. 香甜地：
+sleep soundly
+go to beg/go to sleep/fall asleep 坠入梦乡／sleep well/sleep deeply
+fast/fall fast asleep
+10．leap v. 跳跃，跳起：
+leap/jump
+jump up and down 原地跳跃
+leap 跳跃，有距离
+skip Let us skip it?
+Look before you leap.三思而后行
+leap year/month 闰年／月
+11．heavily adv. 大量地：
+rain/snow heavily  He smokes heavily.
+smoke heavily
+12．stream n. 小溪：
+13．form v. 形成：
+14．wind v. 蜿蜒：
+wind one's way 蜿蜒而行
+The road winds its way.
+15．right adv. 正好：
+强调作用
+right 做副词时强调后边的形容词，副词，介词短语，不强调动词
+用 just 来替换
+just like/just as
+后边加代词时只能用 just.  just you
+Right here.
+Right here waiting for you.
+in the garden
+I found my lost watch right in the graden.`]},{title:"讲解",content:["注意句型：在．．．之后","wet 发义词是 dry","汉语与英文只有意义的对等，没有字的对等","wet.... 湿淋淋的","My idea is the same as yours.","I agree with you.","I think so.","You are wet.","英文中表示＂湿＂的词：","wet/damp 不舒服/moist","moist：稍湿   moist cake 松软的蛋糕  moist eyes 水灵灵的眼睛","humid 指气候比较潮湿","A rainy night...多雨的夜晚","Late in the afternoon.傍晚","early in the morning  清早","put up 搭建／强调搭","build 建／强调精心设计并且建造","make a desk","build a car","in the middle of 在...中间","in the center of 在...中心","in the middle of the river 河中心","midnight  午夜","the mid-autumn day 中秋节","as soon as 一...就... /当...","open fire 在野外生的火，篝火","over 垂直的上面","cook a meal 做一顿饭","显示＂在...之后＂的句式","after+从句／doing","with a bag","in sweater","After I arrived,","When the plane arrived,","after the arrival of the plane","After my arrival","After his arrival, we have a party.","After the arrival of the flowers,I took them and went to my girlfriend's","tell story 讲故事","by 在...旁边  near/beside/at/by","at the door","sit at the table","by the river","next to","He sits next to me.","who is the next?","紧邻着","the next door to my house","near 在附近","beside/next to 与...相邻","at the door 紧挨着","near the village","next to /beside the village","at the table","by the river","some time later 一段时间之后  some time ago 一段时间以前","a few hours earlier","put out 人为的熄灭火","be out 火自动熄灭","I put out the fire.","The fire is out.","in the middle of the night=midnight","at midnight 在午夜","wake up 醒来  主语自己醒","wake sb up 唤醒","begin doing/start doing/begin to do/start to do","leap out of 跳出来","如果强调某东西自动形成，则可以用主动态，如果强调某东西是人为的，用被动态","When I'm getting close to the door,the door opened.","The door opened.","The door was opened.","river formed","The bus stopped 自动的","The bus was stopped 人为的","wound one's way 蜿蜒而行","flow 流淌","flow/flowed/flowed","fly/flew/flown","grow/grew/grown","blow/blew/blown","right 正好，恰好，强调后边的介词短语"]},{title:"特殊难点",content:["动词加介词或副词起改变 put 的含义的作用","put up with 容忍","put up 搭建","put out...扑灭","put on 穿上","put away 把...收好","Your room is untidy,put your things away.","put off 推延"]}]},{lesson:28,sections:[{title:"自学导读",content:["1．Jasper White is one of those rare people who believes in ancient myths. 贾斯珀·怀特是少有的相信古代神话的人之一。 在第21课的课文详注中，我们曾经提到“one of +名词／代词”这个结构，of 后面的名词必须是复数，但与这个结构连用的动词必须是单数： One of your friends is waiting for you now. 你的一位朋友正在等你。 课文中 who 代指的是 one of those rare people，所以动词用 believes。","2．… but ever since he moved in, he has had trouble with cars and their owners.………但自从搬进去后，就和汽车及车主们发生了摩擦。 ever since 的语气比 since 强，表示“从那以后一直，，主句一般用完成时： I've been interested in flying ever since I was a boy. 自从我的孩提时代起，我就对飞行一直感兴趣。 He left the village last year and has never returned ever since. 他去年离开了这座村庄，从那以后一直没有回去过。","3．Jasper has put up‘No Parking’ signs outside his gate…贾斯珀曾把几块“禁止停车”的牌子挂在大门外边…… put up 在这里表示“挂起”、“竖起”等意思。","4．Jasper hopes that she will turn cars and their owners to stone. 贾斯珀希望她把汽车和司机们都变成石头。 （1）she 指的是蛇发女怪美杜莎。根据希腊神话，凡看她一眼的人都会变成石头。 （2）turn 在这儿的意思是“把……变成”，是及物动词： They have turned the famous beauty spot to/into an ugly place. 他们把那著名的风景胜地变成了一个丑陋的地方。"]},{title:"语法",content:["1．现在完成时","在第4课的语法中我们讲过与现在完成时连用的副词和副词短语，其中包括 before（now），so far， up to／till now，just，already，now，ever，never 等；还讲过有些用现在完成时的句子","不需要任何表示时间的词。注意以下句子：","This is one of the worst photos I've ever taken.","这是我照过的最差的相片之一。","What a good film!","这电影真好！","Yes, I've never seen such a good film before.","是的，我从来没看过这么好的电影。","How many times have you had that dream?","那个梦你做过几次？","I've had it three times so far.","迄今为止我已做过3次。","除了这些词以外，since 和 for 也常与现在完成时连用，表示直到现在的时段。since 一般与一个时间点连用，for 一般与一个时间段连用：","How long have y0u been a doctor?","你当医生有多久了？","I've been a doctor since 1989.","自1989年以来我一直是个医生。","How long have you worked at the library?","你在图书馆工作多久了？","I've worked at the library for a week.","我来图书馆工作已经一星期了。","I've lived here since 1980.","自1980年起我就住在这儿。","I've lived here for five years.","我已在这里住了5年了。","2．关系从句（Relative clauses）及关系代词（Relative pronouns）","在第1册第121～124课中，我们已接触到关系从句。关系从句又可称为定语从句或形容词从句，它像形容词一样可以形容人、物及事件。关系从句可分为限定性（defining）关系从句（不带逗号）和非限定性（non-defining）关系从句（带逗号）。我们在这里只讨论限定性关系从句。","可以用来表示人的关系代词有 who，whom 和 that 以及所有格形式 whose，口语中 whom 经常由 who 代替。用来表示事物和动物的关系代词有 which 和 that。不论这些关系代词指的是单数还是复数，其形式都保持不变。关系代词在关系从句中作宾语时往往可以省略，作主语时则不可以：","This is the photo (that/which) I took.","这是我拍的照片。（the photo 为 took 的宾语，that/which 代替 the photo，可省略）","The man (who/whom) I served was wearing a hat.","我接待的那个人戴着一顶帽子。（who／whom 为 served 的宾语，可省略）","The lady who is standing behind the counter served me.","接待我的是站在柜台后面的那位女士。（who 为关系从句的主语，不可省）","I bought the books which are on the counter.","我买的就是柜台上的那些书。（which 为关系从句的主语，不可省）","The millionaire whose son ran away from home a week ago is not a kind father.","有个儿子一周前从家里逃走的那位百万富翁不是个慈父。","（whose 在关系从句中作定语，不可省）","The girls who are standing behind the counter served us.","接待我们的是站在柜台后面的那几位姑娘。（who 代替复数名词 the girls，形式不变）"]},{title:"词汇学习",content:[`1．believe 与 believe in
+动词 believe 的含义为“相信”、“认为”：
+Do you believe that cats eat grass?
+你相信猫吃草吗？
+Are they at home?
+他们在家吗？
+I believe so.
+我认为在。
+believe in 可以表示“信仰”、“相信……的存在”、“相信……的价值”：
+I believe in God.
+我信仰上帝。
+He believes in ancient myths.
+他相信古代神话。
+这个短语还可以表示“信赖（人格、力量等）”：
+I've never believed in John.
+我从没有信赖过约翰。
+试比较：
+I believe him.
+我相信他（的话）。（=I believe his words.）
+2．because 与 because of
+because 只能作连词用，后面接从句：
+You can't remember his name, because you aren't really thinking.
+你想不起他的名字是因为你没有真正努力去想。
+I want to go home now, because I'm tired.
+现在我想回家，因为我累了。
+because of 是介词短语，后面不可以跟从句，只能跟名词或代词。它既可以位于句首，也可以位于句子中间：
+Because of the rain, we have to stay at home.
+因为下雨，我们不得不呆在家里。
+Because of you, we have to put the meeting off.
+因为你的缘故，我们已把会议推迟了。
+He came back early because of the rain.
+由于下雨，所以他回来得早。
+He is absent today because of his father's illness.
+由于他父亲的病，他今天缺席。
+3．can 与 be able to
+can 表示天生的或学到的能力时，只能用于现在时和过去时（could），而不可用于将来时。将来时中表示能力时必须用 be able to。在现在时和过去时中，can/could 与 be able to 一般可以互换，在完成时中一般用 be able to：
+He has never been able to get his own car into his garage.
+他从来都没能把自己的车开进车库。（现在完成时）
+I'll be able to pass my driving test after I've had a few lessons.
+我上几次课后就能通过驾驶考试。（一般将来时）`]},{title:"词汇学习",content:[`1．rare adj. 罕见的：
+rare animal 稀有动物
+rare bird 珍稀鸟类
+rare illness 疑难杂症
+scarce 少有的
+Watermelon is scarce in winter.
+conut 椰子
+steak 牛排
+well done 全熟
+medium  半生半熟的
+rare   几乎是生的
+2．ancient adj. 古代的，古老的：
+ancient Egypt 古埃及
+antique 古董，古老而有价值的
+3．myth n. 神话故事：
+fairy 神仙故事
+4．trouble n. 麻烦：
+woman/man troubles
+child troubles
+never trouble troubles until troubles trouble you
+永远不要自寻烦恼
+Let sleeping dog lie. 不要自找麻烦。
+ask for trouble
+He is asking for trouble.
+I'm sorry to put you in trouble. 我很抱歉给你带来麻烦（口语）
+have trouble in doing sth
+I have trouble (in) parking the car.
+I have a lot of trouble parking the car.
+5．effect n. 结果，效果：
+have an effect 有效果
+have no effect 没有效果
+have effect on 对...有效果
+The advice has no effect on me.
+6．Medusa n. 美杜莎（古希腊神话中3位蛇发女怪这一）：
+7．Gorgon n. （古希腊神话中的）3位蛇发女怪这一（凡见其貌者都会变成石头）：`]},{title:"讲解",content:["one of 其中之一","one of the students","believe in 信任；信仰","关系代词：who,whom,which,that","关系代词后面要加从句","先行词是主句和从句共同有的一个词","I have a book that/which he likes.","关系代词有两个功能：一是承上，一是启下","The boy is my brother.","The boy is standing at the door.","The boy who is standing at the door is my brother.","I can do anything I can to help you.","I can do anything that I can do.","Jasper White is one of those rare people who believe in ancient myths.","who 在这是关系词，起承上启下的作用","believe 用在 people 之后应该用复数对待","who 在从句中指代的是单数，就用单数对待，在从句中指代的是复数就用复数对待","如果在定语从句中出现了 one of 作为先行词，它后边的关系代词指代的是后面的复数名词","如果在 one of 前面还有一修饰词 only,那么后边的关系代词将指代 one 这个词","He is the only one of those rare people who believes in ancient myths.","one of 直接作主语的时候，它是做单数看待的","One of the answers is ture.","One of those people is good.","ever since=since","have trouble doing 做...有麻烦","have trouble with sb. 和某人相处有麻烦","I have trouble with my roommate.","in the morning 每天早晨","in the afternoon 每天下午","at night 每天晚上","park a car 停车","because of 由于","because 的后面加句子","because of 的后面加词","be able to 的主语一般都是人，表示有能力去做","get his car into his garage.","I drove the car into the wall.","I drove the car into the tree.","drive the car into 把车子撞上某地","get sth into 把...弄进","even once","put up 张贴","put up the pictures on the wall 在墙上贴画","not any = no","on 接触在上面","over 悬挂在上面","one of 后面加可数名词的复数","I have ever seen 做定语从句，修饰前边的 faces","如果关系词在从句中做宾语，关系词口语省略，所以 I 前的 which 被省略","This is the most difficult thing I have ever done.","This is the most terrible news I have ever heard.","有两个结构一定是最高级","１．of+范围","２．in+地点 He is the tallest in the room.","３．I have ever 从句 hope 的后面加 that 从句 turn sth to 把前者变成后者 turn the prince to a frog He was turned to a frog turn cars and their owner to stone none of,neither of 做主语时做单数看待 先行词：放在定语从句前面，而且是两句话共同含有的词，还是被定语从句修饰的词 定语从句：句子做定语，一般放在被修饰词后面 四个关系代词： who;whom;which;that who 在从句当中做主语或做宾语 whom 只能在从句当中做宾语 which 指物，即可以做主语，又可以做宾语 that 即可以指物，又可以指人，即可以做主语，又可以做宾语"]},{title:"特殊难点",content:["whose 后面一定要加一个名词，然后这个部分共同做主语或宾语","The boy whose sister is standing at the door is my brother.","The pilot whose plane landed in a field was not hurt.","land 着陆","He is the right person I am looking for."]}]},{lesson:29,sections:[{title:"自学导读",content:["1．The‘taxi’is a small Swiss aeroplane called a‘Pilatus Porter’. 这辆“出租汽车”是一架小型瑞士飞机，叫“皮勒特斯·波特”号。 （1）taxi 加引号是因为它不是一辆真正的出租汽车而是飞机。 （2）Swiss aeroplane 是指瑞士生产的飞机。","（3） called a‘Pilatus Porter’是个过去分词短语，作 aeroplane 的定语，在意思上和一个定语从句差不多，即 which is called a‘Pilatus Porter’。一般说来，过去分词短语作定语时要放在所修饰的名词／代词之后，而一个单独的分词作定语时则往往放在所修饰的名词／代词前面：","It can land on a ploughed field.","它可以在耕过的田里降落。","He landed in a deserted car park.","他降落在了一个废弃的停车场上。","过去分词 ploughed 和 deserted 都位于它们所修饰的名词之前。","2．The most surprising thing about it, however, is that it can land anywhere: on snow, water, or even on a ploughed field. 然而，最令人惊奇的是它能够在任何地方降落：雪地上，水面上，甚至刚耕过的田里。 （1）表示转折的连词 however 可以位于句首、句末或句中，其意义不变。大多数情况下它位于句中，前后用逗号隔开。","（2）从句 that it can land anywhere 在句子中起表语作用，是表语从句，that 为引导词，it 代指 this wonderful plane。","（3） on snow, water, or even on a ploughed field 是 anywhere 的同位语，举例说明这架飞机可以在哪些地方降落。","3．…Captain Fawcett has flown passengers to many unusual places.……弗西特机长已经载送乘客到过许多不寻常的地方。 我们已经学过 fly 作为不及物动词的用法，其意义为“飞”、“飞行”： The aeroplane is flying over the river. 飞机正从河上飞过。 在本课中，fly 为及物动词，意思为“空运（乘客）”： He has flown his car to France. 他已将他的汽车空运到法国。"]},{title:"语法",content:["一般过去时与现在完成时","在第5课的语法中我们已学过与一般过去时和现在完成时连用的一些时间状语，在第28课的语法中又复习了与现在完成时连用的时间状语。对比这两种时态时，我们一方面要注意它们的时间状语的区别，另一方面要注意一般过去时往往强调动作本身，而现在完成时则表示始于过去并持续到现在的动作或表示过去不确定的时间发生过的并与现在有某种联系的动作。","但介词 for 和 since 引导的时间状语通常与现在完成时连用，虽然 for 有时可以与一般过去时连用。","I painted the picture last month/five days ago.","我上个月／5天前画的这幅画。（一般过去时与具体时间连用）"]},{title:"词汇学习",content:[`1．taxi n. 出租汽车：
+taxi driver 出租车司机
+take a taxi/take a bus/take a lift
+Whose plane landed in the field
+2．Pilatus Porter：
+3．land v. 着陆：
+4．plough v. 耕地：
+plough .n. 梨
+farm 农田
+5．lonely adj. 偏僻的，人迹罕见的：
+lonely (人) 孤独的/cold fish
+She felt lonely 感到，主观
+She is alone. 事实，客观
+Home alone
+6．Welsh adj.：
+7．roof n. 楼顶：
+ceiling 天花板
+raise the roof v. 喧闹，大声抱怨
+hit the ceiling [美口] 勃然大怒，暴跳如雷
+8．block n. 块，一座大楼：
+a block of flats 公寓楼
+office block 办公楼
+9．flat n. 公寓房：
+apartment 公寓
+a block of apartments
+10．desert v. 废弃：
+desert the house = let the room empty
+desert .n. 沙漠`]},{title:"讲解",content:["read the text","captain 船长/机长","called","call sb sth","The instrument was called a clavichord.","be called 被称为","called 在此句中为过去分词","过去分词做定语时是作为被动状态来翻译的，ing 表示正在","I have an instrument. The instrument is called a clavichord.","I have an instrument called a clavichord.","I have a cat called Lucy.","-ing; -ed 是非谓语动词","a ploughed field 被耕过的田","a deserted car park 被废弃的车场","Written English 书面语","spoken English 口语","短语做定语是要后置","a race across the Atlantic","单个的词做定语时可放前边","however 可放在句子前边","that 从句在此处是表语从句","１．宾语从句中的 that 省略","２．定语从句中的关系词在从句中做宾语时可以省略。 句型：The most surprising thing is that... To my surprise,... surprising 可以由其它词替换 The most exciting thing is that... The most exciting thing is that we can win the football match. The happiest thing is that I can visit mother during the Spring Festival. the 不能和所有格及形容词物主代词并存 from ... to ... 从。。到。。 since then/so far/up to now since then 强调起点 so far/up to now 强调终点 fly sb to... 开飞机送某人去 My friend drove me to Tianjin. drive sb to ...开车送某人去 once 一次 on another occasion 还有一次 Once I met him on the street and on another occasion I met him in the library. once...and on another occasion. request from 来自某人的请求 request for sth. 要求得到 take sb to school 送某人上学 too 在副词或形容词前表示否定含义 very 强调程度深 too 强调程度大到了人们不愿去做 You are very kind. very expensive 买得起 too expensive 买不起"]}]},{lesson:30,sections:[{title:"自学导读",content:["1．The Wayle is a small river that cuts across the park near my home. 威尔河是横穿过我家附近公园的一条小河。","在这句话中，that 引导的定语从句修饰 a small river，关系代词 that 在从句中作主语。地点状语 near my home 修饰 the park。","2．I like sitting by the Wayle on fine afternoons. 我喜欢在天气晴朗的下午到河边坐坐。 （1）by 在此处表示“在……旁边／近旁”。 （2）afternoon 为复数形式，表示经常性的情况，因此谓语为一般现在时。由于 afternoon 前面有修饰词，因此要用介词 on。 morning，evening 与它的用法一致。试比较：","3．…it went towards a passing boat.……球便向着一只划过来的小船飞去。 （1）go 在此处不是指人“走”，而是指球“行进”。 （2）passing 为现在分词，作定语，表示“经过的”、“划过来的”，如 a passing plane（一架飞过的飞机）。","4．Some people on the bank called out to the man in the boat…岸上的一些人对着小船上的人高喊…… call out 表示“大声呼叫”、“叫喊”，比 call 语气要重： I heard someone calling out for help. 我听到有人在大声呼救。 Mary called out to her father, but he was too far away and couldn't hear her. 玛丽对着她的父亲高喊，但他离得太远了，听不到她的喊叫。","5．The ball struck him so hard that he nearly fell into the water. 球重重地打在他身上，使他差点儿落入水中。 so +形容词+that 通常引导结果状语从句，表示“如此……以至于……”： The book was so interesting that I read it in two hours. 这本书如此有趣，我两个小时就把它看完了。 The box is so heavy that I can't lift it without your help. 这箱子太重了，以至于没有你的帮助我无法把它举起来。 这个结构也可以用于 so +副词+that 从句结构： He ran so quickly that no one could catch up with him. 他跑得非常快，没人能赶上他。 It rained so hard that we couldn't go out. 雨下得很大，我们无法出去。 在口语中，引导词 that 往往可以省略。","6．I turned to look at the children, but there weren't any in sight…我转过头去看那些孩子，但一个也不见…… （1）any 代替 any children。 （2） in sight 表示“看得见”、“在视野之内”，反义词为 out of sight： No bus is in sight. 看不见任何公共汽车。 Mary came in sight when I was waiting for Lucy. 我等露西的时候，玛丽出现了。 In the afternoon, we came in sight of the village. 下午时，我们见到了那座村庄。 George left the store and was soon out of sight. 乔治离开了那商店，不久便不见了。"]},{title:"语法",content:["a，the，some 与 any 的用法","在第6课的语法中，我们学习了 a，the 和 some 的一些基本用法。与 some 意义相近的另一个单词是 any，它们都表示“一些”。some 通常用于肯定句：","There are some eggs in the fridge.","冰箱里有些鸡蛋。","There is some milk in the fridge.","冰箱里有些牛奶。","any 通常用于否定句和疑问句中：","There isn't any meat in the fridge.","冰箱里没肉了。","但是，在疑问句中如果所期望的回答是肯定的，则可以用 some：","我们已经知道，在姓名、地名、国名（非复合词）前面通常不加任何冠词。但是，在特指的海洋、河流、山脉以及部分复合词形式的国名前，一定要用定冠词 the：","He came from the United States of America.","他来自美国。","John lives in London which is on the Thames.","约翰住在泰晤士河畔的伦敦。","在表示世界上独一无二的东西时，通常要加定冠词 the：The moon is very pale tonight.","今晚月光很朦胧。","The sun is bright today.","今天阳光明媚。","在 such 后面用 a/an，可以起强调作用："]},{title:"词汇学习",content:[`1．cut
+（1）vt./vi.切，割，剪：
+Would you please cut the cake in half?
+请把蛋糕切成两半好吗？
+I read this story in the paper this morning and cut it out for you.
+今天上午我在报纸上读到这个故事便给你剪下来了。
+（2）vt．割破，划破：
+He shaved hurriedly this morning and cut himself badly.
+他今天早上匆匆忙忙地刮脸，刮破了不少地方。
+（3）vi．横穿，穿越（介词用 across/through）：
+The Wayle cuts across a park.
+威尔河横穿过一个公园。
+The road cuts across/through the forest.
+这条路穿过森林。
+2．row
+（1）vt./vi.划船：
+Have you ever learned to row (a boat)?
+你学过划船吗？
+John rowed across the lake quickly.
+约翰很快划到了湖那边。
+（2）vt．划船载运：
+Can you row me up/across the river?
+你能划船将我送到河的上游／对岸吗？
+He rowed her home.
+他划船把她送回家。`]},{title:"词汇学习",content:[`1．polo n. 水球：
+2．Wayle n. 威尔（河名）：
+3．cut v. 穿过：
+cut oneself
+cut one's hair
+cut(down) the tree
+cut the head off
+cut of electricity
+cut sth.into pieces
+4．cut across：直着穿过
+5．cut a corner：走捷径
+6．row v. 划（船）：
+go boating 去划船
+7．kick v. 踢：
+8．kickback：回扣，佣金
+9．kick upstairs：明升暗降
+10．towards prep. 朝，向：
+11．nearly adv. 几乎：
+12．sight n. 眼界，视域：
+catch sight of 看见
+13．out of sight：在视线之外
+14．in sight：在视线之内
+Out of sight,out of mind. 眼不见，心不烦
+long sighted /short sighted 目光长远，远视眼/目光短浅，近视`]},{title:"讲解",content:["by the river","like doing 习惯性地","like to do 一次性地","afternoon+s 表示“每逢”","as usual","There be+sb.+doing","call out：大声喊","call out to","so...that... 如此...以至于...","so 的后面要加形容词或副词","there weren't any in sight","there was something in sight"]}]},{lesson:31,sections:[{title:"自学导读",content:["1．Before he retired, Frank was the head of a very large business company, but as a boy he used to work in a small shop. 在退休前，弗兰克是一家非常大的商业公司的经理，但他小时侯却在一家小铺里做工。 （1）head 在此处的意思不是人或动物的“头部”，而是“首领”、“头目”，一般出现在“the head of +名词”结构中： John is the head of the family. 约翰是一家之主。 Frank is the head of that firm. 弗兰克是那家公司的总裁。 （2） as 在这里为介词，表不“当……时”，as a boy 相当于 as he was a boy。","2．It was his job to repair bicycles…他那时的工作是修理自行车…… it 为“先行主语”，句子的真正主语为 to repair bicycles。","3．He saved money for years and in 1958 he bought a small workshop of his own. 他靠多年积蓄，于1958年买下了自己的一个小铺子。 （1）for years 表示“许多年”。 （2）of one's own 为固定短语，表示“自己的”、“属于自己的”，own 为代词： He wanted a room of his own. 他想要一个自己的房间。 Do you have a house of your own? 你有自己的房子吗？","4．in one's twenties，（在某人）二十多岁的时候。","one's twenties/thirties/forties…，二十多岁／三十多岁／四十多岁……10的倍数的复数形式可用于表达近似的、非确定的数量，与所有格形容词（my 等）连用时表示大约的年龄：","My aunt Jennifer is in her late thirties/early forties, but she often appears on the stage as a young girl.","我的姑妈詹妮弗已接近四十岁／四十出头，但她却常在舞台上扮演小姑娘。","5．Frank smiled when he remembered his hard early years and the long road to success. 弗兰克回想着他早年的艰难经历和走过的漫长的成功之路，微笑了。 （1）hard 意思很多，在这里指“艰难的”、“困苦的”： She lived a hard life in those years. 那些年她的生活很艰难。 （2）one's early years 指某人的早年（生活），意义相近的表达方式为 early in one's life。","（3） the long road to success 是一种比喻的说法，因为 success 是抽象名词。to 在这里表示方向、目的地，意义为“朝”、“往”、“向”等，这个短语的字面意义为“通向成功的漫漫长路”。"]},{title:"语法",content:["1．过去进行时与一般过去时","在第7课的语法中我们学习了过去进行时。它主要表示过去某个时刻或某段时间正在进行的动作，和一般过去时经常在一个句子里使用。与一般过去时相比，它更强调动作的持续性，一般过去时则表示比较短暂的动作或事件。在叙述故事时，过去进行时往往用来表示背景：","Yesterday afternoon Frank Hawkins was telling me about his experiences as a young man.","昨天下午弗兰克·霍金斯向我讲述了他年轻时的经历。","He was still smiling when the door opened and his wife came in.","他正笑着的时候门开了，他的妻子走了进来。","Last Sunday, I went and sat on the river bank as usual.","Some children were playing games on the bank and there were some people rowing on the river.","上星期天，我和往常一样，又去河边坐着。河岸上有些孩子正在玩耍，河面上有些人正在划船。（过去进行时描述背景）","比较典型的表示过去正在进行的动作的表达方式如：","2．used to do 我们用 used to do 表示过去有过但现在已不存在的习惯，以便将过去与现在形成对照。它后面经常用由 but now…，but not…any more/any longer 等构成的、用了一般现在时的句子以强调过去和现在的不同之处。 I used to smoke, but I don't any more/any longer.我过去常吸烟，但现在已不吸了。 He used to be a lazy boy, but now he is very hard-working.他过去是个懒孩子，但现在他很勤奋。 used to 仅用于一般过去时。它的疑问句和否定句形式可以不用助动词 do 而用 used 本身："]},{title:"词汇学习",content:[`1．experience
+（1）n．经历（可数）：
+I had an amusing experience last year.
+去年我有过一次有趣的经历。
+He told me about his experiences as a young man.
+他向我讲述了他年轻时的经历。
+（2）n．经验，体验（不可数）：
+They want someone with a lot of experience for this job.
+他们想要一位有丰富经验的人来承担这项工作。
+Does she have any experience in teaching?
+她有教学经验吗？
+（3）vt．经验，体验：
+Have you ever experienced anything like this?
+你经历过像这样的事情吗？
+The village has experienced great changes since 1980.
+自1980年以来这个村子经历了极大的变化。
+experience 的过去分词常作形容词用，表示“有经验的”、“经验丰富的”：
+John is an experienced driver.
+约翰是个经验丰富的司机。
+2．save vt./vi.
+（1）救助，搭救，拯救：
+The doctor saved the child's life.
+那位医生救了这孩子一命。
+They saved the child from the fire.
+他们从大火中救出了这孩子。
+（2）储蓄，积攒：
+He saved (money) for years to buy a car.
+为了买一辆车，他积攒了多年。
+He used to save letters.
+他过去常积攒信件。
+3．work 与 job
+作为名词，这两个单词都可以翻译为“工作”，但它们在用法上并不一样。job 为可数名词，一般与“职业”、“职位”有关，或表示某人的“份内事”；work 作“工作”讲时是不可数名词，常指具体的“劳动”、“作业”或“（待做的）工作或事务”等，也可能表示“上班：
+It was his job to repair bicycles.
+他的工作是修理自行车。
+John is looking for a new job.
+约翰正在找一份新工作。
+I'm looking for work as a driver.
+我在找一份开车的活。
+I've a lot of work to do on Sunday.
+星期天我有许多事要做。`]},{title:"词汇学习",content:[`1．retire v. 退休：
+He is getting old. He is going to retire.
+retire=stop working=stop doing this
+I'm going to retire next year.
+我明年会退出影坛或歌坛
+I'm so tired that I'm going to retire now.
+2．company n. 公司：
+firm 商行
+corporation 责任公司
+limited corporation 有限责任公司 Ltd.Co
+He works in my business.
+他在我的公司工作
+3．bicycle n. 自行车：
+4．save v. 积蓄：
+save 挽救
+save one's life
+He saved my life 他挽救我的生命
+save one's face 挽会面子
+save money 存钱
+save up 存钱
+I have saved up for many years.
+save it for a raining day 未雨绸缪,为将来需要而做好准备
+5．workshop n. 车间：
+workhouse 感化院
+6．helper n. 帮手，助手：
+assistant 助理
+7．employ v. 雇佣：
+employee 雇员
+employer 雇主
+trainer 教练
+trainee 接受训练的人
+8．grandson n. 孙子：`]},{title:"讲解",content:["He worked in a factory.他曾经在一个车间里工作","He used to work in a small workshop.","他过去在一个车间工作","used to do 过去常常，但是现在不做","My teacher used to live there. 我的老师过去住在那（现在不住了）","He lived there. 他过去住在那（不知道现在是否住在那）","She worked as a teacher.","work...as...作为...工作","He used to worked as a teacher.","I used to study in this school.","as a boy","as 在这儿是当...的时候","as he was a boy","as a young man 当他年轻的时候","in his twenties","in one's thirties/forties/fifties/nineties","in one's -ies 在某人几十岁的时候","in my fifties 在我五十多岁的时候","In his fifties,he learned the second language.","in the 1980s 在二十世纪八十年代","I worked/began the job in the 1990s.","a head of 老板","at that time=just then=at that moment","of one's own","my own book","用 one's own 还是 of one's own 由被修饰词的位置决定，如果被修饰名词在前边，用 of one's own,如果被修饰名词在后边，用 one's own","has become 成长为","in a few years 在一些年之后","hard early years 早年的艰辛","long road to success 通往成功的长路","remember 记得，回忆起","memory n.记忆","memorize v.","There is a long way to go.","My wife came in when I was smiling 强调我妻子进来","I was smiling when my wife came in  强调我微笑","want sb. to do 想让某人做某事","main idea：his experiences as a young man.","success 成功，成功者"]},{title:"特殊难点",content:["a.experience 经历（可数名词）","经验（不可数名词）","experienced 有经验的","b.save","save one's life","save one's face","save money","save it for a rainy day","c. work and job","1. work 可以做动词，job 不可以做动词","2. job 是不可数名词"]}]},{lesson:32,sections:[{title:"自学导读",content:["1．People are not so honest as they once were. 人们不再像以前那样诚实了。 （1）“not so + 形容词+ as”引导的是比较状语从句，表示较低的程度，通常译为“不如……那样……”。（cf．本课语法） （2）once 表示“以前”、“曾经”时只能与动词的过去式连用： He once worked at a large company. 他曾经在一家大公司工作过。","2．The temptation to steal is greater than ever before…偷窃的诱惑力比以往任何时候都更强烈…… （1）不定式 to steal 为 temptation 的定语，说明是什么样的诱惑。 to 引导不定式和 to 作为介词的区别很大： The temptation to smoke is strong for him. 对他来说吸烟有很强的诱惑力。（to smoke 为不定式） The cake on the table is a great temptation to the child. 桌上的蛋糕对那孩子是个极大的诱惑。（to the child 为介词短语）","（2）ever 用于表示比较的从句中时意义为“曾经”、“以往任何时候”。在这句话中，省略的成分比较多，与 ever before 相比的是隐含的时间 now，从句中省略成分为 it was（在 ever 之前）。大多数含有比较状语从句的句子都可以省略句中的成分。","3．on Monday mornings，在星期一上午。 morning 用复数形式是表示经常性的情况，它前面有修饰词 Monday，所以介词要用 on。","4．One Monday, there were fewer people in the shop than usual when the woman came in, so it was easier for the detective to watch her. 有一个星期一，当这位妇女走进这家商场时，里面的人比往常少，因此，侦探比较容易监视她。 （1）one 在此处表示“某一个”，不能用 a 代替。","（2）这个句子较长，there were 引导的是主句，when 引导的是它的时间状语从句，so 引导的是结果状语从句，在主句和结果状语从句中又分别隐含比较状语从句。在结果状语从句中，it 为先行词，真正的主语是不定式短语 for the detective to watch her。不定式短语往往较长，作主语时通常要用先行词 it 作为形式主语：","It is easy for you to help me.","你帮助我是很容易的。","5．as quickly as possible，以最快的速度。 as…as possible 为固定短语，表示“尽可能”： He went home as soon as possible. 他尽快回了家。 I have sent you as many books as possible. 我已经把书尽可能多地给你送来了。","6．Then the woman simply took the parcel and walked out of the shop without paying. 然后，那妇女拿过包就走出了商场，根本没有付钱。","simply 表示“仅仅”、“只”，有加强语气的作用。连词 and 表示动作的连续，相当于 and then。withoug paying 可以当成是整个句子的方式状语，即那妇女没有，……就……paying 为动名词。","7．The girl‘gave’her mother a free dress once a week! 那姑娘每星期“送”她母亲一件免费的衣服！ （1） gave 加引号，表示姑娘不是真正给，而是偷。 （2） free 在这里的含义为“免费的”、“不要钱的”： Children under five years old travel free. 5岁以下儿童免费旅行。 Tom gave me two free tickets. 汤姆给了我两张免费的票。 （3）“once a+ 表示时间的名词”可以表示频率： He comes to the office once a day. 他每天来办公室一次。 Frank writes to his mother once a month. 弗兰克每个月给他母亲写一次信。"]},{title:"语法",content:["1．比较状语从句 在第8课的语法中，我们学习了形容词和副词的比较级和最高级。在比较级的用法中，实际上我们已接触到比较状语从句： I know him better than you do. 我比你了解他。（than 后面为比较状语从句） 比较状语从句含有或暗含有“与……相比”的意思。除了 than…或 more… than…","这种结构外，它还包括 as+形容词/副词+as…, not so/as… as…, less… than…等结构。当句子里两个动词相同、时态也一样时，则第2个动词可以省略，比较从句就成了含蓄的从句。如果对比的东西很明显，那么为了避免重复，从句中有些成分、甚至整个从句都可以省略，因此这类句子往往不完整。比较完整的句子读起来要正规些：","2．little 和 few 的用法 little 和 a little 与不可数名词一起使用。 little 表示否定，有“几乎一点儿也没有”的含义，在口语中我们常用 not much： a little 表示肯定，具有 some 的含义： few 和 a few 与复数可数名词连用。 few 表示否定，与 little 相 似，在口语中我们多用 not many; a few 与 a little 相似，有 some 的含义： little 的比较级为 less，few 的比较级为 fewer："]},{title:"词汇学习",content:[`1．arrest
+（1）vt．逮捕，扣留：
+The police have already arrested the thief.
+警方已逮捕了那小偷。
+When she was arrested, she refused to say anything.
+她被捕以后，拒不说话。
+（2）vt．吸引（注意等）：
+The beauty of the woods arrested the tourists.
+树林的美丽景色吸引了游客。
+He was arrested by her words.
+她的话吸引了他。
+（3）n．逮捕，扣留：
+Tony is under arrest now.
+托尼现已被捕。
+2．a 与 one
+不定冠词 a 的用法在第6课的语法中已经讲过，它通常用于表示不确定的人或事物以及第一次提到的人或事物：
+I met a well-dressed woman this morning.
+今天上午我遇见了一位穿着考究的妇女。
+表示数量时，one 比 a 的语气要强：
+It was one apple I ate, not two.
+我吃了一个苹果，而不是两个。（不可用 a）
+There is a book and a pen on the desk.
+书桌上有一本书和一枝笔。
+I read only one book this week.
+这星期我只读了一本书。（不可用 a 代替）
+不表示强调时，a 和 one 有时可以互换：
+She will come home in a/one week's time.
+她一周以后就会回家。
+叙述故事时常将 one+ 表示时间的名词用于句首，而不用 a：
+One day, a policeman came to his house.
+有一天，一个警察来到了他家。
+One Monday, he went to the office as usual.
+一个星期一，他像往常一样去了办公室。`]},{title:"词汇学习",content:[`1．once adv. 曾经，以前：
+long long ago
+I visit my mother once a month.
+once 连接从句：表示“一旦”
+Once you leave my company,you must return the house.
+2．temptation n. 诱惑：
+temptation to + 动词原形
+temptation to do sth.
+temptation to steal
+resist the temptation to do
+I can't resist the temptation to laugh.
+3．article n. 物品，东西：
+This is a good article. 文章
+article /thing
+article 强调的是商店里的一个一个的东西，是可数名词
+thing 指任何的东西
+cargo
+goods
+4．wrap v. 包裹：
+Please wrap them (up) for me.
+pack
+I will take/have/get it
+5．simply adv. 仅仅：
+simply :only/just
+6．arrest v. 逮捕：
+arrest the criminal
+arrest one's attention 吸引某人的注意力
+The criminal was arrested.
+sb.be under arrest.
+cortrol/under cortrol`]},{title:"讲解",content:["make：1.制造","2.使。。。怎么样 make the room clean make shopping easy Shopping be made easy. （句子） not so ...as... 表示比较 as...as...  和...一样 as + adj./adv.+ as + 比较对象 as quickly as possible He is as tall as I. This case is as light as that one. It is as heavy as that one. as...as...的否定形式是 not so...as.../not as...as... It is not as heavy as that one. 这个东西不如那个东西重 I am not as tall as you I am taller that you./ You are not as tall as I. less + 原级＝not as...as... /not so...as... not so + 原级 +as... I am not so lucky as those fishermen. less + 原级 + than I am less lucky than those fishermen. there are 与 they were 在用不同的时态进行比较 You are beautiful./You were beautiful. You are more beautiful than you were. You look better. You look better than you were. It was my car. Is this your car? I think 想 I thought 原以为 You were worse. You are better. not as...as... 不如 要表现现在与过去比较，有两种方式：","1. 用时态表示 it is /it was; they are/ they were","2. 用短语 than ever before People are not so honest as before. under arrest impulsion 冲动 adventure 冒险活动 watch 观察，监视，当心 watch the enemy watch sth. 当心 well-done well+ 动词的过去分词 design well－designed well-educated as usual 象平常 than usual 比平常。。。 be 动词＋形容词＋for sb.to do sth. it 是形式主语 for sb. 中的 sb.是逻辑主语 The teacher bought a lot of dresses to make her more beautiful. out of politeness after a little time 过了一会儿 hand...to... 把。。递给 pass in 一个一个的传递 hand in 上交 wrap sth.up for sb. as quickly as possible she+chose+最高级+and(并列结构）+handed it to + 宾语 + 定语从句 find out find/find out find sth. sth. 是看得见，摸得着的 I find the pen. find out 后的宾语一般是抽象的 find out the truth free 免费的 fee 交费 fee parking"]},{title:"特殊难点",content:["A 强调的是后边的名词；One 强调的是“一个”的意义","One / a/ an/ one/ a / a/ a/ one"]}]},{lesson:33,sections:[{title:"自学导读",content:["1．Nearly a week passed before the girl was able to explain what had happened to her. 几乎过了一个星期，那姑娘才能讲述自己的遭遇。 （1） 这句话有两个从句。before 一直到结尾是句子的时间状语从句。在这个从句中，explain 又有自己的宾语从句，what 为这个从句的主语。 （2） before 在引导时间状语从句时，有时不一定译为“在……之前”，虽然表达的是这个意思，如文中的这句话。类似的情况有： It will be months before he can come back. 要过好几个月他才能回来。 He ran off before his mother could stop him. 他母亲还没来得及阻止他，他就跑掉了。","2．One afternoon she set out from the coast in a small boat and was caught in a storm. 一天下午，她乘小船从海岸出发，遇上了风暴。 （1） 我们已经学过 set out 表示“出发”： Captain Alison will set out at eight o'clock. 艾利森船长将于8点钟启航。 set out from 表示“从……出发”。 （2） be caught in 表示某人“（突然）遇到/上（风暴等）”： He was caught in a heavy rain on the way home. 他在回家途中遇到了大雨。","3．Then she swam to the shore after spending the whole night in the water. 她在海里游了整整一夜才游到岸边。","介词 after 的宾语是动名词 spending 及这个动名词的宾语、状语，这个结构在意义上等于 after she had spent the whole nightin the water。","4．During that time she covered a distance of eight miles. 在那段时间里，她游了8英里。 （1）that time 指上句话中提到的 the whole night。 （2）cover 可以笼统地表示“行过（一段路程）”，根据上下文可具体译为“走过”、“飞过”、“游过”等： The bird covered the distance in three minutes. 这只鸟用3分钟飞完了全程。 （3） 表示具体的距离可以用“a distance of+ 具体长度”这个结构。","5．high up on the cliffs， 在高高的峭壁上。 up 为形容词， 表示“在上面的”、“高高的”、“在较高处的”，high 为副词，修饰 up。","6．On arriving at the shore, the girl struggled up the cliff towardsthe light she had seen. 到达岸边后，姑娘朝着她看到的灯光方向挣扎着往峭壁上爬去。 （1）“on+ 动名词”相当于 as soon as 或 when 引导的时间状语从句： On reaching the airport, he was arrested by the police. 他一到机场就被警察逮捕了。 （2） she had seen 为 the light 的定语从句，关系代词 that/which 省略了。 （3）up 在此处为介词，表示“沿着……往上”。","7．That was all she remembered. 她所记得的就是这些。 that 指前面（从第2句话开始）描述的内容。she remembered 为 all 的定语从句，关系代词 that（不能用 which）被省略了。"]},{title:"语法",content:["用于表示方向和目的地的介词和副词（也被称为小品词）","（1）表示“上”、“下”","的两对小品词是 on 和 off，up 和 down：Jim's standing on the roof. I hope he won't fall off.吉姆正站在房顶上。我希望他不会掉下来。","Tom's climbing up the tree. I hope he won't fall down.汤姆正在爬树。我希望他不要摔下来。","（2）","表示“来”、“去”","的一对小品词是 from 和 to；towards 的意义与 to 相近，表示“朝”、“向”、“接近”等； for 在有些动词后面也表示“往”、“向”的意思：","He came from Moscow. He's going to New York.","他从莫斯科来。","他将要去纽约。","The plane flies from Moscow to New York.","这架飞机从莫斯科飞往纽约。","He went towards the shop quickly.","他快速地向商店走去。","He went for home.","他回家了。","He left/ set out for New York yesterday.","他昨天动身去纽约了。","（3）","表示“进去”、“出来”","这两种方向的介词为 into 和 out of；表示“在某个地方”或“在……里面/外面”可用 at，in，out of 等；表示目的地或位置往往用 at：","When did you come into the restaurant?","你什么时候进的餐馆？","You weren't in the restaurant when I come in.","我进来的时候你不在餐馆。","We ran out of the house.","我们从屋里跑了出来。","We arrived in the country on Sunday.","星期天我们到达乡下。（范围大时用 in）","We arrived at the station in the evening.","晚上我们到达车站。（范围小时用 at）","（4）表示“穿过”、“越过”、“绕过”","等动作时，往往用 through，across，under，over，round 等介词："]},{title:"词汇学习",content:[`1．pass 与 past
+（1）动词 pass 的过去式为 passed，过去分词为 passed 或 past。当它作及物动词用时，可以表示“经过”、“通过（考试）”或“超过”等，作不及物动词用时可以表示“（时间等）消逝”：
+You passed me without even noticing me!
+你从我身边经过时居然没注意到我！
+Your sister passed me in her new car, driving at great speed.
+你姐姐/妹妹开着她的新车从我身旁驶过，开得非常快。
+I've passed/ past my French test.
+我法语考试通过了。
+A month has passed/ past since I left home.
+我离开家已一个月了。
+（2）past 可以作形容词、介词、名词等。作形容词时表示“以前的”、“过去的”等：
+Many things happened in the post week.
+过去的这一周内发生了许多事。
+Frank is proud of his past experiences.
+弗兰克为自己以往的经历感到自豪。
+作介词时它表示“经过”或“超出（范围等）”：
+He has just walked past me.
+他刚从我身边走过去。
+His words are past my understanding.
+我不懂他的话。
+作名词时它表示“过去”、“昔时”或“往事”等：
+Can you tell me something about your past?
+您能给我讲讲您过去的一些事吗？
+In the past, we used to gather under the Town Hall clock to welcome the New Year.
+我们过去常聚集在市政厅的大钟下面迎新年。
+2．next 与 other
+next 表示时间顺序上“紧接的”、“下一个”。如果以现在为基准，则 next 前一般不加 the；
+如果以过去或将来的某一时间为基准，则 next 前面要加 the 或其他修饰词：
+See you next Friday.
+下个星期五再见。
+Mary phoned the next day to tell us that she couldn't come to the party.
+第2天玛丽打来电话告诉我们她不能来参加晚会了。
+the other day 指时间时可以有 a few days ago 的意思：
+Mary phoned the other day to tell us that she had arrived in London.
+前几天玛丽来电话告诉我们她已到达伦敦。`]},{title:"词汇学习",content:[`1．darkness n.：
+2．in the darkness:在没有光线的情况下
+3．explain v.：
+explanation n.
+Could you give me an explanation?
+4．interpret：强调翻译，语言之间的解释
+interpretor
+5．coast n.：
+6．bank：河岸（两边比水面高）
+7．seashore：海岸（为了游玩的）
+8．seaside：海岸
+9．coast：地理意义上的海岸线
+感觉旁边是岩石，很陡峭
+seashore,seaside 旁边是沙滩，可以进行日光浴的感觉
+10．storm n.：
+11．snowstorm：暴风雪
+12．thunderstorm：雷雨
+rain heavily
+13．pour：倾倒
+The rain is pouring.
+It's raining cats and dogs.
+14．towards prep.：
+强调 nearer and nearer
+15．rock n.：
+rock:huge stone
+16．shore n.：
+17．light n.：
+18．ahead adv.：
+asleep awake alight
+a 开头的往往是表语形容词
+不管做表语形容词还是副词都放在名词的后面
+一般的形容词都放在名词的前面
+pretty flowers
+light ahead
+ahead 表达方式：1.放在被修饰词后面做定语，定语后置
+19．ahead of
+He went ahead of me.
+20．go ahead 朝前走，请随便
+Would you mind my using your phone?
+－Can I use your telephone?
+…OK,go ahead.
+－sorry+给出一个原因（可能是事实也可能是一个借口）
+21．cliff n.：
+22．struggle v.：
+23．hospital n.：
+school
+1.前面不＋the，和它的功能有关系
+go to hospital
+一旦＋the，就只表示地点
+I am in the hospital.
+24．in hospital：住医院
+25．in the hospital：在医院
+2.去医院看望老师：
+go to the hospital
+自己肚子痛 go to hospital`]},{title:"讲解",content:["in the darkness","happen：不及物  sth.happen to sb.","What happened to...","nearly:将近   nearly a week: 快到一个星期了","Sometime later...","Three days later,my mother returned. 强调某人做某事","。。passed and then...","Three days passed and then my mother returned.","比列句    即强调某人在某事，又强调时间有多久","Three days passed before my mother came back. 强调这么久的时间","be able to 强调有能力还强调成功","can 强调有能力","I can swim across the river.","I was able to swim across the river.","set out：set off","be caught in + 灾难","I was caught in a rain.","As soon as he left,it began to rain.","He was caught in a rain when he left.","earthquake","遇上人－meet  遇上灾难－be caught in","struck 往往强调的是猛烈的撞击  struck hard","to: 强调朝那个方向（目标）去，但没有强调越来越近","towards: 表面也翻译为朝那个方向（目标）去，距离越来越近","spend sometime＋地点","The Red army covered a distance of 2,5000...","high up","on doing=as soon as=the moment","as soon as,the moment：后面都要加从句","on：后面一定要加动词 ing－－承认动词是由主句主语做的","up:往上","That's all.","That was all I wanted to say.","I can do nothing else for you. That was all I can do for you.","find+宾语＋宾补  find the books tidy","I found the books in order.","When I woke up,I found myself in bed.","time passed before","。。a day later...","time passed and then","was caught in a storm","cover the distance of","介词后面＋ing  after doing  on doing","ahead  hospital"]},{title:"特殊难点",content:["pass,past","词和词的区别：","1.意思上的区别  2.词性的区别   3.细节上的区别 pass: 只有动词的概念，余下的词性都用 past"]}]},{lesson:34,sections:[{title:"自学导读",content:["1．Dan Robinson has been worried all week. 丹·鲁宾逊焦虑了整整一个星期。 worried 在这里可以当成是形容词， 表示“焦虑的”、“担心的”。worry 也可以作及物动词，表示“使担心/发愁”等： She appears to be worried by/ about something. 好像有什么事使她发愁。（用于被动语态时，过去分词与形容词意义差不多）","2．the local police，当地警察局。 local 可以表示“地方性的”或“当地的”、“本地的”：a local newspaper 地方性报纸 local news 本地新闻 local shops 邻近的商店","3．Dan wondered why he was wanted by the police…丹奇怪警察 为什么找他……","（1） wonder 表示“想知道”时后面往往跟疑问词引导的从句：She wondered who that man was/ what had happened. 她想知道那个人是谁/到底发生了什么事。","（2） want 用于被动语态时可以表示“想与（某人见面、谈话等）”或“缉拿”、“追捕”：","Please wait a minute. I'm wanted on the phone.","请等一下。有我的电话。","This is the man (who is) wanted by the police.","这就是警察在追捕的那个人。","4．a smiling policeman ，一位面带笑容的警察。 smiling 为现在分词，作定语， 其作用相当于形容词。还可以说： a sleeping dog 一只睡着的狗 a worried face 一张焦虑的脸","5．Five days ago, the policeman told him, the bicycle was picked up in a small village four hundred miles away. 那位警察对他说， 那辆自行车是5天前在400英里外的一个小村里发现的。","（1）这句话实际上是一个间接引语（cf．第15课语法），其正常语序应为： The policeman told him that five days ago the bicycle was picked up…","语序变化后，the policeman told him 成了插入成","分，引导从句的 that 也被省略，引述的部分被分割成两部分。","（2） four hundred miles away 修饰 village，相当于从句 which wasfour hundred miles away。","（3） pick up 的含义之一为“（偶然地、无意地）获得”、“找到”、“学会”：","I've picked up a bad cold.","我得了重感冒。","I picked up some French while travelling in Paris.","在巴黎游览期间我学了几句法语。","He picked up the book in a small library.","他在一个小图书馆发现了那本书。","6．It is now being sent to his home by train．现在正用火车给他运回家来。 这句话是被动语态用于现在进行时， 其结构为“am/is/are+ be-ing+过去分词”（cf．第10课语法）： The clavichord is being repaired by a friend of my father's. 父亲的一个朋友正在修理这架古钢琴。"]},{title:"语法",content:["被动语态（3）","在第10课的语法中，我们学习了被动语态的基本形式。一般说来，无论是主动语态还是被动语态，句子的主语往往是说话者认为比较重要或想要强调的。如果说话人想避免用不明确的词（如 someone， a person 等）作主语，就常常使用被动语态。在“动词+宾语+不定式”结构中，既可以让动词用被动语态而不定式用主动语态，也可以让不定式用被动语态：","Someone told Mary to meet us.","有人通知玛丽来接我们。（主语不明确）"]},{title:"词汇学习",content:[`1．与 call 有关的短语动词
+动词 call 与不同的小品词连用可以构成意义不同的短语动词。
+（1）call at 表示“对（某个人家或地方）进行短暂访问”：
+He calls at every house in the street once a month.
+He was asked to call at the police station.
+（2）call on 表示“拜访”、“探望”：
+Have you called on George recently28?
+（3）call out 表示“大声叫喊”：
+Some people on the bank called out to the man in the boat.
+（4）call up 在美国英语中表示“打电话（给某人）”：
+Jane called me up the other day.
+If you want my help, just call up.
+（5） call off 可以表示“取消（某项活动）”：
+For some reason, they have called off the party / the meeting.
+由于某种原因，他们把晚会/会议取消了。
+1．most
+（1）adj．用于最高级，表示“最……”：
+This is the most beautiful can/ garden I've even seen.
+这是我见过的最漂亮的车/花园。
+The most intelligent girl in this class is Jane.
+这个班上最聪明的姑娘是简。
+（2）adj．大多数的，大部分的：
+Most doctors don't smoke.
+大多数医生不吸烟。
+Most women have to stay at home in this country.
+在这个国家，大部分妇女都得呆在家里。
+（3）adv．非常，很（相当于 very，
+但通常用于表达主观感情、见解等）：
+This is a most interesting/ exciting story.
+这是个非常有趣/激动人心的故事。（说话者的观点）
+Dan was most surprised when he heard the news.
+丹听到这个消息后，惊奇万分。`]},{title:"词汇学习",content:[`1．station n. （警察）局：
+post office
+police office
+bureau
+2．most adv. 相当，非常：
+most 前面只有加 the 的时候表示“最”，其它都表示“非常”`]},{title:"讲解",content:["have a quick meal 动作快","fast 速度快 I walk fast","soon 时间快 I will go there soon","quick freeze 速冻","local police：当地警察局","local color：地方色彩","local people：当地人 native","local call：市话","call at（some place）","call on sb.","ask sb. to do sth.","ask/tell/expect/want/allow/request sb.to do sth.","He was ordered to do sth","He was told that...","Someone told him that...","five miles away 这一类结构可以直接作定语，放在被修饰词后面","I live in the house five miles away。"]}]},{lesson:35,sections:[{title:"自学导读",content:["1．A short while ago, however, he became a bus driver and be has not regretted it．然而就在前不久，他开上了公共汽车，也并不为此而感到后悔。 （1）while 作名词表示“一会儿”、“（一段）时间”时常与 a 连用，有时也与 the，this 等连用： They haven't seen each other for a long while. 他们有很长时间没见面了。 Have you been in Australia all this while? 这段时间你一直在澳大利亚吗？ I saw her a short while ago. 我刚才还见到她了。 （2）句尾的 it 代指 he became a bus driver 这件事。","2．far more exciting，令人兴奋得多。 在形容词和副词的比较级与最高级前面，可以用 far（相当于 much）来表示强调： It's for/ much colder today than it was yesterday. 今天比昨天要冷得多。 Houses are far/ much more expensive these days. 如今的房价贵多了。 This is(by) far the most expensive bicycle in the shop. 这是这家商店里最贵的自行车。（比其他的要贵好多）","3．… saw two thieves rush out of a shop and run towards a waiting car．…… 看到两个小偷从一家商店里冲出来，奔向等在那里的一辆汽车。 （1） see 和其他一些感知动词（如 feel， hear，notice， smell， watch 等） 可以用在动词+名词或代词宾语+不带 to 的不定式结构中； I saw him climb through the window. 我看见他爬进窗户。 这些动词的宾语相当于不定式的主语，上句即： I saw that he climbed through the window. （译文同上） 在课文中的这句话中，rush 和 run 是 two thieves 的两个连续的动作。 （2） waiting 为现在分词作定语，表示“等待着的”、“等在那里的”。","4．The one with the money got such a fright that he dropped the bag．拿钱的那个小偷吓得把提包都扔了。 （1）with 表示“带着”、“拿着”。 （2） such（a）+名词+ that 与 so+形容词+ that 一样，后面引导的是结果状语从句， 通常译为“如此……以致……”： They are such wonderful players that they will surely win the game. 他们都是如此出色的运动员，所以肯定能在这场比赛中获胜。","5．As the thieves were trying to get away in their car, Roy drove his bus into the back of it. 当那两个小偷企图乘车逃跑时，罗伊驾驶他的公共汽车撞在了那辆车的后尾上。 （1） 短语动词 get away 的含义之一为“逃跑”、“逃脱”： How did the thief get away? 小偷是如何逃掉的？ （2）句尾的 it 指小偷的那辆小汽车； back 指车的“后部”、“尾部”；drive into 的原义为“把（汽车）开进”， 这里是指撞上。","6．the battered car， 那辆被撞坏的车。 battered 为过去分词，作定语，相当于 the car which was battered。 类似的有 a broken window 等。"]},{title:"语法",content:["复习一般现在时、一般过去时、现在完成时和被动语态（cf．第26课、第27课、第  28课、第  31课与第  34课语法）","一般现在时通常用于表示目前的状况或动作以及习惯性的动作；一般过去时则指过去某个时间所做的动作，不强调与现在的关系；词组 used to 只能用于过去时，表示过去有过而现在已没有的习惯等；","现在完成时通常指过去发生的但与现在有联系的动作。这几种时态在一定的上下文中可以同时出现：","John hasn't recognised that woman yet. Do you recognise her?","约翰还没有认出那位妇女。你能认出她吗？","在第34课的语法中，我们讲到被动语态的用法之一是为了突出主语并避免用不明确的词作主语"]},{title:"词汇学习",content:[`1．rush
+（1）vi．冲，奔：
+Two thieves rushed out of a shop.
+两个小偷从一家商店里冲了出来。
+While I was talking to Frank, a man rushed into the room．
+我正和弗兰克谈话时，一个人冲进了房间。
+（2）vt./vi.仓促行事，仓促完成；赶紧做：
+Roy rushed (through) his lunch and left for the station.
+罗伊匆匆吃完午饭就去车站了。
+Tom always rushes his homework on Sunday evenings.
+汤姆总是在星期天晚上赶做他的家庭作业。
+（3）n．猛冲，奔：
+Roy made a rush at the thieves.
+罗伊冲向小偷们。
+2．straight
+（1）adj．直的，笔直的：
+He drew a straight line on the paper.
+他在纸上画了一条直线。
+This road isn't straight.
+这条路不直。
+（2） adv．笔直地：
+He walked straight on.
+他一直往前走。
+You'll see a tower straight ahead.
+你会看到正前方有个塔。
+（3）adv．径直地，直接地：
+John always goes straight home after work.
+约翰下班后总是直接回家。
+Roy drove the bus straight at the thieves.
+罗伊开车直冲窃贼而去。
+3．such 与 so
+such 和 so 都可以用于表示程度，但 so 只能作副词和连词，such 则是形容词，因此 so 通常位于形容词、副词之前，而 such 只能位于名词之前：
+引导结果状语从句时，它们的结构分别为“such+（a）+名词+that”和“so+ 形容词+that”：
+It was such a cold evening that no one went out.
+那天晚上太冷了，所以谁也没有出门。
+It was so cold that no one went out.
+天太冷了，所以谁也没有出门。
+such 除了表示“这样的”、“如此的”等意思外，还可以表示“像这一类的”， so 则不能表示后一种意思：
+He often talks about such things.
+他经常谈论这类事。`]}]},{lesson:36,sections:[{title:"自学导读",content:["1．…she hopes to set up a new world record．……她希望创一项新的世界纪录。 set up 是个固定短语，它的含义之一为“创立”、“建立”，可以指某个具体的事物，如 set up a school（创建一所学校），也可以指 抽象的，如某个机构、组织等。 a world record 常用于指体育方面的世界纪录。","2．…many people fee that she is sure to succeed．……很多人认为她一定能成功。 （1） feel 在此处为及物动词，表示“认为”、“相信”等： Tom feels that he can pass the examination. 汤姆认为他能通过这次考试。 My parents feel that they can believe in you. 我父母认为他们可以信赖你。 （2） sure 在这里表示“一定会”、“必定会”， 后面通常跟带 to 的不定式： Billy is sure to win the race. 比利一定会赢得这场比赛。 If you don't work hard, you are sure to fail in the next exam. 你如果不用功学习，下次考试肯定会不及格。","3．Tomorrow he will be watching her anxiously as she swims the long distance to England. 明天他将焦急地注视着女儿游过这段漫长的距离到达英国。 这句话中主句的时态为将来进行时（cf．第13课语法），时间状语从句表示的虽然也是将来的动作，但用的是一般现在时，再如： I'll be meeting her at the station when she arrives tomorrow. 她明天到达时我将在车站接她。 When you come back to the village next year, you'll have a great surprise. 等明年你回村时，你会大吃一惊的。","4．Debbie intends to take short rests every two hours. 黛比计划每 两小时休息一下。 （1） rest 作“休息”讲时，可以是可数名词，也可以是不可数名词： Today is my day of rest. 今天是我的休息日。 After a long rest, he went on with his work. 在好好休息一下之后，他又继续工作了。 （2） every 用在表示时间的名词之前时可译为“每”： Debbie phones her mother every three days. 黛比每隔两天给她母亲打次电话。"]},{title:"语法",content:["将来时","going to 和 will 一样也常用来预言将发生的事。口语里经常用 going to，","尤其指不久即将发生的事，但在正式的书面语中通常","用 will 而不用 going to。在非正式语体中，要表示意图、打算时，一般多用 going to 而不用 will；going to 有时可以表示说话人也许对即将发生的事预先有所了解：","He has decided not to buy a house because he's going to leave the country soon.","他决定不买房子，因为他不久将离开这个国家。（可能预先有所了解）","They're going to be married soon.","他们不久将结婚。（表示预先有所了解）","如果表示说话时决定去做某事，或者表示建议、请求、肯定或不肯定等含义时，要用 will 而不用 going to：","Ask him again. Perhaps he'll change his mind.","再问他一次，也许他会改变主意。"]},{title:"词汇学习",content:[`1．watch, look at 与 follow
+look at 可以表示“仔细看”、“（留意）看”等含义，经常用于表示命令的句子：
+Look at this card that John's just sent!
+看约翰刚寄来的这张卡！
+Look at this!
+请看这个！
+watch 表示“看”、“注视”、“注意看”
+等，通常持续时间较长：
+How long have you been watching the race?
+这场比赛你看了多久了？
+Do you have to watch me eating my supper?
+你非得看我吃晚饭吗？
+Tomorrow he will be watching her anxiously.
+明天他将焦急地注视着她。
+follow 通常指“跟随”这个动作：
+The dog followed me all the way home.
+在我回家的路上这只狗一直跟着我。
+When she was a girl, she followed her sister everywhere.
+她小的时候，
+她姐姐走到哪儿她就跟到哪儿。
+在特定的时候， follow 也可以表示注视，
+即用目光“跟随”：
+Have you ever seen a cat follow/ watch a bird's every movement?
+你有没有见过猫注视鸟的一举一动？
+2．solid, firm 与 stable
+（1）形容词 solid 的含义之一是“固体的”（相对于液体的、气体的而言）：
+She will not eat any solid food.
+她将不吃固体食物。
+它还可以表示“结实的”、“坚固的”（指家具、建筑物等）：
+This is a solid table.
+这张桌子很结实。（指质地）
+（2） firm 可以表示“牢固的”、“稳固的”：
+This table is firm. You can stand on it.
+这桌子结实。你可以站在上面。
+firm 可以表示态度、
+信念等“坚定的”、“坚决的”：
+He is firm about going abroad.
+在出国这件事上他态度很坚决。
+firm 用于针对孩子时，可表示“严厉的”、“严格的”：
+Mary isn't very firm with her children.
+玛丽对她的孩子们要求不严。
+（3） stable 表示“稳定的”、“稳固的”等含义时，可以用于指抽象的
+事物（如工作、机构、环境等），也可用于指具体的事物：
+I'm glad that you've got a stable job now.
+我很高兴你现在有了稳定的工作。
+它用于指人时，表示“可靠的”、“可信赖的”、“稳重的”等含义：
+He is not a very stable person.
+他不太稳重/可靠。`]},{title:"词汇学习",content:[`1．record n. 记录：
+如果同一词音节落在第一个音节的重音，肯定是名词，重音落在第二个音节肯定是动词
+2．recorder:录音机
+present/desert
+3．break the record:打破记录
+4．set up：建立
+5．set up a new record：建一个记录
+hold（keep) the record:保持记录
+6．equal：等号等于
+7．equalize the record:平记录
+8．strong adj. 强壮的：
+as...as... 比如。比方
+as strong as horse
+9．strong wind：大风
+10．heavy rain:大雨
+strong girl
+11．strong mind :意志坚强
+out of sight,out of mind
+12．sturdy：结实
+13．robust：身体结实
+strong swimmer
+strong+运动员：获胜把握比较大，强有力
+14．swimmer n. 游泳运动员：
+游泳者
+15．athlete：运动员
+swimming athlete
+16．succeed v. 成功：
+success n. 成功的人
+successful adj.
+succeed in doing sth
+be successful in doing sth
+17．fail：失败
+failure n.
+18．train v. 训练：
+19．train sb to do sth ：让某人形成一种技能
+teach sb to do sth
+20．trainer：教练
+training center
+21．anxiously adv. 焦急地：
+22．anxious：焦急的
+23．intend v. 打算：
+be to/be about to/be going do: 表将来
+intend to do sth＝be going to do sth
+24．plan：计划
+plan to do do
+25．mean to do：打算在某事
+What do you mean to do(intend to do)?
+26．aim to do sth：打算做某事
+aim n. 目标
+I am going to have a company.
+I intend to have a company.
+I intend to do sth=I will do sth.
+hope to do
+want to do
+27．solid adj. 固体的，硬的：
+The ice is solid.`]},{title:"讲解",content:["balet dancers /football player","1.work as+地点","2.工作怎么样 （1)interesting/boring/exciting （2)人对工作的喜欢程度，She/He likes the job very much. channel：海峡 the Channel=the English Channel across：横渡 be going to:打算 先说小单位，再说大单位 hope:希望 hope to do:希望自己做 hope that+从句：希望别人做 set up a new world record strong swimmer feel(that):宾语从句中的 that 可以省略 must＋动词原形：表示一定 be sure to do：一定能够 sure Are you sure? sure:肯定 be sure of(对某件事情名词做宾语） be sure to do（对某件事情动词有把握） be sure that(对某件事情某人做某事有把握） I am sure that I can do sth.=I am sure to do sth.=I am sure of sth. I am sure of my success. I am sure to succeed. U am sure that I can succeed(be successful). by boat/in a boat for years will be doing as=when swim+距离：游过多少距离 will be watching sb anxiously as:当。。时候人们会密切（焦急）关注 All the world will be watching anxiously as the war broke out meet the parents We will be watching anxiously as you went(go)out. plan to/intend to have(take) a break(rest) take short rests every two hours I will plant another tree every three trees. something to drink:可以喝的东西 have something to eat/read/do most/most of most 直接用：most of+the will be waiting I will be right here waiting for you. on the coast among them oneself 放在动词或一句话的后面，往往起强调作用 定语从句中的关系词往往指代的含义是前面的先行词 限定性定语从句/非限定性定语从句 如果有逗号的是非限定性定语从句，如果没有逗号的是限定性定语从句 限定性定语从句可以做，非限定性定语从句不可以做的是 that 限定性定语从句少了后面的句子，这句话意思就不完整 非限定性定语从句前面的句子完整，后面的句子起着补充说明的作用 非限定性定语从句一旦有逗号隔开，后面的句子和前面的句子关系就不紧密 among：在。。。之间（三者或三者以上） between them：左右各一个人 ；among them：很多人 倒装句 地点＋will＋名词 Here you are./Here is my ticket. Among them will be Debbie's mother 全部倒装：地点（介词短语或副词）＋动词＋名词 Here is my ticket./Here you are. 倒装句型中如果主语是名词，放在动词后面，如果是代词放在动词前面 be going to/will be doing/intend to do. 将来时的表达方式 在陈述句和疑问句中，我们常常用 be going to 来代替 shall 或 will 但是下列的句子中我们不能用 going to be going to 一定强调计划和安排，顺理成章的不用 be going to Tomorrow will be Tuesday. wayto go/well done. bilgo，go"]},{title:"特殊难点",content:["watch/look at/follow","watch something happening","look at:看","follow：跟随，follow me","solid/firm/stable","solid:硬的（固体）","firm:稳固的（不松动的）","stable:坚定的（性格）","firm/stable","firm(人）：下定决心，不会改变主意，firm decision","stable（人）：稳重的，可靠的","a firm decision","came to a decision/make a decision","come to a conclusion 得出结论","watch the boats","watch sb.doing sth.","watch 得出结论直接加宾语","May I look at your...","so soild 如此的坚硬","enough to do 足以做某事","The ice in the pond is solid enough to walk on.","The ice in jthe pond is so solid that you can walk on it.","The room is clean enough to live in.","The room is so clean that we can live there.","be remained firm."]}]},{lesson:37,sections:[{title:"自学导读",content:["1．The Olympic Games will be held in our country in four years'time.  4年以后，奥林匹克运动会将在我们国家举行。 （1）作为专有名词的一部分时 games 的第一个字母要大写。 （2） 这句话的语态是被动语态用于一般将来时（will be held）。 （3）in four years' time，4年之后。 in 的这种用法在第9课的语法中已经讲过，它通常与将来时连用表示“……时间之后”： I'll be back in ten minutes or half an hour. 我10分钟或半个小时以后回来。 名词的所有格用于表示时间在第13课的语法中已经提到过： He will arrive in three hours' time. 他3小时以后到达。","2．As a great many people will be visiting the country, the government will be building new hotels, an immense stadium, and a new Olympic-standard swimming pool. 由于将有大批的人到我们国家来， 所以政府准备建造一些新的饭店、一个大型体育场和一个新的奥运会标准游泳池。 （1）连词 as 用于表示原因时通常位于句首，这是因为它所表明的原因对于讲话对象可能是已知的，因此没有必要再予以强调。 连词 because 任何时候都可以代替 as 来说明一种或几种原因，但是 as 则不一定总能代替 because：","As you can't type the letter yourself, you'll have to ask Susan to do it for you.","既然你自己不能用打字机打这封信，那你就请苏珊替你打吧。","because 一般跟在主句后面，强调讲话对象可能不知道的原因：","Jim's trying to save more money because he wants to buy a car.","吉姆正设法多攒些钱，因为他想买辆车。","（2）building 后面的成分为它的3个并列宾语，每个宾语前面的冠词都不可省略。","（3）Olympic-standard 是个“形容词+名词”形式的复合形容词，作定语。虽然字典中通常不把它作为一个词条，但它的含义是","一目了然的。","第32课中出现的 well-dressed 也是个复合形容词，","其构成为“副词+过去分词”，它已被大家接受，作为固定的词条出现于一般字典中。","3．a special railway line，一条铁路专线。 special 在此处表示“专门的”、“特设的”。line 既可以笼统地指两地间的“铁路线路”， 又可以具体地指包括路基、枕木等的“铁路轨线”。","4．by the end of this year，在今年年底前。 by 表示“在某时之前”、“ 并不晚于某时的任何时间”。它不能与表示一段时间的名词连用，只能与表示时间点的名词或词组连用，用于肯定句与用于否定句时有一定区别：","5．Everybody will be watching anxiously as the new buildings go up．大家都将急切地注视着新建筑的建成。 （1）watch 在此处表示“关注”而不是真的盯着看。 （2）as 在这里为连词，相当于 while，表示“当”、“正值”，它引导的从句虽然表示将来的动作，但要用一般现在时。 （3）go up 为短语动词，其含义之一为“（建筑物）被兴建起来”： Many new houses are going up in this district. 这个地区正兴建许多新房子。"]},{title:"语法",content:["一般将来完成时（The future perfect simple tense）","（1）在第12课和第13课的语法中，我们学习了一般将来时和将来进行时。","一般将来时除了可以用来预言将来发生的事以外，还可以表示“意愿”，如允诺、建议、请求、提议等：","The radio hasn't been mended yet.","收音机还没有修好。","Never mind! I'll mend it for you.","别担心！我会给你修的。（允诺）","Will you open the door for me please!","请你帮我开一下门好吗？（请求）","Shall we go for a swim tomorrow?","我们明天去游泳好吗？（建议）","将来进行时除了表示最近或不久的将来正在进行的动作外，","还可以表示计划或安排好的事：","A great many people will be visiting the country.","许多人将到我们国家来。（将来正在进行的动作）","The government will be building new roads.","政府准备修筑一些新的道路。（计划好的事）","（2）将来完成时用于表示到将来某一时刻已经完成的动作：","将来完成时由 will have+ 过去分词构成。它常与 by 和 not…till/ until+ 表示时间的名词连用：","I expect you will have changed your mind by tomorrow.","我希望到明天你就会改变主意了。"]},{title:"词汇学习",content:[`1．hold vt.
+（1）拿着，抓住，抱住：
+Please hold the baby while I take off my coat.
+我脱外衣的时候请帮我抱一下孩子。
+Why are you holding my bag?
+你为什么抓住我的包？
+（2）容纳，装得下，包含：
+This cup can't hold much water.
+这杯子装不了多少水。
+The stadium can hold 20,000 people.
+这个体育场能容纳两万人。
+（3）举行（会议、会谈等）；庆祝（节日）：
+The Olympic Games will be held just outside the capital.
+奥运会就在首都市郊举办。
+When are we going to hold the next meeting?
+我们什么时候举行下次会议？
+2．look 的一些固定短语
+（1）look forward to 常用于表示高兴地
+“盼望”、“期待”，to 为介词，因此后面只能跟名词、代词和动名词，不能接动词原形：
+We are looking forward to the Olympic Games because they have never been held before in this country.
+我们盼望着奥运会的到来，因为这个国家还从未举办过奥运会。
+I look forward to seeing you during the weekend.
+我盼望着周末见到你。
+（2）look out 除表示“朝外看”以外，
+还可以表示“注意”、“留神”，尤其在祈使句中：
+You should always look out when you walk across a road.
+你过马路时要留神。
+Look out! There's something in the middle of the road.
+小心！马路中间有东西。
+（3）look up 的含义之一为“（在字典、参考书等中）查找”：
+He looked up the word in several dictionaries.
+他在几本字典中查了这个单词。
+它还可以表示“看望”、“拜访”某个人，一般用于口语中：
+I'm going to look up Mary this afternoon.
+我打算今天下午去看望玛丽。
+3．design
+（1）vt./vi.设计图样：
+These modern buildings have been designed by Kurt Gunter.
+这些现代化建筑是由库尔特·冈特设计的。
+George has designed a new bridge.
+乔治设计了一座新桥。
+（2）vt./vi.打算（做……），计划：
+He designed to enter for the competition.
+他打算报名参加竞赛。
+This book is designed for foreign tourists.
+这本书是为外国游客设计的。
+（3）n．图样，图纸；设计：
+Here is the design of the new house.
+这是这座新房子的图纸。
+Susan has just drawn a design for a new dress.
+苏珊刚画了一个新的衣服样式。`]},{title:"词汇学习",content:[`1．Olympic adj. 奥林匹克的：
+Olympic Games 奥林匹克运动会，简称 the Games
+2．hold v. 召开：
+hold,held,held
+have a meeting 召开会议
+hold a meeting 召开会议
+hold a party 召开宴会
+被动：The meeting will be held.
+The Olympic Games will be held in China in 2008
+3．government n. 政府：
+4．immense adj. 巨大的：
+big,large 大的
+huge 巨大
+great 大的，伟大的
+immense/i'mens/ 极大的，无边的
+immense ocean
+great man 伟人；big man 大人物； large man 大块头
+huge （体积）巨大，庞大
+5．stadium n. 露天体育场：
+playground 操场
+sports field 运动场 sports：各种各样的运动
+6．gymnasium：体育；gym 体育馆
+7．standard n. 标准：
+high standard 高标准
+Olympic standard 运动会中的最高标准
+8．capital n. 首都：
+capital 大写的
+9．fantastic adj. 巨大的，宏伟：
+10．design v. 设计：
+designer n. 设计师
+well-designed 设计不错`]},{title:"讲解",content:["4 years later 四年后","The Olympic Games will be held in our country...","as/because 引导原因","a large number of peope/a great many people 大部分的人","be visiting the country","be building 建设","an immense stadium 一个大型体育场","a new Olympic-standard swimming pool 一个高标准的游泳池","be building 修建","special railway-line 专线铁路","outside the capital 市郊","Olympic City 奥林匹克城","by the end of this year 到今年年底前","by 完成时的标志，表示到……为止","现在完成式：到现在某一点时间为止","过去完成式：到过去某一点时间为止","将来完成式：到将来某一点时间为止，某个动词已经发生","will have done","by the end of next year 到明年年底前","By the end of next year ,they will have finished/completed the work on the new stadium.","work on....……的工程","modern buildings 现代化建筑","fantastic 巨大的","...have been designed by....","Everybody will be watching anxiously ...人们都将密切注视……","as the new buildings go up","as 随着，引导从句，状语从句不用将来时态","be built 强调建造","go up 拔地而起","be excited 激动的","look forward to + n./doing 期待（很高兴的）","because 因为","because they have never been held before in this country.","before 在此之前","He will be watching anxiously as... :密切注意","将来完成时 will have done(till,until)","by the end of next year","by：到。。。为止，在。。。之前","because：强调后面的是原因","because of：（介词短语）","why……不能直接做连词","due to：（介词短语）由于","His success is due to his hard work.","look forward to：期待（高兴）","expect：期待","be pleased：感到高兴的，令人满意地","be pleased to do sth：乐于做某事","完成的概念","be complete","complete：（adj)完全的； （v.)完成","are now completed","are complete"]},{title:"特殊难点",content:["a.Hold（会议，宴会）","b.Look","look forward to+名词/动词的－ing","look out：当心","look up：查阅;拜访","look up words in the dictionary","look up sth. in the book","look sb. up","be+动词－ing","knock over：撞到","“Who's Who”:《名人大全》","debate on：辩论","三步：1.dialogue","2.discussion","3.debate capital:首都；大写 capital punishment：极刑 look up：拜访，看 hold an exam：举行考试 take the exam：接受考试"]}]},{lesson:38,sections:[{title:"自学导读",content:["1．He had often dreamed of retiring in England and had planned to settle down in the country．过去他常幻想退休后到英国，并计划在乡间安顿下来。 （1）dream of 在这里不表示具体的做梦， 而是“幻想”、“向往”的意思： Frank used to dream of having a car of his own. 弗兰克过去常幻想拥有一辆自己的车。 （2）settle down 是个固定短语， 可以表示“定居”、“安身”、“安顿”等含义： They settled down in Australia in 1988. 他们1988年在澳大利亚定居了。 After two years of travelling, I want to settle down now. 旅行了两年之后，我现在想过安定的日子了。","2．Almost immediately he began to complain about the weather, for even though it was still summer, it rained continually and it was often bitterly cold. 但紧接着他就开始抱怨那里的天气了。 因为即使那时仍为夏季，但雨总是下个不停，而且常常冷得厉害。 （1）for 在这里为连词， 为所陈述的事说出原因。它与 because 不同，不能用于句首。并且在 for 后面必须重复主语： I don't have a car, for I can't afford it. 我没有车，因为我买不起。 （2）连词 even though 引导的是让步状语从句， 表示“即使”、“虽然”： Even though we were very tired, we went on with the work. 虽然我们已非常累了，我们仍然继续干活。","3．He acted as if be had never lived in England before．他的举动就好像他从未在英国生活过一样。","连词 as if/ though 引导方式状语从句，通常跟在描述行为举止的动词之后，如 act, appear, feel, look, smell, sound 等后面：","She acted as if she were mad.","她的举动像疯了一样。","It feels as if/ though it's going to rain.","这天气给人的感觉好像是要下雨。","4．In the end, it was more than he could bear. 最后，他再也忍受不住。 more than 在这里表示“超过……的范围”： This piece of news is more than I can believe. 我无法相信这条消息。 这种用法与它通常表示“比……更多”的用法稍有不同： There were more than ten people in the room. 房间里不止10个人。"]},{title:"语法",content:["过去完成时","在第14课的语法中，我们学习了过去完成时的构成和基本用法。它经常与一般过去时连用，表示在过去某个动作发生前完成的动作：","When I arrived, Jane had left.","我到时，简已经走了。（走发生在我到达之前）","与过去完成时连用的表示时间的词或词组有 when, after, as","soon as, (not) until, by that time, (never) before, already, for, since, just 等，","另外它还常与连词 no sooner…than 和 hardly…when 连用。（cf．词汇学习）过去完成时不能与副词 ago 连用（ago 只能与一般过去时连用）：","He hadn't finished it by yesterday evening.","到昨天晚上他还没做完。"]},{title:"词汇学习",content:[`1．no sooner…than 与 hardly…when
+这两组连词意义都与 as soon as 相近，但都比 as soon as 正式。
+它们通常都与过去完成时连用。当 no sooner 和 hardly 位于句
+首时，后面的主谓结构都要颠倒顺序，即句子变为 no sooner/hardly+助动词+主语+动词形式的语序：
+He had no sooner returned than he bought a house and went to live there.
+他刚一回来便买下了一幢房子住了进去。
+No sooner had he returned than he bought a house and went to live there.
+（译文同上）
+No sooner had he begun speaking than he was interrupted.
+他刚一开始讲话就被打断了。
+He had hardly had time to settle down when he sold the house and left the country.
+他还没等安顿下来就卖掉了房子，离开了这个国家。
+Hardly had he had time to settle down when he sold the house and left the country.
+（译文同上）
+Hardly had he got into the bus when it began moving.
+他刚刚登上那辆公共汽车它就开了。
+no sooner…than 与 hardly…when 都是固定词组， than 与 when 不可混用。
+2．country 与 countryside
+country 的意义比较广，它可以有“国家”、“祖国”或“乡下”等多种含义：
+He had planned to settle down in the country.
+他原计划在乡下定居。
+He sold the house and left the country.
+他卖掉房子，离开了这个国家。
+country 作“乡下”讲时，
+通常与 the 连用，作“国家”
+讲时则不一
+定：
+We are going to spend the weekend in the country.
+我们打算去乡下过这个周末。
+Which country do you come from?
+你来自哪个国家？
+countryside 主要指“农村地区”、“乡下”：
+I grew up in the countryside.
+我在农村长大。
+3．continuously 与 continually
+这两个副词都与动词 continue（继续，持续）有关。它们的区别在于 continuously （不断地，连续地）指动作中间没有间断，而 continually （频繁地，反复地）则指动作中间有间断但又持续很久：
+It rained continually.
+天总是/频繁地下雨。（有间断）
+This plane can fly continuously for twenty hours.
+这架飞机可以连续飞行20小时。（中间没有间断）
+Why does he come here continually?
+他为什么老是到这里来？
+You mustn't watch TV for such a long time continuously.
+你不能这么长时间连续地看电视。`]},{title:"词汇学习",content:[`1．except prep. 除了：
+except
+except for
+besides
+apart from
+2．Mediterranean n. 地中海：
+the～
+3．complain v. 抱怨：
+complain to sb. 向某人抱怨
+complain of/about：抱怨某事
+4．continually adv. 不断地：
+5．continuously：连续不断地
+6．continually：频繁地（时断时续）
+7．bitterly adv. 刺骨地：
+8．bitterly cold：刺骨地寒冷
+9．chilly：寒冷的
+10．bitterly disappointed：彻底的失望
+11．sunshine n. 阳光：
+a drop of；一缕`]},{title:"讲解",content:["...had lived in the Mediterranean","returned to England","dream of：想，梦见（梦想）","think of：想（思维的活动）","settle down：定居","had not sooner done...than 一般过去时: (关联词）一。。。就。。。","as soon as,the moment, on doing","No sooner had he arrived...（倒装）","Almost immediately：马上","for:(连词)表示因为（解释说明，附加的）＝because 因为（一定要说的）","even though ……从句的连词，“即使”","for+并列句，做主句","so many years：这么多年","After seven years of hard work，。。。","got a shock：吓了一跳，吃了一惊","as if＋句子；似乎，好像……as though","过去完成时，虚拟语气","even though…even if","In the end,it was more than he could bear.他在也不能忍受。（口语）","hardly...when...:还没来的及。。。就（过去完成时，一般过去时）","hardly had sb.done","have(no) time to do sth：（没）有时间作某事","knock out：打晕，击到","The dream ended.","except：除。。。外"]},{title:"特殊难点",content:["a. No sooner...than...(一...就...)","hardly...when....(几乎未来得及...就...)","b. Country(国家，乡间）地方","Countryside(农村）景色","in the country:在乡下住"]}]},{lesson:39,sections:[{title:"自学导读",content:["1．Am I all right？（标题）我是否痊愈？ all right 在不同的上下文中会有不同的含义。当指人的健康状况时，它可以表示 “安然无恙的”、“良好的”： I was not very well last week, but I feel all right now. 我上星期有点不舒服，不过我现在觉得好了。","2．… he asked his doctor to tell him whether his operation had been successful, but the doctor refused to do so．……他问医生他的手术是否成功，但医生拒绝告诉他。 whether 引导的从句在句中作动词 tell 的直接宾语，是一个间接一般疑问句。（cf．本课语法）","so 在这里为代词，代替前面的动词不定式（在 to tell himwhether…）。它一般出现 believe, do, expect, hope, say, tell, think, appear 等之后：","3．The following day, the patient asked for a bedside telephone. 第2天，这位病人要了一部床头电话。 （1）following 在这里相当于 next， 表示“紧接着的”、“其次的”。","（2）ask for 在这句话中表示“请求”、“要求（得到某个东西）”；在下一句话（…asked for Doctor Millington）中它表示“要求（某人）来（接电话）”。","4．…Mr．Gilbert said he was inquiring about a certain patient ,a Mr．John Gilbert．…… 吉尔伯特先生说他想询问一个病人的情况，是一位名叫约翰·吉尔伯特的先生。 （1）certain 在这里没有“肯定的”、“确实的”等含义，而表示“某一”、 “某位”， 暗指说话者或说话对象可能对这人/这事不大清楚/熟悉，或所指的这个人身份不大清楚： Many years ago a certain doctor arrived in London. 许多年以前，有某个医生来到了伦敦。 （2）在第6课的语法中，我们提到姓名前不加冠词。但是，a/an 有时可以用在称呼（Mr．，Mrs．，Miss 等）前面，表示“我不认识的某某人”： A Mr．Gilbert phoned and left a message for you. 一位姓吉尔伯特的先生给您打来电话并留了言。 这种情况下，a 通常与表示“某一” 的 certain 连用： A certain Mrs．Hart is waiting to see you. 有位哈特夫人正等着见您。","5．He then asked when Mr．Gilbert would be allowed to go bome… 然后他又问吉尔伯特先生什么时候可以回家…… would be allowed 为被动语态用于过去将来时。 when 引导的从句为间接疑问词疑问句。（cf．本课语法）","6．for another two weeks，又两个星期。 another 作为限定词表示“另一个”、“再一个”的时候，通常与可数的单数名词连用，不和复数形式连用；但是后面可以跟基数 词/few+复数名词（它们被当成一个整体）： Do you need another cup of coffee? 你要不要再来一杯咖啡？ I need another three driving lessons before my test. 考试前我还需上3节驾驶课。 I need another few hours before I can finish my homework. 我还需几个小时才能做完作业。"]},{title:"语法",content:["间接引语：间接疑问句","在第15课的语法中，我们学习了间接引语的基本形式和间接陈述句的用法（包括时态变化等）。疑问句变为间接疑问句时有一些独特的规律。","首先引号和问号不再使用。其次，直接疑问句中的倒装语序在转述疑问句里要还原为陈述句语序（主语+动词）。同时，如有必要，还需改变时态。","（1）间接一般疑问句","转述一般疑问句时必须使用 if 或 whether，不可省略。助动词 do/does 和 did 在转述疑问句里消失了","ask, want to know, wonder 等后面的 if 和 whether 通常可以互换，但是 whether 表示的怀疑程度比 if 稍大。","在表示两者挑一时更常用 whether：","She asked me whether I wanted tea or coffee.","她问我要茶还是要咖啡。转述疑问句中带有 or not 时，通常用 whether 引导","He wants to know whether or not we want dinner.","他想知道我们想不想吃饭。（不能用 if or not）","（2）间接疑问词疑问句","在转述疑问词疑问句时，不加 whether 或 if，","通常用原来的疑问词。有时可以将一般疑问句转述为间接疑问词疑问句","在针对主语提问的间接疑问句中，时态和情态助动词照常有变化，但语序保持不变"]},{title:"词汇学习",content:[`1．exchange
+（1）vt．换，更换，调换（指同类事物之间）：
+If you don't like the colour of this dress, you can exchange the dress in the shop.
+你如果不喜欢这件衣服的颜色，你可以去商店换一件。
+I want to exchange the red skirt for a blue one.
+我想把这条红裙子换成蓝色的。
+（2）vt．交换，互换：
+I met Frank at a bus stop this afternoon and we exchanged a few words.
+我今天下午在一个公共汽车站碰见了弗兰克，我们聊了几句。
+Did you exchange gifts after the party?
+晚会结束后，你们交换礼物了吗？
+（3）n．电话交换台：
+He telephoned the hospital exchange and asked for Doctor Millington.
+他挂通了医院的交换台，要求与米灵顿医生讲话。
+2．inquire
+（1）vt./vi.打听，询问：
+He wanted to inquire about a certain patient.
+他想打听一位病人的情况。
+A Mr. John Gilbert inquired your telephone number.
+一位名叫约翰·吉尔伯特的先生打听您的电话号码。
+（2）vi．调查，查问：
+He didn't tell the truth when the police inquired into the accident.
+当警方调查这次事故时，他没有说实话。
+（3）vi．求见（某人），要找（某人）：
+She inquired for the manager.
+她想见经理。
+Who are you inquiring for?
+你找谁？`]},{title:"词汇学习",content:[`1．operation n. 手术：
+2．successful adj. 成功的：
+3．following adj. 下一个：
+第二天 the next day,the following day
+第二个星期 the next week,the following week
+4．patient n. 病人：
+5．alone adj. 独自的：
+alone 强调人孤单一个
+home alone 独自在家
+leave me alone 我烦着呢，别理我
+6．exchange n. （电话的）交换台：
+7．inquire v. 询问，打听：
+inquire sth.of sb.从某人那打听
+inquire about sth.
+8．certain adj. 某个：
+some+可数名词单数是表示某个
+certain 后面的东西不能定
+a certain boy
+two certain boys
+certain 根据它前面的数量来定
+某一个 a certain+n.
+某两个 two certain+n.(复数）
+for some reason 由于某个理由
+9．caller n. 打电话的人：
+10．relative n. 亲戚：`]}]},{lesson:40,sections:[{title:"自学导读",content:["1．next to, 挨着。 它既可以表示座位挨着也可以表示地理位置上挨着： Who was the man sitting next to you during the meeting? 开会时坐在你旁边的那人是谁？ There's a field/shop next to our house. 我们家房子边上有一片田野/一个商店。","2．Mrs. Rumbold was a large, unsmiling lady in a tight black dress.兰伯尔德夫人是一位身材高大、表情严肃的女人，穿一件紧身的黑衣服。","（1）unsmiling 的反义词为 smiling（微笑的，喜气洋洋的）。有些形容词前面可以加上前缀 un-来表示相反的意义：comfortable （舒服的）/uncomfortable（不舒服的），true（真实的）/untrue（不真实的）， interesting（有趣的）/uninteresting（无趣味的，乏味的）。","（2）in 在这里表示“穿着”、“戴着”：","A young man in a blue dress is inquiring for you.","有位穿蓝衣服的小伙子在找您。","3．take one's seat, 在指定的位置上就座。 take a seat 表示“坐下”，比 sit 要正式： Please take a seat. 请坐。 take one's seat 则表示位置事先已安排好： After everyone had taken his seat, the meeting/dinner party began. 大家各自就座后，会议/宴会便开始了。","4．Her eyes were fixed on her plate and in a short time, she was busy eating. 她的眼睛盯着自己的盘子，不一会儿就忙着吃起来了。 （1）fix 最常用的意思为“使……固定”、“安装”： she fixed a handle on the door. 她在门上安了个把手。 fix on 的含义之一为“使（目光、注意力等）集中于”、“盯着”： He fixed his eyes on the book, but he couldn't understand a word. 他的眼睛盯着那本书，但他一个字儿也没看懂。 （2）busy+ doing sth.表示“忙着做某事”， doing 前可以加 in，也可以不加： They are busy (in) repairing the car. 他们正忙着修车。 We're all busy getting ready for the performance. 我们都在忙着为演出进行准备。","5．If you ate more and talked less…如果你多吃点，少说点……","在并列句中，相同的句子成分（如主语、谓语、状语等）通常由同一词性的单词/词组表示，并且它们的长度也差不多，以保持句子的平衡性。在课文中的这句话中 ate 与 talked 对应，more 与 less 对应。再如：","You can either go out or stay here.","你出去也行，呆在这里也行。","He wants to buy a lot of things, but he has little money.","他想买的东西很多，但他的钱很少。"]},{title:"语法",content:["第2类条件句","在第16课的语法中，我们学习了第1类条件句，它谈论将有可能发生的事情，并且考虑其将来的真实结果。它的一般形式如下所示：","You'll miss the train if you don't hurry.","你如果不抓紧时间会误了火车的。（主句用一般将来时，从句用一般现在时或其他形式的现在时）","第2类条件句的形式与第一类不同，if 从句中用一般过去时，谈论想像的情况，主句用 would +动词原形，推测想像的结果：","If it rained tomorrow, we'd stay at home.","如果明天下雨，我们将呆在家里。","尽管第2类条件句使用过去时，却并非指过去的时间，所以，if 之后的过去时用法常被称为“非真实的过去”。","第2类条件句有时可以代替第1类条件句来描述颇有可能发生的事情，但比第1类条件句较为“无把握”。试比较：","不过第2类条件句经常用来描写完全不可能的事情：","If I had longer legs, I'd be able to run faster.","如果我的腿再长一点儿，我就能跑得更快了。","在最后一个例句中，the weather 是单数，按语法规则，在正常的陈述句中它后面应为 was 而不是 were。但在第2类条件句中，were 比 was 更为正式，与真实情况的差别也更大：If he were/was ready, I would go.","如果他准备好了，我就去。","if I were you 这种说法经常用于提出建议：","If I were you, I'd accept their offer.","如果我是你，我就接受他们的建议。"]},{title:"词汇学习",content:[`1．make vt./vi.
+及物动词 make 的原义为“制造”，但它经常用于一些固定的结构，最常见的为 make +（冠词）+名词形式。因名词的不同其含义也稍有不同：
+I tried to make conversation.
+我试图找个话题。
+If you like, I'll make the beds this morning.
+如果你愿意，今天早上我来铺床。
+Don't make so much noise when I'm reading.
+我看书时你（们）别这么吵闹。
+He made a promise that he would return the books in a week.
+他保证一星期后将书还回来。
+If you make trouble again, I'll send you home.
+你如果再捣蛋，我就把你送回家。
+He works very hard, but he's made little progrss.
+他很刻苦，但他进步甚小。
+He makes a lot of money and he also spends a lot.
+他挣钱多，花钱也多。
+Can you make a speech for our students?
+您能为我们的学生演讲一次吗？
+I'm sorry to tell you that you've made a big mistake.
+我很遗憾地告诉你，你犯了个大错误。
+在表示“下定决心”、“拿定王意”时要用词组 make up one's mind:
+Have you made up your mind to set off tomorrow morning?
+你已下定决心要明天早上出发了吗？
+2．do vt.
+与 make 一样，完全动词 do 也可以用于一些固定说法，它的含义比 make 要更笼统一些：
+I had done my best, but I still failed in the exam.
+我已经尽力而为了，但我考试还是没及格。
+After you've done your homework, you can watch TV.
+你做完作业后可以看电视。
+Would you please do me a favour?
+请帮个忙好吗？
+I did a few jobs about the house.
+我干了点家务活。
+I did a lot of work around the house.
+我干了许多家务活。
+Can you do any more work today?
+你今天还能再干点活吗？
+We are asked to do Exercises 2 and 3 of Lesson 10.
+我们得做第10课的第2项和第3项练习。
+That shop does very good business.
+那家商店的生意很好。
+do 还可以与动名词连用：
+We did all our shopping yesterday.
+我们昨天把东西都买了。
+I do a lot of swimming.
+我常常游泳。
+I did some reading this afternoon.
+今天下午我读了点书。`]},{title:"词汇学习",content:[`1．hostess n. 女主人：
+actor
+actress
+2．host:男主人
+host(v.):作为主人,主办
+3．unsmiling adj. 不笑的，严肃的：
+4．tight adj. 紧身的：
+tight jeans
+5．fix v. 凝视,修理,固定：
+fix one's eyes on
+one's eyes be fixed on
+6．globe n. 地球：
+global6:全球的
+7．despair n. 绝望：
+disappoint
+in despair
+sb./sth.is a despair of...`]},{title:"讲解",content:["ask sb.to do sth.","next to:与……相邻","be on:放映","用虚拟语气:","1.与现在事实相反,从句使用一般过去时,主句使用 would+动词原型"]},{title:"特殊难点",content:["make progress","do business","1.made...do","2.does...makes","3.doing...making","4.made...did go shopping   do some shopping"]}]},{lesson:41,sections:[{title:"自学导读",content:["1．Do you call that a hat? （标题）你把那个叫帽子吗？ Do you call that +（冠词）+名词这个结构可以表达一种轻蔑的含义： Do you call that a house／a dog? 你把那个叫房子／狗吗？","2．I sat down on one of those modern chairs with holes in it…我坐在一个新式的满是网眼儿的椅子上…… those 在此处表示一种看不惯、不满的意味，如果换成 the，则没有这种意味。","3．I regretted saying it almost at once. 我马上又后悔说了这话。 regret +动名词／名词／that 从句通常表示为做过的某件事感到后悔、懊悔： I now regret leaving my country/ that I have left my country. 我现在后悔离开了自己的祖国。 He regretted having been rude to her. 他后悔自己对她无礼。 Did he regret his mistake? 他为自己的错误感到后悔了吗？ regret +不定式表示对现在或将来要做的事感到对不起、遗憾，比 be sorry +不定式要正式： We regret to tell you that you are not welcome. 我们很遗憾地告诉您，您不受欢迎。","4．I find it beautiful. 我觉得它好看。 动词 find 经常用于动词+宾语+宾语补足语这种结构： You'll find it difficult／easy to make conversation with her. 你将会发现与她聊天很困难／容易。（ it 代指后面的不定式短语） I find this book very interesting. 我觉得这本书很有趣。","5．A man can never have too many ties. 男人有多少领带也不会嫌多。 cannot／can never…too…（固定结构）表示“无论怎么……也不会过分”： A woman can't have too many hats. 女人有多少帽子也不嫌多。 You can't be too careful in doing your work. 你工作越小心越好。"]},{title:"语法",content:["must, have(got) to 与 need","在第17课的语法中，我们学习了情态助动词 must 和 have（got）to 的一些用法，知道它们可以表达“必须”、“不得不”等含义，must 还可用于表示推测。在表达“必要”、“不必要”等含义时，除了可用 must 和 have（got）to 以外，还可以用 need。need 只有情态助动词的部分特征，仅用于某些疑问句和否定句。need 用于疑问句时，问者往往希望得到否定的回答：","Need you leave so soon?","你有必要这么早就走吗？（希望不必）用 need 的一般疑问句的肯定形式的回答可以用 must／had to，否定形式的回答可以用 needn't","need 一般情况下作完全动词：","I need to go to the dentist this morning.","今天上午我需要去看牙。","表示必要时，must 的语气比 need 要强：","I must go to the dentist this morning.","今天上午我必须去看牙。","用 must 的一般疑问句可以用 must／have to 或 needn't 来回答，而不用 mustn't：","“不必要”可用 needn't, don't have to 来表示：","You needn't／don't have to work such long hours.","你不必工作那么长时间。","这种句型可用来表示说话人让对方选择或允许对方可以不做某事的主观意图。它的完成式和过去式分别为 needn't have, didn't have to 和 didn't need to:","mustn't 表示绝对禁止。在说话人看来，根本没有选择余地"]},{title:"词汇学习",content:[`1．remind vt.
+（1）提醒：
+Remind me to post that letter.
+提醒我把那封信寄了。
+I needn't remind you of that terrible tie you bought yesterday.
+我不必提醒你昨天买的那条糟糕透了的领带。
+He reminded his wife that they needed to buy some coffee and sugar.
+他提醒妻子他们需要买些咖啡和糖。
+（2）使……想起：
+The smell of cabbage reminds me of school.
+卷心菜的气味使我想起了学校。
+She reminds me of her sister.
+她使我想起了她的姐姐／妹妹。
+2．remark，observe 与 notice
+（1）remark 与 observe 都可以表示“说”、“评论说”，它们比 say 要正式：
+‘You're looking very well!’She remarked／observed.
+“您的气色看上去真好！”她说。
+He remarked／observed that it was too hot in the room.
+他说屋里太热了。
+（2）notice 和 observe 都可以表示“注意到”、“察觉到”，但有一定区别。notice 通常指无意中“察觉到”；observe 则可以指有意观察，比 notice 更正式：
+I've noticed/ observed that he telephones her oftener than before.
+我发现／注意到他现在给她打电话比以前次数多了。
+She observed the picture critically for a moment.
+她用挑剔的目光看了一会儿那幅画。
+I didn't notice his leaving.
+他走的时候我没注意到。`]},{title:"词汇学习",content:[`1．rude adj. 无礼的：
+polite
+以 p 开头的形容词的否定句前缀 im
+impolite2:没有注意到礼节性的问题
+2．rude:故意的
+3．cheeky:小孩对长辈
+native
+4．mirror n. 镜子：
+look up sth.in the dictionary
+look at oneself in the mirror
+His novel is a mirror of his time.
+...的写照,  ...的真实反映
+5．hole n. 孔：
+hole in
+6．remark v. 评说：
+say
+7．remind v. 提醒：
+remind sb.of sth.
+remind sb.to do sth.
+reminder
+8．lighthouse n. 灯塔：`]},{title:"讲解",content:["need","call sb.sth.  call that","be rude    be rude about sth.   be rude to sb.","Don't be rude to me.","needn't: 不必","on the chair","He has been there.","bookstore  drugstore","must 表示必须   mustn't 不能,不准","We mustn't buy things.  We don't need things.","needn't","need 的否定形式:needn't  don't need","regretted doing sth.","needn't have done:原本不必做,但是做了","You needn't have bought it.","remind sb.of sth.","needn't have done:强调过去的动作不必做","needn't do:现在的动作也不必做","never=not too","I can never thank you too much.:感激不尽","Drinking water can never be too clean.","A wife can never complain too much.","need:需要","needn't:非实义动词,情态动词,无时态变化的,也没有人称","don't need:实义动词有任意一种时态,有人称变化","Need I...?        Do I need...?","情态动词后面一定要加动词原型","在实义动词后面再加一个实义动词,就在后面加 to do","Need I go out?   Do I need to go out?","情态动词后面不能直接用名词做宾语","实义动词后面可以直接加名词","We don't need things...","You don't need to be","He...follow me.  C","A) don't need  B) needn't to C) didn't need to D) needs","1.情态动词,不时态和人称","2.情态动词的疑问句和否定句都直接加 not 或提前","3.情态动词后面只能加动词原型 needn't have done;过去不必做,但是做了 mustn't:不准 can't:不可能 You don't ...:事实"]},{title:"特殊难点",content:["observe:仔细的看","remark/notice","notice:看","remark:说","3..remarkes... make rude remarks(粗话) call one's name:骂人 say F(fuck) words fail to do:没有能够,表示强烈的肯定,not fail to You can not fail to notice it."]}]},{lesson:42,sections:[{title:"自学导读",content:["1．…we stopped at a square to have a rest.……我们在一个广场上停下来休息。 stop 后面跟不定式时，表示停下其他活动去做不定式表示的动作： On the way to the station, I stopped to buy a paper. 在去车站的路上，我停下来买了张报纸。 stop 后面如果跟动名词形式，则表示停止该动作： I've stopped buying newspapers 我已不再买报纸了。 How can we stop him complaining? 我们如何才能让他不抱怨呢？","2．after a time, 过了一会儿，不久以后。 time 在这里表示“（一段）时间”： He lived abroad for a long time. 他在国外生活了很长时间。 I saw him a short time ago. 我刚才还看见他了。 After a time, the dog stopped following me. 过了一会儿，那条狗便不再跟着我了。","3．…we had our first glimpse of the snake. ……我们才第一次看到了那条蛇。 glimpse 表示“一瞥”、“一看”，是可数名词，常用于下列短语中： have/ get a glimpse of, catch a glimpse of, take a glimpse at:","He took a glimpse at the‘No Parking’signs outside Jasper's gate and parked his car there.","他瞥了一眼贾斯珀家大门外边的那些“禁止停车”的牌子，","然后把车停在了那里。（有意识的、短暂的动作）","This afternoon I caught／got／had a glimpse of Debbie and Dan walking together in the park.","今天下午我瞥见黛比和丹一起在公园里散步。（无意的、短暂的动作）","4．It obviously could not tell the difference between Indian music and jazz! 显然，它分辨不出印度音乐和爵士乐！","（1）tell 表示“辨别”、“分辨”、“识别”时常与 can，could，be able to 连用。表达这些意义时，tell 可以单独使用，也可以与 from 构成词组：","（2）表示两者之间的“差别”、“差异”时常用 difference between：","What's the difference between them?","他／它们之间有何区别？","There's a lot of difference between Englishmen and Frenchmen.","英国人和法国人之间有许多差别。","在有些情况下也可以不跟 between：","It makes no difference whether you believe me or not.","你信不信我区别不大／都无所谓。"]},{title:"语法",content:["have +名词代替普通动词","在第18课的语法中，我们学习了完全动词 have 的一些用法，知道它既可以表示“具有”、“拥有”，又可以表示 eat, drink, enjoy, take 等含义：","I have(got) a new car.","我有辆新汽车。","Have a good time!","祝你（们）玩得开心！","have 的另一种用法是 have+名词代替普通动词表示“完成该动作”：","类似的动词还有 dance, fight, look, rest, ride, talk, sleep, swim, wash 等。一般完全动词的用法也适用于 have：","Jim and I have just had a long talk.","我和吉姆刚进行过一次长谈。","I must have a wash before lunch.","午饭前我得洗一洗。（情态动词+have）","I had two dances with Lucy.","我和露西跳了两次舞。（可用复数形式）"]},{title:"词汇学习",content:[`1．market n.
+（1）市场，集市：
+We had a long walk through one of the markets of Old Delhi.
+我们穿过旧德里的一个市场时走了很长一段路。
+I just came from a fruit market.
+我刚从一个水果市场来。
+（2）（商品的）市场，销路，需求：
+The foreign markets for apples this year are not as good as last year.
+今年苹果的海外市场不如去年。
+Can you find a market for these shoes?
+你能给这些鞋找到销路吗？
+2．动词 pick 的一些短语
+（1）pick up 有许多含义。它既可以表示“拿起”、“捡起”，也可以表示“意外地找到”、“（偶然地）学会”、“开车去接”等：
+He picked up a long pipe which was covered with coins.
+他拿起了一个长长的、上面镶有硬币的管乐器。
+Tommy picked up two small coins and swallowed them.
+汤米捡起两枚小硬币并把它们吞了下去。
+The bicycle was picked up in a small village.
+那辆自行车是在一个小村子里发现的。（意外地找到）
+Didn't you pick up any Chinese while you were in China?
+你在中国期间没学会几句汉语吗？
+Where shall I pick you up, at your office or at your house?
+我去哪里接你，你办公室还是你家？
+Pick me up at  8 o'clock.
+8点钟开车来接我。
+（2）pick out 可以表示“挑出”、“选出”、“辨认出”等含义：
+Look at these photos and see if you can pick out my mother.
+仔细看这些相片，看看（你）能否认出我母亲。
+The thief was picked out by several people.
+几个人认出了那个小偷。
+When I went to the bookshop yesterday, I picked out two of the books which I needed most.
+昨天我去书店时，买／挑了两本我最需要的书。`]},{title:"词汇学习",content:[`1．musical adj. 精通音乐的：
+2．market n. 市场，集市：
+3．snake charmer 玩蛇者（通常借音乐控制）：
+4．pipe n. （吹奏的）管乐器：
+5．pipe:两头通的东西
+6．tune n. 曲调：
+7．glimpse n. 一瞥：
+8．have a glimpse of:瞥了一眼
+9．glance at:扫了一眼
+10．have a glimpse of:映入眼帘
+glance at(有意识)
+have a glimpse of(无意识)
+11．snake n. 蛇：
+12．movement n. 动作：
+13．action:采取行动
+14．move:移动
+15．continue v. 继续：
+begin/start/continue to do
+begin/start/continue doing
+I continue to go/going on.
+continue+sth
+Let's continue our trip.
+Let's continue our journey.
+16．dance v. 跳舞：
+dance to the music;
+随着音乐跳舞
+17．obviously adv. 显然：
+obviously=clearly
+Obviously you are wrong.
+Obviously I love you.
+18．difference n. 差别：
+19．tell the difference between A and B:区别差异
+Can you tell the difference between them?
+be different from A is different from B
+differ v.
+20．Jazz:爵士乐
+21．Indian music:印度音乐`]},{title:"讲解",content:["have a walk/rest/look","have a + 名词, 这个名词与此同时可以跟动词是同形的","have a swim/bath","have a bath=bathe,have a swim=swim","have a walk=walk","have a look=look","have a rest=rest","Sometions we can use have+noun in place of an ordinary verb.","have a+名词=动词","一个动词的后面会加介词(如果这个动词是不及物动词),这个名词的后面,动词能加什么样的介词,名词也可以加什么样的介词","loo at->have a look at; walk across->hav ea walk across","succeed in doing sth->be successful in->success in","to 放在一个句子的后面起目的的作用","at the other side of","be covered with : 盖满","play a tune ,play music","tune,可数名词; music 不可数名词","have a (first)glimpse of","at the first sight","I love you at the first sight of you.","rise:升 vi.","raise:提高 vt.","follow the movements of the pipe","very much surprised","obviously 更习惯放在句首","have a glimpse of","have a + 名词, 这个名词能有一个同形的动词,动词能加什么,名词就加什么"]}]},{lesson:43,sections:[{title:"自学导读",content:["1．In 1929, three years after his flight over the North Pole, the American explorer, R. E. Byrd, successfully flew over the South Pole for the first time. 美国探险家 R·E·伯德在飞越北极3年之后，于1929年第1次飞越了南极。","（1）这句话包含两个同位语。three years after…为 1929的同位语，作插入性的补充说明；R．E．Byrd 作 the American explorer 的同位语。","（2）for the first time 表示“第一次”，time 在这里表示“次”、“回”，还可以说 this time, last time, next time, another time, each time, for the last time 等：","I remind you for the last time that if you don't hurry, you'll miss the train.","我最后一次提醒你，如果不快点，你会误了火车的。","Give him these photos next time you see him.","下次你见到他时把这些相片给他。","2．Though, at first, Byrd and his men were able to take a great many photographs of the mountains that lay below, they soon ran into serious trouble. 虽然开始时伯德和他的助手们拍下了飞机下面连绵群山的大量照片，但他们很快就陷入了困境。","（1）连词 though 引导的是让步状语从句，其含义为“虽然……”、“尽管……”。这个从句中的时间状语 at first 被单独用逗号隔开了，它如果按正常的词序应放在从句的末尾，但有可能会引起误解。","（2）at first 与主句中的 soon 形成时间上的照应，表示先后次序。","（3）take a photograph of 表示“拍……的照片”：","He took a photograph of his house before he left home.","他离家前给他家的房子拍了一张照片。","（4）that lay below 为 the mountains 的定语从句，that 为从句的主语。","（5）run into trouble 的含义与 get into trouble 相似，表示“陷入困境”：","Each time he ran into trouble, he asked his parents for help.","每当他陷入困境时，他都向他父母求助。","3．At one point, it seemed certain that their plane would crash. 在有个地方，飞机似乎肯定要坠毁了。 （1）at one point 在此处可以解释为“在有个地方”，但它通常的含义为“在某一时刻”，point 指时间上的某一点： At one point, he made up his mind to become a painter. 他曾一度下决心要当个画家。 （2）it 为“先行主语”，真正的主语为 that 引导的从句。it 作先行主语时经常与 seem，appear，look 等连用： It now looks certain that the meeting is going to be put off. 现在似乎可以肯定会议将被推迟。","4．rise to，飞机“上升至……”。","5．… it cleared the mountains by  400 feet. ……它在离山头400英尺的高度飞越了过去。 clear 在这里表示“（不接触地）越过”： He cleared 2. 10 metres. 他跳过了2.10米。 by 表示“以……之差”： I missed the train by ten minutes. 我晚了10分钟，没赶上火车。 He is younger than me by two years. 他比我小两岁。","6．…for there were no more mountains in sight. ……因为前面再没有山了。 for 表示“因为”。 in sight 表示“在看得见的范围内”、“在可看见之处”： No man was in sight. 一个人也看不见。","7．white plains, 白色原野。 因为南极到处覆盖着雪，因此是白色的。"]},{title:"语法",content:["can， could 与 be able to","在第19课的语法中，我们学习了情态助动词 can／could 用于表示请求别人允许或答复时的情况：","Can／Could I borrow your unbrella (please)?","（请问）我可以借用一下你的雨伞吗？（could 比 can 更客气、委婉）","can 有时可以用于表示可能性：","在表示天生的或学到的能力时，can／could 可用于现在时和过去时：","Billy is only  9 months old and he can already stand up. 比利只有9个月，而他已经能站起来了。","在现在时和一般过去时中，can／could 与 be able to 通常可以互换，be able to 往往用于表示学到的技能：","I tried again and found I could swim／was able to swim. 我再次努力，就发现自己会游泳了。","在谈到说话时正在发生的事时，一般不用 be able to：Look! I can stand on my head.","看！我能倒立。","在表示成功地完成某一具体动作时，通常不用 could，而用 be able to；如果表示某一动作没有取得成功，则可用 couldn't：","It's a pity he couldn't visit Mary.","很遗憾他没能去看望玛丽。","Oh, didn't you know? He was able to visit her after all.","噢，你不知道吗？他最终还是能去看她了。","在问及过去某一具体活动时可用 could，但回答是肯定的时候则不能：","Could he borrow a car?","他能借到车了吗？","Yes, he was able to borrow a car after all.","是的，他最终还是能借到车了。","No, he couldn't.","不，他没能借到。"]},{title:"词汇学习",content:[`1．lie vi.
+（1）躺，（平）卧：
+While I sat by the fire, my dog lay beside me.
+当我坐在火炉旁时，我的狗躺在我旁边。
+Don't lie on the floor! It's too cold.
+别躺在地板上！太冷了。
+（2）位于：
+The mountains lie below us now.
+现在群山在我们的下方。
+Our village lies between a river and a road.
+我们的村子位于一条河流和一条公路之间。
+The town lies to the east of London.
+这镇子位于伦敦东面。
+2．含有介词 at 的词组
+at 与许多词可以构成固定词组，其中表示时间的有：at first（开始时，最初），at once（马上，立刻），at present（目前，现在），at last（最后，终于）， at times（有时）；表示地点的有：at home（在家），at school（在学校）；表示程度的有： at least（至少）， at any rate（不管怎样）。其他词组有 at heart（内心里，实际上），at a loss6（困惑不解，不知怎么办）等。
+At first they were able to take photographs.
+开始时他们还能照相。
+Byrd at once ordered his men to throw out food sacks.
+伯德马上命令他的助手们把食物袋扔掉。
+At last the plane was able to rise.
+最后飞机终于可以上升了。
+At times I think this house will be knocked down by a passing plane.
+有时我觉得这房子将会被一架飞过的飞机撞倒。
+At any rate, I'm determined to stay here at present.
+不管怎样，目前我决定留在这儿。
+At least, I'm not mad yet.
+至少我还没疯。
+If Billy isn't at school, he must be at home.
+如果比利不在学校，他肯定在家。
+People have more money now, yet the temptation to steal is greater than ever before Why? I'm at a loss.
+人们现在比以前有钱，但偷窃的诱惑力却比以往任何时候都更大。为什么呢？我感到很困惑。
+Though he tried to make conversation with the lady, he wasn't interested in her at heart.
+虽然他试图与那位妇女聊天，他实际上对她并不感兴趣。`]},{title:"词汇学习",content:[`1．pole n. （地球的）极：
+South Pole 南极
+North Pole 北极
+Pole Star 北极星
+2．flight n. 飞行：
+3．explorer n. 探险家：
+explore v.探险
+exploration n.(科研相关)探险,探求,开发
+adventure n.冒险(追求刺激)
+venture n. 冒险(为了财富,没有生命保障)
+4．lie v. 处于：
+tell a lie 撒谎
+lie n.谎言; lie v.撒谎 Eg.:You lied. You,liar!
+lie,lied,lied 撒谎
+lie/lai/,lay/lei/,lain/lein/处于,位于
+stay in bed/lie in bed 躺在床上
+in bed 介词短语, lie vi.
+lie 现在分词--> lying
+lay v. 放,放置; lay an egg 下一个蛋
+lay vt. lay sth. 放,放置
+lay,laid,laid
+hang,hung,hung 挂,悬挂
+hang,hanged,hanged, 绞刑
+You lied!
+You lied to me.
+LIe in bed
+5．serious adj. 严重的：
+6．point n. 地点：
+point 点,一般指从飞机上向下看的点
+地点 place,spot
+dot 点
+@-> at
+7．seem v. 似乎：
+seem + as if
+seem + adv.
+seem  to be
+seem  that...
+Eg. : He seems rich.
+He seems to be rich.
+It seems that he is rich.
+it seems that...看起来似乎...
+seem as if 看起来似乎
+Eg.: He seems as if he had never lived in England before.
+8．crash v. 坠毁：
+crash(从上向下掉)
+aircrash 空难
+strike 撞击
+clash 撞击,冲突
+9．sack n. 袋子：
+10．clear v. 越过：
+over 越过(距离)
+clear(凌空)越过
+go over 飞跃
+clear the mountain 飞跃山峰
+The horse cleared the fense.
+11．aircraft n. 飞机：
+12．endless adj. 无尽的：
+13．plain n. 平原：
+mountains 高山
+plain girl 平凡的女孩
+Eg.: I'm a plain girl.
+can...可能性
+be able to...可能性,成功地做
+could 与过去时态有关,强调可能性
+be able to 强调成功地做
+用过去式表达,表示在过去发生
+过去完成时,强调在过去的过去
+could rise...有可能,不知道结果
+might rise...可能
+might succeed in rising...可能成功地做
+rose...没有情态单词,表示已经成为事实
+be able to
+was/were able to ……表示这个动作在过去成功地做
+will be able to……将来可能会成=can`]}]},{lesson:44,sections:[{title:"自学导读",content:["1．Mrs. Anne Sterling did not think of the risk she was taking when she ran through a forest after two men. 安·斯特林夫人在穿过森林追赶两个男人时，她并没有考虑到所冒的风险。 （1）think of 在这里表示“考虑”、“思考”。 Have you ever thought of settling down in this town? 你有没有考虑过在这个镇上定居？ （2）表示“冒……危险”可以用 take the risk(of doing…)。 （3）run after 表示“追赶”： On my way home, I saw a dog running after a cat. 我在回家的路上看到一只狗在追一只猫。","2．They had rushed up to her while she was having a picnic at the edge of a forest with her children…刚才，当她和孩子们正在森林边上野餐的时侯，这两个人冲到她跟前…… （1）up to 可以表示地点、时间等“一直到……”： The child ran up to his mother when he saw her. 那孩子看到他的母亲后便跑到她跟前。 He worked up to nine o'clock in the evening. 他一直工作到晚上9点。 （2）at the edge of 表示“在……的边上”： The park lies at the edge of the town. 公园位于镇边上。","3．in one's possession, 为某人所有。 也可以说 in the possession of sb.。这两种意思相同，但是人称代词一般用前一种表达方式：","The house used to be in my possession, but now it is in the possession of an old lady.","这座房子曾经归我所有，但现在它归一位老太太所有。","4．Mrs. Sterling got so angry that she ran after them. 斯特林太太非常气愤，向着他们追了过去。 so…that 引导结果状语从句，表示“如此……以至于……”。","下文中，The men got such a fright that they dropped the bag and ran away 用了类似的引导结果状语从句的连词 such a…that。","5．out of breath，喘不上气，上气不接下气。","Tom ran to the shop to get some salt for his mother. When he reached there, he was quite out of breath.","汤姆为了给母亲买盐跑步去了商店。当他到那里时，他已很是上气不接下气。","6．go through，翻看。 这是个固定短语，含义之一是“（仔细地）搜查”、“在……中搜寻”： She went through her bag, but she couldn't find her key. 她翻遍了包，但就是找不到她的钥匙。"]},{title:"语法",content:["动名词（2）","在第20课的语法中，我们学习了动名词的形式和一般作用，知道它可以代替名词作句子的主语、宾语、介词宾语等，也学习了它的否定式和完成式：","Washing the car made me tired.","擦洗汽车使我很累。（主语）","I enjoy reading.","我喜爱读书。（宾语）","Before leaving the office, he gave me a book.","他离开办公室之前给了我一本书。（介词宾语）","（1）动名词还可以用于动词+介词之后：","We are looking forward to his coming.","我们盼望着他的到来。","（2）在 start，begin， continue 等后面，既可以用不定式又可以用动名词，区别不大：","I began to learn/ learning English two years ago.","我两年前开始学英语。","（3）在 love，like，prefer 等动词后面，用不定式和动名词意义有所区别。带不定式时常表示特定的未来的事件（如正准备做某事或建议做某事），带动名词形式时则表示目前正在进行中的活动或一般的行为。在 prefer…to…结构中则只能用动名词","我喜欢看电视。（一般行为）","（4）在 need，want 之后，动名词形式具有被动的含义，相当于被动的不定式：","The windows need cleaning.","这些窗子该擦了。（=need to be cleaned）","His shirt needs washing.","他的衬衣该洗了。"]},{title:"词汇学习",content:[`1．risk
+（1）n. 危险，风险：
+Is there much risk of losing money in doing football pools?
+买足球新概念很有输钱的风险吗？
+Roy Trenton took/ ran the risk of damaging his bus and drove it into the back of the thieves' car.
+罗伊·特雷顿冒着撞坏他开的那辆公共汽车的危险把它撞在了小偷们的车的后尾上。
+John saved me at the risk of his own life.
+约翰冒着生命危险救了我。
+（2）vt. 冒……危险，使……遭受危险：
+We'd better take a taxi. We can't risk missing the plane.
+我们最好还是坐出租车。我们不能冒误飞机的危险。
+John risked his own life to save me.
+约翰冒着生命危险救了我。
+2．run 与 catch
+动词 run 的本意是“跑”，后面加上不同的小品词可以表达“追赶”、“逃跑”等多种含义：
+She ran through the forest after two men.
+她穿过森林，追赶两个男人。
+The man ran away with her bag.
+那人拿了她的包跑了。
+She has run off with all his money.
+她拐带着他所有的钱逃走了。
+The men dropped the bag and ran away.
+他们扔下提包逃跑了。
+catch 的主要意思是“抓住”、“捉住”、“逮住”，但有些时候它可以表示“（及时）赶上”、“追上”等：
+He ran quickly to catch the last bus home.
+为了赶上最后一班回家的公共汽车他快速地跑着。
+When she caught up with them, she saw that they were going through the contents of the bag.
+当她赶上他们时，发现他们正翻着包里的东西。`]}]},{lesson:45,sections:[{title:"自学导读",content:["1．A clear conscience, （标题）问心无愧。","clear 在这里的含义为“清白的”、“无罪的”，因此这个短语又可译为“清白的良心”，相当于 a good conscience，反义词为 a bad conscience（感到内疚）。","2．The whole village soon learnt that a large sum of money had been lost. 整个村子很快知道，有一大笔钱丢失了。 （1）village 在这里为总称，指“村民”，the whole village 指“全村的人”，后面通常跟单数动词（有时也可视为复数）： The whole village was excited by the news. 这消息使全村的人兴奋。 （2）learn 在句中的含义为“获悉”、“得知”： I've just learnt that she was ill. 我刚刚得知她病了。","3．Sam Benton, the local butcher, had lost his wallet while taking his savings to the post office. 当地的屠户萨姆·本顿在把存款送往邮局的途中把钱包丢了。","taking 为现在分词。与动名词相似，它也可以有自己的宾语、状语等。在连词 while 之后，现在分词短语的作用相当于一个时间状语从句：…while he was taking his savings to the post office。现在分词这样用的前提是两个动词的主语是同一个，并且这两个动作通常是同时发生的：","He listened to music while cleaning the room.","他一边打扫房间一边听音乐。","如果是主语不一致则必须用从句：","He listened to music while I was cleaning the room.","我打扫房间时，他在听音乐。","4．Sam was sure that the wallet must have been found by one of the villagers…萨姆确信那钱包一定是被某个村民捡到了…… must 用于对过去已发生的事进行推测时，后面的动词要用完成式： When I arrived, he wasn't here. He must have left early. 我到这儿的时候他已不在了。他一定早走了。","5．it contained half the money he had lost, 里面有他丢失的钱的一半。","我们既可以说 half the money，也可以说 half of the money，它们可以互相替代，但是 money 前都必须有 the，因为是指特定的钱。再如：","Half the bread/ half of the bread was bad.","这面包有一半已变质了。","6．In time, all Sam's money was paid back in this way. 很快，萨姆全部的钱都用同样的方式还了回来。 （1）in time 可以表示“经过一段时间”或“最终”、“迟早”： In time, he found all the books he needed. 一段时间以后，他找到了他需要的所有书。 I'll tell you everything in time. 我最终／总有一天会把一切都告诉你的。 （2）in this way 表示“用这样的方式”：","You must pay attention to your spelling. In this way, you can become a good secretary in time.","你必须注意你的拼写。这样你才能最终成为一个好秘书。"]},{title:"语法",content:["被动语态（4）","在第10课、第21课与第34课的语法中，我们学习了用于一般现在时、一般过去时和现在完成时中的被动语态、情态助动词与被动语态的连用以及动词+宾语+不定式结构中被动语态的使用等：","That table was made in 1970(by my grandfather).","那张桌子是1970年（由我的祖父）做的。","The rooms must be cleaned today.","这些房间今天必须要打扫干净。","John has been told not to go for a walk when the weather's like this.","约翰已被告知不要在这种天气出去散步。","I never expected the thief to be arrested.","我从没有指望小偷会被逮着。","表示过去发生的动作时，被动语态还可以用于过去完成时；用于完成时的被动语态也可以与情态助动词连用："]},{title:"词汇学习",content:[`1．steal 与 rob
+steal 指“偷盗”、“窃取”，其行为通常是偷偷地、悄悄地、不为别人所发觉；rob 则指“抢夺”、“抢劫”，其行为通常是明目张胆的：
+The man who stole my wallet took my address book as well.
+偷走我钱包的那个人把我的通讯录也拿走了。
+I lost my address book when that man robbed me of my bag.
+当那人抢走我的包时，我的通讯录也没了。
+Someone has stolen my bag from me.
+有人把我的包偷走了。
+They took the risk of being arrested and robbed the bank.
+他们冒着被逮捕的危险抢劫了那家银行。
+注意 steal 和 rob 与介词的不同搭配：steal(sth.) from(sb./ some place)， rob(sb.) of(sth.)。
+2．pay back
+（1）偿还：
+All Sam's money was paid back in this way.
+萨姆全部的钱都用这样的方式还了回来。
+Yesterday Sam borrowed some money from me and said that he would pay me back in a week.
+昨天萨姆从我这里借了些钱，并说一周后还我。
+（2）报答；向……报复：
+You've been very kind to me. How can I pay you back?
+你对我太好了。我如何报答你呢？
+He embarrassed me at the party. I'll pay him back someday.
+在晚会上他让我难堪了。总有一天我会报复他的。`]}]},{lesson:46,sections:[{title:"自学导读",content:["1．…workers began to unload a number of wooden boxes which contained clothing.……工人们开始卸下装有服装的一批木箱。","（1）unload 的含义为“卸（货）”，它的反义词为 load（装货）。与形容词 uncomfortable, unsmiling 等相似，有些动词加前缀 un 可以表示做相反的动作。","（2）a number of 为固定词组，表示“若干”、“许多”：","You've made a number of mistakes in typing this letter.","你打这封信时出了不少错误。","（3）clothing 是服装的总称，为不可数名词，其含义比 clothes 更为广泛。clothes 一般指衣服，clothing 则可以包括鞋、帽等。","2．No one could account for the fact that one of the boxes was extremely heavy. 其中有只箱子特别重，可谁也弄不清是怎么回事。 （1）短语动词 account for 的含义为“说明理由”、“作出说明（或解释）”：","The bad weather in England accounts for Harrison's decision to leave the country.","英国糟糕的气候是哈里森决定离开这个国家的原因。","How do you account for the battered car?","你如何解释这撞坏的车？","（2）that 后面的从句为 fact 的同位语从句，说明 fact 的具体内容：","He couldn't explain the fact that Mary's wallet was found in his room.","他无法解释玛丽的钱包是在他房间里找到的这一事实。","3．It suddenly occurred to one of the workers to open up the box. 突然一个工人想到打开箱子看看。 （1）表示某人想起某事时，要用 sth. occurred to sb. 这个结构，主语为事，而不是人。 （2）it 在句中为先行主语，代替不定式 to open up the box。 （3）open up 的含义之一是“打开”： open up boxes／gifts 打开箱子／礼物 When he received the gifts, he opened them up at once. 他收到礼物后立刻就打开了。","4．He was astonished at what he found. 看到的情景使他吃惊。 表示某事使／让某人吃惊通常用 sb. is/ are/ was/ were…astonished at sth.： Sam appears astonished at the news/ the sound. 这消息／声音似乎使萨姆吃了一惊。","5．on top of, 在……上面。 She put the bread on top of a pile of other goods. 她把面包放在一堆其他货物上面。","6．…he had been confined to the wooden box for over eighteen hours. ……他在那木箱里闷了十八个多小时。 confine 表示“把……限制起来”，通常与介词 to 连用： Last weekend, Tom's mother confined him to his room. 上个周末，汤姆的妈妈把汤姆关在了房间里。","7．The man was ordered to pay ￡3, 500 for the cost of the trip. 此人被责令交付旅费3,500英镑。 pay for 表示“为……支付货款”、“为……付出代价”： She paid ￡ 50 for that dress. 她买那件衣服花了50英镑。"]},{title:"语法",content:["与 to，at，for 和 with 连用的动词","在第22课的语法中，我们学习了后面可跟 of，from，in 和 on 的动词，如 borrow，believe，dream，think，write，decide 等。有些动词可以跟 to，at，for 和 with 连用，不过这些介词不一定是惟一和这些动词连用的小品词。","（1）与 to 连用的动词","It never occurred to them that a man had confined himself to one of the wooden boxes.","他们从来没想到有一个人会把自己关在其中的一个木箱里。","I prefer listening to music to reading newspapers.","我宁愿听音乐而不愿看报纸。","This car belongs to Sam. It's not mine.","这汽车是萨姆的，不是我的。","Will you see to this flower while I'm away?","我不在的时候你照看一下这花好吗？","He used to turn to me for help.","他过去常向我求助。","（2）与 at 连用的动词","at 通常用于表达感情的一些词之后，并且这些词往往用被动语态：","Dan was both surprised and amused at the news.","这消息既使丹感到惊奇又使他感到好笑。","He was astonished at what he found.","发现的情况使他吃了一惊。","at 也可以用于其他动词之后（一般为主动语态）：","What are you looking at?","你在看什么？","When I arrived at the station, the train had already left.","当我到达火车站时，那列火车已开走了。","A beggar knocked at the door.","一个乞丐在敲门。","（3）与 for 连用的动词","I'm looking for my pen.","我在找我的钢笔。","He was searched for the stolen money.","他被搜了身，看看有没有被盗走的那笔钱。","He's already been punished for his mistake.","他已因为所犯的错误而受到了惩罚。","John paid for the dinner.","约翰付了饭钱。","Can you account for his strange behaviour?","你能解释他的古怪行为吗？","A child is calling for help.","有个孩子在大声呼救。","（4）与 with 连用的动词","Tom often quarrels with his brother.","汤姆经常和他兄弟吵架。","Don't play with fire!","不要玩火！","I'm pleased with this room.","我对这房间满意。","Sam used to mix with those people.","萨姆过去常与那些人交往。","We'll begin with the exercises.","我们从练习开始。"]},{title:"词汇学习",content:[`1．occur vi.
+（1）发生
+（2）被想起，被想到：
+It never occurred to me that he could be a thief.
+我从没有想到他会是个小偷。
+A good idea occurred to Jane while she was talking to Mary.
+简与玛丽谈话时想到了一个好主意。
+It suddenly occurred to him to open up the box.
+他突然想到打开箱子看看。
+2．admit vt.
+（1）承认，供认：
+The man admitted hiding in the box before the plane left London.
+那人承认他是在飞机离开伦敦前躲进箱子里的。
+Sally admitted that she had used your dictionary.
+萨莉承认她用过你的字典。
+（2）准许……进入，准许……加入：
+Without a ticket you won't be admitted into a cinema.
+没票你就不能进电影院。
+They won't admit him into/ to the government.
+他们不让他进入政府工作。`]},{title:"课堂笔记",content:["occur to sb","it occur to sb to do sth/that......","clothing/clothes","clothing 在分类时强调衣服这一种类","clothes 表示“衣服”的单数名词的复数形式","no one could.....没人能","no one knows.....没人知道","account fo：explain 解释（令人满意的）","give the explanation","一个句子跟在一个名词后，可以是：","1、定语从句","2、同位语从句 my friend Lucy i know the fact that he doesn't know i do know the fact that he doesn't know","1、同位语从句后的 that 是起解释说明的作用 而定语从句是起修饰的作用","2、that 在从句中做主语或宾语成分，则是定语从句 that 在从句中不能做主语或宾语成分，则是同位语从句 be astonished at 对某件事吃惊 be surprised at 对某件事吃惊 what＝the thing that on top of 在......上面 a pile of 一堆 piles of snow at the top of/on top of on top of 与顶端有接触 at the top of 在.....上方（at the top of 之前的词属于其之后的词的范围之内 admit doing sth be confined to over：more than pay......for......为......付钱 pay 付钱 cost of......的花费 the cost of government 政府开支 it is too expensive!（表示贵得不可接受） dear 昂贵的（可以接受） have a trip go on a trip","2、because 后面加原因 to 后面加目的 avoid 后面一定要加 doing 避免做某事 fare 车费，乘坐的交通工具的费用","4、a、the wooden （adj）木头的 b、the wood 木头 表示木头制的东西用 wooden 固定搭配,在一部分动词后面加 to，at，for，with","a to:accustom(ed),amount,appeal,apply(or for),accach(ed),attend,belong,challenge,compare(or","with),condemn(ed),confess,confine,consent,convert,entitle(d),listen,metion,object,occur,prefer,react(or","against),reply,respond,see,submit,surrender,turn,yield","与 to 连用：习惯于，达到，呼吁，适用于，附属于，参加，属于，向......提出挑战，比较","判刑， 承认， 限制， 同意， 改信(某宗教)，享有权利，听，提到，反对，想到，更喜欢，对......反应","回答， 响应，注意，服从于，向......投降，转向，屈服","b AT:amuse, arrive(or in), astonish(ed)(or by),exclaim, glance, guess, knock","look, point(or to), sh"]}]},{lesson:47,sections:[{title:"自学导读",content:["1．A public house which was recently bought by Mr. Ian Thompson is up for sale. 伊恩·汤普森先生最近才买的一个小酒店现在又要卖出去。 （1）在英国英语中，public house 指酒馆、酒店，口语中往往缩略为 pub： I had lunch at a village pub. 我在一家乡村小酒店吃了午饭。 （2）up for sale 表示“供新概念”，up 为形容词，含义为“已提出的”、“供……的”。","2．He told me that he could not go to sleep one night because he heard a strange noise coming from the bar. 他告诉我有天夜里他怎么也睡不着，因为他听到酒吧里传来一阵奇怪的响声。 （1）从 that 一直到句尾都是 told 的直接宾语，其中 because 引导的原因状语从句说明为什么睡不着的原因。","（2）coming 为现在分词，它引导的短语修饰 noise，为宾语补足语。它也可以变为从句结构：a strange noise that came from the bar。在一些表示感觉的动词如 see，hear，feel，watch，notice 等之后，往往用宾语+宾语补足语这个结构，其宾语补足语既可以是不定式（通常不加 to），也可以是现在分词，两者在意义上区别不大，现在分词表示动作正在发生，不定式则表示动作发生了：","I heard someone knocking at the door.","我听到有人正敲门。","I heard you sing this song yesterday.","昨天我听到你唱这支歌。","（3）bar 为酒吧或酒店中卖酒的柜台。","3．…they were on in the morning.……早晨灯都亮着。 on 为形容词，表示“开着的”、“接通的”，其反义词为 off： When he arrived home, he found that all the lights were on/ off. 他到家时发现所有的灯都亮着／关着。 Is the TV on? I thought I had turned it off. 电视机是开着的吗？我以为我把它关掉了。","4．He also said that he had found five empty whisky bottles which the ghost must have drunk the night before. 他还说他发现了5只空的威士忌酒瓶子，这肯定是鬼魂头天晚上喝的。 （1）由于是对已发生的事表示推测，因此 must 后面要用完成时。","（2）that 引导的为间接引语，因此时间状语要变动。直接引语中的时间状语为 last night，转述时变成了 the night before。其他时间状语的变化有：now→then，two days ago→two days before/ earlier，today→that day，tonight→that night，tomorrow→the next/ following day，last night→the night before 等。","5．…they will not accept the pub even if he gives it away.……即使他把小酒店白送人，他们也不要。 （1）连词 even if 表示“即使”，它引导的让步状语从句含有很强的假定性： I won't have dinner with him even if he pays for it. 即使是他付钱我也不和他一起吃饭。 （2）give away 是个固定短语，其含义之一是“赠送”、“免费给予”： He gave all his books away to the library. 他把他所有的书都赠给了图书馆。"]},{title:"语法",content:["复习第36～45课部分语法","在第36～45课的语法中，我们学习了用 going to 表示意图、打算或不久即将发生的事；学习了用将来完成时表示到将来某一时刻已经完成的动作；学习了与过去完成时经常连用的连词 no sooner…than，hardly… when 以及 before；学习了间接疑问句、第2类条件句；学习了表示“必要”、“不必要”的情态助动词 must，have（got）to 和 need；学习了 have+ 名词代替普通动词，can 与 be able to 的区别和过去完成时中的被动语态。注意以下句子：","Are you going to visit Old Delhi?","你打算去旧德里旅游吗？","I would if I could, but I can't afford it.","如果可能我会去的，但我花不起这笔钱。（第2类条件句）","Did you speak to the manager?","你和经理谈话了吗？","He didn't come, so I didn't have to speak to him after all.","他没来，所以我终究没有必要和他谈。（ have to 用于过去时表示必要）","I've called a taxi.","我叫了一辆出租车。","You needn't have done that! I'd already called one.","你其实用不着叫！我已叫了一辆了。（need 表示必要）","He had no sooner returned than he bought a house.","他刚一回来便买下了一幢房子。（no sooner…than 用于过去完成时）","By the end of next year, they will have finished work on the new stadium.","到明年年底，他们将把新体育场建成。（将来完成时，by 引导的时间状语常与它连用）","He asked if/ whether Mr. Gilbert' s operation had been successful.","他问吉尔伯特先生的手术是否成功。（间接疑问句）","We had a long walk through one of the markets of Old Delhi.","我们穿过旧德里的一个市场时走了很长一段路。（had a walk = walked）","The plane was then able to rise.","于是飞机可以上升了。（表示成功地完成过去某一动作时只能用 be able to，不用 could）","The wallet had been wrapped up in newspaper and it contained half the money he had lost.","钱包是用报纸包着的，里面有他丢失的钱的一半。（过去完成时中的被动语态）"]},{title:"词汇学习",content:[`1．suggest vt.
+（1）暗示，（间接地）表明：
+I suggested that some villagers must have come in for a free drink.
+我暗示说一定是村里有些人来喝不花钱的酒了。
+His silence suggested that he knew something about the man.
+他的沉默表明他对此人略有所知。
+（2）建议，提议：
+Who suggested that idea to you?
+谁向你提的这个主意？
+I suggest that we meet at the restaurant.
+我提议我们在饭馆见面。
+I suggest meeting at the restaurant.
+我提议在饭馆见面。
+2．shake
+（1）vt./vi. 摇，摇动，抖动：
+Mr. Thompson shook his head.
+汤普森先生摇了摇头。
+Why did you shake the tree?
+你为什么摇那树？
+His hands appear to be shaking.
+他的手看上去在发抖。
+（2）vt. 同……握手：
+Dan shook hands with him.
+丹和他握了手。
+Dan shook him by the hand／shook his hand. （译文同上）`]},{title:"课堂笔记",content:["a public house 酒吧","up for sale 有待出售","on sale 打折卖","for sale 拿出来卖的","up for 有待于","this problem is up for discussion 这个问题有待于讨论","hear sb doing 听见某人做某事","turn off 关闭","the light is on 这个灯是亮的","the night before 前一天晚上","last night 昨天晚上","the next day 下一天","shake one's head 摇头","nod one's head 点头","even if 即使","give away 捐献，免费的送","7、in one's opinion 就某人看来，以某人观点，某人认为 have to＝have get to should 可以是情态动词，表应该 it's too late，i should go home 太晚了，我要回家了 must＋v（原形）：1、必须做很可能做"]}]},{lesson:48,sections:[{title:"自学导读",content:["1．Dentists always ask questions when it is impossible for you to answer. 牙科医生们总是在你无法作出回答的时候向你提出问题。 在 when 引导的时间状语从句中，it 为先行主语，代指后面的不定式，for+人称代词／名词说明不定式表示的动作是谁做的： It is not hard for you to help them. 你帮助他们并不难。 It was a mistake for me to come to the party. 我来参加晚会是错误的。 impossible 通常不以人作主语，而以不定式或从句作主语： It is impossible for him to help you. 他不可能帮你。 It is impossible that he will help you. （译文同上）","2．In answer to these questions I either nodded or made strange noises. 作为对这些问题的回答，我不是点头，就是发出奇怪的声音。 （1）in answer to 为固定短语，在这里表示“作为对……的回答”： In answer to my question, Dan shook his head. 作为对我的问题的回答，丹摇了摇头。 这个短语的另一个含义是“响应……的请求”： In answer to my request, he wrote a letter to George. 应我的请求，他给乔治写了封信。 （2）made strange noises, 发出奇怪的声音。“我”并不是有意发出这些声音，而是因为嘴里有药棉，又想回答医生的话造成的。","3．Meanwhile, my tongue was busy searching out the hole where the tooth had been. 与此同时，我的舌头正在忙着寻找刚拔掉的那颗牙的伤口。 （1）副词 meanwhile 表示“在此期间”、“与此同时”： He won't come until ten o'clock. Meanwhile you can have a rest. 他10点以前不会来。在此期间你可以休息一下。","Mary was talking to me about her new dress. Meanwhile I was thinking about something else.","玛丽在和我讲她的新衣服。与此同时我却在想着其他事情。","（2）search out 表示“找出”、“查出”、“搜出”等：","Have you searched out the books I needed?","你找出我需要的书了吗？","（3）where the tooth had been 用的是过去完成时，因为在描述这件事的时候那颗牙已经不在了。牙齿尚在的时间是“过去的过去”。","4．When the dentist at last removed the cotton wool from my mouth… 当那位牙医最后将药棉从我嘴中取出时…… remove 可以表示“拿去”、“除去”、“去掉”，通常结构为“remove +名词+from”；它也可以单独使用： I've removed that picture from the wall. 我已经把那幅画从墙上拿走了。 Please remove your hat. 请摘下你的帽子。"]},{title:"语法",content:["复习第26～45课的部分语法","It is one of the ugliest faces(that) I have ever seen.","这是我见过的最丑陋的头像之一。（that 在关系从句中作宾语，可省略）","There aren't many students who sing as well as she does.","在学生当中没几个人唱歌像她那么好。（who 在关系从句中作主语，不可省略）","People are not so honest as they once were.","人们不再像以前那样诚实了。（not so/ as…as 用于比较状语从句）","He had hardly had time to settle down when he sold the house.","他还没等安顿下来就卖掉了房子。（hardly…when 用于过去完成时）","No sooner had I sat down than he came in.","我刚坐下他就进来了。（no sooner…than 用于过去完成时；否定词位于句首时句子要倒装）","The box was so heavy that she couldn't lift it.","箱子太重了，她搬不起来。（so+形容词+that 表示“如此……以至于”）","The thief got such a fright that he dropped the bag.","那个小偷吓得把提包都扔了。（such〈a〉+名词+that 表示“如此……以至于”）","Billy is not at home at present. He's at school.","比利现在不在家，他在学校。（at+名词的用法）"]},{title:"词汇学习",content:[`1．pull vt./vi.
+（1）拉，拖，牵，扯：
+I felt someone pulling my arm.
+我觉得有人在拉我的胳膊。
+They pulled the heavy bag into a room.
+他们把那个重袋子拖到一个房间里。
+You have to pull hard.
+你得用力拉。
+（2）拔，抽：
+You've pulled out the wrong teeth!
+你拔错了牙！
+He pulled an address book from his pocket.
+他从口袋里抽出一本通讯录。
+2．nod
+（1）vt./vi. 点头，点头示意／招呼：
+I asked him if he wanted to come and he nodded his head.
+我问他是否想来，他点了点头。
+When we meet each other in the office, he always nods at me.
+我们在办公室见面时，他总是向我点头打招呼。
+（2）vi. 打盹，打瞌睡（常与 off 连用）：
+He used to nod off during the French class.
+他过去常在上法语课时打瞌睡。
+As he was very tired, he nodded over his reading.
+因为他很累，所以他一边看书一边打盹。`]},{title:"课堂笔记",content:["be busy doing 忙于做某事","search out 找出","判断是否是定语从句就看是否和前面的名词有关系","where＝介词＋which","that is the house which i lived in","that is the house where i lived","this is the river where i swim","where 作定语从句的标志，修饰前面的 hole","in answer to 作为对...的回答","in return for 作为对...的报答"]}]},{lesson:49,sections:[{title:"自学导读",content:["1．Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed. 德黑兰的一个年轻人由于对睡地板感到厌倦，于是积蓄多年买了一张真正的床。","（1）tired 引导的分词短语省略了开头的 being，其作用相当于原因状语从句：As he was tired of…。sleeping 为动名词，作介词 of 的宾语。","（2）save up 为固定短语，表示“储蓄”、“攒钱”：","I want to get married in one or two years, so I'm trying to save(some money)up.","我想一两年之间内结婚，所以我在设法攒钱。","（3）to 在这里用于表示目的，相当于 in order to：","I got up early to have a swim.","为了游泳我起了个大早。","2．…he carried the bed on to the roof of his house．……他便把床搬到了他的屋顶上。 介词 onto 可拼写成一个词，也可拼写成两个词（on to）。它用于表示动作方向而不用于表示静态的位置（与 into 相似）： I put the pen onto/ on the table. 我把笔放到桌子上。 The pen is on the table. 笔在桌子上。（不可用 onto/ on to）onto/ on to 有时可用 on 代替，但表示位置的 on 不可用 onto 代替： Mr. Thompson jumped onto the stage. 汤普森先生跳上了台上。 Mr. Thompson jumped on the stage. 汤普森先生在台上跳了跳。","3．A gust of wind swept the bed off the roof…一阵大风把床从屋顶上刮了下来…… gust 表示“一阵强风”、“一阵狂风”，既可以单独使用，也可以用 a gust of wind 形式： A gust(of wind) blew my hat off. 一阵大风吹掉了我的帽子。 She set off even though the wind was blowing in gusts. 虽然当时阵阵狂风吹着，她还是出发了。","4．The young man did not wake up until the bed had struck the ground.那年轻人直到床撞到地上才醒了过来。","not…until 表示“直到……才”。until 后面与表示某一点的时间状语连用。它前面没有 not 时，与表示一段时间的“持续动词”连用；有 not 时，常用表示某一时间点的动词（或叫瞬间动词）连用：","I'll stay here until Monday.","我要在这儿呆到星期一。","I won't leave until Monday.","我要到星期一才离开。","5．to pieces, 粉碎地，成碎片地。 The cup was broken to pieces. 杯子摔成了碎片。","6．Glancing at the bits of wood and metal that lay around him, the man… 年轻人看了一眼周围的碎木片和碎金属片…… （1）glancing 为现在分词，它引导的短语相当于一个时间状语从句：After he glanced at… （2）动词 glance 的主要含义为“看一眼”、“扫视”： Ian glanced at his watch and left the room. 伊恩看了一眼手表，然后离开了房间。 Joe glanced through the newspaper while talking to me. 乔一边和我聊天，一边浏览报纸。 （3）that 引导的关系从句修饰 the bits of wood and metal, that 在从句中作主语。"]},{title:"语法",content:["复合句的语序 (Word order in complex statements)","复合句的构成方法可以是把简单句连接在一起。但与并列句不同，它的各个组成部分并非同等重要，其中总有一个独立分句（或称“主句”）和一个或一个以上从属分句（或称“从句”），主句往往可以独立存在。复合句可用两种方法构成。一是用连词把从句与主句连接起来；二是用分词结构或不定式，它们构成复合句的一部分，因为它们可以用从句的形式表现出来。","（1）用连词连接的复合句","A 在复合句中，从句可以是名词从句（即起名词的作用）。在句子中，它可以作主语、宾语或 be 等系动词的表语，一般由 that 引导，有时也用 what（疑问词引导的除外）：","I know(that)the meeting will be put off.","我知道会议将要推迟。（宾语）","That the meeting will be put off is now certain.","会议将被推迟现已确定无疑。（主语，that 不可省略）","B 也可以是关系（或形容词）从句，关系代词通常有 who, whom, that, which 和 whose。（cf．第28课语法）","C 也可以是状语（或副词）从句。时间状语从句一般回答 When？形式的问题，并可以用下列从属连词来引导：when, after, before, as soon as, until, while, as, since 等：","He has been ill since he came back from his holidays.","他自从休假回来就一直病着。","地点状语从句回答 Where？形式的问题，可以由 where, everywhere, anywhere 等连词来引导：","With a special train ticket, you can travel anywhere/ everywhere you like in Europe for just over ￡ 100.","你如持有专票，仅花一百多一点英镑，就可以到欧洲各地旅行。","方式状语从句回答 How？形式的问题，可以由连词 as 或短语 in the way(that)等引导。方式状语从句一般置于主句之后：","Type this again as／in the way(that) I showed you just now.","按我刚才告诉你的那样把这再打一遍。","方式状语从句在动词 be, feel, seem, appear 等后面也可以由连词 as if 和 as though 来引导：","It feels as if/ though it's going to rain.","这天气给人的感觉好像是就要下雨了。","原因状语从句一般回答 Why？形式的问题，可以由 because, as 等引导：","He went to bed earlier than usual because he was tired.","他因为累了，所以睡觉比平时早。","As you can't go yourself, you'll have to ask Susan go to for you.","既然你自己不能去，那你就请苏珊替你去吧。","条件状语从句可由 if 及其他连词引导。（cf．第16课与第40课语法）让步状语从句使句子具有对比的因素，它们一般由连词 although, though, even though, even if 等引导：","He failed the exam, even though he studied hard.","虽然他学习很努力，他考试还是没及格。","Although he studied hard, he failed the exam.","（译文同上）","目的状语从句可由 so that, in order that 等连词引导：","I arrived early so that/ in order that I could get the tickets.","我到得很早，以便能买到票。","结果状语从句描述结果，可由 so+形容词+that 引导，也可由 such(a)+（形容词）+名词+that 来引导：","She was so angry that she left immediately.","她非常生气，立刻就走了。","There was such a lot of rain that we couldn't go out.","下这么大的雨，我们都出不了门了。","比较状语从句结构包括 as+形容词／副词+as, not so／as…as，形容词／副词的比较级+than, more…than, less…than 等：","He is as quick in answering as his sister(is).","他回答得和他妹妹／姐姐一样快。","He is not so/ as quick in answering as his sister(is).","他回答得不如他妹妹／姐姐那样快。","He moves more slowly than his sister(does).","他行动起来比他妹妹／姐姐慢。","（2）分词结构的复合句","A 用现在分词结构可以代替时间从句、原因从句、关系从句等：","I got very angry speaking to them.","和他们谈话时我变得非常生气。（时间）","Feeling tired, I went to bed earlier than usual.","我觉得很累，所以睡得比平时早。（原因）","The train arriving at  8 o'clock is from London.","8点钟到的这趟列车是从伦敦来的。（代替关系从句）","现在分词结构的这种用法仅限于两个动作的主语一致的时候。用它代替时间从句时，分词结构表示的动作如果发生在前，则分词结构要位于主语前；如果两个动作同时发生，那么分词结构既可以位于主句前，也可以位于主句后：","Finding the door unlocked, he went into the room.","他发现门没上锁，就走进房间。（有前后）","Working with them, I got very angry.","同他们一起工作时我很生气。（同时）","分词结构位于主句前面时，要用逗号隔开。","B 过去分词结构常用于比较正式的文体，往往代替被动语态：","Damaged in an accident, the car has now been repaired.","在一次事故中被撞坏后，那辆车现已修好。","（3）不定式结构的复合句","这种结构通常可以代替表示目的或表示条件的状语从句：","To get into university you have to pass a number of examinations.","要进入大学你必须通过一系列考试。","I borrowed some money to get a new car.","为了买辆新车，我借了些钱。"]},{title:"词汇学习",content:[`1．sweep vt.
+（1）扫，打扫：
+She sweeps the floor/ the room every morning.
+她每天早上扫地／打扫房间。
+The room is swept clean.
+房间被打扫干净了。
+（2）（风）吹，刮：
+A gust of wind swept the bed off the roof.
+一阵大风把床从屋顶上刮了下来。
+The newspaper has been swept away by the wind.
+报纸被风吹走了。
+2．smash vt./vi.
+（1）打碎，摔碎，（使）碎裂：
+The bed was smashed to pieces.
+床摔成了碎片。
+The man smashed a window and got into the room.
+那人打碎了一扇窗，然后进了房间。
+The cup smashed on the floor.
+杯子掉在地板上摔碎了。
+（2）重击，殴打，猛砸／撞：
+Why didn't you smash the man with your fist?
+你为什么不用拳头狠狠揍那人一顿？
+A car smashed into the wall.
+一辆车撞到了墙上。`]},{title:"课堂笔记",content:["be tired of：对......感到厌倦","如果一个名词和一个代词分别做主句和从句地主语，能把事物说清楚地名词","习惯放在主句做主语","用形容词短语直接做状语","tired of sleeping on the floor","Worried about my daughter，Lucy, she went to London to visit Lucy","i went home tired","i went home excited","for the first time in one's life 平生第一次","for the first two nights 头两天晚上","i study hard for the first two three days","blow up 风越刮越大","speak up 大声点","below：直接放在被修饰词之后作定语","一个句子中不能出现两个动词：","如果出现了两个动词，用 and，but 连接；或者把其中一个作为非谓语动词】","although：though","crash 直接用主动形式，smash 一般用作及物动词","glancing at＝be glancing","只有谓语动词才会把它变成集中时态"]}]},{lesson:50,sections:[{title:"自学导读",content:["1．I went on an excursion recently, but my trip took me longer than I expected.最近我作了一次短途旅行，但这次旅行所花费的时间比我预计的要长。 （1）go on 在这里的含义为“为（某一目的）而去”： I'll go on holiday next month. 我下个月去度假。 Did you go on a trip last month? 你上个月去旅行了吗？ （2）take 在句中的含义为“花费（时间）”。take 表示此含义时，主语通常不用人，而用某件事，并常用带先行主语 it 的结构： It took me half an hour to walk to the station／to repair the bicycle. 走到车站／修理自行车花了我半个小时的时间。","2．I'll tell you where to get off.我会告诉您在哪儿下车。 （1）where to get off 是一个“连接副词+不定式短语”结构，其中的连接副词通常为疑问副词。这种结构接近一个名词从句，常 在 tell, show, know, decide, teach, learn, wonder, remember, explain 等动词后作宾语： Did Mary tell you when to come? 玛丽告诉你什么时候来了吗？ Do you know how to open the box? 你知道如何打开这盒子吗？ He didn't tell me where to put those books. 他没有告诉我把那些书放在哪里。 （2）get off 与 get on 为一对反义词，分别表示“（从汽车等上）下来”和“登上（汽车、火车等）”，off 与 on 既可以作副词又可以作介词： No one got on/ off(the bus)at the last bus stop. 在上个公共汽车站没有人上／下车。","3．I sat in the front of the bus to get a good view of the countryside.我坐在汽车的前部，以便饱览农村风光。 （1）in the front of 表示“在（某一事物的）前部”： I don't like to sit in the front of a car. 我不喜欢坐在汽车的前座上。 There is a ship in the front of the photo. 这张照片的前景中有条船。 in front of 则表示“在……前面”，两者间往往有距离： He stopped his car in front of a school. 他把车停在一个学校前面。 （2）不定式短语 to get…在句子中作目的状语。（cf．第49课语法）","4．This is as far as we go.我们的车就到此为止了。 as far as 表示“到……程度／限度”、“就……的限度而言”： As far as I know, they haven't returned from abroad. 就我所知，他们还没有从国外回来。 This is as far as I can help you. 我所能帮你的仅止于此。","5．I forgot to put you off.我忘了让您下车了。 put off 的含义之一是“让……下车（或飞机、船等）”： They put me off at a small station. 他们让我在一个小站下了车。","6．Well, in that case, I prefer to stay on the bus.好吧，既然如此，我还是留在车上吧。 （1）well 单独使用时通常为感叹词，有时表示同意、顺从、踌躇等情感，有时则仅起连接作用，相当于汉语的“嗯”、“噢”、“喔”等。 （2）in that／this case 表示“既然是这／那样”、“假使那／这样的话”： Is he one of your best friends? In that／this case, you may invite him. 他是你最好的朋友之一吗？既然如此，你可以邀请他。"]},{title:"语法",content:["一般现在时","在第26课的语法中，我们讲到有些表示状态和感觉的动词通常用于一般现在时而不用于进行时，如：appear, appreciate, believe, feel, forget, hear, know, like, look, notice, remember, resemble, see, think, understand。除了这些动词之外，另外有些表示所属关系以及喜好、憎恶、需要等感情的动词通常也只用于一般现在时而不用于进行时。这些动词包括 belong to, consist of, contain, desire, detest, dislike, hate, hope, love, matter, mean, mind, need, want, wish 等。它们往往表示通常的状态而不是具体动作。","The car belongs to Dan.","那辆车是丹的。（不可用进行时）","I need a new hat.","我需要一顶新帽子。（表示状态）"]},{title:"词汇学习",content:[`1．lose, loose 与 miss
+（1）lose 通常为及物动词，可以表示“失去”、“丧失”、“遗失”、“丢失”等含义：
+Roy has lost his job again.
+罗伊又失业了。
+Try not to lose your ticket.
+别丢了你的票。
+A large sum of money has been lost.
+有一大笔钱丢失了。
+She lost her parents when she was sixteen.
+她16岁时便失去了双亲。
+（2）loose 虽然词形与 lose 比较相似，意义与用法却有很大区别。它主要作形容词，表示“松的”、“松动的”、“松开的”：
+The handle of this suitcase is very/ has come loose.
+这个手提箱的把手非常松／松了。
+（3）miss 通常作及物动词，可以表示“错过”、“未能……”、“缺（课等）”、“惦念”、“想念”等多种含义：
+Hurry or you'll miss the train.
+动作快点，否则你要赶不上火车了。
+I missed my English lesson.
+我英语课缺课了。
+The Turners left the district last year and we really miss them.
+特纳一家去年离开了这个地区，我们真的很想念他们。
+2．expect 与 wait for
+（1）expect 可以表示“预计……可能发生（或来到）”、“等待”、“期盼”等。它表示等待时往往侧重人的心理而不是具体在某个地方等：
+I expect/ I'm expecting to hear from you.
+我等着你的来信。
+I'm expecting the bus to arrive in the next ten minutes.
+我想10分钟之内公共汽车就会到。
+（2）wait for 主要指“等待”这个动作本身：
+I'm waiting for the next bus.
+我在等下一班公共汽车。
+I'll wait for you outside the post office.
+我将在邮局外面等你。`]},{title:"课堂笔记",content:["love doing/like doing 强调一种习惯，喜欢做某事","i love my brother，but i don't like his girlfriend","i love having dinner with you，but i don't like paying for dinner","go on an excursion＝have an excursion","take 花费","take sb some time","Eg.：My trip took me a long time","it 形式主语","it takes sb some time to do sth","it takes sb some time that...","it took me a month to learn book 2","sb spend some time doing sth","i spent a month learning English","sb spend some time on sth","金钱上的花费 cost，pay for sth","than i expected【口语话】比我所预料的","the question is easier than i expected","you are greater than i expected","you are more beautiful than i expected","you are better than i expected","than i thought 比我原以为的","the holiday took you longer than i expected","the English class took me longer than i thought","get on the bus 上车","get off the bus 下车","i will tell you where you can（should） get off","i will tell you where to get off","语法结构：特殊疑问词＋to＋动词原形 可用来取代宾语从句","How can I get there？","can you tell me how i can get there","can you tell me how to get there","can you tell me what to do？","can you tell me how i should do","i don't know which to choose","i wonder when to have a meeting"]}]},{lesson:51,sections:[{title:"自学导读",content:["1．…but things got so bad recently that he decided to go on a diet.……但是近来情况变得越发糟糕，以致他决定节食。 （1）things（要用复数形式）可以表示“情况”、“情形”、“状况”、“形势”等含义： You've surely made things worse. 你确实使情况变得更糟了。 How are things going on with you? 你那里情况如何？ （2）get 作不及物动词时可以表示“变得”： I got interested in French. 我（变得）对法语感兴趣了。 I got angry with him. 我（变得）对他很生气。 （3）diet 用于表示治疗某种疾病或调节体重的“特种饮食”、“规定饮食”时通常与 on 连用： The doctor put him on a strict diet. 医生让他严格控制饮食。 She is on a diet. 她正在节食。 I once went on a diet for a week and then I gave up. 我曾经节食过一周，然后就放弃了。","2．First of all, he wrote out a long list of all the foods which were forbidden.首先，他开列了一张长长的单子，上面列了所有禁吃的食物。 （1）first of all 为固定短语，表示“首先”、“第一”： First of all I must see your passport. 首先我必须看一下你的护照。 （2）write out 这个短语表示“（正式）写”、“写出”或“全部写出”： You should write out a report. 你应该写一份报告。","3．The list included most of the things Hugh loves…这张单子上的大多数食物都是休喜欢吃的…… It contained five large bars of chocolate and three bags of sweets! 里面装了5大块巧克力和3袋糖果！ include 和 contain 都有“包含”的意思，但 contain 可以用于表示所包含的全部事物，include 则只表示其中的一部分： It included three bags of sweets. 其中有3袋糖果。（另外还有其他东西） contain 的主语通常为某个容器，include 则含义更广： Does the bill include a tip? 账单包括小费吗？ We're including you in our team. 我们把你列为我们队中的一员了。","4．Yesterday I paid him a visit.昨天我去看望了他。 pay a visit to sb. 表示“拜访某人”： I paid a visit to Jane the other day. 前几天我去看望了简。","5．…Hugh was still as fat as ever．……休仍和往常一样胖。 as ever 是 as he ever was 的省略形式。as…as ever 这个结构表示“照旧”、“依然”： He is as strong as ever. 他依然那么强壮。","6．It was obvious that he was very embarrassed.显然他感到很尴尬。 it 为先行主语，真正的句子主语是 that 引导的从句，它在句子中起名词的作用。从句作主语时通常前面用先行主语 it，以免句子看上去头重脚轻： It is certain now that he'll come on Monday. 现在可以肯定他星期一将会来。"]},{title:"语法",content:["一般过去时","在第3课及第27课的语法中我们都学习了一般过去时。在一段文字中，初次使用一般过去时的时候通常要有明确的时间状语，随后的叙述则可以不一定使用时间状语；如果不加 before, after 等词语，过去的动作就被认为是按所描述的顺序发生的：","One afternoon she set out from the coast in a small boat and was caught in a storm. Towards evening, the boat struck a rock and the girl jumped into the sea.","一天下午，她乘小船从海岸出发，遇上了风暴。天将黑时，小船撞在了一块礁石上，姑娘跳进了海里。","与一般过去时常用的两个词是 once 和 recently：","I went on an excursion recently.","最近我作了一次短途旅行。","recently 在表示“最近一段时期”时也可以与现在完成时连用：I haven't heard from him recently.","我最近没有收到他的信。","一般过去时也可以用于时间状语从句中："]},{title:"词汇学习",content:[`1．raise 与 rise
+（1）raise 作动词时只能作及物动词，即它必须跟宾语。它可以表示“举起”、“往上提”、“使……升高”等含义：
+Will those who agree with me please raise their hands?
+请那些同意我的人举起手来好吗？
+Why did they raise prices?
+他们为什么提高物价？
+（2）rise 作动词时通常为不及物动词，表示“起立”、“起床”、“（日、月等）升起”等含义：
+You're still in bed and the sun has already risen!
+你还在床上，太阳已经升起来了！
+I used to rise at half past six.
+我过去常常6点半起床。
+All the students rose when the teacher came into the classroom.
+老师走进教室时所有的学生都起立。
+2．lay 与 lie
+（1）lay 的过去式与过去分词均为 laid。它通常为及物动词，表示“置”、“搁”、“铺”、“准备”等：
+Please lay the book open on the desk.
+请把书打开放在书桌上。
+I laid your clothes on the bed so yon could put them away.
+我把你的衣服放在床上了，这样你可以把它们收起来。
+If you can't cook the dinner, you can at least lay the table.
+你如果不会做饭，至少可以把桌子摆好。
+（2）lie 的过去式和过去分词分别为 lay 和 lain。它是个不及物动词，表示“躺”、“平卧”等：
+Are you going to lie in bed all morning?
+你打算在床上躺一上午吗？
+Are you going to spend the whole morning lying in bed?
+（译文同上）
+We were so tired after last night's party that we lay in bed all morning.
+昨晚的晚会之后我们非常疲劳，今天在床上躺了一上午。
+3．beat 与 win
+（1）beat 作及物动词时可以表示“打败”、“战胜”、“胜过”、“超过”：
+They beat their enemy, though they were fewer in number.
+他们虽然人少，但打败了敌人。
+表示一个球队打败另一个球队时也用 beat。
+（2）win 作及物动词时可以表示“在……获胜（成功）”、“赢得”、“获得”、“夺得”等：`]},{title:"词汇学习",content:[`1．reward n. 报偿：
+give ab.a reward  n.
+reward sb.with sth. v. 用...来奖赏某人
+reward sb.for sth.
+...reward him for the first prize.
+2．virtue n. 美德：
+strongpoints  merit 长处,优点
+shortpoints  weak points 短处,缺点
+3．diet n. 节食：
+go on a diet
+4．forbid v. 禁止：
+forbid sb. to do sth.:禁止某人做某事
+allow sb.to do
+forbad :
+forbidden :Forbidden City 紫禁城 forbidden fruit 禁果
+5．lost:一个动词的过去分词可以作为形容词用
+broken glass
+6．hurriedly adv. 匆忙地：
+7．embarrass v. 使尴尬：
+8．embarrassing :令人尴尬
+9．embarrassed :感到尴尬
+sth embarrassed me.
+You embarrassed me.
+embarrassment
+to my embarrassment 让我感到尴尬
+10．guiltily adv. 内疚地：
+guilty consicience 问心有愧
+clear conscience 问心无愧
+11．strict adj. 严格的：
+be strict with sb.
+be strict in sth
+12．reward v. 给奖赏：
+13．occasionally adv. 偶尔地：
+on the occasion
+at times
+How often do you visit your parents?
+off and on 偶尔
+now and again`]},{title:"讲解",content:["so...that","First of all:首要  at first","write out :写出","included  contain 一定是容器里面装","most of :大部分 fatten10:使某人长胖","pay sb.a visit  pay a visit to  call at","pay you a visit","have a visit = visit","as...as ever 和往常一样   as clean as ever   as quiet as ever","be surprised to do","lead sb.into    show sb out  see sb off","obviously  It was obvious that..."]},{title:"特殊难点",content:["raise: 及物动词","rise: 不及物动词","Lay :及物动词   Lie :不及物动词","lay the egg  lie in bed","beat :后面接对手  win :不能加对手","I beat you","1. ...rose...","2. ...lying...","3. ...laid... before breakfast 注意第三人称单数","4. ...rose... 有宾语,前面还有介词","5. ...beats..."]}]},{lesson:52,sections:[{title:"自学导读",content:["1．I have been trying to get my new room in order.我试图把我的新房间收拾整齐。 （1）与课文开头那句话的后半部分一样，这个句子也用了现在完成进行时。（cf．本课语法） （2）get…in order 表 in“把……整理好”，in order 的含义之一为“整齐”、“井然有序”： Get／Put everything in order before you leave the room. 离开房间前把所有的东西都整理好。","2．To make matters worse, the room is rather small…更糟糕的是房间还非常小…… to make matters worse 是个插入语，与主句之间要用逗号隔开。 matters（复数形式）可以表示“事态”、“情况”。这个短语是个惯用语： I lost my way in the forest, and to make matters worse, it became dark. 我在森林里迷了路。更糟糕的是，天开始黑了。","3．At the moment, they cover every inch of floor space and I actually have to walk on them to get in or out of the room.这会儿，书把地板的每一点空隙都占据了，我实际上是踩着这些书进出房间的。 （1）at the moment 表示“此刻”、“目前”： At the moment, I'm busy preparing for the exams. 目前我正忙着准备考试。 （2）to get…为表示目的的不定式短语，相当于一个从句。","4．You can sit here in your spare time and read the carpet!空闲时你可以坐在这儿读地毯！ spare 可以表示“空闲的”、“多余的”： I like to read in my spare time. 我空闲时喜欢读书。 Have you got a spare moment? 你（现在）有空吗？"]},{title:"语法",content:["1．现在完成时与现在完成进行时","在第4课、第28课的语法中，我们学习了现在完成时的用法以及经常与它连用的时间副词（或短语）、介词等。现在完成进行时由 have been+现在分词构成，强调动作在某一段时间内一直在进行，而且动作现在有结果。到现在为止，该动作可能已不再继续进行，也可能还在继续进行，这要根据上下文来确定。句子中常含有 all+表示时间的词语如 all day, all morning 等或 for 和 since。一般说来，现在完成表示已完成的动作，现在完成进行时则可表示尚未完成的动作。有些动词，如 learn, lie, live, rain, sit, sleep, stand, study, wait, work 等本身就有持续性，现在完成时形式与现在完成进行时形式可以互换，惟一的区别是后者更强调动作的持续性：","2．形容词、相应的副词及其用法","（1）许多副词，特别是表示方式的副词，皆由形容词加-ly 构成，如 easy（容易的）／easily（容易地），beautiful（漂亮的）／beautifully（漂亮地）。一些频度副词也如此构成，如 usual（通常的）／usually（通常）。还有少数几个表示程度及观点的副词也都以-ly 结尾：high（高的）／highly（高度地），real（真的）／really（真正的）。这些副词与它相应的形容词的意义区别不大，比较容易掌握：","She is very happy now.","她现在很快乐。","She lives happily with her mother.","她和母亲一起快乐地生活。","（2）有些副词虽然由形容词加-ly 构成，但在意义上与其相应的形容词并不相同，如 hard（勤奋的，困难的）／hardly（几乎不），cold（冷的）／coldly（冷淡的），late（迟到的，晚的）／lately7（最近，近来），near（近的，接近的）／nearly（几乎，差不多，差点儿）。有些副词有两种形式。有的意义相同，如 cheap（廉价地）／cheaply（廉价地），但有的意义不同如 late（迟，晚）／lately（近来），hard（努力地，猛烈地）／hardly（几乎不）。有些副词在形式上与形容词相同，如 fast（快），past（过去），far（远）等。","（3）大多数方式副词的位置一般在宾语或动词后面：","Look at this photo carefully.","仔细看这张照片。（宾语后面）","It snowed heavily last night.","昨天夜里雪下得很大。（动词后面）","Why don't you try to work hard?","你为什么不努力工作呢？（动词后面）","表示时间的副词常位于句尾，有时也可位于句首：","This morning I got up very early/ late.","今天早上我起得很早／晚。（句首或句尾）","程度副词，如 almost, enough, hardly, nearly, quite, rather, too 等，大部分用在它们所修饰的词之前：","The film was quite good.","这个电影相当不错。（修饰形容词）","I nearly cried out with surprise.","我惊讶得几乎叫了起来。（修饰动词）","副词的位置比较复杂，大部分要看具体情况。"]},{title:"词汇学习",content:[`1．own
+（1）vt. 拥有：
+I own over a thousand books.
+我有一千多本书。
+Who owns this car?
+这辆车是谁的？
+（2）vt./vi. 承认：
+He owned(that)he had made a mistake.
+他承认自己犯了个错误。
+He owned to stealing the wallet.
+他承认偷了钱包。
+（3）adj.自己的：
+He lives in his own house.
+他住在自己家里。
+He has a car of his own.
+他有一辆自己的车。
+2．quite 与 quiet
+由于发音和词形都很相似，这两个单词往往容易搞混，其实区别很大。
+（1）quite 为程度副词，表示“完全”、“相当”、“很”等含义：
+I'm quite ready.
+我已全准备好了。
+That hat is quite pretty.
+那顶帽子很漂亮。
+Are you quite certain?
+你敢完全肯定吗？
+She isn't quite happy.
+她不是很开心。
+（2）quiet 可作形容词，表示“安静的”、“平静的”、“静止的”、“寂静的”等：
+Please be quiet.
+请安静点。
+The sea was very quiet this morning.
+今天上午大海很平静。
+The house became quiet again when the children were gone.
+孩子们走了之后屋子里又变得寂静了。`]},{title:"词汇学习",content:[`1．temporarily adv. 暂时地：
+2．inch n. 英寸（度量单位）：
+3．foot :英尺
+4．mile :英里
+5．space n. 空间：
+6．actually adv. 实际上：
+in fact`]},{title:"讲解",content:["有 just 就是完成时","现在完成进行时 —— 动作有延续","现在完成时 : 1.在漫长的时间段,过去发生的,还一定要对现在产生影响",'2. 在过去发生的动作,一直延续到现在 get my new room in order in order: 有次序, get sth.in order: 使...有次序 To make matters worse ……插入语,放开头,"更糟糕的是" rather:相当的 at the moment:(=now) 现在 every inch :每一英寸(夸张) help sb.(to) do sth. :帮某人做某事 help sb.with sth. with your help :在你的帮助下 I have ever seen ……做定语从句出现,是最高级的标志 gazed at …… 对...向往,羡慕 not at all ……起强调作用']},{title:"语法",content:["1. You should go to bed. You__have been watching/have watched_TV for 5 hours.","2. I_have been writing_(write) leltters since breakfast.","3. I _have written_(write) 3 letters since breakfast.","4. Sorry,but Mr. Smith _has left_for Beijing. ( 瞬间动词","1. 和现在完成进行是连用的,一定不能是次数","2. 和现在完成进行时连用的动词,一定不能是短暂动词","5. I _have been looking__(look) for him everywhere,where can he be?"]}]},{lesson:53,sections:[{title:"自学导读",content:["1．At last firemen have put out a big forest fire in California.消防队员们终于扑灭了加利福尼亚的一场森林大火。 （1）at last（终于，到底）表示经过一番努力之后。 （2）put out 可以表示“扑灭”、“熄灭”、“关掉”等含义： Please put the light/ fire out. 请把灯关掉／把火灭掉。 （3）forest 虽然是名词，但在句中起形容词的作用，修饰 fire。","2．…they have been trying to find out how the fire began．……他们一直试图找出起火的原因。 （1）短语动词 find out 表示经过研究、努力等“发现”、“找出”、“查出”： I'll try and find out the name of the person who saved my life yesterday. 我将设法查出昨天救我命的那个人的姓名。 （2）how the fire began 是 find out 的宾语，它是一个由疑问词 how 引导的名词从句。","3．They were also quite sure that a cigarette end did not start the fire.他们还十分肯定火灾也不是由烟头引起的。 （1）start 作及物动词时可以表示“使……发生”、“引起”。","（2）be sure 后面跟的是名词从句。that 引导的这个名词从句也可以写成 that the fire was not started by a cigarette end。但这里强调的是引起火灾的原因（不是碎玻璃或烟头），所以用烟头作主语。","4．…a fireman accidentally discovered the cause．……一个消防队员偶然发现了起火的原因。 discover 本身含有偶然发现（某个已经存在的东西）的含义： I don't know who discovered America. 我不知道谁发现美洲的。 在 discover 前面加上 accidentally 更加强了“偶然”、“意外”的含义。","5．He noticed the remains of a snake which was wound round the electric wires of a 16,000-volt power line.他发现了缠绕在16，000伏高压线上的一条死蛇。 （1）the remains 表示“尸体”、“残骸”，必须用复数形式： The villagers were surprised to see the remains of an aeroplane near the lake. 村民们惊讶地发现湖边有一架飞机的残骸。 （2）wound 为 wind 的过去分词。wind 在这里不表示“蜿蜒”，而表示“卷在……上”、“缠绕”，常与 around／round 连用： Did you wind this piece of wire round the tree? 是你把这根铁丝缠在树上的吗？ （3）wire 指具体的电线、铁丝等，line 在这里指“线路”，含义比 wire 广。","6．When it did so…当它这样做时…… so 常用于一些动词之后，代指前面提过的某个动作／某件事，以免重复"]},{title:"语法",content:["一般过去时、现在完成时与现在完成进行时（cf．第29课与第52课语法）","一般过去时通常与一个表示确切的时间的状语连用，现在完成时则有时与表示一段时间的状语连用，有时不需要时间状语，而现在完成进行时则有时与表示一段时间的状语连用，有时与 all+表示时间的名词连用。现在完成时与一般过去时中既可以用状态动词（表示存在、拥有、感情、思想、需求等的动词）也可以用行为动词，现在完成进行时则通常与行为动词连用"]},{title:"词汇学习",content:[`1．throw
+throw 作及物动词主要含义为“投”、“掷”、“抛”、“扔”。当它与不同的介词或副词连用时，其意义会稍有变化。throw away 表示“扔掉”、“丢弃”；throw at 表示对准某一目标扔；throw to 则表示扔给（某人）：
+Many people throw away cigarette ends carelessly.
+许多人随手乱扔香烟头。
+Shall I throw this old newspaper away?
+我把这旧报纸扔掉好吗？
+Don't throw stones at the dog/ the window.
+别对着狗／窗子扔石头。
+I threw the ball to John but Tom caught it.
+我把球扔给约翰，但汤姆接住了球。
+2．cause 与 reason
+（1）cause 作名词时最重要的含义是“原因”、“起因”：
+A fireman accidentally discovered the cause of the fire.
+一个消防队员偶然发现了起火的原因。
+Do you know the cause of the war?
+你知道这场战争的起因吗？（cause 通常与 of 连用）
+cause 作动词时可以表示“使……产生／发生”、“引起”：
+Forest fires are often caused by broken glass or cigarette ends.
+森林火灾时常由碎玻璃或香烟头引起。
+What caused the accident?
+事故是如何造成的？
+（2）reason 作名词时最重要的含义是“理由”、“原因”：
+Give me your reasons for going there.
+请告诉我你去那里的理由。
+What was the reason for the delay?
+延迟的原因是什么？
+作“原因”讲时，reason 与 cause 可以互相交换使用，但 reason 与介词 for 连用，而 cause 则与介词 of 连用：
+What was the cause of the delay?
+（译文同上）
+reason 后面通常跟 why 引导的从句：
+That was the reason why the meeting was put off.
+这就是会议推迟的原因。
+reason 作动词时表示“推理”、“劝导”、“说服”等：
+How can you reason with him when he is so worried?
+他现在如此担心，你怎么能劝得了他？
+3．drop 与 fall
+drop 既可作及物动词又可作不及物动词，表示“（使）掉下”、“（使）落下”、“放下”：
+As he walked past the tree, an apple dropped from it.
+当他走过那棵树时，一个苹果从树上掉了下来。
+The waiter dropped a fork.
+那侍者掉了一把叉子。
+He dropped the bag on the floor.
+他把包放在地板上。
+fall 通常为不及物动词，表示“落下”、“（雨、雪）下”、“降”、“跌倒”、“摔倒”：
+I fell and hurt myself.
+我摔倒了并受了伤。
+Please hold the vase and don't let it fall.
+请拿住这花瓶，别让它倒了。
+When leaves fall in autumn, I'll come back.
+秋天叶落时，我就会回来。`]},{title:"词汇学习",content:[`1．hot adj. 带电的，充电的：
+热的
+2．hot-hot-hot: 麻辣烫
+3．hot-wings: 辣鸡翅
+4．hot-tempered :火爆(脾气)的
+5．hot-line :热线
+6．hot topic :热门话题
+7．hot cake :热蛋糕
+8．hot dog :热狗
+It sells like a hot cake/cakes.
+9．hot :新鲜的
+best seller11: 畅销的东西
+10．hot potato :棘手的问题
+11．hot news :最热点的新闻
+hot snake
+12．fireman n. 消防队员：
+13．hydrant: 消防栓
+14．fire extinguisher:灭火器
+extinguish=put out: 灭火
+15．cause v. 引起； n. 原因：
+cause sth.:引起麻烦
+Carelessness causes accidents.
+Pride causes failure.
+cause sb to do sth. :导致某人做某事
+Illness caused him to lose his temper
+Because 因为 be cause
+16．reason : 理由, cause 原因
+17．cause :强调事情发生的直接原因(一个)
+18．reason :其他各种的理由(很多个)
+19．examine v. 检查：
+examine the soil
+20．check :核实,核对
+21．accidentally adv. 意外地，偶然地：
+accident->accidental->accidentally
+22．accident :事故
+23．unexpectedly :出乎意料地
+Unexpectedly he didn't go.
+I met the famous writer accidentally.
+24．remains n. 尸体，残骸：
+dead body
+25．wire n. 电线：
+26．volt n. 伏特（电压单位）：
+27．power line 电力线：
+28．solve v. 解决：
+solve the mystery(迷)
+solve the problem
+29．mystery n. 谜：
+30．snatch v. 抓住：
+31．catch: 抓鱼
+hold
+32．snatch :突然抓起来
+33．seize : 抓住(用力)
+seize my arm
+34．spark n. 电火花：`]},{title:"讲解",content:["put out a fire : 扑灭火","a fire :一场(堆)火","since then: 从那时起到现在为止","have been trying to","现在完成时强调的是很有可能","broken glass :被打碎的玻璃片","cigarette ends :烟头","be able to","be sure that :对...很有把握","quite sure :相当的把握性","rather: 相当","fairly","quite(=completely)->rather->fairly","quite a few :颇有几个(相当多的)","start a fire= cause a fire","accidentally :偶然地","unexpectedly :出乎别人意料之外","cause :直接原因","notice :注意别人不注意的东西","wound","wind one's way :蜿蜒而行","wind vt. 盘旋,缠绕","16,000-volt power line","连字符一旦加在两个词中间,这个词之间就失去了加复数的资格,能够加连字符的概念一定是做定语","in this way :以这种方式","explanation:解释","had done","drop","it->snake","do so :这么做","I refuse to do so","send+宾补","down to the ground","these->sparks","hot snake :触电的蛇","get an electric shake :触电","now that : 既然","quite/quiet","quiet adj. 安静的","quite adv. 相当地,非常地,很","cause/reason","reason:理由  cause:原因(直接)","cause v.","1. cause sth..导致,引起","2.cause sb to do sth...导致某人做某事 reason v. reason with sb 劝说(以道理) beg for sth :乞求什么东西 drop/fall drop vt.+宾语(名词或代词),强调的是不小心掉下来 fall vi. 无宾语, 强调的是掉下来的概念,动作"]}]},{lesson:54,sections:[{title:"自学导读",content:["1．The children were at school, my husband was at work…孩子们在上学，我丈夫在上班…… school 和 work 前都没加冠词，因为不是指具体那个学校或具体干什么工作，只是泛指他们在干什么。","2．at exactly that moment, 恰恰在此时。 exactly 用于加强语气，表示“正”、“恰恰”： That's exactly what I wanted to tell you. 那正是我想要告诉你的。","3．Nothing could have been more annoying.没有什么能比这更烦人了。 用这个句型可以表达许多感情，换一下最后的形容词即可： Nothing could have been more exciting/ interesting/ embarrassing. 没有什么能比这更激动人心／有趣／令人尴尬的了。","4．It took me ten minutes to persuade her to ring back later. 我用了10分钟的时间才说服她过会儿再来电话。 （1）it 为先行主语，代指 to persuade 引导的不定式短语。 （2）表示说服某人做某事时，可以用 persuade+sb.+to do sth.这个结构： I persuaded him to give up that plan. 我劝他放弃那项计划。也可以用 persuade+sb. +into doing sth. 这个结构： I persuaded him into giving up that plan. （译文同上） （3）later 可以表示“过后”、“以后”： Ten minutes later, the bus arrived. 10分钟以后，公共汽车来了。 Please come back later(on). 请过会儿再来。","5．What a mess! 真是糟糕透了！ 在口语中，a mess 可以用来指“困境”、“窘境”、“一团糟”等含义： I made a mess of my exam. 我考试考得一团糟。 Make some jam if you want to, but don't make a mess in the kitchen. 你如果愿意就做些果酱，不过别把厨房弄得一团糟。","6．I had no sooner got back to the kitchen than the doorbell rang loud enough to wake the dead.我刚回到厨房，门铃又响了起来，响声足以把死人唤醒。 （1）连词 no sooner…than…（刚……就……）用于过去完成时。（cf．第38课语法） （2）enough 作副词用在形容词或副词之后，有“足以……”的含义： The water in the pool is warm enough (to swim in). 池里的水够暖和的（，可以游泳）。"]},{title:"语法",content:["a,the, some 与 any（cf．第6课与第30课语法）","（1）在第6课与第30课的语法中，我们学习了冠词 a, the 以及 some 和 any 的一些基本用法。some 和 any 可用于不可数名词及复数可数名词之前。some 通常用于肯定句，any 通常用于否定句和疑问句中：","We still have some sugar. We don't need any sugar now.","我们还有一些糖。目前我们不需要糖。","但在期待得到肯定答复的疑问句中也可以用 some，而在肯定句中表示“随便哪个”、“任何一个”的含义时也可以用 any：","（2）有些形容词可以用于 the 之后（决不能用于 a／an 之后），表示作为整体的群体，如 the blind（盲人），the deaf（聋子），the living（生者），the dead（死者），the rich（富人），the poor（穷人），the young（年轻人），the old（老人）。这些形容词后要跟复数动词，不可用这些形容词本身来指个体：","The Government always makes sure that the old are cared for.","政府总是确保老人能得到照顾。","This is a special school for the deaf.","这是一所特为聋人办的学校。","如果想指单数个体，则可以说：","Sam is a young man with a lot of money.","萨姆是一个非常有钱的年轻人。","Sam is old now.","萨姆现在老了。","（3）当下列名词指其“主要目的”，即与其相关的动作时，要用零冠词（即名词前没有冠词），如 He's in bed（他睡了）中 bed 是为了睡觉用的）。这类名词有 bed, church, class, college（学院），hospital, market, prison（监狱），school, sea, university（大学），work（工作地点）。","I sent the children to school.","我送孩子们上学。","The children were at school and my husband was at work.","孩子们在上学，我丈夫在上班。","但在特指的东西面前要用 the：","Your bag is under the bed.","你的提包在床底下。","There's a meeting at the school at  8 o'clock.","8点钟学校有一个会。","泛指同类事物中的任何一个时则用 a：","cinema 与 theatre 的用法与上面提到的名词的用法有区别。","在表示去看电影／戏时要用 go to the cinema／theatre：","I went to the theatre last night.","我昨晚看戏去了。","（4）在形容词／副词的最高级前面要用 the，但当 most 表示“大多数”时它前面则不加 the：","Joe Sanders has the most beautiful garden in our town.","乔·桑德斯拥有我们镇上最漂亮的花园。","Most young men have to work hard.","大多数年轻人得努力工作。","Most buildings in this district belong to the government.","这个地区的大部分建筑属于政府所有。"]},{title:"词汇学习",content:[`1．mix
+（1）vt. 使混和，拌和：
+I was busy mixing butter and flour.
+我忙着搅和黄油和面粉。
+You can mix some salt into the flour.
+你可以在面粉里和入一些盐。
+（2）vi. 交往，相处：
+I'm not going to mix with those people.
+我不打算和那些人来往。
+Mary doesn't mix much.
+玛丽不太和人交往。
+2．recognize vt.
+（1）辨出，认出，认识：
+I recognized the voice of Helen Bates.
+我听出是海伦·贝茨的声音。
+Can you recognize the man beside Ian?
+你能认出伊恩旁边的这个人吗？
+（2）承认，确认，认可：
+It is recognized that Jane is the most intelligent girl among us.
+大家承认简是我们当中最聪明的女孩。
+He recognized Dan as one of his best firends.
+他承认丹是他最好的朋友之一。`]},{title:"词汇学习",content:[`1．sticky adj. 粘的：
+as sticky as glue 和胶水一样粘
+2．finger n. 手指：
+thumb 大拇指
+index finger 食指
+middle finger 中指
+ring finger 无名指
+little finger 小指
+toe 脚趾
+3．pie n. 馅饼：
+4．mix v. 混合，拌和：
+mixture n.
+5．pastry n. 面糊：
+6．annoying adj. 恼人的：
+it is annoying.
+annoyed 感到烦恼的
+比 anger 的语气弱
+7．receiver n. 电话的话筒：
+8．dismay v. 失望，泄气：
+dismay sb. 让某人感到失望
+dismaying 令人失望
+dismayed 感到失望
+reason with sb. 劝说
+try to persuade 劝说
+9．recognize v. 认出，听出：
+10．persuade v. 说服，劝说：
+11．mess n. 乱七八糟：
+What a mess!
+You are a mess!
+The man/woman is mess!
+make a mess of sth. 制造乱七八糟
+12．doorknob n. 门把手：
+球形的把手
+13．sign v. 签字：
+sign your name(s) here 在这里签名
+signature n. 签名
+I need your signature. 我需要你的签名
+autograph 明星,名人的签名
+14．register v. 挂号邮寄：
+registered letter 挂号信
+sign for 签收`]},{title:"讲解",content:["after breakfast 在吃过早饭后","I send the children to school 送孩子上学","at school 在上学","at work 在上班","at home 在家休息","be busy doing 忙于做某事","flour 面粉 不可数名词","be covered with 盖满","at exactly that moment 就在那时","no one could be/have been 没有人...","No one could be /have been father 没有人更胖了","Nothing could have been cheaper. 没有什么东西更便宜了","No face could be uglier. 没有一张脸更丑了","No books could be more interesting. 没有书更有趣了","Nothing could have been more exciting. 没有什么事情更令人激动了","pick up the receiver 拾起话筒","persudae sb.to do sth. 说服某人做某事","It takes sb.some time to do sth. 花费某人多久做某事","ring back 1.会电话 2. 再打电话","hang up 挂起","hang up the receiver 挂断电话","no sooner...than...","hardly...when...","enough 足够的 : 1.n. I have/had had enough. 我已经拥有足够的了","2. adj. enough+n. , n.+enough I have enough time/time enough. enough 修饰名词时放在被修饰词的前面或后面","3.adv. 不修饰动词,只修饰 adj.或者 adv. enough 修饰 adj.或者 adv.时一定要放在被修饰词的后面 enough to do sth. 足以用来做某事 He is rich enough to buy the whole city. 他富有的可以买下整个城市 I am hungry enough to eat sth. 在 dead,young,old 前面可以直接加 the the+adj. 表示 ...一类人 the rich 富人  the young 年轻人  the blind 瞎子 the English 英国人  Englishman,englishwoman 重点: annoying dismay persudae mess sign Nothing could ahve been more annoying. loud enough to wake the dead"]}]},{lesson:55,sections:[{title:"自学导读",content:["1．once a year,每年一次。 once+表示时间的名词可以表示“每……一次”： The postman calls once a day. 邮递员每天来一次。","2．A lot of cars entered for this race last year…去年有很多汽车参加了这项比赛…… enter for 表示“报名参加”。（cf．第8课词汇学习）","3．Built in 1885, it was the oldest car taking part.该车造于1885年，是参赛车中最老的一辆。","built 引导的过去分词短语起状语的作用，说明动作发生的背景或情况。主句可以补全为 it was the oldest car taking part in the race。","4．Many of the cars broke down on the course…很多汽车在途中就抛了锚…… break down 为固定短语，其含义之一是“（机械等）出故障”、“出毛病”： This morning I was late for work, because my car broke down twice. 今天上午我上班迟到了，因为我的车坏了两次。","5．The winning car reached a speed of forty miles an hour----much faster than any of its rivals.获胜的那辆车达到了时速40英里——远远超过任何对手。 （1）winning 为现在分词作定语： Those of the winning team jumped happily. 获胜队的队员们高兴地跳着。 （2）表示速度为多少时可用 a speed of+数量词这个结构： You must have been driving at a speed of seventy miles an hour. 你刚才一定是以每小时70英里的速度在开车。 （3）破折号后面的部分补充说明这个速度。much 是用得较多的 与比较级连用的修饰语： Houses are much more expensive these days. 如今的房价贵多了。","6．It sped downhill at the end of the race and its driver had a lot of trouble trying to stop it.它在接近终点时，冲下了山坡，驾驶员费了好大劲才把车停下来。 （1）speed 作不及物动词时可以表示“疾驶”、“急行”等含义： The police car sped past us. 警车从我们身边疾驶而过。 The two men sped out of the room. 那两个人快步走出了房间。 （2）表示“在……的末尾／最后部分”时可以用 at the end of 这个短语： I'll return the books to you at the end of the week/ month. 我周／月末时把书还给你。 He spoke a few words at the end of the meeting. 会议结束时他说了几句话。 （3）表示“做某事遇到麻烦／困难”时可以用 have trouble doing sth. ： They had some trouble finding out the cause of the fire. 他们在查找起火原因时遇到了一些困难。"]},{title:"语法",content:["1．使用 the same as 和 different from 的比较结构 在第32课的语法中，我们学习了用 as…as 和 not so／as…as 表示比较；在第8课的语法中，我们学习了形容词和副词的比较级和最高级的构成及用法： 表示比较的另外两种方法是用短语 the same(…)as 和 different from。the same(…)as 表示“与……相同／同样”： Our TV is the same as yours. 我们的电视和你们的一样。 You've made the same mistake as Tom. 你和汤姆犯了同样的错误。 有时 the same 可以单独使用，不带 as： Those two dresses are the same. 那两件衣服一样。 different from 表示“与……不同”，different 前面可加 very, much, a little 等修饰语： We're planning something different this year from what we did last year. 我们今年计划做些与去年不同的事。 German cars are quite different from Japanese cars. 德国（造的）汽车与日本（造）的很不一样。","2．much 与 many 的其他表达方式 在第32课的语法中，我们学习了 little 和 few 的用法，知道在口语中多用 not much, not many 代替： There isn't much sugar/aren't many sweets, but you can have a little/few. 糖/糖果不多了，不过你可以来一点/吃几块。","（1）much 和 many 通常用于否定句和疑问句（正式文体除外）。在日常谈话中，我们通常避免在肯定句中使用 much 和 many，而用别的数量词。口语中用得最多的表示“许多”的数量词是 a lot of（常被认为不宜用在正式的场合），它既可以与复数可数名词连用也可以与不可数名词连用，后面的动词用单数还是复数取决于名词：","A lot of time is needed to do this work.","做这项工作需要很多时间。","A lot of books have been stolen.","许多书被盗了。","比 a lot of 正式一些的表达方式有：a great/good deal of+不可数名词，a great/good/large number of+复数名词，a great/good many of+复数名词。","A great/good deal of money is spent on food.","在食物上花了很多钱。","A great/good number of our students are Americans.","我们的学生中有许多是美国人。","Tom doesn't read much, but Ian reads a great deal/a lot.","汤姆读书不多，但伊恩读得很多。","（2）在 what 引导的感叹句中不用 much/many:"]},{title:"词汇学习",content:[`1．handsome, beautiful, pretty 与 good-looking
+这些单词都可以表示“美”，但含义和用法各不相同。handsome 通常用来形容男子，表示“漂亮的”、“英俊的”； beautiful 表示“美的”、“给人美感的”、“令人愉悦的”、“完美的”等含义，多用于形容女子、孩童、花草、服饰等，不用来形容男子的长相；pretty 表示“漂亮的”、“可爱的”、“令人怜爱的”等含义，多用于女子、孩子等；good-looking 表示容貌“标致的”、“美貌的”、“好看的”，男女均适用，它所表示的美通常不及 beautiful 所表示的：
+Dan is a handsome/good-looking young man.
+丹是个英俊的/很帅的小伙子。
+Mary is a beautiful/good-looking/pretty girl.
+玛丽是个美丽的/好看的/漂亮的姑娘。
+2．reach 与 arrive in/at
+（1）reach 表示“到达”、“达到”。表示抵达某地时通常为及物动词，比 arrive in/at 要正式：
+When did you reach London?
+你们何时抵达伦敦的？
+reach 适用的范围比较广，不仅仅限于地点，作不及物动词的情况较少：
+When you reach my age, you'll be able to understand it.
+等你到我这个年龄时，你就可以理解了。
+Can you get that book down for me please? I can't reach it.
+请你帮我把那本书拿下来好吗？我够不着。
+（2）arrive 为不及物动词，表示“到达”、“抵达”。它既可以单独使用，也可以与介词连用。在表示到达某个较大的地方时用 arrive in, 到达某个较小的地方/场所用 arrive at, 这由说话者决定：
+When I arrived at the station, the train had already gone.
+我到车站时，那列火车已经开走了。
+3．take part 与 take place
+（1）固定短语 take part(in)表示“参加”、“参与”：
+It was the oldest car taking part.
+它是参赛车中最老的一辆。
+How many of you are taking part in the play?
+你们当中有多少人参加了这个剧的演出？
+I didn't take part in their conversation.
+我没有加入他们的谈话。
+（2）take place 也是个固定短语，表示“发生”、“进行”、“举行”：
+All these took place before you were born.
+所有这些都发生在你出生之前。
+The Olympic Games will take place in our country in four years' time.
+4年以后，奥林匹克运动会将在我们国家举办。`]},{title:"词汇学习",content:[`1．gold n. 金子：
+gold/golden
+sth.be made of gold
+gold watch
+gold ring
+golden sun
+Slience is golden.
+2．golden : 金色的; 宝贵的
+golden opportunity
+golden sentence
+I am honoured to have the opportuntiy to do sth.
+I am glad to have the golden opporturity to stay with you.`]},{title:"讲解",content:["Dreams come true","Dreams ended","Dream of","dream of doing sth.","I dream of flying in the sky.","Dream of flying in the sky comes true.","一句话只有一个动词，如果再出现动词，可以用 and 并列连接，也可以变成复合句用 when,because 连接，还可以使这个动词表示动词意思，但不做谓语，即非谓语动词","过去分词做定语表示＂被＂","ploughed field","n.+ called",'The plane called a "Pilatus Porter16"',"如果用短语修饰其它词，则把短语放在被修饰词的后边","be used to do  被用来","used to do","同位语从句中的引导词只要一个 that","under the ground","it is said 是插入语 ＂据说＂","used to 常常","where 修饰 cave","where ; in which 在那儿","This is the river where I swim","would 一般表示从过去看将来，但此处表示＂used to＂过去常做","She is the girl who is my sister","She is a girl. She is my sister. 变复杂为简单","be armed with","went into the cave","hoping to find","They were armed with","They went to","They hoped to find","如果几个句子的主语是同一事物，则可以把几个句子并为一个句子","在把握中心句子的前提下，注意其它成分的合成，如果是主动关系，用 ing 形式，保留一个句子做主句，其它的变成非谓语动词","非谓语动词采用何种形式，则根据其与主语的关系，如果是主动关系，用 ing 形式，如果是被动关系，则用动词的 ed 形式","主句与其它句子的位置安排要保持句子的平衡，还要注意动作的连贯。","The boy went home.","The boy was crying.","The boy was beaten.","Beaten by sb,the boy went home,crying.","armed with / hoping to find","entrance to / of","under the ground","Tired , I went home.","I went home tired.","形容词短语做状语","Tired of......","two feet deep 数词＋量词＋形容词","long/wide/high/deep","tall","I am five years old.","数词＋量词＋形容词结构可以做定语；也可以做表语","The street is wide.","The street is five meters wide.","离名词最近的形容词是最被强调的","in spite of 尽管","though / even if","something of value","of 加名词往往让人联想这名词对应的形容词","of value = valuable","形容词要放在不定代词的后边","something important","something of importance","someone patient","someone of patience","of value = valuable","of small value"]}]},{lesson:56,sections:[{title:"词汇学习",content:[`1．sound n. 声音：
+sound v.听起来
+adj.合理的
+等于 reasonable
+I have a piece of sound advice.
+我有一个合理的建议
+soundly 香甜地
+sleep soundly
+voice 人的声音
+noise 和周围不和谐的声音，噪音
+2．excitement n. 激动，兴奋：
+excite v.
+exciting adj.
+excited adj.
+to one's excitement 令某人激动的是
+the most exciting thing is that 最令人激动的是
+the most surprising thing about it is that 最令人惊讶的事情是
+It excited me that 让我激动的是
+3．handsome adj. 漂亮的；美观的：
+You look beautiful
+She is pretty.
+Flowers are beautiful.
+Picture is beautiful.
+pretty 美丽（用于女孩或小孩）一般强调外貌
+跟男性连用表示没有阳刚气，女性化
+pretty boy
+pretty girl
+pretty woman
+pretty baby
+nice  You are nice. 你长得不错
+lovely 可爱的
+This is a lovely story. 这是一个可爱的故事
+lovely girl
+good-looking 好看的
+smart 小巧而美丽的（物）
+时髦而美丽（人）
+She is smart.
+The baby is cute.  cute 常用来形容小孩
+What a cute baby!
+How cute you are!
+handsome 一般形容男孩子，跟女性连用的时候就表示这个女孩子有阳刚气
+handsome boy
+Your husband is handsome.
+Your wife is pretty.
+handsome 在形容东西的时候不但表示漂亮，而且表示制作精良
+beautiful 一般不形容人，形容人的时候表示内在和外在美的统一
+4．Rolls-Royce 罗尔斯--罗伊斯：
+5．Benz n. 奔驰：
+6．wheel n. 轮子：
+7．explosion n. 爆炸，轰响：
+explode v.
+explosive n.炸药
+bomb n. 炸弹
+The bomb exploded
+decision n.
+decide  v.
+8．course n. 跑道；行程：
+on the course 按照轨道运行
+off course 偏离轨道
+of course 当然
+course n.课程
+This term,I took/take seven courses.
+9．rival n. 对手：
+competition n.竞争，竞赛
+competitor : the person who takes part in the competition
+竞争者，对手
+opposite 相反的
+opponent n. 对手，持相反意见的人
+enemy 敌人
+rival 势均力敌的
+n. 势均力敌的对手
+10．speed v. 疾驶：
+speed sped sped
+speed n.速度
+at the speed of 以...的速度
+The car goes at the speed of 40 miles/hour
+在车后的3 speed/ 4 speed 表示档位
+blow up 风力的增加
+speed up 速度的增加
+slow down 减速
+11．downhill adv. 下坡：
+downstairs 下楼
+upstairs 上楼
+go down stairs
+go downhill 下山
+downtown 市中心的商业区
+I'll go to the downtown.`]},{title:"讲解",content:["How far did the winning car go?","获胜的车子走得有多快？","race 车赛","Old car race is held once a year.","enter for 报名参加","a great deal of 大量的(加不可数）","a great number of","a great many","a large amount of（加不可数）","There was a great deal of excitement.","人们非常激动","There is a great deal of excitement","it 是主语","The car was built in 1885.","taking part 理解为 take part in","Built in 1885,it was the oldest car taking part (in the race_","a great many 许多","after explosions 在许多爆炸声之后","break down 车子抛锚","many cars 许多车子","many of the cars 车子当中的许多","many students 许多学生","many of my students 我教过的许多学生","some pictures 一些照片","some of the pictures 那些照片中的一些","spend 花费","英文当中的斜体字起强调作用","spent more time under their cars than in them","他们在车下花费的时间比在车里的时间还多","the winning car 获胜车","much faster 快的多","a little faster","any of its rivals = any rival","any 在比较级中一旦出现，它往往要加可数名词的单数","Beijing is bigger than any city","如果是不定代词，可以说 someone else,anyone else","如果不是不定代词，要在名词前加 other","any other competitor","have trouble doing sth. 干...有麻烦","give sb.pleasure","give sb.a fright","give me a fright 你吓了我一跳","give you a surprise 给你一个惊喜","give sb.+ n.","There was a great deal of excitement","It will give sb. a great deal of pleasure.","modern car races 现代车赛","be different from 和...不同","it was exciting","no more 和 no less 都表示和...一样，only,the same","There are no more than 100 students.","not more,not less 表示不相同的","not less = more","not more = less","not less exciting 更令人激动","no less exciting 一样的激动","no more than you 和你一样","总结：","be held for 比赛为...而举办","is held for the blind 比赛为盲人而举办","a great deal of 后要加不可数名词，表示大量","have trouble doing 做...很困难","have trouble in doing sth.","than any + 可数名词单数"]},{title:"特殊难点",content:["handsome 可以指人，也可以指东西的制作精良","beautiful 美丽的（强调内在和外在的结合）","pretty 强调女孩和小孩的外表美丽","good-looking 好看","reach ; arrive","reach 是及物动词，后面一定要加宾语","arrive 是不及物动词，后面要加宾语要和介词 in 或 at 连用","take part in ; take place","take part in 参加","take place = happen 发生","What happened ? = What took place ?"]}]},{lesson:57,sections:[{title:"自学导读",content:["1．The assistant who served her did not like the way she was dressed.接待她的售货员不喜欢她的那副打扮。","the way 在这里表示“方式”、“样式”，she was dressed 为关系从句，修饰 the way。dress 表示“穿着”、“打扮”时常用被动语态：","Why is your aunt dressed in black?","你姑姑为什么穿黑色衣服？","2．…he told her that the dress was sold.……告诉她那件衣服已经卖出去了。 被动语态在这里含有动作已经完成的意忠，即表示目前的状态。","3．She returned to the shop the following morning dressed in a fur coat, with a handbag in one hand and a long umbrella in the other.第2天上午，她又来到这家商店，穿了一件裘皮大衣，一只手拎着一只手提包，另一只手拿着一把长柄伞。","dressed 引导的过去分词短语作状语，表示伴随状态。它也可以变换位置，放在句首，其意义不变：Dressed in a fur coat, she returned…with 带有两个宾语：handbag 和 unbrella。with 引导的介词短语也作状语，表示伴随状态：","He walked in the park with a dog behind him.","他在公园里散步，身后跟了一条狗。","4．After seeking out the rude assistant, she asked for the same dress. 找到那个无礼的售货员后，她还要看昨天的那件衣服。 （1）现在分词结构代替时间状语从句后，保留了连词 after。类似的情况如： Since phoning you this morning, I've changed my plans. 自从今天早上给你打了电话以后，我已改变了计划。 While trying to open the bottle, I cut my hand. 在试图打开瓶子时，我划破了手。 （2）seek out 为固定短语，表示“找出”、“搜寻出”： He sought out the thief in the crowd. 他在人群中找出了那个小偷。 Seek him out quickly. I want to speak to him. 快把他找出来。我想和他谈一谈。 （3）ask for 表示“要”、“要求”： I asked for a cup of coffee, but you gave me a cup of tea. 我要的是一杯咖啡，但你却给了我一杯茶。","5．Not realizing who she was, the assistant was eager to serve her this time. 那个售货员没有认出她是谁，这一回接待她的态度非常殷勤。 （1）现在分词短语代替一个分句位于句首时，其否定形式是在它前面加上 not, without 或 never 等否定词。这些词有时可互换，有时则不可： Not/Without/Never hesitating for a moment, he ran after the thief. 他没有一丝犹豫便追赶那小偷。 Not being able to open the door, I asked my neighbour for help. 由于开不了门，我便向邻居求援。 （2）像 eager, glad, pleased, sorry 等描述感觉的形容词作表语时后面往往跟不定式： They are all eager to come. 他们都急于来。 I'm pleased to work with you. 我很高兴能与你一起工作。","6．With great difficulty, he climbed into the shop window to get the dress. 费了好大劲儿，他爬进橱窗去取那件衣服。 with 在这里表示行为方式： With care, she put the vase on the shelf. 她小心翼翼地把花瓶放在架子上。 He lifted the box with ease/difficulty. 他很轻松地/费劲地举起那箱子。","7．She enjoyed herself making the assistant bring almost everything in the window before finally buying the dress she had first asked for.她开心地迫使那位售货员把橱窗里几乎所有的东西都拿了出来，最后才买下了她最先要看的那一件。 （1）enjoy oneself doing sth.表示“从……中得到乐趣”： He enjoyed himself making the dog run after beggars. 他让那条狗追逐乞丐，并从中取乐。 （2）make 后面的动词不定式不加 to（cf．本课词汇学习） （3）代替时间状语从句的现在分词短语带有连词 before。"]},{title:"语法",content:["用于表示地点和位置的介词和副词 in, at 和 off;用于描写人的介词 in 和 with","在第9课的语法中，我们学习了引导时间状语的介词 in, on, at, during, till 和 until;在第33课的语法中，我们学习了表示方向和目的地的介词和副词，如 on, off, from, to, towards, in, into, out of, at, under, over 等。","（1）在表示地点和位置时，说话人的个人角度会影响对介词的选择。at 通常用于表示居住地点和某个停留地点、工作地点等，而 in 则表示里面或包围的含义：","I stopped at London on the way to New York.","去纽约的途中我曾在伦敦停留。（伦敦是途中的一个点）","I live in London.","我住在伦敦。（伦敦“包围着”他）","We met at the cinema this afternoon. He waited for me near the ticket office.","我们今天下午在电影院见了面。他在售票处附近等我。","We swam in the river while Jane sat in the car.","我们在河里游泳时简坐在汽车里。","（2）off 常与动词连用，表示位置的变化，即“与……分离”，可译为“脱掉”、“脱落”等，其反义词为 on:","The handle of my suitcase has come off.","我手提箱的提手掉下来了。","He took the cup off the shelf.","他把杯子从架上拿了下来。","（3）描写人时，in 通常用于表示穿着，with 则表示身上的某个具体特征或随身带着什么：","Yesterday she was (dressed) in jeans. Today she is (dressed) in a fur coat.","昨天她穿着牛仔裤。今天她穿了一件裘皮大衣。","John looks very handsome in that uniform, doesn't he?","约翰穿那套制服时看上去非常英俊，是不是？","He looks handsome in anything!","他穿任何衣服看上去都很英俊！","The man with a beard over there is Sam.","那边那个留着胡子的人是萨姆。","The police say the woman they're looking for has a red handbag/red hair.","警方说他们正在寻找的那位妇女有一个红色的手提包/一头红发。","There's a woman with a red handbag/red hair over there!","那边就有一位带着红色手提包/长着一头红发的妇女！","A child came along with a brown dog.","一位带着一条棕色的狗的小孩走了过来。"]},{title:"词汇学习",content:[`1．serve vt./vi.
+（1）帮佣，当仆人，给……干活：
+Mary served (in) the family as a cook for more than ten years.
+玛丽在那户人家当了十多年厨师。
+（2）服务；服役；供职：
+Have you ever served in the army?
+你服过兵役吗？
+She served the firm as a secretary for two years.
+她在这家公司当过两年秘书。
+（3）接待（顾客）：
+The assistant was eager to serve her this time.
+那个售货员这回接待她的态度非常殷勤。
+Tom served in a restaurant when he was 18.
+汤姆18岁时在餐馆当过侍者。
+2．make 与 let
+这两个动词后面都跟不带 to 的不定式，但意义和用法上有区别。
+（1）make+名词/代词+不带 to 的不定式表示“迫使”、“致使”：
+That beard makes you look much older than you really are.
+您的胡须使您看上去比您的实际年龄大得多。
+What made him change his mind?
+是什么使他改变了主意？
+She made the assistant bring almost everything in the window.
+她迫使那位售货员把橱窗里几乎所有的东西都拿了出来。
+在被动语态中含有上述意义的 make 后面必须带 to:
+He was made to work fourteen hours a day.
+他被迫一天工作14小时。
+He was made to change his mind.
+他被迫改变了主意。
+（2）let 有两种用法，一是用于祈使句，建议包括说话者在内的人采取某一行动：
+Let's not waste any more time.
+我们别再浪费时间了。
+Let's take a taxi.
+我们坐出租车吧。
+其否定形式除 Let's not…外也可以用 Don't let's…:
+Don't let's waste any more time.
+我们别再浪费时间了。
+这种祈使句中的 let 相当于助动词。
+let 的第2种用法是表示“允许”，其结构与 make 相同，即 let+名词/代词+不带 to 的不定式。如果宾语是 us,则不能缩写成 let's:
+Please let us have more time, will you?
+请多给我们一点时间好吗？
+I won't let you ride my bicycle.
+我不让你骑我的自行车。
+Let him speak.
+让他说话。
+let 后面可以跟一个被动的、不带 to 的不定式：
+He let it be known that the house was his.
+他让大家知道那房子是他的。
+但是 let 一般不用于被动意义来表示“被允许”，这时可用 allow:
+They didn't let us speak.
+他们没有让我们讲话。
+We were not allowed to speak.
+我们没有被允许讲话。`]},{title:"词汇学习",content:[`1．madam n. （对妇女的尊称）太太，夫人：
+ma'am
+2．jeans n. 牛仔裤：
+trousers
+pants
+3．hesitate v. 犹豫，迟缓：
+hesitate to do sth.
+make up one's mind
+(n.)hesitation
+4．without hesitation :毫无犹豫地
+5．serve v. 接待（顾客）：
+(n.)service
+At your service.
+service sb.
+6．scornfully adv. 轻蔑地：
+look down upon
+7．punish v. 惩罚：
+punishment
+capital punishment 极刑
+8．fur n. 裘皮：
+9．mink :貂皮
+10．eager adj. 热切的，热情的：
+11．be eager to do:急于做某事`]},{title:"讲解",content:["do window shopping","ask to do sth.","dress ab; 给某人穿衣服","I dress myself.(I am dressed)","反身代词是不能做主语","be dressed in","the way 可以直接加定语从句，不需要引导词","I cooked in the way you taught me.","with sth.in hand 手上拿着","seek out 找出","非谓语动词形式的否定词 not 一定要直接加在该结构的前面","with great difficulty/trouble","enjoy oneself","enjoy sth.","enjoy doing","make sb.do sth."]},{title:"特殊难点",content:["let/make sb.do sth.","be made to do"]}]},{lesson:58,sections:[{title:"自学导读",content:["1．The tiny village of Frinley is said to possess a‘cursed tree’.据说弗林利这个小村里有一棵“该诅咒的树”。 （1）主语+ be said+…这种结构通常译为“据说……”，是对不太 有把握的事发表看法时一种谨慎的说法。（cf．本课语法） （2）of 在这里表示同位关系，如 the city of London/New York（伦 敦/纽约市）；at the age of twenty（20岁时）； a height of three feet（3英尺的高度）。","2．…the number of visitors to Frinley has now increased.……现在来弗林利参观的人越来越多。","the number of 表示“……的数量/总数”，它作主语时谓语动词要用单数，虽然 visitors 是复数。注意它与 a number of（许多，若干）的区别：","The number of patients in this hospital has increased.","这家医院的病人越来越多。","A number of patients have asked to see you.","许多病人要求见您。（动词用复数形式）","3．…it is only in recent years that it has gained an evil reputation.……只是近几年才得到了一个坏名声。","句中的 it is…that 是个强调句型。如果我们想要强调某个词或某个短语，我们可以用 it is/was+被强调的成分+that/ who(m)结构。这样组成的句子叫分裂句，因为 it 结构把一个简单句劈开，使其分裂成两个分句。被强调的成分可以是主语、宾语、状语等。课文中这句话强调的是时间状语。从简单句到强调句变化如下：","Frank phoned Jack last night.","弗兰克昨晚给杰克打了电话。（简单句，没有强调什么）","It was Frank who phoned Jack last night.","是弗兰克昨晚给杰克打了电话。（强调是弗兰克而不是别人打的电话）","It was Jack who (m) Frank phoned last night.","是杰克昨晚接到弗兰克打来的电话。（强调电话是打给杰克而不是打给别人）","It was last night that Frank phoned Jack.","是昨天晚上弗兰克给杰克打了电话。（强调是昨天晚上而不是其他时间）","4．It is said that if anyone touches the tree, he will have bad luck; if be picks a leaf, he will die.据说，谁要是触摸了这棵树，谁就会交上恶运；如果谁摘了一片树叶，谁就会死去。 it 是这个句子的先行主语，其真正主语是 that 引导的两个条件句（都是第1类条件句），这两个条件句在结构上一样。","5．…the tree has already claimed a number of victims.……此树已经害了不少人。 claim 可以表示疾病、意外等“夺去（生命）”： The accident claimed a few lives. 那次事故夺走了几条人命。","6．The vicar has been asked to have the tree cut down, but so far he has refused.人们曾请求教区的牧师叫人把树砍掉，但他直到现在也没有同意。","（1）在 to have the tree cut down 这个短语中， have 表示“使……”，即叫别人完成某动作，cut down 为过去分词短语。（cf．第66课语法）","（2）so far 为固定短语，其含义之一为“迄今为止”，常与现在完成时连用：","He hasn't returned my books so far.","迄今为止他还没有还我的书。","7．point out，指出。 这个短语可分开用： I realized that he had made a mistake, so I pointed it out to him immediately。 我意识到他犯了个错误，所以我立即就向他指了出来。 He pointed out that it was a mistake not to help them. 他指出不帮助他们是错误的。","8．in spite of,尽管，虽然；不顾，不管。 He set off in spite of the heavy rain. 尽管下着大雨，他还是出发了。","In spite of what you have told me, I still believe(that) he has stolen the money.","虽然你对我说了这些，我还是认为他偷了那笔钱。","9．So far, not one of them has been struck down by sudden death! 然而到目前为止，还没有一个人暴死呢！ （1）not one of them 表示“一个人也没有……”，其语气比 none of them 或 no one 要强。 （2）strike down 为固定短语，在这里表示“使……生重病”、“杀死”（通常用被动语态）： Many people were struck down in that war. 许多人在那场战争中死去了。 He was struck down by cancer last year. 他去年死于癌症。"]},{title:"语法",content:["被动语态（5）","（1）在第34课的语法中，我们讲过如果说话人想避免用不明确的词（如 someone, a person 等）作主语，就常常使用被动语态：","Mary was told to meet us.","玛丽被告知来接我们。","The window has been mended.","窗子已被修好。","（2）如果我们需要把话说得谨慎些或“保险”些，也可以用被动语态。主动语态往往表示对事实确有把握：","Debbie Hart swam across the English Channel when she was a girl.","黛比·哈特还是个姑娘时曾经横渡过英吉利海峡。","如果这句话用 It is said that…结构表达，则说话者的把握就小了一些。用于这种被动语态的动词除了 say 之外，还有 believe, know, find, fear, think 等：","It is feared that many lives have been lost in the train crash.","在这次列车事故中，恐怕有不少人丧生。","It is said that there is a great deal of oil in Africa.","据说非洲有大量的石油。","It is said that Dan is the most intelligent student in his class.","据说丹是他们班上最聪明的学生。","除 It is said that…这种结构外，上面的句子还可以变成另一种形式的被动句，其意义不变。它的结构为 There/名词主语/代词主语+被动语态+带 to 的不定式：","There is said to be a great deal of oil in Africa.","据说非洲有大量石油。","Debbie Hart is said to have swum across the English Channel when she was a girl.","据说黛比·哈特还是个姑娘时曾经横渡过英吉利海峡。","Dan is said to be the most intelligent student in his class.","据说丹是他们班上最聪明的学生。","后一种结构在口语中更常用，因为它更简洁：","（3）在第34课的语法中我们讲过，动词+宾语+不定式结构中既可以动词用被动语态，也可以在不定式中用被动语态：","（4）在另一种句型即“动词+间接宾语+直接宾语”中，这两个宾语都可以成为被动句的主语。不过，由于间接宾语通常是人，所以间接宾语成为被动句主语的时候要多些："]},{title:"词汇学习",content:[`1．increase 与 grow
+increase 无论是作及物动词还是不及物动词，其主要意思都是“增加”、“增大”、“增长”、“增强”等：
+The firm has increased his salary.
+公司已给他加了薪。
+His salary has increased.
+他的薪金增加了。
+The number of visitors to Frinley has now increased.
+现在来弗林利参观的人越来越多。
+grow 也可以表示“增长”等含义：
+The number of vistors to Frinley has now grown.（译文同上）
+The students in this university has grown in number.
+这个大学的学生人数增加了。
+但 grow 的主要意思是“长”、“成长”、“生长”等：How tall you've become! How you've grown!
+你变得这么高了！你长了真不少！
+2．gain 与 earn
+作为及物动词，它们都可以表示“获得”、“得到”：
+It has gained/earned an evil reputation.
+它得到了一个坏名声。
+earn 可以表示通过工作“赚（钱）”，gain 没有这个含义：
+Try to save as you earn.
+挣了钱时要设法存起来。
+She earns ￡500 a month.
+她一个月赚500英镑。
+gain 可以表示“受益”、“获益”，earn 则不可以：
+Jane has gained much from her year in Australia.
+简在澳大利亚这一年获益匪浅。
+3．pick 与 cut
+pick 的含义之一为“采摘”、“采集”：
+They are busy picking apples.
+他们正忙着摘苹果。
+The children picked a lot of flowers yesterday.
+昨天孩子们采了许多花。
+cut 的主要含义为“切”、“割”、“剪”等：
+She cut an apple in two.
+她把一个苹果切成两半。
+Can you cut your own hair?
+你能给自己剪头吗？
+The tourists have been picking the leaves and cutting their names on the tree-trunk.
+游客们一直摘树叶，并把他们的名字刻在树干上。`]},{title:"词汇学习",content:[`1．blessing n. 福分，福气：
+2．bless :保佑
+God bless you
+Bless you
+3．disguise n. 伪装：
+in disguise
+4．A blessing in disguise :因祸得福
+A curse in disguise
+spy
+A wolf in disguise
+5．tiny adj. 极小的：
+6．possess v. 拥有：
+possession
+in one's possession
+sb.possess sth
+7．cursed adj. 可恨的：
+如果有 ed 构成形容词，做为形容词读音要读/id/
+8．increase v. 增加：
+add,grow 不及物动词
+9．plant v. 种植：
+10．plant :强调把东西给种下去
+11．grow :生长
+grow sth
+plant tree
+Tree Planting day
+12．church n. 教堂：
++the :地点
+不＋the 和功能有关
+13．go to the church:去教堂玩
+14．go to church :去教堂做礼拜
+I am at church;做礼拜
+I am at the church 在教堂玩
+15．evil adj. 坏的：
+wicked
+16．reputation n. 名声：
+good reputation
+bad reputation
+17．fame:一定是好名声
+famous
+18．claim v. 以......为其后果：
+take
+19．victim n. 受害者，牺牲品：
+20．vicar n. 教区牧师：
+21．source n. 来源：
+resource 资源
+read
+22．sauce :酱油，酱汁
+23．income n. 收入：
+bonus 奖金
+rent
+24．DINK:丁克家族
+D-double
+I-income
+N-no
+K-kids
+25．trunk n. 树干：`]},{title:"讲解",content:["被动语态－＞据说","It is said that...","called  sth.called....  和地点相连的词的名字：of","the city of BeiJing:名叫北京的城市","The village is said to + 动词＋","be said to","It is said that village possesses a 'cursed tree'","He is said to be very good","mention","My father often mentions you...","in a newspaper:强调报纸里面的内容","on the newspaper：报纸上的东西","the number of ...的数量  做单数看待","a number of ＝lots of  做复数看待","后面都加可数名词的复数","主谓数字一致","gain=get","it is...that :强调     It is I that am looking for you.","It is you that I'm looking for","分号可以断开两个句子","anyone:任何人","he","If anyone wanted to go there,he will do sth.","be asked to do","have sth.done:让某事被别人做","I will go to have my bicycle repaired","I will have my hair cut.","point out :explain","have been doing 现在完成进行时态","in spite of this","in spite of :介词后面不能接从句，只能加 what 引导的从句","not one of = none of","strike    struck    stricken","be struck down","poverty-struck 穷困潦倒","总结：","be said to do","It is said that...  It is that...","have sth.done","Could you make yourself known? make sth.done","Could you make yourself heard?","in spite of","not one of=none of"]},{title:"特殊难点",content:["cut:切割","pick:摘","gain/earn the reputation","gain:获得=get sth","earn:得到结果（通过努力）","earn money:挣钱","earn one's living:谋生","earn:挣钱","grow=increase(表示数量增长）The number is inreasing/growing","grow:增长和生长","increase:增长"]}]},{lesson:59,sections:[{title:"自学导读",content:["1．Every time he wanted to come into the garden he would bark until someone opened the gate.每当它想到花园里来时，便汪汪叫个不停，直到有人把门打开。 every time 在这里为连词引导一个时间状语从句，表示“每次”、“每当”，主句中的 would 表示过去的习惯性动作。用一般过去时的句子中它们经常连用： Every time we met, we would talk for a while. 我们每次见面都要聊一会儿。 Every time he came to the restaurant, he would first ask for a cup of tea. 他每次到这个饭馆来，都是先要一杯茶。","2．…my husband spent weeks training him to press his paw on the latch to let himself in.……我丈夫花了几个星期的时间训练它用脚爪按住门闩把自己放进来。 （1）spend 表示“在……上花时间”时，后面如果跟名词则用介词 on;如果跟动名词则用介词 in（在口语中 in 往往省略）： Why don't you spend more time on studies? 你为什么不在学习上再多花点时间呢？ I spent two weeks(in) reading this book. 我花了两星期的时间读这本书。 （2）train 的宾语是 him, to press…是宾语补足语，to let…为目的状语。","3．Rex soon became an expert at opening the gate.雷克斯很快成了开门的专家。 expert 表示“做/干……的专家/高手”时后面通常用 at doing sth.;表示在某一领域是“专家”、“权威”时可用介词 in 或 on: John is an expert at driving a car. 约翰是开车高手。 She is an expert in flowers. 她是花卉方面的专家。 Sam is an expert on that problem. 萨姆是研究那个问题的权威。","4．This time he was barking so that someone would let him out!这次它叫着让人把它放出去！ 连词 so that 引导的是目的状语从句。（cf．本课语法）"]},{title:"语法",content:["1．复习第50～58课语法","2．表示目的的几种方式：to, in order to, so as to, so that, in order that （1）带 to 的不定式及其变体 in order to 和 so as to 可以用来表示目的： I went to live in France to/in order to/so as to learn French. 我去法国居住，以便学习法语。 not to 可以用于表示取舍： I went to France not to study French, but to study chemics. 我去法国不是为了学法语，而是为了学化学。 so as not to/in order not to 可以用于表示“以防”： I shut the door quietly, so as not to/in order not to wake the baby. 为了不惊醒婴儿，我轻轻地关上门。","在 bring, buy, need, take, use, want 等动词后经常用宾语+不定式（而不用宾语+in order to/so as to），不定式表示用宾语的目的：","I want something to drink.","我想要一点喝的东西。","I need a spoon to eat this ice cream with.","我需要一把汤匙来吃这冰淇淋。","Bring me a chair to sit on.","给我拿一把椅子来坐。","（2）连词 so that, in order that 可以引导目的状语从句。当主句用一般现在时、现在完成时或一般将来时的时候，so that 和 in order that 后面可以跟 may, can 或 will。so that 比 in order that 更为普遍：","I've arrived early so that/in order that I may/can/will get the tickets.","我到得早，以便能买到票。","当主句中的动词为一般过去时、过去进行时或过去完成时的时候， so that 和 in order that 后面跟 should, could, might 或 would:","I arrived early so that/in order that I should/could/might/would get the tickets.","（译文同上）","so that 和 in order that 后面的否定形式如下：","I arrived early so that/in order that I might not miss anything.","我到得很早，以免错过什么。（否定句中不可用 could,可用 should, would 等）","（3）相比之下，带 to, so as to 和 in order to 的结构比带 that 的结构要简单、自然，所以多为人使用：","I arrived early so as not to/in order not to miss anything.（译文同上）","当前后主语不一致时，不定式前面加 for+名词/代词比 that 结构更简洁"]},{title:"词汇学习",content:[`1．press
+（1）vt./vi.按，挤，压：
+She pressed my hand warmly.
+她热情地握我的手。
+Can you press that button for me please?
+请问您能帮我按一下那个按钮吗？
+The dog pressed his paw on the latch to let himself in.
+那狗用脚爪按住门闩把自己放进来。
+（2）vt.挤取，榨取（……的汁）：
+This is the time of the year when they press their grapes.
+这是他们榨葡萄汁的季节。
+If you prefer juice, you can press some oranges.
+如果你更喜欢果汁，你可以榨些橙汁。
+（3）vt.催促，敦促，竭力劝说：
+My parents pressed me to enter for the competition.
+我父母竭力劝我报名参加这个竞赛。
+I don't like to be pressed.我不喜欢被人催促。
+2．develop vt./vi.
+（1）发展，扩展：
+The village has developed into a town now.
+那个村子现在已扩展成一个镇了。
+Do you believe that you can develop your mind through watching TV?
+你相信通过看电视能开发你的智力吗？
+It's hard to develop your business in this city.
+在这座城市扩展你的业务是困难的。
+（2）（逐渐）显现出，产生，获得，养成：
+He has developed another bad habit.
+他/它养成了另外一种坏习惯。
+She developed an interest in swimming.
+她对游泳产生了兴趣。`]},{title:"词汇学习",content:[`1．bark v. 狗叫：
+The dog is barking
+Somebody is barking
+2．press v. 按，压：
+3．pressure :压力
+4．paw n. 脚爪：
+5．cat's paw :被人所利用的人
+I don't want to be a cat's paw.
+6．latch n. 门闩：
+7．bar :门闩
+8．expert n. 专家：
+expert at/in 在某一方面是专家
+expert at/in dong sth
+expert at / in opening the door
+9．develop v. 养成：
+10．develop the film :冲洗胶卷
+11．develop :发展
+developing skills ;发展技巧
+fluency in English
+12．developing country :发展中国家
+13．developed country :发达国家
+14．boiling water :滚开水
+15．boiled water：开水
+16．habit n. 习惯：
+17．custom :风格，习俗
+customs9:海关
+18．customer:顾客
+19．remove v. 拆掉，取下：
+remove sth from`]},{title:"讲解",content:["let sb in: 让某人进来","let sb out :让某人出去","let sb down:让某人失望","let's","front gate","would = used to","every time=when :当什么时候，后面可以是点，可以是断","the moment = as soon as：一．．．就．．．（强调的是瞬间）","every time 每次，每当","Every time I turn to lesson 59,I will remember my teacher.","The dog used to bark outside the front gate to let(make)somebody open the door.","complain of :抱怨","spend time doing：花费某断时间去做某事","It takes do 事情做主语","sb spend time 人做主语","train sb to do :训练某人做某事","press his paw/press the latch","press the button/press the figure on the button","going out shopping","so that :以便于，为了（表达目的）","so...that...如此...以致于","表达目的：to/in order to /in order that/ so as to /so that","to + 动词原型， that+从句","目的状语从句必须具备一个特征：在动词前面一定要出现情态动词","after this","got 是谓语动词","have seen 也是谓语ｄｃ","so annoyed(that)","so...that...:如此...以致于，结果状语从句，可以省略一个词","so that 目的状语从句，谓语动词前面一定要要情态动词","since(加在尾巴上）＝since then :从那时起到现在为止"]},{title:"特殊难点",content:["表达目的的几种方式 ：to/in orderto /so as to +原型","in order that /so that +目的状语从句","目的状语从句当中不存在 want,只有 to do","非谓语动词的否定形式在结构前面","如果发现 do 的动作不是由主语做的，而是由其他人做的，在 do 的前面加 for sb","不定式的逻辑主语：for sb to do sth"]}]},{lesson:60,sections:[{title:"自学导读",content:["1．A relation of yours is coming to see you.您的一个亲戚就要来看您了。 （1）a relation of yours 为名词的双重所有格（cf．第10课语法）： a friend of my father's 我父亲的一位朋友 a friend of mine 我的一个朋友 （2）句子中的现在进行时并不表示目前正在进行的动作，而表示将要发生的事情。（cf．本课语法）","2．The moment you leave this tent, you will get a big surprise.您一走出这个帐篷，就会大吃一惊。 连词 the moment (that)与 as soon as 含义一样，表示“一……就”： I'll phone you the moment I get the letter. 我一拿到信就给你打电话。 在这个连词引导的时间状语从句中要用一般现在时来表示将来时。（cf．本课语法）","3．That is all.就是这些。 这是口语中常用的一句话，表示“完了”、“就这些”、“事情就是这样”等含义： He borrowed some money from me. That's all. 他向我借了些钱，仅此而已。","4．…If forgot all about Madam Bellinsky because my wife hurried towards me.……就把别林斯基夫人给我算卦的事忘得一干二净了，因为我的妻子正匆匆向我跑来。 与 that is all 中的 all 一样，这句话中的 all 也是代词，表示“一切”、“全部”、“所有的事”，注意作主语时它被视为单数： All I can remember is her name. 我所记得的只是她的名字。 hurry towards sb. 表示“向某人匆匆走去”。","5.…we must be at the station to meet her.……我们得去车站接她。","（1）must be 表示用现在时代指将来的状况，即他姐姐到时他们得在车站接她。这句话也可以变成 we must go to the station to meet her,意义不变。","（2）to meet her 为表示目的的不定式。（cf．第  59课语法）"]},{title:"语法",content:["1．现在进行时表示将要发生的事情 在第12课的语法中，我们学习了一般将来时的基本形式：","We'll see his boat and then we'll say goodbye to him. He will he away for two months.","我们将参观他的船，然后和他告别。他要离开两个月。","在第36课的语法中，我们学习了将来时 going to 用来预言将发生的事，尤其是不久即将发生的事。它在非正式语体中可表示意图、打算等：","Debbie Hart is going to swim across the English Channel tomorrow.","黛比·哈特准备明天横渡英吉利海峡。","在英语中，现在进行时也可以用来表示为将来安排好的活动和事件。这种用法通常需要一个表示时间的状语（往往是不久的将来）：","We're spending next winter in Australia.","我们将要在澳大利亚度过明年冬天。","arrive, come, go, leave 等动词的进行式经常有这种用法，表示行程安排有关的“将到达”、“将离去”等意思：","A relation of yours is coming to see you.","您的一个亲戚就要来看您了。","He's arriving this evening.","他将于今天傍晚到达。","He's leaving tomorrow afternoon.","他明天下午离开。","2．将来时在时间状语从句及第1类条件句中的表示方法","当时间状语从句表示将来时，在 after, as soon as, before, by the time, the moment, till, until 和 when 等后面我们通常不用一般将来时而用一般现在时；不用将来完成时而用现在完成时。这两种现在时态在时间连词后面常常可以互换：","The Thompsons will move to a new flat when their baby is/has been born.","孩子出生以后，汤普森一家将搬到一个新的公寓去住。","在第1类条件句中，if 之后通常用一般现在时表示将来可能发生的事：","If it rains, we'll stay at home.","如果下雨，我们将呆在家里。","If he gets the job, he'll be going abroad.","如果他得到那个工作，他就要到国外去。"]},{title:"词汇学习",content:[`1．由名词+名词构成的复合名词
+课文中，the village fair（乡村集市）是由两个名词形成的复合名词。在这类名词中，第1个名词通常起形容词（或修饰语）的作用，而且一般都用单数。这类复合名词可以代替 of 结构，如 a car key（汽车钥匙），a chair leg（椅子腿）；也可以理解为第1个词指地点，第2个词指该地点中的东西，如 a village pub（乡村酒吧），a world record（世界纪录）， a kitchen sink（厨房洗涤槽）；也可以表示时间，如 a Christmas card（圣诞卡），an evening dress （晚礼服），afternoon tea（下午茶）；也可以表示分类，如 a horror film（恐怖电影），a flower shop（花店），a taxi-driver（出租车司机）；也可以表示材料，如 a fur coat（裘皮大衣），a gold watch（金表），cigarette ends（香烟头）。
+1．relation n.
+（1）（事物间的）关系，关联（不可数）：
+I know little about the relation of/between time and space.
+对于时间与空间之间的关系我知之甚少。
+Is there any relation between the hot snake and the forest fire?
+在那带电的蛇与森林火灾之间有什么关联吗？
+（2）（国家、人民等之间的）关系，往来（可数）：
+Friendly relations have been developed between the two cities.
+这两座城市建立了友好往来。
+They have broken relations with that firm.
+他们与那家公司已断绝关系/往来。
+（3）亲戚，亲属（可数）：
+Dan is a relation of mine.
+丹是我的一个亲戚。
+A near relation of yours is coming to see you.
+你的一个近亲将要来看你。`]}]},{lesson:61,sections:[{title:"自学导读",content:["1．at a cost of,造价为……，耗资，以……的价格/费用。 He has just built a new house for his family at a cost of ￡10,000. 他刚为他的家庭盖了一座新房子，耗资1万英镑。","2．Right from the start there was trouble with the Hubble. 从最开始哈勃望远镜就有问题。 （1）start 为名词，表示“开始”、“开端”，from the start 表示“从开始时”，副词 right 起强调作用： He didn't want to work at the firm(right) from the start. 他从最开始就不想在这家公司上班。 （2）trouble 在这里指“（机器等的）故障”、“问题”： There is (engine) trouble with my car. 我的汽车（发动机）有问题。","（3）the Hubble 代指 the Hubble telescope。由于上下文中没有其他以 Hubble 命名的东西，前面又提到过一次 Hubble telescope,所以用 the Hubble 既简洁又不会引起误解。","3．NASA is now going to put the telescope right…国家航天局准备纠正这一错误…… put right 表示“修好（故障等）”、“校正”、“纠正”等： Have you put the watch/clock right? 你把表/钟对好了吗？ Remember to put the lights right tomorrow. 明天记得把灯修好。","4．…the Hubble is above the earth's atmosphere, so it will soon be sending us the clearest pictures of the stars and distant galaxies that we have ever seen.……哈勃位于地球的大气层之外，因此，它很快就会给我们传送我们所见到过的、有关恒星和远距离星系的最清晰的照片。 （1）关系从句 that we have ever seen 修饰 pictures。 （2）由于哈勃望远镜位于大气层之外，它照相便不受大气的阻挡，因此照片清晰。 （3）形容词最高级后面的关系从句常用…ever heard, met, read,seen 等完成式： This is the longest book (that) I have ever read. 这是我所看过的书中最长的一部。 Ian is the most interesting man (that/whom) I have ever met. 伊恩是我所遇见的最有趣的人。","5．…the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.……敏锐的哈勃望远镜将已经为我们送来了成千上万张精彩的照片。 （1）eagle eye 的含义是“鹰眼”、“锐利目光”： His father's eagle eye is always on him. 他父亲的锐利目光总是盯着他。 （2）在表示“几千”、“数千”、“许许多多”、“成千上万”这些数字概念时可用 thousands(of…): There are hundreds of thousands/thousands and thou sands of cars in this city. 这座城市里有成千上万辆汽车。"]},{title:"语法",content:["将来完成进行时(The future perfect progressive tense)与其他形式的将来时","将来完成进行时的构成： will have been+现在分词","（1）在第13课的语法中，我们学习了将来进行时。它表示将来某个时候正在进行的动作或表示计划好的事。它不像一般将来时中的 will,不表达“蓄意为之”的含义，只陈述将来的事实：","They will be arriving here tomorrow.","他们明天就要到达此地。","在第37课的语法中，我们学习了将来完成时。它用于表示到将来某一时刻已经完成的动作，必须和某个时间状语连用：","Workers will have completed the new roads by the end of this year.","工人们将在今年年底前把新路铺好。","（2）将来完成进行时表示某种状况一直持续到说话人所提及的时间：","By this time next week, I will have been working for this firm for twenty years.","到下星期此刻，我就已经为这家公司工作了20年了。","在时间状语从句中，要用现在完成时代替将来完成时（cf．第60课语法）："]},{title:"词汇学习",content:[`1．cost(n.), price(n.)与 value(n.)
+cost 和 price 都可以表示“价格”、“价钱”，但 price 侧重于指某个具体东西或商品的价钱，cost 侧重指某项服务、工程等的费用：
+What's the price of the dress, please?
+请问这件衣服多少钱？（询问价钱时，price 与 what 连用，不用 how much）
+They built the bridge at a cost of over ￡600,000.
+他们造这座桥的费用是六十多万英镑。
+cost 的复数表示“成本”：
+I don't know the costs of these cars.
+我不知道这些车的成本是多少。
+price 的复数表示“物价”：
+Prices are going up again.
+物价又上涨了。
+value 可以表示抽象的价值或重要性：
+This book is of great value to me.
+这本书对我来说很有价值/重要。
+This newspaper has little value.
+这份报纸没什么价值。
+value 的复数形式表示“价值观”：
+His values are different from those of mine.
+他的价值观与我的不一样。
+2．cost(v.), price(v.)与 value(v.)
+cost 为及物动词，表示“价钱为”、“（使）花费”（不用于被动语态）：
+The new car cost him ￡5,000.
+那辆新车花了他5,000英镑。
+How much did it cost to launch the Hubble telescope into space?
+将哈勃望远镜发射升空花费了多少钱？
+price 作动词用时在口语中表示“问……的价钱”、“查明/查询……的价格”：
+They priced cars for two days before they bought one.他们在询问了两天车价后才买了一辆车。
+price 还可以表示“给……定价/标价”：
+The dress is priced at ￡50, but you can have it at ￡40.这件衣服标价为50英镑，不过你可以花40英镑买下它。value 作及物动词时可以表示“尊重”、“重视”等：
+If you don't value my advice, I'll speak no more.如果你不重视我的建议，那我就什么也不再说了。`]},{title:"词汇学习",content:[`1．Hubble n. 哈勃：
+2．telescope n. 望远镜：
+3．launch v. 发射：
+4．space n. 空间：
+指宇宙空间
+room 空间，不可数
+Could you make room for me?
+5．NASA n.(National Aeronautics and Space Administration) 国家航空和航天局：
+6．billion n. 10亿：
+7．faulty adj. 有错误的：
+fault n.错误
+8．astronaut n. 宇航员：
+9．shuttle n. 航天飞机：
+10．Endeavour n. “奋进”号：
+11．robot-arm n. 机器手：
+12．grab v. 抓：
+13．atmosphere n. 大气层：
+atmosphere 氛围
+Eg.:I went to the New Concept English of New Oriental School for its good atmosphere.
+14．distant adj. 遥远的：
+15．galaxy n. 星系：
+16．universe n. 宇宙：
+17．eagle eye 鹰眼：
+科普性文章结构简单，句式单一，单词教难
+学会逻辑阅读
+at a ost of 花费
+Hubble
+telescope
+Hubble telescope 在句中做主语
+was launched 动词谓语
+NASA （单词缩写）组织或者机构
+there was trouble with the Hubble
+there be 句型
+trouble with 关于...有麻烦
+what's the trouble with you?
+start 开始
+定语从句省略引导词
+主句：The pictures ...were...
+-ing 令人……的
+Sorry,it's my fault
+faulty adj.有错误的
+be going to 将要
+put sth.right 把某物放正确
+it 指代 NASA
+send up 往上送
+The shuttle Endeavour 主语，可能是交通工具
+robot-arm :arm 手臂
+hold it 抓住它
+repairs 修理
+above 在．．．上面（悬空的）
+NASA = National Aeronautics and Space Administration 国家航空航天局
+astronaut n. 飞行员
+atmosphere
+distant galaxies
+stars 星星
+a great deal (of) 大量（的）
+by the time 到那时
+everytime 每当
+by the time you read this 到你读这篇文章的时候
+will have done 将来完成式
+thousands and thousands of 成千上万的
+Hubble telescope 被人类送上天空的一种仪器
+space 宇宙
+launch 送进
+disppinting 令人失望
+astronaut 宇航员
+robot-arm 机器人手臂`]}]},{lesson:62,sections:[{title:"自学导读",content:["1．under control,受到控制。 get it under control 表示“使它得到控制”，get 有“使……处于某种状态”的含义： You'd better get your dog under control. 你最好管住你的狗。 The Government can no longer keep prices under control.政府已控制不住物价。","2．for miles around,方圆数英里。 around 表示“在周围”、“向四周”： This is the only modern building for miles around. 方圆数英里之内这是惟一的一座现代化建筑。","3．Winter was coming on and the hills threatened the surrounding villages with destruction…冬季即将来临，这些山丘对周围的村庄具有毁灭性的威胁…… （1）come on 的过去进行时形式表示的是过去将来时，它在这里表示季节的“到来”、“来临”： When spring comes on, there will be flowers everywhere. 春天到来时到处都是鲜花。 I was still in the forest when night came on. 夜晚来临时我仍在森林里。 （2）threaten…with 表示“以……威胁/恐吓”： The thief threatened him with a knife. 小偷用刀子威胁他。 Then whole village is threatened with destruction. 整个村子面临着毁灭的威胁。","4．…for heavy rain would not only wash away the soil but would cause serious floods as well.……因为大雨不仅会冲走土壤，而且还会引起严重的水灾。","（1）for 引导的句子与前面的两个分句为并列句，用于陈述原因。heavy rain 这个主语之后是由 not only… but… as well 连接的两个谓语。与并列连词 not only…but(also)的含义一样，not only…but…as well 也表示“不仅……而且……”，用于连接并列句，只是 as well 通常位于句尾。试比较：","He not only washed the car, but (also) polished it.","他不仅冲洗汽车，而且擦拭了它。","He not only washed the car, but polished it as well.","（译文同上）","（2）wash away 表示“冲掉”、“冲走”或“洗掉”等：","A wooden bridge was washed away by the flood.","一座木桥被洪水冲走了。","I can't wash the spot away.","我无法把这污点洗去。","5．in huge quantities,大量地。 quantity 单数时仅表示“数量”，既可以用于表示多也可以用于表示少： They drank a large/great/small quantity of beer last night. 昨天晚上他们喝了大量/许多/少量的啤酒。 quantity 复数时表示“大量”： He bought books in (large) quantities. 他大量地购书。 He has quantities of books/stamps. 他有大量的书/邮票。","6．… in many places the grass had already taken root.……很多地方的草已经生了根。 take root 表示“生根”，是固定短语： This type of grass takes root easily. 这种草很容易生根。 这个短语也可以表示某种思想/想法等“扎根”： The idea has taken root in his mind. 这个想法已在他脑子里扎了根。","7．In place of the great trees which had been growing there for centuries, patches of green had begun to appear in the blackened soil.一片片的绿草开始出现在这片烧焦的土地上，代替了多少世纪以来一直生长在那里的参天大树。 （1）in place of 表示“代替”、“取代”： Jane answered the phone in place of Mary. 简代替玛丽接了电话。","（2）介词短语 in place of 的宾语是 trees。trees 有一个 which 引导的关系从句，which 在从句中作主语，不可省略；从句中的时态为过去完成进行时。（cf．本课语法）","（3）patch 的含义之一是“颜色和周围不同的部分”：","There are patches of cloud in the sky.","天空中有片片白云。","What is that yellow patch on the wall?","墙上那块黄斑是什么？","（4）blackened 为过去分词，作形容词用，表示“变黑了的”、“烧焦的”：","The smoke has blackened the walls.","烟把墙熏黑了。"]},{title:"语法",content:["1．过去完成进行时 (The past perfect progressive tense)构成： had been+现在分词","（1）过去完成进行时用于强调某动作在过去更早的某一段时间内一直在进行，并对过去某一时刻产生结果。与它经常连用的表示时间的词有 before, for, since, all day 等：","She was very tired. She had been typing letters all day.","她很累了。她整天都在打信件。","（2）过去完成进行时可用来表示过去经常重复的动作：Jill was angry. Jim had been phoning her every night for a whole week.","吉尔生气了。整整一星期，吉姆天天晚上都给她打电话。","（3）它还可以表示根据直接或间接的证据而得出结论：Her eyes were red. It was obvious she had been crying.她的眼睛红了。显然她刚哭过。","（4）在包含间接引语的句子中，如果引述词是过去时态，则现在完成进行时要改为过去完成进行时（cf．第15课语法）：","2．过去完成进行时与过去完成时的比较 过去完成时在第14课与第38课的语法中已经学过。它与过去完成进行时有时可以替换使用：","Dan had worked/had been working for the firm for fifteen years when I first met him.","我第一次遇见丹时，他已在该公司干了15年了。","需要表示某个工作已经完成时，只能用过去完成时：","When I got home, I found that Jill had been painting her room.","我回到家时，看见吉尔在粉刷她的房间。（工作尚未完成）","When I got home, I found that Jill had painted her room.","我回到家时，发现吉尔已经粉刷过她的房间了。（已完成）","When I arrived, they'd already put the fire out.","我到达时，他们已经把火扑灭了。（不可用过去完成进行时）"]},{title:"词汇学习",content:[`1．control 与 check
+（1）control (vt.) 表示“指挥”、“控制”、“支配”、“管理”等：The Bentons control this firm.
+本顿一家控制着这家公司。
+Don't try to control other people.
+不要试图指挥/控制他人。
+control(n.)表示“控制（能力）”、“支配（能力）”等：
+They finally got the fire under control.
+他们最终控制住了火势。
+It's hard to keep the number of people coming into the country under control.
+很难控制住进入这个国家的人数。
+（2）check(vt.)表示“检查”、“查看”：
+They're going to check our passports.
+他们将要查看我们的护照。
+Check the fire before you leave.
+离开之前检查一下火。
+2．great 与 big
+它们都有“大”的意思，但 great 通常与重要性有关，表示“伟大的”、“重大的”、“重要的”等含义，big 则较为口语化，表示体积、规模等方面的“大”：
+Frank has just made a great decision.
+弗兰克刚作出一项重大决定。
+This picture is said to be painted by a great painter.
+据说这幅画是一位伟大的画家画的。（不可用 big）
+Sam is a big man.
+萨姆是个大块头。
+Your house is bigger than mine.
+你家的房子比我家的大。（不可用 great）
+3．soil 与 ground
+soil 主要用于指“土”、“土地”、“土壤”：
+Heavy rain will wash away the soil from desolate hills.
+大雨将把泥土从荒凉的山丘上冲走。
+Trees and grass grow quickly in rich soil.
+草木在肥沃的土壤里生长迅速。
+ground 含义较广。它除了可以表示“土地”、“土壤”外，还可以表示“地面”、“场地”等：
+Don't sit on the ground.
+不要坐在地上。
+He threw the cup to the ground.
+他把杯子摔到地上。
+There is a football ground in our university.
+我们大学里有一个足球场。`]},{title:"词汇学习",content:[`1．control n. 控制：
+control sth.(v.)控制．．．
+I can control it.
+I can manage it (口）
+介词短语：
+in control 在控制之内
+under control 在控制之下，被控制
+out of control 失控
+arrest 逮捕
+under arrest 被逮捕
+2．smoke n. 烟：
+3．smoke:(v.)吸烟
+Don't smoke
+No smoking.
+cigarette,cigar :(n.)香烟
+4．smoke :(n.)烟雾
+full of smoke
+名词加-y，变为形容词
+5．smokey:（ａ．）多烟的
+6．smokey area :吸烟区
+7．nonsmokey area :吸烟区
+heavy smoker14:烟瘾重的人
+8．desolate adj. 荒凉的：
+9．lonely :孤独的；荒凉的，偏僻的
+10．desolate:荒凉的，极度孤独的
+11．threaten v. 威胁：
+12．threaten to do :威胁着要做．．．
+threaten sb.with sth:以什么来威胁某人
+It threatened to rain 有迹象表明天要下雨了
+13．surrounding adj. 周围的：
+14．surrounds:环境（在周边的事物）
+15．atmosphere:大气层，氛围（在周边的人文环境）
+16．destruction n. 破坏，毁灭：
+17．destroy :(v.)破坏
+destructive15:毁灭性的
+18．construction :建设，建筑
+19．build:建设（具体的建某物）
+20．construct:建设（为．．．创造更好的条件）
+constructive 建设性的意见
+21．flood n. 洪水，水灾：
+flood ,floods
+22．authority n. （常用复数）当局：
+authorities
+23．grass-seed n. 草籽：
+24．spray v. 喷撒：
+spray sth.over/on
+25．quantity n. 量：
+26．quality :质量
+27．quantity:数量
+sth.with good quality
+28．quantities of :大量的
+29．root n. 根：
+root of:...的根
+What is the root cause?
+30．take root:生根
+31．come out :长出来
+32．shoot :芽
+33．get out :出去
+34．century n. 世纪：
+35．patch n. 小片：
+36．a patch of :一小片
+37．patches of :许多片
+38．piece :片，块
+39．patch :(平面上的）一片，补丁
+40．blacken v. 变黑，发暗：
+-en --表示动词
+41．weak :虚弱的
+42．weaken :使...变弱，削弱
+复合词 ：fireman
+派生词：（前缀，后缀）
+-tion … 名词
+-less … 形容词`]},{title:"讲解",content:["fireman had been fighting the forest fire","fight sth.:和...搏斗","get + 宾语＋介词短语 ……作宾补","for miles around 方圆几英里","a short time before --从过去某一点时间算起，一段时间以前","a short time ago --从现在算起，一段时间以前","都可以放在段时间之后","rose up(from):升上来","over the desolate hills ：(烟，雾）弥漫","Winter was coming on 季节的来临","threaten sb.with sth. 有．．迹象","serious :严重的","put out :扑灭","several tons of a special type of grass-seed","was sprayed over the ground 被动语态","in huge quantities --介词短语作状语，＂大量的＂","take root :生根","in place of :替代(只能指代位置、空间）原来放的东西，现在不在了","in stead of ：替代＋没做的事"]},{title:"特殊难点",content:["Great ：大的（强调重要性）","Big:大的（强调面积、体积上的）","Soil:泥土（能让植物生长的）","Ground：地表，地面"]}]},{lesson:63,sections:[{title:"自学导读",content:["Jeremy Hampden has a large circle of friends and is very popular at parties.杰里米·汉普登交际甚广，是各种聚会上深受大家欢迎的人。","（1）circle 的含义之一是“（具有共同利益或兴趣等的人形成的）圈子”、“……界”：","Such things are never talked about in businese circles.","商业界的人士从来不谈论这种事。","Jeremy used to have a large circle of friends, but now he likes being alone.","杰里米以前交游甚广，但现在他喜欢独处。","（2）popular 在这里表示“受欢迎的”、“得人心的”：","She is now a popular actress.","她现在是个走红的演员。","Mary is always popular with/among children.","玛丽总是很受孩子们的欢迎。","2．his great sense of humour,他那绝妙的幽默感。 humour 可以指“幽默”、“幽默感”，sense of humour 指“幽默感”： He has a good/great sense of humour. 他很有幽默感。 George has no sense of humour. 乔治没有幽默感。 He is a man without humour. 他是个没有幽默感的人。","3．…everybody, that is, except his six-year-old daughter, Jenny. ……人人，就是说，除他6岁的女儿珍妮之外的每一个人。 （1）that is 为插入语，表示“那就是说”、“亦即”，用于补充说明 everybody。 He is coming home next Monday, that is, April  5th. 他将于下星期一也就是4月5号到家。 He is coming home next Monday, that is, if he does not change his plan. 他将于下星期一到家，就是说，如果他不改变计划的话。 （2）Jenny 为 his…daughter 的同位语。 （3）数词加名词构成复合形容词可以用于表示年龄、时间、度量等，名词通常用单数： a twenty-year-old man 一位20岁的男子 a four-hour meeting 历时4小时的会议 a six-foot hole 一个6英尺深的洞（也可以说 a hole six feet deep,这时 foot 用复数） a three-hour journey 一次3小时的旅程","4．This is the sort of thing that Jeremy loves.这正是杰里米喜欢做的事情。 sort 表示“种类”、“类型”，常与 of 连用： There are all sorts of flowers in his garden. 他家花园里有各种各样的花。 You mustn't mix with that sort of people. 你不得与那种人交往。","5．…he did as his daughter asked.……他还是按照女儿的要求做了。 as 引导的是方式状语从句，其含义为“如同……那样”、“以……的方式”： This fish isn't cooked as I like it. 这条鱼不是按我喜欢的那样做的。","6．to his surprise,令他吃惊的是。 to sb's surprise 是固定短语： To my surprise, they can't sell their flat. 使我惊讶的是，他们的那套房子居然卖不出去。","7．Jeremy asked her why this was so…杰里米问她为何不喜欢…… this was so 代指前面提到的情况，即 she hadn't enjoyed the speech, this 指“上述之事”，so 表示“如此的”。"]},{title:"语法",content:["间接引语：祈使句的转述","（1）在第15课与第39课的语法中，我们分别学习了陈述句和疑问句变为间接引语的情况，它们基本上都是引述词(say, tell 等)+（间接宾语）+从句：","He told me that the firm could not afford to pay such large salaries.","他告诉我，公司支付不起这么庞大的工资开支。（间接陈述句）","He asked if Mr. Gilbert's operation had been successful.","他问吉尔伯特先生的手术是否成功。（间接疑问句）","（2）祈使句的情况有所不同。表示命令、请求、建议的祈使句通常可用适当的动词后跟不定式来转述。常用的这类动词有","advise, ask, tell, order, command, warn, invite 等，这些动词后往往有间接宾语：","转述这类祈使句的否定形式时，必须将 not 放在带 to 的不定式之前：","I advise you not to buy her anything.","我建议你别给她买任何东西。","（3）动词 suggest 和 insist 用于转述建议、要求时，其结构为 suggest/insist+that 从句（用 should）："]},{title:"词汇学习",content:[`1．admire vt.
+（1）钦佩，赞赏：
+Everybody admires him for his great sense of humour.
+大家都钦佩他那绝妙的幽默感。
+I admire his music more than anyone else's.
+比起其他人的音乐来我更赞赏他的。（表示喜好，不可用进行时）
+（2）欣赏，观赏：
+Frank is admiring your garden.
+弗兰克正在欣赏你家的花园。
+While admiring the new building, I heard someone calling my name.
+正当我在观赏那座新建筑时，我听到有人叫我的名字。
+（3）（口语）夸奖，称赞：
+Don't forget to admire her new dress.
+别忘了赞美她的新衣服。
+She likes to hear her children admired.
+她喜欢听到她的孩子们受到夸奖。
+2．laugh vi.
+（1）（大）笑：
+You're very kind to laugh when I tell a funny story.
+我很感激你在我讲一个逗人的故事时发笑。
+Everybody laughed out loud when he said that.
+他说那话时大家都放声大笑。
+（2）嘲笑（介词用 at）：
+If you go round saying things like that, everyone will laugh at you.
+如果你到处说那种话，所有的人都会嘲笑你的。
+She did not like to see so many people laughing at him.
+她不愿意看到那么多人嘲笑他。
+如果 laugh at 后面跟的是物，则表示“因……而发笑”：
+You're very kind to laugh at my funny stories.
+我很感激你因我讲的逗人的故事而发笑。`]},{title:"词汇学习",content:[`1．circle n. 圈子：
+2．admire v. 赞美，钦佩：
+admire sb.for sth.因为...羡慕某人
+I admire him for his richness/house/clever daughter.
+3．close adj. 亲密的：
+close friend
+4．wedding n. 婚礼：
+my best friend's
+5．reception n. 招待会：
+=party
+wedding reception 婚宴
+news conference 新闻发布会，记者招待会
+6．sort n. 种类：
+type 种类，有特殊特征的
+一般情况都用 kind,sort
+习惯用 sort 的时候：１．那种人 that sort of person
+7．sort 可含有讽刺意味
+That's the sort of thing you like best.`]},{title:"讲解",content:["1. have a large circle of friends 有一个很大的朋友圈子，交际很广 ＝sb.has/have a lot of friends","2.that is 一旦插在句子当中，是作为固定结构，意思是那就是说","3.prepare sth: prepare 后面跟内容有关系 prepare for sth. 后面不一定跟内容有关系 speech 发言 I am preparing a speech","4.as 从句：正如，方式状语从句 a little 稍微，有一点 be disappointed by 因为某事感到失望 do as you are told 正如你被告知的去做","5.why this was so this 可以作主语，也可以作宾语 so 只能作宾语，只能放在动词后面 I think so I hope so. i guess so. do so I expect so. like to do 某一次 like doing 习惯 see sb.doing 看见某人正在做某事 so many people 跟数字相连的前面一点要用 so the sort of. the kind of 的后面加单数 include 包含，把里面内容的一部分挑出来说 contain 强调容器里的包含，后面一定要把所有的东西都列举出来 It was a great success."]}]},{lesson:64,sections:[{title:"自学导读",content:["1．a plan for a twenty-one-mile tunnel，建造一条长  21英里的隧道的计划。 twenty－one－mile 作 tunnel 的修饰语，注意 mile 为单数。plan for +名词／动名词表示“……的计划”：","They always make plans for their holidays, but, in the end, they always stay at home.","他们总是为假期制订各种计划，但是，末了，他们总是呆在家里。","He came with a plan for (building) a bridge over the river.","他带来了在这条河上建一座桥的计划。","2．serve as，充当，起……的作用（也可以说 serve for）。 The books on the floor may serve as/ for a carpet. 地板上的书可充当地毯用了。 This sofa can serve as/ for(a) bed. 这张沙发可以当床用。","3．a better plan was put forward, 提出了一项更好的计划。 put forward 为固定短语，可分开用，其含义之一是“提出（计划、建议等）”： You know they wouldn't accept your plan. Why did you put it forward? 你知道他们不会接受你的计划。你为什么要提出来呢？ Has he put forward any suggestion? 他提出什么建议了吗？","4．He suggested that a double railway-tunnel should be built.他提 议建一条双轨隧道。 suggest 后面跟从句时，从句的谓语动词形式为 should（可省略）+动词原形（cf．第63课语法）： He suggested (that) they (should) change the plans. 他建议他们改变计划。 suggest 后面也可以跟名词或动名词形式。（cf．第47课词汇学习）","5．It was officially opened on March 7,1994, finally connecting Britain to the European continent.它于1994年3月7日正式开通，将英国与欧洲大陆连到了一起。 现在分词 connecting 引导的短语相当于一个并列分句。connect 表示“连接”、“连结”，可与 to 或 with 连用： This road connects the willage with/to London. 这条公路连接着这个村子与伦敦。 The lake and the canal are connected by a river. 这个湖与运河之间由一条小河相连。"]},{title:"语法",content:["第3类条件句","（1）在第16课的语法中，我们学习了用第1类条件句表示将来很可能发生的事：","If you park your car in the wrong place, a traffic policeman will soon find it.","一旦你把汽车停错了地方，交通警便很快就会发现。","在第40课的语法中，我们学习了用第2类条件句谈论想像中的情况或描写完全不可能的事：","If you ate more and talked less, we would both enjoy our dinner!","如果你多吃点，少说点，我们两个都会吃得好的！","If I were you, I would not go to London tomorrow.","如果我是你，我明天就不去伦敦。（婉转的建议）","（2）第3类条件句的基本结构与前两类都不一样，if 从句需用过去完成时，主句用 would have/should have+过去分词形式：","If it had rained, we would have stayed at home.","要是下雨，我们就会呆在家里了。","第3类条件句在 if 从句里设想纯粹想像的事情，在主句里讲述想像的结果。它与第2类条件句有一定的相似之处。但是，第3类条件句所谈的是没有或永远不可能有的结果，因为它们指的是过去没有过的事情。它们是所谓的“假设条件句”：","If I had worked harder at school, I'd have go a better job.","要是我上学时勤奋一些，我就会有较好的工作了。（事实是现在的工作不太好）","在 if 从句中可用 could have+过去分词代替 had been able to +动词原形"]},{title:"词汇学习",content:[`1．fear vt.
+（1）害怕，畏惧：
+If, at the time, the British had not feared invasion, the tunnel would have been completed.
+如果不是因为那时英国人害怕入侵，隧道早就建成了。
+She fears speaking in public.
+她害怕当众讲话。
+（2）恐怕，猜想（比 be afraid 要正式）：
+We fear/It is feared/ We're afraid that many lives have been lost in the crash.
+在这次撞车事故中恐怕有许多人丢了性命。
+I fear that she has lost her way in the forest.
+我担心她在森林里迷路了。
+2．动词 draw 的一些短语
+动词 draw 的主要含义之一是“拉”、“拖”，它与不同的小品词连用可以有不同的含义。
+（1）draw in，使……进入；吸入：
+If a train entered the tunnel, it would draw in fresh air behind it.
+如果有一列火车开进隧道，它就把新鲜空气随之抽了进来。
+The smell of flowers in the shop drew us in.
+花的香味使我们走进了这家商店。
+（2）draw back，后退，后缩；收回，撤回：
+If you take part in the race, you mustn't draw back.
+你如果参加比赛，就一定不能退出／后退。
+You must finish the work by yourselves now. They have drawn back their people.
+你们得靠自己完成这项工作。他们已把他们的人员撤走了。
+（3）draw up，停住，使……停住；起草，制订，拟订：
+I was waiting for Jill in front of a shop when a taxi drew up beside me.
+我正在一家商店门口等吉尔时，一辆出租车停在了我身边。
+Have any new agreements been drawn up between the two countries?
+这两个国家之间又签订什么新协议了吗？
+（4）draw off，撤走，离开：
+The villagers had to draw off because of the flood.
+由于洪水的缘故，村民们不得不撤走。
+When the others were talking loudly, he quietly drew off.
+其他人大声交谈时，他悄悄地离开了。`]},{title:"词汇学习",content:[`1．tunnel n. 隧道：
+channel 海峡
+2．port n. 港口：
+airport
+3．ventilate v. 通风：
+air
+Air the room,please!
+4．chimney n. 烟囱：
+5．sea level 海平面：
+6．double adj. 双的：
+double income,no kid.
+couple / pair
+a couple of weeks
+a pair of shoes/socks/glasses
+7．ventilation n. 通风：
+Forced Ventilation 强制排风系统
+8．fear v. 害怕：
+afraid / frighten/frightening/frightened/frightful
+be afraid/frighten/scare
+sb.fear sth.
+I feared darkness.
+I fear dogs.
+be afraid of  I am afraid of dogs.
+Can you help me?   I am afraid I can't/I am afraid not.
+sth.frighten / scare sb.  You frightened/scared me
+The dog frightened me
+fear / be afraid of 是习惯性的／人做主语
+frighten/scare 是因某件突然的事情才有的害怕情绪／句子后边的部分是人  The film scared me
+horrified 恐惧
+9．invasion n. 入侵，侵略：
+decide/decision invade v.
+10．officially adv. 正式地：
+official / office
+formally
+11．connect v. 连接：
+connect sth.with / to
+12．European adj. 欧洲的：
+European Continent
+13．continent n. 大陆：`]},{title:"讲解",content:["１．in 1858","２．in 1860","３．forty-two years later","４．1994 描述一件事物的要素： who/do what/how /why in 1858,a French engineer arrived in England with a plan. plan for twenty-one-mile 是定语 He said it 代表 to build a platform in the centre of the Channel,做形式主语 serve as 作为...来服务； 起...作用 It will serve as swimming pool. above 在海拔上高 put forward (plan/suggestion) an Englishman suggest 有两个意思： １作为＂暗示＂意思时，用法与其它的词相同。 ２作为＂建议＂意思时，则为虚拟语气，后接动词是要用-ing 形式，后接 that 从句采用一种固定的用法。 should + 动词原形  should 可以省略 He suggested that a double railway-tunnel be built. I suggested (that) he (should) go home. He suggested that I should go with him He insisted that I should stay to lunch. for 因为 draw in 吸进 bring at the time the British 英国人 虚拟语气 （非真实条件句） １与现在事实相反 ２与过去事实相反 其从句的使用： １与现在事实相反，用一般过去时 ２与过去事实相反，用过去完成时，此时主句格式为：would have done would/could/should must have done 对过去的推测 cann't have done 对过去的推测 情态动词加 have done 表示对过去的推测 wait for wait for five minutes I have waited five minutes. I have waited for you for five minutes I have waited five years for you. connect...to... 非谓语动词中的 ing 形式： １表示其与主语是主动的关系 ２表示动作正在发生 非谓语动词中的 ed 形式表示其与主语是被动的关系"]}]},{lesson:65,sections:[{title:"自学导读",content:["1．Jumbo versus the police,（标题）小象对警察。 versus 表了竞赛等中“……对……”： Have you watched the game last night? It was France versus Italy. 昨天晚上的比赛你看了吗？是法国队对意大利队。","2．Dressed up as Father Christmas and accompanied by a‘guard of honour’of six pretty girls, he set off down the main street of the city riding a baby elephant called Jumbo. 他打扮成圣诞老人，在由6个漂亮姑娘组成的“仪仗队”的陪同下，骑上一头名叫江伯的小象，沿着城里的主要街道出发了。 （1）dress up as 表示“装扮成……（的样子）”，这里的 dressed 有表示状态的含义。","（2）在英国英语中，圣诞老人通常用 Father Christmas 表示。Father 大写可表示对老人的一种尊称：Father Baker（贝克大爷／老爹）。","（3）accompany (vt.)的主要含义是“陪伴”、“陪同”：","Jane accompanied her mother to the theatre last night.","昨天晚上，简陪她母亲去看戏了。","When I saw her yesterday, she was accompanied by her boyfriend.","昨天我见到她时，她正由她的男朋友陪着。","（4）guard of honour 指“仪仗队”， guard 可表示“（一队）警卫队”、“（一队）卫兵／哨兵”等。of six pretty girls 中的 of 表示“由……组成的”：","A group of six Chinese boys took part in the competition.","一个由6名中国男孩组成的小组参加了这次竞赛。","（5）down 在这里是介词，表示“沿”、“顺”、“循”的意思：","Just walk down the street and you'll see the post office.","一直沿着这条街走，你就会看到邮局。","（6）baby 可作形容词，表示“幼小的”、“小的”、“小型的”等含义：She likes to watch baby dogs.","她喜欢观看小狗。","She has a baby car.","她有一辆微型汽车。","3．…Jumbo was holding up the traffic. ……江伯阻碍了交通。 hold up 为固定短语，其含义之一为“阻止”、“使停顿”、“延误”、“阻碍”： If you park the car in the street, it'll hold up the traffic. 如果你把车停在街上，它将会阻碍交通。","4．to get him off the main street, 把它推离主要街道。get off 在这里表示“从……移去／除去”： Please get the box off the boat. 请把那箱子从小船上弄下来。","5．…they were most amused.……他们感到很有趣。 most 在这里相当于 very。","6．…but as he has a good record, we shall let him off this time. ……但由于它一贯表现很好，这次我们饶了它。 let…off 表示“放过”、“饶过”、“对……从轻处理”。record 可表示“履历”、“历史”或“成绩”等： Her record as a secretary in the firm isn't very good. 她在这家公司当秘书时表现不太好。 Dan made a good/ poor record in school. 丹上学时成绩很好／不佳。 The thief has a long record. 这小偷有一长串犯罪记录。"]},{title:"语法",content:["表示“应该”和“必须”的情态助动词 should, ought, have to 与 must","（1）在第17课的语法中，我们学习了表示不可逃避的义务或表示“必须”的 must。must 通常只用于现在时和将来时，其他时态则用 have to 代替。have to 比 must 往往更强调客观的要求或外在的原因：","In the play, she must appear in a bright red dress and long black stockings.","演出时她必须穿一条鲜红色的裙子和黑色的长筒袜。","Last year in another play, she had to wear short socks and a bright, orange-coloured dress.","去年在演另一个剧时，她不得不穿短袜和一件鲜艳的橘红色的衣服。","（2）should 和 ought to 都可译为“应该”，表示义务、责任或某个正确的行为。ought to 比 should 语气略强些，多用于肯定句；疑问句与否定结构则多用 should。与它们相比， must 和 have to 的语气要强得多，没有选择余地：","（3）had to 表示过去必须做某事，而 should／ought to+have+过去分词则表示过去应该做（或完成）而没有做的事"]},{title:"词汇学习",content:[`1．let
+let 一般作及物动词，主要含义是“允许”、“让”，后面可以跟不同的小品词，有时意义变化不大，有时则变化较大。
+（1）let in 的含义之一是“允许进来”：
+The woman who let me in had a baby in her arms.
+开门让我进来的那位妇女抱着一个孩子。
+（2）let out 的含义之一是“放走”、“释放”、“放出去”：You shouldn't have let the thief out.
+你不该把小偷放走。
+Every evening they let the dog out.
+他们每天傍晚把狗放出去。
+（3）let off 可以表示“放过”、“饶过”、“宽恕”、“对……从轻处理”：
+I think we shall let him off this time.
+我想这次我们饶了他。
+The thief never dreamt that the police would let him off.
+小偷从未想到警察会对他从轻处理。
+（4）let down 可以表示“使……失望”或“（在紧要关头）抛弃”等：
+They need your help. Don't let them down.
+他们需要你的帮助。别让他们失望。
+He failed in the exam again and his parents felt let down.
+他考试又没及格，他父母觉得很失望。
+2．agree 与 accept
+（1）agree(vi.) 的主要含义是“同意（计划、建议等）”，常与 to 和 with 连用：
+I agree with you.
+我同意你的意见。
+They invited me to their wedding and I've agreed to go.
+他们邀请我参加他们的婚礼，我已同意参加。
+（2）accept 主要作及物动词，表示“接受”、“收受”等：
+She offered me some of her children's clothes and I accepted them.
+她给了我一些她孩子们的衣服，我接受了。
+（3）当 accept 表示“同意”、“接受”时，其含义与 agree 有相似之处，但用法不同：
+I don't accept your opinion/ agree with your opinion.
+我不同意你的观点。
+3．dress 与 dress up
+（1）dress (vt./vi.)表示“穿衣”、“打扮”：
+He did not like the way she was dressed.
+他不喜欢她的那副打扮。
+She returned to the shop the following morning dressed in a fur coat.
+第二天上午，她又来到这家商店，穿了一件裘皮大衣。
+Tom has nearly learned how to dress/ dress himself now.
+汤姆现在已差不多学会如何穿衣了。
+（2）dress up 表示“穿上盛装”、“精心打扮”、“装扮（成……）”等：Is everyone required to dress up for this party?
+这个晚会要求大家都穿礼服吗？
+He dressed up as Father Christmas.
+他装扮成圣诞老人。`]},{title:"词汇学习",content:[`1．versus prep. 对：
+vs.
+2．christmas n. 圣诞节：
+christmas eve
+3．father christmas :圣诞老人
+4．santa claus:圣诞老人
+5．circus n.马戏团：
+6．present n. 礼物：
+gift
+7．accompany v. 陪伴，随行：
+i'll accompany you to your hotel.
+i'll accompany you home.
+8．approach v. 走近：
+come nearer and nearer
+the old man approaches 80 years old.
+approach sb
+he is approaching me.
+approach n.途径，方法
+we have found an approach to success.
+9．ought modal verb. 应该：
+ought to do sth
+should do sth.
+10．should :应该（我认为）
+11．ought to:应该（义务上）
+you should knock at the door.
+you ought to knock at the door.
+12．weigh v. 重：
+sb+weigh+体重
+weight n.
+lose weight 减肥
+13．fortunate adj.幸运的：
+14．lucky:有幸运的，幸运的`]},{title:"讲解",content:["在阅读理解中学会化整为零，在写作当中学会化零为整","take to:把．．．送到","dress up as ：打扮成为","dress up 打扮","be dressed","accompanied","a guard of honour:仪仗队","set off:出发","riding 跟主语有关系，必然是状语","should have done :原本该做而没做","needn't have done :过去不必做但是做了","ought to :应该","所有的情态动词＋have done 都跟过去有关","１．跟虚拟语气有关的：would ahve done","2. 表示推测句型：may/must/can't have done as=because hold up the traffic:阻碍交通 though:尽管 agree to do :同意做某事 agree with sb agree to (prep.)sth I agree with you. I agree to your advice I agree to go with you. off=away from 离开什么地方 must+v. 推测，have to:不得不 afterwards=later:后来 It was fortunate that... carry:抬起来 should 跟现在有关系 should have done 跟过去有关系 let sb off(go):让某人走（离开） record:(警察局的）记录 set up a new world record sb have a good record resume :履历 情态动词＋have done 一定和过去有关系 １表示推测的过去：must/can't/may","2.虚拟语气相连：would have done","3.should have done :原本该做但是没做","4.needn't have done :原本不必做但是做了"]}]},{lesson:66,sections:[{title:"自学导读",content:["1．a long way west of Samoa, 位于萨摩亚群岛以西。 这个短语补充说明 Wallis Island 的位置。表示方向（东、南等）的词后面可以直接加 of+地名，前面也不用加任何介词： Shanghai is south of Beijing. 上海在北京以南。","2．over the years, 多年来。 over 表示“在……期间／之中”： He worked very hard over the last two years. 过去两年中他工作努力。","3．By this time, a Lancaster bomber in reasonable condition was rare and worth rescuing. 到了那个时候，状况良好的兰开斯特轰炸机实属罕见，值得抢救。 （1）reasonable 在这里表示“尚好的”、“过得去的”，用于表示价钱时，它指“公道的”、“合理的”、“不贵的”等： The house is in reasonable condition. 这座房子状况尚好。 The price of the dress is reasonable. 这件衣服不算贵。 （2）worth 可表示“值得”、“具有……的价值”，后面跟名词或动名词： This book is worth buying. 这本书值得买。 That park is worth a visit. 那个公园值得一去。","4．The French authorities bad the plane packaged and moved in parts back to France. 法国政府让人把飞机包装起来，一部分一部分地搬回法国。 句中 have 为使役动词，表示“使”，后面加名词／代词加过去分词。packaged 和 moved 都属于这种结构。（cf. 本课语法）","5．A colony of bees had turned the engine into a hive…一群蜜蜂把发动机当做了蜂房…… colony 作量词表示“群”时，往往用于蜜蜂、蚂蚁等。 turn into 表示“把……改变成……”： When it is cold enough, water is turnd into ice. 冷到一定程度时，水就变成了冰。"]},{title:"语法",content:["使役式（The causative）","（1）动词 have 除了可以作为助动词构成完成时以外，还可以作为完全动词表示“拥有”或代替 take, eat, receive, experience 等动词（cf. 第18课语法）：","Did you have a good meal?","您吃得好吗？","He has five cars.","他有5辆汽车。","have+名词可以代替普通动词（cf.第42课语法）：","They had a nice swim.","他们很畅快地游了泳。","（2）have 作为完全动词还可以构成使役式，其形式为： have+名词或宾格代词+动词的过去分词。由于 have 是完全动词，所以其疑问句与否定句由 do/did 构成。与被动语态相似，使役式着重表示的是对某物（或某人）做了什么而不是某人做了什么。试比较：","用被动语态或使役式时，我们可能不知道或认为不必指明为我们服务的人是谁。然而，使役式比被动语态更加强调“使”别人为我们服务这一事实。我们要表示让别人为我们做某事时，通常不用主动语态。让别人给理发时，不可说 I want to cut my hair 而要说 I want to have my hair cut。","使役式也可以用以指人：","While I'm away, I'll have you looked after.","我不在的时候，我会让人照顾你的。"]},{title:"词汇学习",content:[`1．集合名词
+集合名词表示的是由若干个体组成的集合体，如 family（家庭，一家人），team（队），crew（船、飞机等上的全体工作人员），audience（观众），government（政府），staff（全体职员／教员），class （班，班级）等。如果要强调作为整体的集体，则后面的动词用单数；如果要强调组成集体的每个人，则后面的动词用复数：
+1．imagine vt.
+（1）想像：
+Can you imagine their surprise and delight?
+你能想像得出他们的惊奇和快乐吗？
+I thought I heard something, but perhaps I was imagining it.
+我觉得我（好像）听到了什么动静，不过也许这只是我的想像。
+（2）料想，猜想：
+imagine you'd like to rest after your long journey.
+我想你在长途旅行之后肯定愿意休息一下。`]},{title:"词汇学习",content:[`1．Lancaster n. 兰开斯特：
+Lancaster:name of the plane
+bomb 炸弹
+2．bomber n. 轰炸机：
+3．remote adj. 偏僻的：
+lonely 偏僻的（孤零零的）
+remote village 遥远的村庄
+lonely island
+remote 偏远
+4．Pacific n. 太平洋：
+Atlantic 大西洋
+Indian ocean 印度洋
+Arctic ocean 北冰洋
+5．damage v. 毁坏：
+6．wreck n. 残骸：
+wreck 强调坏了没用的东西
+wreckage 强调坏的东西成碎片
+7．rediscover v. 重新发现：
+8．re :表示再、又的意思
+review 复习
+read 再读
+rewrite 改写
+retell 复述
+9．aerial adj. 航空的：
+10．survey n. 调查：
+investigation 调查
+survey 调查（一定要跟数据有关系）
+aerial survey 航空调查
+11．rescue v. 营救：
+＝save
+12．package v. 把......打包：
+pack n. 小包
+ｖ．把．．．打成小包
+wrap it up for me
+package ｎ．大包
+ｖ．把．．．打成大包
+package deal
+parcel 包裹（邮局邮寄）
+pack it for me
+13．enthusiast n. 热心人：
+14．restore v. 修复：
+15．imagine v. 想像：
+imagine doing
+imagine it 想像一下吧 想不到
+imagine that
+16．packing case 包装箱：
+17．colony n. 群 殖民地：
+18．colony :一群聚居在一起的生物
+a colony of ants 一群蚂蚁
+a colony of bees 一群蜜蜂
+a colony of artists 一群艺术家
+a flock of
+a flock of goats 羊群
+a herd of cows 一群奶牛
+a crowd of (用于人）
+19．bee n. 蜂：
+20．hive n. 蜂房：
+21．preserve v. 保护：
+protect 保护
+preserve 保存（经过特殊手段而保存下来）
+bean curd 豆腐
+preserved bean curd 豆腐乳
+preserved fruit 果脯
+preserved meat 腊肉
+preserved fish 腊鱼
+smoked fish 熏鱼
+Can I keep your photo?
+我能保存你的照片吗？
+How long can I keep it?
+Can I return it to you?
+Can I keep it for you?
+store the cabbage  store 储存，保存（以便日后使用）
+22．beeswax n. 蜂蜡：`]},{title:"讲解",content:["Lancaster 轰炸机的型号","crash 从上往下掉","crash in the mountain 掉到山里","a remote place in the South Pacific 做 Island 的同位语","a long way to go 有很长的路要走","west of","east of","south of","north of","在英文中跟方位感相连的介词有三个 in,on,to","Haerbin's in the north of China.","on 是指跟一个地方有接触面","Korea is on the north of China","to 是相离的概念","前面又没 the,又没介词，the west of = to the west of","west of 前面没有任何词修饰的时候，我们认为处于相离的关系","was too badly damaged 损坏的太厉害","over the years 这些年来","over the new year 在新年期间","over the Christmas 在圣诞期间","over Spring Festival 在春节期间","remain + adj 看作系动词 be 理解","The room remained warm 房间还是那么暖和","Christmas is coming few days after the beginning of the winter.","by this time 到这时","in condition 处于...状态","in reasonable condition = in good condition","in perfect condition 处于完美状态","in poor condition 状态不好","in reasonable condition 介词短语在这做后置定语","keep the house in good condition","walking in the cloud 云中漫步；浓情巧克力；","dinosaur 恐龙；snow white 白雪公主——推荐的四部电影","was rare and was worth rescuing","be worth doing 表达了被动含义","The cake is worth eating","The books are worth reading","Have something done 让别人做某事","in parts : little by little ,bit by bit 一部分一部分地","the group :the group of enthusiasts","imagine 后面可以直接加宾语","Imagine my excitement when I found my mother outside.","Imagine their excitement and delight when the People's Republic of China was founded.","The door opened (open 是动词）","The door is open (open 是形容词）","break sth open 打开","cut open 切开","cut it open 剪开（信封）","tear it open 撕开（信封）","busy as a bee 忙得象蜜蜂","sweet as honey 甜得象蜜","sticky as glue 象胶水一样粘","strong as horse 象马一样强壮","turn ... into 把...变成","在固定短语中 as...as 中的第一个 as 省略","as busy as a bee 中第一个 as 省略","I am busy as a bee"]},{title:"特殊难点",content:["My family are watching TV","My family is happy","集合名词做人看，复数，不作人看，单数"]}]},{lesson:67,sections:[{title:"自学导读",content:["1．to set up his camp very close to the volcano,把帐篷搭在离它非常近的地方。 表示“与……靠近’可用 close to： He parked the car close to the river. 他把车停在河边。 Don't sit so close to the fire. 别坐得离火那么近。","2．Though he managed to take a number of brilliant photographs…尽管他设法拍了一些精彩的照片……","manage to do sth. 表示“设法做到某事”、“努力完成某事”，即虽然很费劲，但仍然做到／完成某事。另一短语 try to do sth. 可表示“设法做某事”、“努力做某事”，但并不表示完成／做到的含义：","He tried to open the door but couldn't.","他试图打开那门，但打不开。","He managed to open the door.","他设法把门打开了。","I finally managed to buy a house.","我终于设法买了一座房子。","3．a river of liquid rock,一股岩浆。 river 在这里为比喻用法，表示“（……的）巨流”。由于 a river of 这个结构中没有 as, like 等明确表示“像”的词，因此，它是一种暗喻。 When she heard the news, a river of tears came down her face. 她听到这个消息后，泪如泉涌。 Rivers of blood flowed during World war Ⅱ. 第二次世界大战期间血流成河。","4．It threatened to surround him completely…（岩浆）眼看就要将他团团围住…… threaten 表示“威胁着要”、“恐吓”： The forest fire threatened to destroy the town. 森林大火眼看就要将这个镇子焚毁。 He threatened to leave the team. 他扬言要离开这个队。 关于 threaten… with，参见第62课课文详注。","5．to escape just in time, 及时逃离。 in time 表示“及时”、“来得及”，just 表示“正好”、“差一点”： I caught the train just in time. 我刚好来得及赶上火车。 Shall we still be in time for / to see the performance? 我们还来得及看演出吗？","6．risked one's life, 冒着生命危险。 关于 risk 作为名词和动词的用法，参见第44课词汇学习。","7．any man alive, 任何在世的人。 alive 为形容词，可表示“在世的”、“活着的”，通常作表语。它作宾语时必须放在被修饰的词之后： Is your grandfather still alive? 你祖父还活着吗？ Every man alive has his / her own troubles. 每个活着的人都有自己的烦恼。"]},{title:"语法",content:["表示“能力”的情态助动词及其他有关的动词： can/ could, be able to 与 manage to","（1）在第43课的语法中，我们学习了表示“能力”的 can/could。用将来时的句子中表示“能力”时通常用 will be able to, 在表示成功地完成过去某个动作时用 was able to 而不用 could：","I can't remember where I've seen him.","我想不起来我在什么地方见过他。","I can sing some songs, but I can't play the piano.","我会唱一些歌，但我不会弹钢琴。","He thought he could pass the exam easily, but he failed.","他以为他能轻易地通过考试，结果他没通过。","After Byrd had ordered his men to throw out two heavy food sacks, the plane was then able to rise.","在伯德命令他的助手们扔掉两个沉重的食物袋之后，飞机才可以上升了。","Jane can't swim yet. She'll be able to swim in a few months time.","简不会游泳。再过几个月她就会游泳了。","（2）表示“能力”的另一种方式是用 manage to。在表示成功地完成过去某个动作时，它经常代替 be able to。与 be able to 相比，它更强调“虽然困难很大，但仍能……”这种含义。","如果把最后这句话改成：He was able to watch it after all（他最终看了那场比赛），那么他就不一定是克服困难才看到比赛，而可能是因为情况有变化等。"]},{title:"词汇学习",content:[`say 与 tell
+这两个词都有“说”的含义，但在用法上有区别。
+1．say
+（1）在表示“说”、“讲”时，say 后面不跟间接宾语（人）。如果一定要指明，则用 to+名词／代词：
+‘You haven't got much time,’he said (to me).
+他（对我）说：“你的时间不多了。”
+（2）表示“道别”、“诵读（祈祷）”、“背诵”等含义时用 say 而不能用 tell：
+We'll see his boat and then we'll say goodbye to him.
+我们将参观他的船，然后和他告别。
+Mary's children say their prayers every night.
+玛丽的孩子们每天晚上做祷告。
+（3）say 有“表达（思想、意见等）”含义，tell 则没有：
+Do you have anything to say about the accident?
+关于这次事故你有什么想说的／想法吗？
+（4）say 通常用于表达“据说”的意思，tell 则不能：
+John is said to be very interested in art.
+据说约翰对美术很感兴趣。
+（5）say 可以用于固定短语 say a good word for（为……说好话／辩护；推荐）：
+Don't expect that he'll say a good word for you.
+别指望他会为你说好话。
+2．tell
+（1）在表示“说”、“讲”时，tell 后面可以跟双宾语：
+He told me/ said that he would be retiring.
+他告诉我／说他快要退休了。
+（2）tell 经常用于表示“讲（实话、谎话、秘密等）”：
+He's telling a lie/the truth.
+他在撒谎／说实话。
+I won't tell you the secret if you can't keep it.
+如果你不能保守秘密，我就不把这秘密告诉你。
+（3）tell 可以表示“辨别”、“分辨”，say 则不可以：
+The snake obviously could not tell the difference between Indian music and jazz.
+那条蛇显然分辨不出印度音乐和爵士乐。
+（4）在英国英语中，tell the time 为固定短语，表示根据钟表等“说出时间”、“识钟”（美国英语中为 tell time）：
+Jimmy is only five years old, but he can already tell the time.
+吉米只有5岁，但他已经识钟了。
+另外，say 和 tell 后面跟 so 时含义不一样：
+I told you so!
+我告诉过你是这样的！（用于情况被证实之后）`]},{title:"词汇学习",content:[`1．volcano n. 火山：
+2．active adj. 活动的：
+active 积极的
+passive12: 消极的，被动的
+3．Kivu n. 基伍湖：
+4．Congo n. 刚果：
+5．Kituro n. 基图罗：
+6．erupt v. （火山）喷发：
+7．violently adv. 猛烈地，剧烈地：
+8．manage v. 设法：
+manage to do 设法去做并成功
+I can manage it.
+9．brilliant adj. 精彩的：
+10．liquid adj. 液态的：
+11．escape v. 逃脱：
+12．escape death :死里逃生
+13．narrow escape:九死一生
+escape doing sth
+14．alive adj. 活着的：
+alive 做定语时一定要放在被修饰词后面
+living sth.
+live(adj.):现场的；表＂活着的＂永远不和人连用`]},{title:"讲解",content:["spend some time doing sth.","用不定式做目的状语","close to:离……很近","for long = for a long time","notice sth.","notice sb.do/doing","notice that","river of ...: ——形成的河流","threaten to:有迹象表明","take a risk of/at a risk of:冒险","risk sth＝risk losing sth.:冒着失去——的危险","risk doing :冒着做——的危险","在两相比较中，如果前者属于后者，那一定要在比较时用 other,else 排除前者"]}]},{lesson:68,sections:[{title:"自学导读",content:["1．I crossed the street to avoid meeting him, but he saw me and came running towards me. 我穿过马路以便避开他，但他看到我并朝我跑过来。 （1）avoid 以及本课中出现的 enjoy, fancy, mind, finish 等动词后面只跟名词性的宾语，即只跟名词或动名词： They managed to avoid a car crash/crashing their car into the wall. 他们设法躲过了一起汽车撞车事故／避免了将车撞在墙上。 （2）running 引导的是分词短语，作状语，修饰 came，表示伴随状况： She ran after the thief shouting out for help. 她一边追赶小偷，一边大声喊叫求助。","2．It was no use pretending that I had not seen him…若再装做没看见他已是没有用了……","这句话中，it 是先行主语，真正的主语是 pretending 引导的动名词短语。It is (of) no use doing…是个固定结构（其中的 of 可省略），表示“做……也是徒劳的／无益的”：","It is (of) no use worrying about your family.","为你的家人担心是无益的。","3．No matter how busy you are…不管你多忙…… no matter 可与疑问词 (how, who, when, where, what 等)一起引导让步从句，表示“无论”： No matter where you go, you can't forget your home. 无论你到哪里，都无法忘记自己的家。 No matter what I say, I seem to say the wrong thing. 无论我说什么，都似乎说得不当。","4．I had to think of a way of preventing him from following me around all morning. 我得想办法不让他整个上午缠着我。","think of 在这里的含义是“想出”， way 在这里表示“办法”， a way of 后面的部分用于修饰 way。prevent 表示“阻止／制止”时其常用结构为 prevent sb. from doing sth., from 可以省略：","I can't prevent you from going if you want to.","你如果想去，我无法阻止。","5．You're not busy doing anything, are you? 你不忙，是吧？","这是一个附加疑问句，又称反意疑问句，是由陈述句后面加简略疑问句构成。陈述句如果是肯定的，则附加疑问句通常用否定形式；陈述句如果是否定的，则附加的疑问句用肯定形式。陈述句中有助动词时，附加疑问句重复其中的助动词；如果没有，则用 do 的各种形式构成：","John was angry, wasn't he?","约翰生气了，不是吗？（肯定式+否定式）","He hasn't left, has he?","他没走，是吗？（否定式+肯定式）","I can see him, can't I?","我可以见他，不是吗？（情态助动词作助动词）","You like it, don't you?","你喜欢它，不是吗？（没有助动词时加 do）","6．Would you mind my coming with you? 我跟你一道去行吗？","（1）Would/ Do you mind…? 是一个用来表示客气的请求或征求意见的结构，其中可以用 if 引导的从句或动名词结构。表示“同意／不介意”时，用“No, not at all”或“Certainly not”来回答；不同意时往往用一些委婉的说法，如“ I'm sorry, but…”等回答，不用“yes, I do”：","（2）如果动名词的动作执行者与句子的主语不一致时，它前面可以加所有格形容词或宾格代词，作为动名词的逻辑主语（cf. 本课语法）：","I hope you won't mind my staying here.","我希望你不介意我呆在这儿。"]},{title:"语法",content:["动名词的一些用法","（1）在第20课的语法中，我们学习了动名词的基本形式和作用，在第44课的语法中，我们学习了动名词用于某些短语动词","（look forward to, be used to 等）之后、一些表示喜好的动词（hate, love, prefer 等）之后不定式与动名词的区别以及 need 和 want 之后动名词的用法等：","I like watching TV.","我喜欢看电视。（一般行为）","I'd like to watch TV.","我（现在）想看电视。（特定）","The strap needs mending.","这提包带需要修理。（动名词在这里有被动的含义）","（2）有些动词后可以用动名词作宾语，但不能用不定式。这些动词包括 avoid, admit, deny, fancy, finish, enjoy, mind（在乎，在意），suggest, stand（容忍）等：","I tried to avoid meeting him.","我试图避开他。","I never enjoy meeting Nigel Dykes.","我就怕遇到奈杰尔·戴克斯。","I haven't finished speaking yet.","我还没有说完。","（3）有些结构通常要接动名词，如 busy, worth, it is no/little use, bored with, interested in, insist on, prevent…from 等：","I'm busy making meat pies.","我正忙着做肉馅饼。","A Lancaster bomber in reasonable condition is worth rescuing.","一架状况尚好的兰开斯特轰炸机值得抢救。","He insisted on paying.","他坚持要付钱。","I'm interested in acting.","我对表演感兴趣。","（4）动名词可以有自己的逻辑主语（即动作执行者，而不是句子的主语）：","He insisted on my paying the bill.","他坚持要我付账。","I don't think the children enjoy your/his/John's singing.","我不认为孩子们喜欢你／他／约翰唱的歌。","Please excuse his not writing to you.","请原谅他没有给你写信。","Do you mind my smoking9?","我可以抽烟吗？","Do you mind opening/my opening the door?","你／我可以开门吗？","（5）come 和 go 之后可以跟与户外活动相关的动名词（climbing, driving, fishing, riding, shopping, walking 等），表示建议、邀请或叙事：","Why don't we go swimming?","为什么我们不去游泳呢？","Come dancing this evening.","今晚来跳舞吧。","Yesterday we went fishing.","昨天我们去钓鱼了。","（6）感知动词（hear, see, feel, watch 等）后面既可以跟宾语加分词结构，也可以跟宾语加不带 to 的不定式。现在分词往往强调动作正在发生，用于叙述中时使人身临其境；不定式则可以表示动作发生了或过程结束了。有时它们之间的区别不大，可以互相替换使用。试比较：","I watched him climb/climbing the tree.","我看到他爬树了。（区别不大）"]},{title:"词汇学习",content:[`1．fancy vt.
+（1）设想，想像：
+Fancy meeting you here!
+想不到在这儿见到你！
+Fancy Ian not knowing the answer to such an easy question!
+真想不到伊恩竟会不知道如何回答这样一个简单的问题！
+（2）想要，喜欢（往往用于指个人爱好）：
+I don't fancy going for a walk in the rain.
+我不爱在雨中散步。
+It's a fine day and I fancy driving down to the coast.
+天气真好，我想开车去海边。
+2．insist vt./vi.
+（1）坚持，坚决认为：
+He insisted that he was right.
+他坚持他是对的。
+He insists on the importance of the meeting.
+他强调这个会议的重要性。
+（2）坚决主张／要求，一定要：
+I insist on speaking to the manager.
+我坚决要求／一定要与经理谈话。
+My wife insists that I (should) have my hair cut.
+我妻子执意要我理发。`]},{title:"词汇学习",content:[`1．persistent adj. 坚持的，固执的：
+You are stubborn.
+2．persist:坚持（不顾阻拦一味的坚持）persist in doing sth.
+3．insist:坚持（认为、说、是人的一种态度） insist on doing sth.
+4．perseverance:坚持不懈（褒义）      persevere in
+5．avoid v. 避开：
+avoid doing sth.
+6．insist v. 坚持做：`]},{title:"讲解",content:["avoid meeting","cross:(v.)穿过","across:(adv./prep)穿过","came running 向我跑过来","go shopping,go swimming,go skating","it is no use doing...做某件事情是没有用处的","It is no use crying over the spilled millk.","enjoy doing","like,love,enjoy,appreciate","用不定式做定语，修饰 anything","insists on coming","No matter :无论＋从句（要以特殊疑问词引导）","No matter how busy you are.","I had to think of a way of preventing","think of a way of doing :想一个作某事的方法","prevent do from doing sth :让某人不做某事","stop sb.from doing sth ;让某人不做某事","keep sb.from doing sth.","forbid sb.to do sth.","Fancy meeting you here? 真想不到会在这里见到你！","fancy = imagine","fancy + 名词——表示惊讶","不定式的复合结构，做宾语从句","be busy doing:忙着做某事","反意疑问句的回答，根据事实回答","finish doing","complete doing","Would you mind my coming with you?","mind + v.-ing","for sb.--逻辑主语","my --形容词性物主代词","如果是名词，就变成名词所有格","Would you mind my parents' having dinner with me?","Would you mind me opening the door?","mind+v.-ing","-ing 的逻辑主语，是四种形式，分两大类：","１．作为代词，可以用人称代词的宾格，又可以用形容词性物主代词。","２．作为名词，可以保持本身不变，也可以变成名词所有格 my---me 可以互换 Would you mind my/me smoking? Would you mind me making myself at Home?"]},{title:"语法",content:["３）宾语：下列动词须跟动名词作宾语：","admit,deny,appreciate,enjoy,avoid,complete,delay,fancy,finish,mind,practice,risk,suggest,allow,permit...","practice(n.)practise(v.)","advice(n.)advise(vt.) advise sb.to do/advise doing","insist on doing,persist in doing,persevere in doing","give up doing","特注：","以 allow 为列：allow+doing sth.(动名词作宾语），但可以：allow sb.to do sth.（不定式作宾语）","这类动词常见如：advise,allow,permit,recommend,etc.","Structure14:","insist on","insist + 从句（should +原形）","salute :问候（军人向长官的）行军礼，敬礼","greet:问候","lie to:向某人撒谎","false:假的","lie:谎言 What she said was a lie.","as if :似乎，好像","make :制造，做","do as if (不这么用）","act as if","conduct as if (conduct+oneself:表现）","Even though","When because","As(因为）...whom(引导定语从句)...in order to (目的状语）","As there was a dentist nearby whow she knew well Elizabeth decided to go there in order to explain what had happened.","While(时间）...and(并列的两个句子）","After...and asked Nigel if...(间接引语）","After Elizabeth left,the dentist went into the waiting room and asked Nigel if he wanted to have his teeth ezamined."]}]},{lesson:69,sections:[{title:"自学导读",content:["1．to drive in heavy traffic, 在车辆拥挤的路上驾驶。 heavy 在这里表示“大量的”、“多的”、“密集的”： Traffic is heavier on this road than on the other one. 这条路上的交通比另一条路上拥挤。","2．…I began to acquire confidence.……我开始有了信心。 acquire 通常表示通过努力“获得”、“学到（知识、技术、语言等）”，也可用来表示“养成（习惯等）”： Mary acquired a good knowledge of Chinese in five years' time. 5年之内玛丽学会了汉语。 Tom acquired a habit of smoking. 汤姆养成了抽烟的习惯。","3．Sure that I had passed…确信我已通过考试…… 句首省略了分词 being 或 feeling，在句中作状语（与分词结构作状语的情况类似）： Interested in the story, he finished reading the book in two hours. 由于对故事（情节）感兴趣，他两个小时就把那本书读完了。","4．The examiner must have been pleased with my performance…主考人对我的驾驶想必是满意的……","must have been 表示对过去的事情进行猜测。 performance 在这里表示“表现”、“表演”、“工作情况”等。（cf.第13课词汇学习）表示“对……满意”时可以用 be pleased with：","They are pleased with his work.","他们对他的工作满意。","The manager isn't very pleased with his secretary.","经理对他的秘书不太满意。","5．Let us suppose that…让我们假设…… suppose 表示“假设”、“设定”时经常用于“let us suppose that”这个结构： Let us suppose that there is a forest fire. 让我们假设发生了森林火灾。","6．in a mournful voice, 以悲伤的声调。 in a… voice 表示“以……的声调”： He told them the news in a sad/ excited voice. 他用悲伤的／激动的声调把这消息告诉了他们。"]},{title:"语法",content:["被动语态（6）","（1）在第10课、第21课、第34课、第45课与第58课的语法中，我们学习了被动语态的基本形式、它与情态助动词的连用、它在动词+宾语+不定式结构中的使用以及它在过去完成时中的使用：","Recently it was damaged by a visitor.","最近它被一个客人弄坏了。（一般过去时）","Passing planes can be heard night and day.","过往飞机日夜不绝于耳。（与情态助动词连用）","Over a hundred people must have been driven away from their homes by the noise.","有一百多人肯定是被噪音逼得已经弃家远去。（must 与被动语态的完成式连用）","The bicycle was being sent to his home by train.","人们正用火车给他把自行车送回家。（被动语态用于过去进行时）","He never expected the thief to be arrested.","他从未指望那小偷能被逮着。（被动语态用于复合宾语中的不定式结构中）","The whole village soon learnt that a large sum of money had been lost.","整个村子很快知道，有一大笔钱丢失了。（用于过去完成时）","（2）被动语态还可以用于介词+动名词结构中。介词（after, before, on）+动名词这个结构通常相当于一个时间状语从句。如果两个动作中有一个在另一个开始之前已经完成，则可以用 after+动名词的完成式表示第1个动作；如果只表示先后顺序，则可用 after（或 before）+动名词结构； on+动名词通常表示两个动作几乎同时发生：","After having been instructed to drive out of town, I began to acquire confidence.","在接到把车开出城的指令后，我开始有了信心。","The man called the police after being robbed.","那人遭抢劫后给警方打了电话。","He killed a child before being arrested.","他在被捕前杀死了一个孩子。","On/After being told that her mother was seriously ill, she hurried back to England.","她得知母亲病重后连忙回到英国。","被动语态用于介词+动名词结构在英语中是很正式的用法，一般不用于口语中。","（3）被动语态用于 want 后面的不定式中时，to be 可以省略：","I want the luggage fetched from the hotel this afternoon.","我希望有人今天下午去把行李从旅馆取回来。","want 后跟被动语态时往往表示希望别人完成所说的动作。","（4）被动语态还可用于过去进行时，以强调动作的持续性"]},{title:"词汇学习",content:[`1．practice 与 advice
+这两个词均为名词，尤其是在英国英语中，它们的结尾都是-ice,它们的动词形式分别为 practise 与 advise,其结尾都是-ise （在美国英语中 practice 既是名词又是动词）。
+（1）practice 表不“（反复的）练习”、“实践”、“实行”等：
+Your spoken English will improve with practice.
+如果你练习，你的英语口语水平就会提高的。
+Have they put their plan into practice?
+他们把计划付诸实施了吗？
+practise (vt./vi.) 可以表示“练习”、“经常做”等：
+Jimmy used to practise (playing) football every afternoon.
+吉米以前每天下午都练习踢足球。
+She practises on the piano for three hours every day.
+她每天花3小时练钢琴。
+（2）advice 表示“忠告”、“劝告”、“建议”，是不可数名词：
+She gave me some good advice/ a piece of advice about jobs.
+关于工作问题她给了我一些好建议／一条建议。
+I took your advice and went to see a doctor.
+我听从你的意见去看了病。
+advise (vt./vi.) 表不“劝告”、“向……提供建议”等：
+She advised me to see a doctor.
+她建议我去看病。
+She advised me against going to the party.
+她建议／劝我不要去参加聚会。
+2．enjoy, entertain 与 amuse
+（1）enjoy 表示“欣赏”、“喜爱”、“享受……之乐”，后面跟名词、动名词或反身代词，用于主动语态：
+I enjoy swimming in summer.
+夏天我喜欢游泳。
+I enjoyed my trip to the coast.
+我这次去海滨旅行非常愉快。
+We're really enjoying ourselves.
+我们真的玩得很开心。
+（2）entertain 的含义之一是“款待”、“招待”、“请客”：
+We often entertain friends at weekends.
+周末我们经常招待朋友。
+Did he entertain you to dinner yesterday?
+昨天他请你吃饭了吗？
+（3）entertain 在表示“使……快乐”、“给……娱乐”时与 amuse 同义：
+Uncle Sam entertains/amuses the children for hours at a time.
+萨姆叔叔一连好几小时地逗孩子们乐。
+My children can entertain/ amuse themselves for hours with telling stories to each other.
+我的孩子们能一连几小时地互相讲故事玩。
+（4）amuse 表示“逗乐”、“逗笑”时，经常用于被动语态：
+His story amused the children very much.
+他的故事逗得孩子们很开心。
+She was amused by her father's funny stories.
+她父亲那些逗人的故事使她很开心。`]}]},{lesson:70,sections:[{title:"自学导读",content:["1．…the drunk was unaware of the danger.……醉汉没有意识到危险。 While she read the book, she was unaware of the noise around her. 她看那本书时没有觉察到周围的噪音。 I was unaware that you were coming. 我不知道你要来。","2．it suddenly caught sight of the drunk,突然它看见了醉汉。 catch sight of 是个固定短语，意为“看见”、“发现”： As I came out of the shop, I caught sight of Dan in the crowd. 当我从商店里出来时，我在人群中看到了丹。","3．sensitive to criticism,对挑衅／批评敏感。 sensitive 表示“敏感的”、“神经过敏的”、“易生气的”或“介意的”等，通常与 to+名词连用，也可作定语： Mary is sensitive to smells. 玛丽对气味很敏感。 Mary has a sensitive ear. 玛丽的耳朵很灵敏。 You're too sensitive. 你太敏感了（太容易生气了）。","4．The drunk, however, seemed quite sure of himself.可这醉汉像是很有把握似的。 be/ feel sure of oneself 表示“有自信心”： She's always so sure of herself. 她总是这么自信。","5．The crowd broke into cheers…观众欢呼起来…… break into 的含义之一是“突然发出／做出”、“突然……起来”，有控制不住的含义： On hearing the news, she broke into tears. 听到消息后，她大哭起来。","When Sally saw the woman wearing a hat that looked like a lighthouse, she broke into laughter.","当萨莉看到那妇女戴着一顶像灯塔一样的帽子时，她大笑起来。","6．Even the bull seemed to feel sorry for him, for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador. 好像连牛也在为他感到遗憾，因为它一直同情地看着醉汉，直到他的背影消逝，才重新将注意力转向斗牛士。","这个句子很长。for 引导的句子与它前面的分句为并列句。for 引导的分句中有两个时间状语，一是 until 引导的从句，二是 before 引导的动名词短语，其作用也相当于一个从句，由于主语也是 it，用动名词形式更简洁些。","（1）look on 可以表示“观看”、“旁观”：","Mary people just looked on while the two men robbed a woman.","当那两个人抢劫一位妇女时，许多人只是旁观。","（2）out of the way 为固定短语，可以表示“不挡道”、“不碍事”：","While making meat pies, I always order the children to keep out of the way.","我做肉馅饼时，总是命令孩子们不要碍事。"]},{title:"语法",content:["与 for, with, of, to, at, from, in, on 和 about 连用的形容词","在第22课与第46课的语法中，我们学习了与 of, from, in, on, to, at, for 和 with 连用的动词，知道许多动词都有固定搭配的方式（如 believe in, borrow from, occur to, account for 等）。另外，许多动词可以与不同的介词搭配（如 dream of/about, look at/for/after 等）。与动词的情况相似，形容词大部分也有与自己固定搭配的介词，并且有些形容词也可以与不同的介词搭配。","（1）与 for 连用的形容词（包括 eager, enough, ready, sorry, famous 等）：","My aunt is famous for her beauty.","我姑姑因貌美而驰名。","Even the bull seemed to feel sorry for him.","甚至连牛好像也在为他感到遗憾。","I'm ready for the journey.","我已做好旅行的准备。","We have enough apples for the children.","我们有足够给孩子们吃的苹果。","They were eager for the performance to begin.","他们热切地等待演出开始。","（2）与 with 连用的形容词（包括 angry, busy, content, popular 等）：","The bull was busy with the matador at the time.","当时那公牛正忙于对付斗牛士。","Why was Mary angry with you?","玛丽为何生你的气？","She wasn't content with her life.","她对自己的生活不满。","Uncle Sam is always popular with children.","萨姆叔叔总是很受孩子们的欢迎。","（3）与 of 连用的形容词（包括 afraid, aware, unaware, careful, certain, kind, north, south, east, west, short, shy, sure 等）：","The drunk was unaware of the danger.","醉汉没有意识到危险。","Wallis Island is a long way west of Samoa.","瓦立斯岛位于萨摩亚群岛以西很远的地方。","I used to be afraid of ghosts.","我以前很怕鬼。","The drunk seemed quite sure of himself.","醉汉像是很有把握似的。","It's very kind of you to come to the wedding.","非常感谢您来参加婚礼。","She is careful of her dress.","她注意衣着。","Are you certain of his coming?","你确信他会来吗？","I was short of money at that time.","那时我正缺钱。","（4）与 to 连用的形容词（包括 close, cruel, dear, new, obvious, polite, sensitive, rude, useful, similar 等）：","Most people are sensitive to criticism.","大部分人对别人的批评很敏感。","He was never rude to his parents.","他对父母总是以礼相待。","I can't understand why he was so cruel to his brother/good to that dog/polite to you.","我无法理解他为何对他兄弟如此残忍／对那条狗那么好／对你如此客气。","Though the bicycle is old, it is very dear to me.","虽然这辆自行车破旧，但我很珍视它。","All these words are new to me.","所有这些单词我都是第一次遇到。","Our house is close to a river.","我们家紧挨着一条河。","It's obvious to everyone that he's lying.","大家都清楚他在撒谎。","These books are useful to/for foreign students.","这些书对外国学生有用。","My car is similar to yours.","我的车与你的车相似。","（5）与 at 连用的形容词（包括 good, bad, clever, expert, quick, slow 等）：","Jane is good/bad at swimming.","简擅长／不擅长游泳。","George is expert at/in flying a plane.","乔治驾驶飞机的技术高超。","Sally is not/very clever at mathematics, but she's clever at making dresses.","萨莉不是很擅长数学，但她擅长做衣服。","Tom is quick/slow at learning new things.","汤姆学新东西学得快／慢。","（6）与 from 连用的形容词（包括 away, different, far, safe 等）：","It was very different from modern car races but no less exciting.","它虽然与现代汽车大赛不大相同，但激动人心的程度并不亚于现代汽车大赛。","While you're away from home, I'll look after the children.","你不在家时，我会照顾孩子的。","The lake is far from London.","这湖离伦敦很远。","The man was far from comfortable while being confined to the wooden box.","那人被闷在木箱里时一点儿也不舒服。","The village is safe from floods.","这个村子没有遭洪水袭击的危险。","（7）与 in 连用的形容词（包括 fortunate, honest, weak 等）：","You're fortunate in having a house of your own.","你很幸运，有自己的房子。","Frank is honest in business.","弗兰克做生意老实。","I'm weak in/at chemics.","我化学较差。","（8）与 on 连用的形容词（包括 dependent, intent, keen 等）：","She was keen on tennis.","她热衷于打网球。","You shouldn't be so intent on making money.","你不应当如此一心只想赚钱。","Are you still dependent on your father?","你还靠你父亲生活吗？","（9）与 about 连用的形容词（包括 curious, doubtful, right, uneasy 等）：","She is uneasy about her future.","她为自己的前途担心。","He was curious about the strange noise.","她对那奇怪的响声好奇。","I'm doubtful about/of his words.","我对他的话怀疑。"]},{title:"词汇学习",content:[`1．charge
+（1）vt./vi.要价，收费：
+They charged us too much for repairs.
+他们向我们要的修理费太多了。
+How much do you charge for this dress?
+这件衣服要多少钱？
+（2）vt.指控，指责：
+The police charged him with murder.
+警方指控他犯了谋杀罪。
+He charged Gary with speeding.
+他指责／指控加里驾车超速。
+（3）vt./vi.猛攻，冲向，冲锋，向前冲：
+The bull charged at the drunk.
+公牛直奔醉汉而来。
+Suddenly a dog barked and charged out of the house.
+突然，一条狗狂吠着从那所房子里冲了出来。
+2．bow
+（1）vi./vt.鞠躬，欠身，低下（头等）：
+The crowd broke into cheers and the drunk bowed.
+观众欢呼起来，醉汉向人们鞠躬致谢。
+The beggar bowed his thanks when people gave him money.
+当人们给他钱时，那乞丐便欠身致谢。
+As she couldn't answer the question, she bowed her head.
+她因为不会回答这个问题，便低下了头。
+（2）vi. 让步，屈服，服从：
+Why did you bow to their decision?
+你们为什么服从他们的决定？
+He finally bowed before money and married the other girl.
+他最终屈从于金钱的力量，娶了另一位姑娘。
+（3）vt. 压弯，压倒：
+My mother is bowed with age.
+我母亲因年老而腰弯背驼。
+The little tree is bowed with snow.
+大雪压弯了那棵小树。`]}]},{lesson:71,sections:[{title:"自学导读",content:["1．If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected. 如果不是国会大厦在1834年被焚毁的话，这座大钟永远也不会建造。 （1）这句话用的是虚拟语气，即第3类条件句，表示与过去的事实 相反的一种假设。（cf.第64课语法）","（2）the Houses of Parliament,国会大厦。由于英国议会是由上议院（House of Lords）和下议院（House of Commons）组成的，所","以 Houses 为复数形式。","（3）burn down 为固定短语，在这里表示“（使）烧成平地”、“烧毁”：","The hospital was burned down last month.","那家医院上个月被烧毁了。","2．Big Ben takes its name from Sir Benjamin Hall who was respon-  sible for the making of the clock…“大本”钟得名于本杰明·霍尔爵士，……他负责建造大钟。 （1）Sir 用于英国人的全名（或名字）之前时表示“爵士”（不单独用 于姓之前），如 Sir John Gilbert（约翰·吉尔伯特爵士）或 Sir John（约翰爵士），但不能称 Sir Gilbert。 （2）responsible for 表示“对……需负责任／承担责任的”： Who is responslble for the accident? 谁应对这起事故负责？ John is responsible for the building of the bridge. 约翰负责修建这座桥。","（3）-ing 形式前面无冠词时可直接跟宾语：making the clock; -ing 前有冠词时则其后不能直接跟宾语，而必须用 of;the making of the clock.","3．It is not only of immense size…此钟不仅外型巨大…… be of…表示人或物的特征： we are of the same age/size. 我们年龄／个头相同。 This letter is of great importance. 这封信至关重要。","4．Officials from Greenwich Observatory have the clock checked twice a day. 格林威治天文台的官员们每天两次派人矫正此钟。 （1）Greenwich 格林威治（又译格林尼治），位于伦敦东南，是本初 子午线，即经度零度经过的地方。 （2）have the clock checked 是 have 的使役式用法。（cf. 第66课语 法）","5．Big Ben has rarely gone wrong. “大本”钟很少出差错。 go wrong 为固定短语，其含义之一是“（机器等）发生故障”、“出 毛病”： My watch/The engine of the car has gone wrong. 我的手表／汽车发动机出了毛病。 Something has gone wrong with my car. 我的汽车出毛病了。","6．slow…down,把……弄慢。 Slow down 为固定短语（可分开使用），其含义之一为“（使……）慢下来／减速”： He slowed his car down while driving in heavy traffic. 他在车辆拥挤的路上驾驶时，放慢了车速。"]},{title:"语法",content:["复习第60～69课部分语法","通过这几课的语法学习，我们知道在表示将来时的句子中，要","在时间状语从句中使用现在时，同时也要在第1类条件句中用","现在时来表示；学习了将来完成进行时和过去完成进行时的形","式和用法；学习了第3类条件句、情态助动词 must, have to, should 和 ought to;学习了用于使役式的动词 have，以及用于介","词+动名词结构中的被动语态：","The Thompsons will move to a new flat when their baby is born.","孩子出生以后，汤普森一家将搬到一套新的公寓去住。","By this time next week, I will have been working for this firm for twenty years.","到下星期此刻，我就已经为这家公司工作了20年了。（将来完成进行时通常要和某个时间状语连用，这个状语往往","表示“到／截止……时候”）","Firemen had been fighting the forest fire for nearly three weeks before they could get it under control.","消防队员们同那场森林大火搏斗了将近三个星期才最后把火势控制住。（过去完成进行时与将来完成进行时一样，也要有时间状语；它们都强调动作的持续性）","If I had worked harder at school, I'd have got a better job.","要是我上学时勤奋一些，我就会有较好的工作了。（第3 类条件句表示与事实相反的虚拟语气）","We should/ought to arrest him, but we shall let him off this time.","我们应该逮捕它，但这次我们饶了它。","He should have known that the police would never allow this sort of thing.","他本该知道警察绝不会允许这类事情发生。（should+ have+过去分词表示过去应该做或完成而没有做的事）","The French authorities had the plane packaged and moved in parts back to France.","法国政府让人把飞机包装起来，一部分一部分地搬回法","国。（have+名词／宾格代词+过去分词表示让别人为自","己做某事）","After being robbed, the man called the police.","那人遭抢劫后给警方打了电话。（after+动名词的被动","形式相当于时间状语从句，但主语必须一致）"]},{title:"词汇学习",content:[`1．official, employee 与 shop assistant
+official 指“官员”、“公务员”：
+Before he retired, Jeremy had been a government/city official.
+在他退休之前，杰里米一直是位政府／市政府官员。
+A Customs official checked their passports.
+一位海关官员检查了他们的护照。
+official 也可以指“高级官员”：
+Bank officials get high salaries.
+银行高级职员的工薪很高。
+employee 泛指“雇员”、“雇工”（包括各个层次的）：
+In a few years the small workshop had become a large factory which had seven hundred employees.
+几年之后，小铺子已经发展成一个雇有700人的大工厂。
+Later he became a government employee.
+后来他成了一名公务员／政府雇员。
+shop assistant 在英国英语中表示零售店的“店员”（相当于美国英语中的 salesclerk）：
+The shop assistant who served her did not like the way she was dressed.
+接待她的售货员不喜欢她的那副打扮。
+2．hang, hung, hung 与 hang, hanged, hanged
+当 hang 表示“悬挂”时，其过去式与过去分词均为 hung：
+A painter hung a pot of paint on one of the hand and slowed the clock down.
+一位油漆工把一只油漆桶挂在了一根指针上，把针弄慢
+了。
+I'm hanging this picture on the wall.
+我正把这幅画挂到墙上去。
+当 hang 表示“绞死”、“吊死”或“上吊”时，其过去式、过去分词均为 hanged：
+As he has murdered three men, he ought to be hanged.
+他已杀了3个人，他应当被绞死。
+I wonder why she hanged herself.
+我纳闷／想知道她为何上吊自杀。`]}]},{lesson:72,sections:[{title:"自学导读",content:["1．The great racing driver, Sir Malcolm Campbell, was the first man to drive at over  300 miles per hour. 杰出的赛车选车马尔 科姆·坎贝尔爵士是第一个以每小时超过300英里的速度驾车的人。 （1）to 引导的不定式短语为 the first man 的定语。类似的可用于","这种句型的词语有 the second, the next/the last 以及表示最高级的如 the best, the most intelligent 等。这些词语后面可以","接名词或 one（s），也可以不接：","She's always the first to arrive and the last to leave.","她总是第一个来到，最后一个离开。","You're the best person to advise me about buying a house.","你是我买房子的最好顾问。","the only 后必须接一个名词或 one（s）：","You're the only pereson/one to complain.","你是惟一抱怨的人。","（2）per 表示“每一”、“每”，通常用于商业及技术用语，日常用语大","多用 a/an:","You can stay at the hotel at￡ 10 per person per night.","你们可以每人每晚花10英镑住在这家旅馆。","You must have been driving at seventy miles an/per hour.","你刚才一定是以每小时70英里的速度开车。","2．…he bad great difficulty in controlling the car because a tyre burst during the first run.……他很难把汽车控制住，因为在 开始的行程中爆了一只轮胎。 （1）difficulty 表示“难”、“困难”时为不可数名词。表示做某事有 困难时可以用 have difficulty(in)doing sth. 结构， in 通常可省 略： Gary has grown a beard and I had difficulty (in) recognizing him. 加里蓄了胡子，我很难认出他来。 （2）run 在这里为名词，表示“（赛跑的）路程／行程”： The next run is forty miles. 下一段赛程为40英里。","3．Following in his father's footsteps…踏着父亲的足迹…… follow in sb.'s footsteps 为固定短语，表示“步某人的后尘”、“仿 效某人”或“继承某人的事业”： He intends to follow in his father'/ uncle's footsteps and to become a dentist. 他打算继承父亲／叔叔的事业，当一名牙医。"]},{title:"词汇学习",content:[`1．burst
+（1）vi. 爆炸，爆裂：
+A tyre burst during the second run.
+在第二段赛程中一只轮胎爆了。
+The balloon burst.
+气球爆了。
+（2）vt./vi. 突然打开：
+While I was reading, the door burst open and John came in.
+我正看书时，门猛地开了，约翰闯了进来。
+We burst the door open.
+我们猛然把门撞开。
+2．复习第50～71课部分词汇
+在第50～71课中，我们学习了 used to 与 be used to 的区别；学
+习了形容词和相应的副词及其用法；学习了表示目的的几种方式(to, in order to, so as to, so that, in order that);还学了 make 和 let 后面接不定式的用法：
+As a boy, he used to work in a small shop.
+他小时候在一家小铺里做工。
+I'm used to getting up early.
+我习惯于早起。（表示现在的习惯，后面跟动名词而不是
+不定式）
+This morning I got up very late.
+今天早上我起得很晚。（late 表示“晚”）
+Have you been to the cinema lately?
+你最近去看过电影吗？（lately 表示“最近”、“近来”）
+He always works hard.
+他总是努力工作。（hard 表示“努力”）
+I can hardly hear you.
+我几乎听不到你在说什么。（hardly 表示“几乎不”）
+I live quite near.
+我住得很近。（near 表示“近”）
+I nearly forgot his name.
+我几乎忘了他的名字。（nearly 表示“几乎”、“差点儿”）
+He sat at the back so that/in order that no one would notice him.
+他坐在后面，以便使别人不注意他。
+He left quietly so as not to/in order not to wake anyone.
+他悄悄地离开，以便不惊醒任何人。
+Finding the room dirty, Dan made Lucy clean the room again.
+丹发现房间脏，便让露西再打扫一遍。（make+名词／代词+不带 to 的不定式表示“迫使”、“致使”）
+He won't let me ride his bicycle.
+他不会让我骑他的自行车。（let+名词／代词+不带 to 的不定式表示“允许”）`]}]},{lesson:73,sections:[{title:"自学导读",content:["1．Children who play truant from school are unimaginative. 逃学 的孩子们都缺乏想像力。","（1）play truant from school 表示“逃学”，上下文清楚时也可以省略 from school,直接说 play truant. truant 也可以单用，表示“逃学者”。","As a boy, Tom used to play truant (from school).","汤姆小时候常逃学。","The three boys who are fishing over there are truants and ought to be sent back to school.","那边那3个钓鱼的孩子都是逃学者，应当被送回学校。","（2）unimaginative 的反义词为 imaginative2（富于想像力的，爱想像","的）：","Painters should be imaginative.","画家应当富于想像力。","He is an imaginative painter.","他是位富有想像力的画家。","2．A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, is usually as far as they get. 他们通常 能够做到的, 至多也就是安静地钓上一天鱼，或在电影院里坐上8个小时，一遍遍地看同一部电影。 （1）这句话的主语是 is 前面的两个并列短语。第1个短语的主要 成分是动名词 fishing，第2个短语的主要成分可以看做是 eight hours（作为一个时间总量，它后面要跟动词单数形式）。 它实际上是省略了动名词 sitting for(eight hours),seeing 引 导的为分词短语，表示伴随动作。 （2）over and over again 为固定短语，表示“一再地”、“反复许多次 地”： As my grandmother can't hear very well, I had to say it over and over again. 由于我奶奶听力不大好，我不得不反复说好几遍。 （3）as far as 在这里表示“到……程度”、“就……而言”，是连词，与 距离没有关系： As for as I know, his operation is successful. 就我所知，他的手术是成功的。","3．put…to shame,使……蒙羞，使……相形见绌。 What he has done put his parents to shame. 他的所作所为使他的父母感到羞耻。","He saved the child at the risk of his own life and put all those who looked on to shame.","他冒着生命危险救了那个孩子，使所有旁观者都相形见绌。","4．in the meantime,在此期间（相当于 meanwhile）。","I feel tired and would like to take a nap. In the meantime, you may do some reading.","我觉得累了，想打个盹儿。在此期间，你可以看看书。","5．The next car the boy stopped did not take him into the centre of Paris as he hoped it would, but to Perpignan on the French- Spanish border.男孩截住的下一辆车，没有像他希望的那样把他带到巴黎市中心，而是把他带到了法国和西班牙边界上的佩皮尼昂。","这个句子的主语是 The next car,谓语动词是 take, into 和 but to 引导的是两个并列状语。the boy stopped 为 car 的关系从","句，前面省略了作宾语的关系代词 which/that; as he hoped it would 则为方式状语从句。","6．There he was picked up by a policeman…他在那儿被一个警 察抓住了…… Pick up 的含义之一是“逮捕”、“拘捕”： After the accident, he was picked up by the police. 事故之后，他被警方拘捕了。"]},{title:"词汇学习",content:[`1．creep vi.
+（1）爬行，匐匍，（像爬行似地）慢慢前进：
+A snake crept into the garden while she was writing a letter.
+她写信时，一条蛇爬进了花园。
+The old car crept along the country road.
+那辆旧车在乡间小路上慢慢行驶。
+（2）悄悄地／蹑手蹑脚地走；渐渐产生／出现：
+We crept upstairs so as not to wake Grandpa.
+为了不吵醒爷爷，我们蹑手蹑脚地上了楼。
+He noticed that age had crept on him.
+他发觉自己慢慢老了。
+2．evade vt.
+（1）（巧妙地）逃脱，躲开：
+They ran after the thief quickly, but the thief managed to evade them.
+他们迅速追赶小偷，但小偷设法逃脱了。
+She evaded a blow from the man and then called out for help.
+她躲开了那人的一拳，然后便大声呼救。
+（2）回避，逃避（尤指不当地）：
+He always tries to evade paying taxes.
+他总是试图逃税。
+Many children dream of evading school.
+许多孩子梦想逃避上学。`]}]},{lesson:74,sections:[{title:"自学导读",content:["1． Out of the limelight,（标题）舞台之外。 limelight 的原义为舞台照明用的“石灰光”，其引申意义为“众人注目的中心”： She has been in the limelight since she became an actress. 她自从成为一位演员后，一直引人注目。 Although he is a government official, he tries to keep out of the limelight. 尽管他是位政府官员，他还是避免引人注意。","2． An ancient bus stopped by a dry river bed and a party of famous actors and actresses got off.一辆古旧的汽车停在一条干涸的河床边，一群著名男女演员下了车。 （1）ancient 在这里表示“老式的”、“古旧的”，与 old 意思相近，但比 old 有幽默感： Where did you find that ancient dress? 你在哪里找到这件老掉牙的衣服？ （2）river bed 指河床，名词 river 作形容词用，类似的还有 flower bed（花坛）等。 （3）party 作量词用时表示“一行”、“一伙”、“一群”等，如 a party of tourists/boys（一群旅游者／男孩）等。","3． No newspaper men, no film fans! 没有记者，没有影迷！","这是个省略句，完整的句子为：There, are no newspaper men and no film fans! 这里的 no 与用于公告牌上的 no 是有区别的。",`4． why don't we come more often? 我们为什么不经常来这里呢？ "Why+don't/doesn't+主语+动词+?"结构可用来提出建议： I don't like this watch. 我不喜欢这块表。 Then why don't you change it? 那你为什么不换一块呢？`,"5. When they had all made the mselves comfortable…当他们都已 安排舒适时……","许多动词都可以与宾语+宾语补足语连用，如 drive, get, find, keep, leave, like, make, open, paint, prefer, pull, want, wipe 等：","Aeroplanes are slowly driving me mad.","飞机正在逐渐把我逼疯。","He found the test difficult.","他发现考试不容易。","6. Now you get out of here…你们都从这里走开…… now 在这里是加强命令口气的语气词，get out of here 是语气较 重的说话方式，表示“滚出去”、“滚开”。","7. in case you can't read,除非你们不识字。 in case 表示“假使”、“万一……的话”、“免得”、“以防万一”。它 通常用于引导条件或目的状语从句。当句子表示将来的时间时，in case 后面必须用现在时态或 should/might: I'm taking a raincoat with me in case I need it. 我随身带着雨衣，以备不时之需。（表示目的） In case he comes/should come, give him this letter. 假如／万一他来的话，把这封信给他。（表示条件）","8. don't be too hard on us,别使我们难堪。 be bard on 表“对……（过分）严厉”，为固定短语： Don't be too hard on that child. 别对那孩子太严厉。 He is always hard on his employees. 他对雇员总是很严厉。","9. Well, I'm Brinksley Meers, and my other name is Gloria Gleam. 好，我就是布林克斯利·米尔斯。我还有一个名字叫格 洛利亚·格利姆。 well 在此处为语气词。这句话表示他不相信罗克沃尔的话，用的是讥笑的口气，即“如果你是……，那么我就是……”。"]},{title:"词汇学习",content:[`1．与 get 有关的一些短语动词
+get 可以与许多介词或副词搭配，产生不同的含义，而且与同一
+个词的搭配也会因上下文的不同而有所不同。
+（1）get out 的基本含义是“（使）出去／出来”，其反义词为 get into：
+Every time the dog wanted to get out, it would bark.
+那条狗每次想出去时，便汪汪叫个不停。
+It can get into the garden quite easily now.
+它现在进花园很容易。
+Why don't you get the dog out?
+你为什么不把狗弄出去？
+get out 用于祈使句时可以表示“走开”、“滚开”等：
+Now you get out of here fast!
+你们赶快滚开这儿吧！
+Get out! I don't want to see you any more.
+滚！我再不想见你了。
+（2）get on 的含义之一为“前进”、“进展”（与 get along 同义）：
+He is getting on quite well in his new job.
+他这份新工作进展顺利。
+get on 表示“继续干”以及“相处融洽”时，后面经常与 with 连
+用：
+Tom talked with his brother for a while, and then got on with his homework.
+汤姆和他兄弟说了一会儿话，然后又继续做作业。
+Jack and Ian can't get on with each other.
+杰克和伊恩不能和睦相处。
+（3）get 与 off 分开时可以表示“脱下”、“除去／取下”等：
+Please help me to get the box off the boot.
+请帮我把箱子从船上拿下来。
+When he got the lid off the box, he saw a man lying in it.
+当他揭开箱子盖时，他看到有个人躺在里面。
+get off 连用可以表示“没受重伤／重罚而逃脱”，后面经常与 with 连用：
+I can hardly believe that the thief got off with just a warning.
+我几乎不敢相信那小偷只受到警告而没有受处罚。
+（4）get over 的含义之一是“恢复过来”、“痊愈”：
+Has your mother got over her illness?
+你母亲的病好了吗？
+get over 表示“解决／结束（某件不愉快但必要做的事）”时，常
+与 with 连用：
+They wanted to get the job over as quickly as possible.
+他们想尽快结束这项工作。
+（5）get through 可以表示“通过（考试、测验等）”：
+Have you got through your driving test last week ?
+你上星期通过驾驶执照考试了吗？
+get through 还可以表示“吃掉”、“喝完”、“用光”等：
+Fancy Helen getting through all the food!
+真想不到海伦能把所有那些食物都吃掉！
+2．用于公共标语的 no
+公共标语通常字数很少，语言精练。在表示“禁止……”时往往
+用 no+名词／动名词或名词短语，如： No Camping（禁止野营）， No smoking（禁止吸烟）， No Parking（禁止停车）， No Left Turn （禁止左转弯）。在真正的公告牌上，这些标语往往全部用大写
+字母，不加标点，如 NO SMOKING 等。`]}]},{lesson:75,sections:[{title:"自学导读",content:["1． flew off course,飞离航线。 off 表示“偏离”，为介词： Our office is off the main street. 我们的办公室不靠大街。 During the storm, the ship went off course. 在暴风雨中，船驶离了航线。","2． her two baby daughters, 她的两个女婴。 baby 在这里是形容词，指“幼小的”。","3． Snow Iay thick on the ground.地上积着厚厚的雪。 lie 表示“处于某种状态”时，后面常跟形容词或分词： When I saw her yesterday, she lay ill in bed. 昨天我见到她时，她正卧病在床。 The old man lies ill and neglected in bed. 老人卧病在床，无人照管。","4．The woman kept as near as she could to the children…这位妇女尽可能地靠近孩子…… keep 在这里表示“保持（某种状态）”。 as…as one can/could 和 as…as possible 同义，都表示“尽可能……”： He got through as much food as he could and set out. 他吃了尽可能多的食物，然后出发了。 Tell Jim to come to my office as soon as he can. 让吉姆尽快到我的办公室来。",'5. She stamped out the letters‘SoS’ in the snow.她在雪地上踩 出了"SOS"这3个字母。 out 在这里为副词，表示“出现”、“显露”等： The writer has brought out another book. 这位作家又出版了一本书。 He wrote out a long list of all the foods which were forbidden. 他开列一张长长的单子，上面列了所有禁吃的食物。',"6. It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash. 不久，一架直升飞机飞抵飞机 失事现场，来搭救这几个幸存者。 （1）to 引导的不定式为目的状语。","（2）It was not long before…为固定句型，表示“不久就……”（也可以用 It will not be long before…表示将来可能发生的事），","其含义与 before long（不久）相近，只是 before 在课文这个句型中是连词，而在 before long 中为介词：","It was not long before they learnt the news.","他们不久就知道了这消息。","It will not be long before he gets over his illness.","他大概不久就会痊愈。"]},{title:"词汇学习",content:[`1．可以表示“变成”的一些动词
+grow, turn, go, get, come, fall 等动词均有“变成”的意思，但它们在用法上有时有差别。
+（1）grow 表示“（逐渐）变得”，比 get 要正式些：
+He has grown fat.
+He has grown to like studying mathematics.
+It was growing hot.
+（2）turn 表示“把（状态、性质）改变（成）……”或“使变颜色”等：
+Leaves will turn yellow in autumn.
+Jasper hopes the stone Medusa will turn cars and their owners to stone.
+A colony of be had turned the engine into a hive
+（3）go 表示“变成（某种状态）”，通常表示不好的变化：
+Big Ben has rarely gone wrong.
+“大本”钟很少出差错。
+Some foods go bad easily.
+（4）get 在口语中使用较多，表示“成为（某种状态）”：
+Things got so bad recently that he decided to go on a diet.
+It's getting warmer and warmer.
+（5）come 可以表示“变成”、“成为”、“达到”等，与 true 连用时表示“实现”：
+Her dream to swim across the channel has come true.
+（6）fall 也可以表示“变成……的状态”：
+You fell asleep while I was talking to you.
+He fell ill last week, so he didn't come to your wedding.
+1．scene n.
+（1）（事件发生的）地点，现场：
+A helicopter soon arrived on the scene to rescue the survivors.
+一架直升飞机很快飞抵出事现场，搭救幸存者。
+These things were found at the scene of the murder.
+这些是在谋杀现场找到的物品。
+（2）风景，景色；景象：
+A beautiful scene always makes me delighted.
+美丽的景色总使我高兴。
+I have just seen a sad scene.
+我刚见到一个悲惨的景象。`]}]},{lesson:76,sections:[{title:"自学导读",content:["Further notes on the text","1．…we're going over to the macaroni fields of Calabria.……我们现在到克拉布利亚的通心粉田里。 （1）go over 表示“往……走过去”，暗示中间原有一段距离： I went over to the blind man to help him across the road. 我走到那个盲人身边，帮他过马路。 （2）field 指“（一块）田”、“块”，为可数名词，常用复数： Many people are busy harvesting in the rice fields. 稻田里许多人正忙着收割。 （3）macaroni 指“通心粉”，是加工过的面粉。它不可能像 wheat, rice 一样长在田里，不该与 fields 连用，但由于是愚弄人的玩 笑，所以这篇文章通篇都是以通心粉长在地里为前提进行的描述。由于 macaroni 是意大利语，很可能有人会以为是某种没听说过的新的粮食品种。","2．between them,由于他们共同努力的结果。 between 作介词时含义之一是“作为……共同努力的结果”、“协 力”； Between them they killed the snake. 他们一起杀死了那条蛇。 Between us we pulled down the tree. 我们协力把树拉倒了。","3．the September rains,9月雨季。 rain 一般指“雨水”： The rain is falling heavily. 雨下得很大。 We haven't had much rain this year. 今年雨水不多。 当 rain 指“雨季”、“季节性的雨”，尤其是热带地区的雨季时，要 用复数形式： We'd better leave the district before the April rains. 我们最好在4月的雨季之前离开这个地区。 Sometimes spring rains are really annoying. 有时绵绵春雨真让人心烦意乱。"]},{title:"词汇学习",content:[`1．usual 与 usually
+（1）usual 通常为形容词，表示“通常的”、“平常的”、“惯常的”等：
+It was warm last Sunday, so I went and sat on the river bank as usual.
+上星期日天气暖和。于是我和往常一样，又去河边坐着。
+（as usual 表示“像平常一样”、“照例”，它有时可放在句首）
+One Monday, there were fewer people in the shop than usual.
+有一个星期一，这家商场里的人比往常少。
+It is usual with him to get up late.
+他常起床起得晚。
+I parked the car at the usual place.
+我在往常那个地方停了车。（usual 既可以作定语，又可以作表语）
+（2）usually 为频度副词，表示“平常”、“通常”：He usually gets up late.
+他通常起得晚。
+When do you usually have supper?
+你平常几点吃晚饭？
+2．between 与 among
+（1）介词 between 表示“在（两者）之间”：
+I picked up the receiver between two sticky finger.
+我用两根黏糊糊的手指拿起了话筒。
+Can you tell the difference between Indian music and jazz?
+你能分辨出印度音乐和爵士乐吗？
+Between them they finished cutting three carloads of macaroni stalks.
+他们协力割下了3车通心粉秸。
+当表示两两之间的相互关系时，between 可用于3个（或3个以上）的名词前：
+The village lies between a river, a mountain and a road.
+这个村子位于一条河、一座山和一条马路之间。
+（2）among 表示“在……中间”或“被……环绕”，指3者以上：
+The church lies among mountains.
+这教堂位于群山之中。
+Among those boys, Dan is the tallest.
+那些男孩中丹最高。
+3．manager,director 与 headmaster
+这3个都是表示职务的词， manager 通常译为“经理”， director 可表示“主任”、“董事”等，headmaster 则指“（中学）校长”： I entered the hotel manager's office and sat down. 我走进饭店经理的办公室，坐了下来。
+Before he retired, Frank was the director of a very large company.
+弗兰克退休前是一家非常大的公司的主管。
+I haven't met the headmaster of this school yet.
+我没见过这个学校的校长。`]}]},{lesson:77,sections:[{title:"自学导读",content:["1． The mummy is that of Shepenmut…这是……赛潘姆特的木乃伊。 that 用以指代前面的 the mummy，以避免重复。在指代特指的事物时，尤其是在比较状语从句中，常用 that 和 those 指代前面 提到的事物： The cost of living here is lower than that in London. 这里的生活费用比伦敦的要低。 that of 和 those of 一般用于较正式的文体中： The area of the USA is larger than that of Britain. 美国的面积比英国的大。 Tom's pen is better than that of the other boys. 汤姆的笔比其他男孩的要好。 课文中使用 that of 结构的原因之一是 Shepenmut 需要后面跟一个补充说明她身份的关系从句。","2．die of,死于……，因……而死（后面跟名词）。 His grandfather died of a bad cold/died of hunger. 他爷爷死于重感冒／是饿死的。","3．The operation, which lasted for over four hours, proved to be very difficult…手术持续了4个多小时，非常难做…… （1）last 表示“持续”、“延续”时为不及物动词，后面通常跟一个表 示时间的名词／短语，for 可有可无： The war between the two countries lasted (for) over three years/until 1453. 这两个国家之间的战争持续了3年多／一直持续到1453年。 （2）prove 表示“证明”、“证实”，后面可以跟从句、形容词、名词、不定式等： We've been trying to sell our house, but it's proved to be very difficult. 我们一直试图把房子卖掉，不过事实证明这很困难。 You should first prove that you bought these goods here. 你应该首先证明这些物品你是从这里买的。 （3）which 引导的分句为非限定性关系从句，因为它前后都有逗 号。非限定性关系从句提供补充信息，往往可以略去。逗号的取舍有时对句子的意思有很大影响： The government which promises to cut taxes will be popular. 承诺减税的政府将赢得人心。（限定性） The government, which promises to cut taxes, will be popular. 这个政府承诺减税，它将会赢得人心。（非限定性）","在非限定性关系从句中，指人的关系代词只能用 who/whom, 不能用 that（限定性从句则可以）；指物的关系代词只能用 which,不能用 that;带介词的非限定性关系从句中也不能用 that:","The astronauts, who are said to be very excited, are ex pected to land on the moon shortly.","那些宇航员们可望不久登上月球，据说他们很激动。","This garage, which my father built in his lifetime has lasted for a long time.","我父亲生前建的这个车库已经有很长时间了。（which 不可省略）","在非限定性关系从句中，which 有时可用来代替前面提到的整","个分句：","She married Joe, which(=and this/that) surprised everyone.","她嫁给了乔，这使大家都感到意外。","4．The doctors have not yet decided how the woman died.医生们 至今还未确定这位妇女的死因。 decide 在这里不是指“下决心／决定”，而是指“对……下判决”、 “解决（悬案）”等： The police cannot decide yet which of the two men is guilty. 警方尚不能确定这两人中哪一个有罪。","5. fall to pieces,散掉，成为碎片（也可以说 go to pieces）。 During the storm, the old house fell to pieces. 在暴风雨中，那座老房子塌了。 After two years their marriage fell to pieces. 两年以后，他们的婚姻破裂了。","6.The mummy successfully survived the operation. 这具木乃伊成功地经受了这次手术。 survive 表示“经历（灾难等）之后还活着”： Only a young woman and her two baby daughters survived the plane crash. 只有一位年轻的妇女和她的两个女婴在那次飞机失事中生还。"]},{title:"词汇学习",content:[`1．B.C.与 A.D.
+B.C.为 Before Christ7（公元前）的缩写，A.D.表示 anno Domini (=in the year of the Lord 或 since Christ was born),即“公元”。A.D.用来与 B.C.形成对比，出现在正式的史书中，平时一般
+不用。B.C.位于年代之后，A.D.在英国英语中位于年代之前：
+The mummy of an Egyptian woman who died in 800 B.C. has just had an operation.
+死于公元前800年的一位埃及妇女的木乃伊刚刚接受了
+一次手术。
+The Romans invaded England in 55 B.C.
+公元前55年罗马人入侵了英格兰。
+George I died in A.D. 1727.
+乔治一世死于公元1727年。
+2．skin,leather 与 complexion
+skin 可用于指人体的“皮肤”，也可以指某人是什么颜色的皮肤。用于表示后一种意义时它与 complexion（肤色）可以互换：
+Hard resin covered the skin.
+皮肤上覆盖着一层硬硬的树脂。
+We are wet to the skin.
+我们全身湿透了。
+He has a dark skin/complexion.
+他皮肤黝黑。
+leather 指“皮革”：
+Shoes made of real leather have become very expensive.
+真皮做的鞋子现在非常贵。
+This sofa is made from real leather.
+这沙发是真皮的。
+3．wax 与 candle
+wax 指各种“蜡”，为不可数名词；candle 指“蜡烛”，为可数名词：
+Inside every mummy there is a small wax figure.
+每个木乃伊体内都有一个蜡制的小塑像。
+All the figures in this shop are made of wax.
+这个店里所有的塑像都是蜡制的。
+I keep a candle by my bed in case the lights go out suddenly.
+我床边总放一枝蜡烛，以防突然停电。`]}]},{lesson:78,sections:[{title:"自学导读",content:["1. an article entitled‘Cigarette Smoking and Your Health’,一篇题为《吸烟与健康》的文章。 在英语中，文章名与书名中的每个单词的第一个字母均大写，不在开头位置的连词、冠词、小品词除外。entitle 的含义为“给 ……题名／定名”，在这里是过去分词（短语）作定语。entitle 常 用于被动语态： The writer hasn't entitled his new book yet. 那位作家还没给他的新书写／取名。 The book was entitled The Sun Also Rises. 那本书的书名为《太阳照样升起》。","2． I had all the usual symptoms of someone giving up smoking: a bad temper and an enormous appetite. 我具备了戒烟者通常表现出来的所有症状：脾气暴躁和食欲旺盛。 a bad temper and an enormous appetite 为 symptoms 的同位语。 giving up smoking 可以看做是 someone 的定语，即 someone who gives up smoking.","3． My friends Kept on offering me cigarettes and cigars. 我的朋友们不断地向我递香烟和雪茄。 keep on doing sth.表示“继续做某事”、“反复做某事”： The child was crying loudly, but he kept on watching TV. 孩子在大声哭，但他却一直看电视。 He kept on phoning her. 他不断地给她打电话。","4．They made no effort to hide…他们毫不掩饰地…… make no effort 表示“根本不作努力”。我们还可以说： She wrote the letter with/without effort. 她费力地／毫不费力地写了那封信。 Georeg made every effort to get/at getting the job. 乔治竭尽全力想得到那份工作。","5. …it was more than I could bear. ……我再也忍不住了。more than 后面跟一个从句或一个形容词时可以表示“超出” （多用于口语）： He was more than pleased with his new room. 他对自己的新房间极其满意。 This was more than I had expected. 这超出了我的预料。","6.Anyway,as Brian pointed out, it is the easiest thing in the world to give up smoking.不管怎么说，正如布赖恩指出的那 样，戒烟是世界上最容易的事情。 it 为先行主语，代替后面的不定式短语 to give up…。 point out 为固定短语，表示“指出”、“指明”： Why didn't you point out his mistake to him at that time? 你那时候为什么不向他指出他的错误？ He pointed out that we still had to get a few other things. 他指出我们还需要／得再买一些其他东西。"]},{title:"词汇学习",content:[`1．suffer
+（1）vi. 受痛苦，受苦难；患病：
+During this time, my wife suffered terribly.
+在此期间，我妻子吃尽了苦头。
+What is the patient suffering from?
+这位病人患的是什么病？
+（2）vt.遭受（痛苦、损害等）：
+The village suffered serious damage from the floods.
+洪水使这个村子受到了严重破坏。
+Many people are suffering cold and hunger in that district.
+那个地区许多人正受冻挨饿。
+2．与 keep 有关的短语动词
+keep 与不同的小品词搭配可以有不同的含义。
+（1）keep on 与动名词连用时表示“反复”、“持续”：
+Keep on trying.
+继续努力。
+He kept on saying that he was tired.
+他不断地说他累了。
+（2）keep off 表示“不靠近”、“从……离开”：
+Keep off the flower bed.
+请勿进入花坛。
+Keep your hands off the food.
+别动吃的东西。
+（3）keep away from 表示“（使……）不靠近”、“避开”：
+Why do you always keep away from me?
+你为什么总躲着我？
+Keep the children away from the river.
+别让孩子们去河边。
+（4）keep it up 表示“不松劲”、“保持成绩”或“继续下去”，而 keep up with 则表示“跟上”、“不落在……后面”：
+You've made much progress. Keep it up!
+你已取得了很大进步。继续努力！
+If you keep it up, you'll be able to set up a new world record.
+你如果保持下去／不松劲，你就能创一项新的世界纪录。
+Although he walked as fast as he could, he still couldn't keep up with his father.
+虽然他尽快走，但他仍跟不上他父亲。
+In order to keep up with his classmates, he worked harder than ever.
+为了跟上同学，他比以往任何时候都更努力。
+（5）keep out 可以表示“（使）留在外面”、“（使）不进入”：
+He shut all the doors and windows to keep out the wind.
+为了挡风，他关上了所有的门窗。
+16,000-volt power line. Keep out!
+16,000伏高压线，不可靠近！
+（6）keep in 的含义之一为“（把……）留在里面／关在屋里”、“不出
+外”：
+It's very cold today. We'd better keep in.
+今天很冷。我们最好别出去。
+When the dog was kept in, it barked loudly.
+那条狗被关在屋里时狂吠不止。`]}]},{lesson:79,sections:[{title:"自学导读",content:["1． A flight attendant would take charge of me…我总是由一位空 中乘务员照管…… would 表示过去经常发生的事，它与 used to 的区别参见第55 课语法。 take charge(of)为固定短语，表示“接管”、“开始管 理”等： She took charge of the child after his parents died. 孩子的父母去世后，她接管了那孩子。 The new manager will take charge (of the company) from next week. 新经理从下星期开始管理公司。","2．…only on one occasion have I ever felt frightened.……只是有 一次把我吓坏了。","这是一个倒装句。倒装句的结构为“副词+助动词(be, do, have, can, must 等)+主语+句子的其余部分”。它通常用来加强语气，是典型的正式修辞和正式文体。用倒装句的情况包括：","（1）句首为否定或近似否定的副词(never, rarely, little, on no occasion, hardly, no sooner…than 等)：","Never has he got so many letters.","他从未收到过这么多信。","Little does he realize how important this meeting is.","他对这个会议的重要性知之甚少。","On no occasion must you accept any money if he offers it.","他如果给你钱，你可绝不能接受。","Hardly had he begun his speech when he was interrupted.","他刚开始讲话就被人打断了。","No sooner had he returned than he bought a house and went to live there.","他刚一回来便买下了一幢房子住了进去。","（2）句首为 only 构成的词组（如 only after, only then 等）：","Only then did I realize what a mistake I have made.","只是到了那时我才意识到我犯了个什么错误。","Only after she had taken off her coat and hat could I recognize her.","只有在她脱掉大衣和摘下帽子以后我才认出了她。","3． gain height,（飞机）增加高度，爬高。 gain 在这里为及物动词，表示“增加”： The car gained speed when it was outside the town. 汽车驶出城区后便加快了速度。 He has gained so much weight that he decides to go on a diet. 他体重增加得太多了，便决定节食。","4．touch down,（飞机）着陆，降落。 After eight hours, the plane touched down at New York airport. 8小时之后，飞机在纽约机场着陆。 Don't stand up before the plane has touched down. 飞机着陆前不要站起来。","5. Everybody on board was worried …飞机上的人都很着急…… 固定短语 on board 表示“搭乘（船、飞机、火车、汽车等）”、“在 （船、飞机、火车、汽车等）上”： Tom has never been on board a plane before. 汤姆以前从没有乘过飞机。 There was a very important person on board(the ship). 那条船上有一位非常重要的人物。"]},{title:"词汇学习",content:[`1．plant vt.
+（1）种植；在……内种植：
+Trees were planted along the river.
+河边栽了树。
+They planted grass seed on the desolate hills.
+他们在那些荒凉的山丘上撒播草籽。
+Joe plants his garden with many flowers and vegetables.
+乔在他的花园里种植了许多花卉和蔬菜。
+（2）放置，安置；布置：
+A bomb was planted on the plane.
+飞机上安放了一枚炸弹。
+On that day many policemen were planted along the main street.
+那天（城里的）主要街道上部署了许多警察。
+2．与 take 有关的短语动词
+take 可以与许多小品词连用而产生不同的含义，与同一个小品
+词连用时也可以有多种含义，这里仅选其中的一小部分。
+（1）take off 最常用的含义为“脱下（衣服、鞋子等）”：
+Why don't you take off your coat/hat/glasses?
+你为什么不把你的大衣脱掉／帽子摘掉／眼镜摘下？
+它还可以表示“（飞机）起飞”或“（鸟）飞起”：
+After taking off, we first flew low over the city.
+起飞之后，我们先在城市上空低低地飞行。
+The plane will take off in half an hour.
+飞机将于半小时后起飞。
+在口语中，take off 可以表示“（嘲弄地）模仿”：
+As a boy, Jim used to take off his elders.
+吉姆小时候经常模仿长者。
+（2）take after 表示“（长相、性格等）像（父母等）”：
+Jane isn't easy to get along with. She takes after her mother.
+简不大容易相处。她像她母亲。
+（3）take up 的含义之一为“占（时间、地方等）”：
+Your books have taken up too much space.
+你的书占的地方太大了。
+This work won't take up too much of your time.
+这项工作不会占你太多的时间。
+take up 还可以表示“开始（从事、产生兴趣等）”：
+He took up tennis/painting two years ago.
+两年前他开始打网球／学绘画。
+（4）take to 的含义之一为“养成……的习惯”或“开始沉缅于”（后
+面跟名词／动名词）：
+When did he take to drinking/smoking?
+他什么时候养成酗酒／抽烟的习惯的？
+（5）take in 的含义之一为“欺骗”（多用于口语中，常用被动语态）：
+On one occasion I was taken in.
+有一次我被骗了。
+（6）take down 可以表示“写下”、“记下”：
+I forgot to take down his telephone number.
+我忘了记下他的电话号码。
+At the police station, everything he said was taken down.
+在警察局，他说的每句话都被记了下来。
+（7）take over 的含义之一为“接收”、“接管”：
+We all hope that things will get better when the new manager takes over.
+我们都希望新经理接管后情况会好转。`]}]},{lesson:80,sections:[{title:"自学导读",content:["1． which was built in Hyde Park… 这是一个非限定性关系从句，修饰逗号前的 the Crystal Palace。 这个从句如果去掉并不影响主句的意思。","2．It was one of the biggest buildings of all time…它是有史以来最高大的建筑物之一…… of all time 表示“有史以来”、“空前的”，常与形容词的最高级连 用，表示范围： He is one of the greatest men of all time. 他是有史以来最伟大的人物之一。 one of+最高级+复数名词结构的语气比直接用形容词最高级 +名词结构要缓和些，不那么绝对。试比较：","3．There was also a great deal of machinery on display. 参展的还有很多机器。","（1）machinery 为“机器”、“机械装置”的总称，是集合名词，要与单数动词搭配。某个具体的机器可用 machine 或者 a piece of machinery 来表示：","This is a wonderful piece of machinery/a wonderful machine.","这是一台奇妙的机器。","There is a lot of new machinery/There are many new machines in our factory.","我们厂里有许多新机器。","（2）on display 与下面一句话中的 on show 同义，都表示“陈列着”、“展示着”，在句子中可以作状语、定语或表语等：","At the Great Exhibition, a great many goods were on display/show.","世界博览会上展出了大量的商品。（表语）","This is the best dress on display/show.","这是展出的最好的衣服。（定语）","Shall we put all these flowers on display/show?","我们要把所有这些花都陈列出来吗？（宾语补足语）","4． There were six million visitors in all…参观的人数总共是  600 万…… in all 为固定短语，其含义之一为“总共”、“合计”： I paid him ￡ 200 in all. 我一共付给他200英镑。 At the wedding there were over 100 people in all. 参加婚礼的共有一百多人。","5. It remained one of the most famous buildings in the world…它 一直是世界上最著名的建筑物之一…… remain 在这里作系动词，表示“保持不变”、“仍然”（后面可跟形容词、名词、动名词等）： Why did you remain silent/quiet at the dinner party? 你在宴会上为何一言不发？ They all remained standing while the manager talked. 经理讲话时他们一直站着。"]},{title:"词汇学习",content:[`1．profit
+（1）n．利润，赢利；得益：
+Stores haven't made as much profit as usual this year.
+今年商店的赢利不如往常多。（不可数名词）
+The profits from the exhibition were used to build museums and colleges.
+博览会的赢利用来建造博物馆和高等学校。（可数名词）
+（2）vi．获益，得益；获利：
+I have profited much from your advice/this book/living abroad.
+你的建议／这本书／生活在国外使我获益匪浅。
+2．与 on 有关的介词短语
+在课文评注3中我们学习了 on display/show。on 还可以与其
+他一些名词组成介词短语，常见的有：
+（1）on business,因公（与 for pleasure 相对）：
+Last month he went to New York on business and had little time to visit friends.
+他上月因公事去纽约，几乎没有时间拜访朋友。
+（2）on foot,步行（与 by bus, by car, by air 等相对）：
+I usually go to work by car, but this morning I went on foot.
+我通常开车去上班，但今天上午我是步行去的。
+（3）on duty,值班，值班的：
+It was Sunday and there was only one doctor on duty.
+那天是星期天，只有一位医生在值班。
+（4）on the whole,总的看来，总的来说，大体上：
+On the whole, he is a hard-working student.
+总的来说，他是个用功的学生。
+（5）on fire，起火，着火：
+Soon the whole building was on fire.
+整个大楼很快便都着火了。
+（6）on purpose，故意地，有意地，特意地（与 by chance 相对）：
+They have come here on purpose to see you．
+他们特意来看望你。
+She broke the vase on purpose．
+她故意把花瓶打碎。
+（7）on the average，平均，通常：
+On the average, he works more than ten hours a day．
+他平均每天要工作十多个小时。
+（8）on any account，无论如何，不管怎么说（通常用于否定句）：
+Do not interrupt him on any account．
+你一定不要打断他（的话）。
+（9）on second thought（s），经重新考虑后（thought 用单数或复数均可）：
+I intended to go to the party, but on second thought(s), I decided to stay at home．
+我原打算去参加聚会，但经过重新考虑，决定呆在家里。`]}]},{lesson:81,sections:[{title:"自学导读",content:["1．…he soon changed into the dead man's clothes.……（他）很快就换上了死者的衣服。 change into 在这里表示“换（衣）”： He changed into his new dress and went to the party. 他换上新衣服去参加聚会。","2．…the prisoner marched boldly up and down in front of the camp. ……（那战俘）在军营门前大胆地来回走着。 march 一般用于指部队“行军”、“行进”，但在这里它表示“（威风凛凛/从容不迫地）走”或“迅速地走”： Jane marched out of the room without saying a word. 简一言未发，快步走出了房问。 up and down 为固定词组，其含义之一为“来来回回”： He was worried about his mother and walked up and down in the room. 他为他母亲担心，便在屋里来回走。","3．men were running here and there, 人们在东奔西跑。 here and there 为固定短语，表示“到处”、“四处”： That morning there were policemen here and there. 那天上午到处都有警察。 They went here and there looking for the lost child. 他们到处寻找那个丢失的孩子。","4．…the prisoner stood to attention and saluted as they passed. ……战俘立正站好，并在他们从他面前经过时敬了礼。","attention 在此表示“立正姿势”。单用“Attention！”表示口令“立正！”“立正站着”则用短语 stand at/to attention 表示：","The students stood at/to attention while the headmaster made a speech.","校长发表演说时学生们立正站着。"]},{title:"词汇学习",content:[`1．cloth, clothes 与 clothing
+（1）cloth 通常指“布”、“布料”，为不可数名词：
+There's enough cloth for a skirt.
+那布料够做一条裙子。
+Do you think the cloth will wear well?
+你认为这布料会耐穿吗？
+cloth 表示“抹布”、“桌布”时为可数名词：
+Wipe up the mess with a cloth.
+拿块抹布把那些脏东西擦掉。
+（2）clothes 表示“衣服”、“服装”，后面动词用复数形式：
+My clothes are mostly bought from abroad.
+我的衣服大部分是从国外买的。
+Elizabeth has many/much/a lot of clothes.
+伊丽莎白有许多衣服。
+（3）clothing 是服装的总称，为不可数名词，不仅包括衣服，还包括鞋、帽等：
+These wooden boxes contained clothing.
+这些木箱里装有服装。
+He still needs some winter clothing.
+他还需要一些冬天的衣服。
+2．salute 与 greet
+salute 一般指“行军礼”、“（向……）敬礼”，greet 则指平常的“打招呼”、“欢迎”、“迎接”等：
+The guard saluted as the officers passed.
+当那些军官们从他面前经过时，卫兵敬了礼。
+The guard saluted the officers.
+卫兵向军官们敬了礼。
+When we arrived, the whole family stood up to greet us.
+当我们到达时，他们全家都站起来欢迎我们。
+He greeted Dan with a nod.
+他向丹点了点头，算是欢迎。
+3．clear 与 clean
+clear 与 clean 均可作形容词，词形也较相似，但含义却不同。
+（1）clear 可以表示“清澈的”、“明亮的”、“晴朗的”等含义：
+He was rather elderly with clear blue eyes.
+他上了年纪，有双明亮的蓝眼睛。
+The water in the river was so clear that you could see fishes swimming in it.
+河里的水是如此清澈，你都可以看得见各种各样的鱼在游。
+Seeing that it was a clear day, he drove to the countryside.
+那天天气晴朗，他便驱车去了乡下。
+clear 还可以表示“清楚的”、“明确的”、“明了的”等：
+I want to make it clear that I'm not paying the bill.
+我想说清楚我不会付这账单。
+clear 的另一个含义是“畅通的”、“无障碍的”或“无危险的”：
+You can drive fast only when you are on a clear road.
+只有在畅通的路上你才能把车开快。
+（2）clean 的主要含义是“干净的”：
+These cups are not very clean.
+这些杯子不太干净。
+clean 还可以表示“无污点的”、“无犯罪历史的”：
+He has a clean record.
+他一贯表现很好（没有前科）。`]}]},{lesson:82,sections:[{title:"自学导读",content:["1．Fishermen and sailors sometimes claim to have seen monsters in the sea. 渔夫和水手们有时声称看见过海里的妖怪。 to have seen 是不定式的完成式结构。不定式的完成式用于不定式的动作发生在谓语动作之前的情况： I'm sorry to have taken up so much of your time. 对不起，占了你这么长时间。 I'm glad to have met your family. 我很高兴见到了你的家里人。 She seemed to have cleaned the room. 她似乎已打扫过房间了。 不定式的完成式常用于 believe，declare，find，say，see，know，think，understand 等动词后（这些动词常用被动语态）： She is believed/said/found to have gone to Australia. 人们确认/说/发现她已经去了澳大利亚。 He is thought/believed to have been killed in an air crash. 人们认为他在一次空难中丧生了。 不定式的完成式与表示意图、希望等的动词连用时有独特的含义： I meant/intended to have invited him, but I forgot to do so. 我本想/本打算邀请他的，可是我忘记了。 I hope/plan to have finished by 12. 我希望/计划到12点钟以前就已完成。（相当于将来完成时）","2．at times，有时，偶尔。 At times I feel that he is not honest. 有时我觉得他不诚实。 He comes to see us at times. 他有时来看我们。","3．…they are rarely caught out at sea.……它们在海上极少能被捕到。 A small fishing boat was carried miles out to sea… 一条小渔船被拖到了几英里以外的海面上…… 这两句话中的 out 分别表示“在外海”、“向外海”：","When her little boat was caught in a storm out at sea, she thought no one could help her now.","当她的小船在外海/远海遇上风暴时，她觉得那时没有人能够救她。","Don't sail out to sea in this weather.","别在这天气出海。","4．this was no ordinary fish, 这根本不是一条普通的鱼。 no 的否定意味比 not（a/an）要重（用于名词或形容词之前、系动词 be 之后）： They are no friends of ours. 他们根本不是我们的朋友。 This is no easy work. 这绝对不是件容易干的活。","5．made every effort, 尽一切努力。（cf．第78课课文详注）","6．Such creatures have rarely been seen alive by man…人们很少能看到活着的这类动物…… creature 指包含人在内的“生物”、“动物”。指人时它可以表示怜爱等感情，多用于指女性： There are many strange creatures in the sea. 海里有许多奇怪的生物。 The poor creature has suffered a lot during that time. 这可怜的家伙/人在那段时间里遭了不少罪。"]},{title:"词汇学习",content:[`1．claim
+（1）vt./vi.（对……）提出要求，认领，索取：
+Has anyone claimed the child/wallet?
+有人来认领这孩子/钱包了吗？
+（2）vt. 声称，断言：
+They claim to have seen monsters in the sea.
+他们声称看到过海里的妖怪。
+He claimed that Tom had stolen his wallet.
+他断言汤姆偷了他的钱包。
+2．wash 与 wash up
+（1）wash 指“洗”、“洗涤”：
+I must get up and wash.
+我必须起床洗脸。
+She has washed all those clothes.
+她把那些衣服都洗了。
+Sally can almost wash herself now.
+萨莉现在几乎能给自己洗澡了。（wash oneself 指洗澡）wash 也可以指“冲走”、“卷走”：
+Occasionally, unusual creatures are washed to the shore.
+一些异常的生物偶尔会被冲到岸上来。
+The little wooden house was washed away by the floods.
+那个小木屋被洪水冲走了。
+（2）wash up 在英国英语中指“洗餐具”：
+When you phoned, she was busy washing up (the dishes).
+你打电话时她正忙着洗盘子。
+wash up 也可以指“把……冲上岸”：
+The dead body of a huge fish has been washed up on the shore.
+一条巨大的死鱼被冲上了岸。`]}]},{lesson:83,sections:[{title:"自学导读",content:["b．The former Prime Minister, Mr. Wentworth Lane, was defeated in the recent elections. 前首相温特沃兹·莱恩先生在最近的大选中被击败。","（1）former 在这里表示“以前的”、“从前的”或“前任的”，后面需要跟名词：","Yesterday, he received a letter from his former wife/English teacher.","昨天他收到了他前妻／以前的英语老师的一封信。","（2）election 指一般选举时用单数，指全国性的选举时用复数：","An election will be held next month.","下月将举行一次选举。","He hopes to defeat his rival in next year's elections.","他希望在明年的大选中击败对手。","2．…the ex-Prime Minister had gone abroad.……这位前首相出国去了。","前缀 ex-加在名词前表示“以前的”（相当于 former），如 ex-husband（前夫）， ex-wife（前妻），ex-taxi-driver（前出租汽车司机），ex-manager（前任经理），ex-headmaster（前任校长）等。","3．Though a little suspicious this time…虽然那位警察这次有点疑心…… 这是一个省略了主语和连系动词的让步状语从句。通常，如果从句的主语与主句的相同而谓语带系动词 be，则主语+be 可省略（原因状语从句例外）： While at college, she wrote a novel. 她上大学时写了一部小说。 He acted as if certain of success. 他的举止就像一定会成功一样。（方式） If possible, please let me know by this evening. 如果可能的话，请在今晚以前告诉我。（条件） Though tired, he went to bed very late. 他虽然疲惫，但还是很晚才上床。（让步） 原因状语从句的省略形式要带分词 being： Being worried about his child, he walked up and down in the room． 他由于为孩子担心，在屋子里来回走着。"]},{title:"词汇学习",content:[`1．suspicious adj.
+（1）猜疑的，认为可疑的，对……起疑心的，多疑的：
+If travellers look nervous, customs officers get suspicious.
+如果旅客看上去神情紧张，海关官员就会起疑心。
+Customs officers are suspicious of nervous-looking travellers.
+海关官员对那些神情紧张的旅客起疑心。
+Don't be so suspicious. Everything's all right.
+别这么多疑。一切正常。
+（2）可疑的，令人起疑的：
+You get a lot of suspicious-looking people in this bar.
+你这个酒吧里有许多人看上去很可疑。
+The car crash looks suspicious.
+这个撞车事故看上去可疑。
+2．temper 与 mood
+（1）temper 可以指“脾气”、“性情”，mood 则不可以：
+This time, the policeman lost his temper.
+这一次警察火了/发脾气了。
+Whatever happens, remember to keep your temper.
+无论发生什么事都要记着保持冷静。
+My sister is of a calm/quick temper.
+我姐姐/妹妹性情平和/脾气急躁。
+My grandfather has a temper.
+我爷爷容易生气。
+The boss is in a temper today.
+老板今天脾气不好。
+（2）temper 指“心情”、“情绪”时，与 mood 同义：
+That morning George was in a good mood/temper.
+那天上午，乔治心情好。
+但 bad mood 与 bad temper 稍有区别：
+When he is in a bad temper, he gets angry easily. But when he is in a bad mood, he likes to sit alone.
+当他脾气不好时，他很容易生气。但当他心情不好时，他喜欢独自坐着。
+（3）mood 可以表示“有意/想要（做某事）”，temper 则不可以：
+At that time I was not in the mood for talking/to talk.
+当时我没有心情/不想说话。
+Although Jeremy is well-known for his great sense of humour, he is in no mood for telling funny stories today.
+尽管杰里米以绝妙的幽默感著称，但他今天没有心情讲笑话。`]}]},{lesson:84,sections:[{title:"自学导读",content:["1．go on strike，罢工。 on strike 表示“在罢工”： The workers are on strike. 工人们在罢工。","It is not clear yet when the teachers on strike will return to their classrooms.","目前还不清楚罢课的教师何时会回到教室去。","Must we go on strike?","我们必须罢工吗？","2．The strike is due to begin on Tuesday. 罢工定于星期二开始。 due 表示“预定的”、“约定的”，后面可以跟带 to 的不定式，也可以不跟。它后面通常有确定的时间状语： The plane is due（to arrive）in London at  9 o'clock. 飞机预定9点抵达伦敦。 The performance is due to begin at 7 o'clock in the evening. 演出定于晚上7点开始。 due to 后面若是名词，则它表示“由于”、“因为”（通常用于系动词 be 之后）： Our delay was due to the heavy traffic. 我们被耽搁了是因为交通拥挤。","3．…the strike will continue until general agreement is reached about pay and working conditions.……此次罢工将一直持续到就工资和工作条件问题达成全面协议的时候为止。","在 until 引导的时间状语从句中，主语 agreement 的定语 about pay and working conditions 被谓语隔开了。因为谓语很短，如果定语紧跟 agreement，则句子读起来会头重脚轻。这种修饰语与被修饰语隔开的情况通常在不会引起误解时使用。如 He looked at the girl with large blue eyes 这句话就容易引起误解，with large blue eyes 既可修饰 he 也可修饰 the girl。","4．to some extent，在某种程度上。 也可以用 to a certain extent： The weather has helped me to some/a certain extent. 天气在某种程度上帮了我的忙。","5．press，新闻界，报界；记者们（集合名词，后面动词用单数或复数均可）。 Ian is a member of the press. 伊恩是位新闻界人士。 The press is/are waiting to see the president． 记者们在等着见总统。","6．Only one or two people have objected that the students will drive too fast!只有一两个人提出反对意见，说学生们会把车开得太快！ object 作动词时后面可以跟从句，表示“提出异议”、“反对”；它后面也可以跟介词 to+名词/动名词，表示“反对”、“不喜欢”、“不赞成： They objected that the book was too difficult for them. 他们提出异议，说这本书对他们来说太难了。 A lot of people object to smoking in public places. 许多人不赞成在公共场所吸烟。 Do you object to my sitting beside you? 你反对我坐在你旁边吗？"]},{title:"词汇学习",content:[`1．it 作先行宾语
+it 除了可以作虚主语（如 It's 9 o'clock）外，还可以作先行主语（如 It's a pleasure to be here），或用于分裂句（即强调句）中，如 It was George who phoned Jack last night（是乔治昨晚给杰克打了电话）。另外，在主语+动词+宾语+宾语补足语这个句型中，常用 it 作先行宾语，真正的宾语为后面的动词不定式或从句：
+People are going to find it difficult to get to work.
+人们会感到上班有困难。（to get to work 为 find 的真正宾语）
+除 find 外，常用于这种结构的动词还有 think，consider，feel，make，keep 等：
+He thought it easy to get the tickets.
+他以为搞到票很容易。
+They consider it impossible to finish the work in three days.
+他们认为这项工作不可能在3天之内完成。
+She felt it wrong that they should leave the patient alone in the hospital.
+她觉得他们把病人独自留在医院是不对的。
+She felt it right for them to arrest the thief.
+她认为他们逮捕小偷是对的。（for them 是后面不定式的逻辑主语）
+2．relieve vt.
+（1）缓解，减轻：
+This will relieve pressure on the trains to some extent.
+这将在某种程度上减轻对火车的压力。
+This medicine has relieved my toothache.
+这药减轻了我的牙疼。
+（2）使……宽心/宽慰，松一口气：
+He was much relieved to hear that the operation had been successful.
+听说手术成功，他大大地松了一口气。
+The news relieved the whole family.
+这消息使全家人放了心。
+3．volunteer
+（1）vt./vi.自愿，自动提出，自愿提供：
+Some college students have volunteered to drive buses while the strike lasts.
+一些大学生自愿在罢工期间驾驶公共汽车。
+After the fire, many people volunteered their services.
+大火之后，许多人自愿提供服务。
+Frank has volunteered for the army.
+弗兰克自愿参军。
+（2）n. 自愿参加者，志愿者：
+The road was built by volunteers.
+这条路是由志愿者筑成的。
+Are there any volunteers for a try?
+有自愿试一试的人吗？`]}]},{lesson:85,sections:[{title:"自学导读",content:["1．Pupils of the school, old and new, will be sending him a present to mark the occasion.为了纪念这个日子，学校的学生——无论老同学还是新闻学——将送他一件礼物。","（1）old and new 为 pupils 的非限定性定语，因为有逗号把它与句子的其他成分隔开，并且去掉它对句子的意义影响不大。有时这种两个连用的形容词（或分词）相当于状语，这时它可以位于句子中间，也可以位于句首：","The workers, thirsty and tired, took a rest under the trees.","工人们又渴又累，在树底下休息了一会儿。（thirsty and tired 可以换到句首，相当于状语）","The villagers here, young and old, are interested in gardening.","这里的村民们，无论年轻的还是年长的，都对园艺感兴趣。","（2）mark 本义为“给……作记号/留痕迹”，在这里表示“纪念”：","He marked all the foods which were forbidden with a red pencil.","他用红笔标出所有禁吃的食物。","2．All those who have contributed towards the gift will sign their names in a large album…所有凑钱买此礼品的人都将把自己的名字签在一本大签名簿上…… （1）contribute 通常与 to/towards 连用，表示“捐给”、“提供给”： Before his death, he contributed a large sum of money to the church. 他在临死前捐了一大笔钱给教会。 A few of us contributed towards Mary's present on her birthday. 玛丽生日那天，我们当中的几个人凑钱买了份礼物给她。 （2）present 与 gift 都可以表示“礼物”、“赠品”，但 gift 相对要正式些： She has just received a beautiful birthday present. 她刚收到一份漂亮的生日礼物。 He made a gift of ￡ 60, 000 to his old school. 他向母校赠送了6万英镑。","3．We shall all remember Mr. Page for his patience and understanding and for the kindly encouragement he gave us when we went so unwillingly to school. 我们不会忘记佩奇先生对我们既有耐心又充满理解，也不会忘记在我们不愿去上学时他给予我们的亲切鼓励。","（1）这个长句子的主要框架是 remember sb. for stb．（因某事记住某人），介词 for 有3个并列宾语：patience，understanding 和 encouragement，最后这个宾语又带有自己的定语从句，定语从句又有自己的时间状语从句。for 后面跟的可以是某人的品德、特征等：","Jeremy is remembered for his great sense of humour.","人们不会忘记杰里米那绝妙的幽默感。","（2）kindly 在这里为形容词，表示“仁慈的”、“和蔼的”、“亲切的”等，这个词既可以作形容词，也可以作副词：","She gave me a kindly smile.","她对我友好地笑了一下。（形容词）","Dan kindly invited us to lunch yesterday.","丹昨天友好地/好心地邀请我们吃午饭。（副词）","I greeted her and she smiled kindly.","我向她打招呼，她亲切地微微一笑。","（3）so 在这里是一种非正式的用法，表示程度，相当于 very：","This new cheese is so good!","这新奶酪如此之好！","You are so kind!","你（们）太客气了！","4．a farewell dinner in his honour, 为他举行的告别宴会。 （1）farewell 比 goodbye 要正式，可以单独使用：Farewell！（再见！再会！一路平安！）它也可以作名词或形容词用： He said farewell to his mother and got on the plane. 他向母亲告别后便登上了飞机。（名词） When Frank retired, they held a farewell party. 弗兰克退休时，他们开了个欢送会。（形容词） （2）in sb.'s honour 作定语，表示“为向某人表示敬意”、“为纪念某人”等，也可以说 in honour of sb．： Many people attended the party in honour of the new manager. 很多人参加了为新经理举办的晚会。 This is a farewell performance in her honour. 这是一场为她举办的告别演唱/演奏会。","5．a total of，总共。 total 在这里是名词，表示“总数”、“总额”、“合计”等： The money she spent on the dinner party reached a total of ￡  200． 她为这次宴会共花了200英镑。","6．devote oneself to，致力于，献身于，专心于。 Mary devotes herself to helping the poor. 玛丽致力于帮助穷苦人。 As a boy, Jim devoted himself to tennis. 吉姆小时候热衷于网球。"]},{title:"词汇学习",content:[`1．inform
+（1）vt. 通知，告知：
+Who informed you about/of this?
+谁把这事告诉你的？
+He was informed that he would receive an extra thousand pounds a year.
+他被告知他每年将得到1,000英镑的额外收入。
+（2）vi. 告发，检举（与 against/on 连用）：
+He used to inform against his classmates.
+他过去常打同学的小报告。
+Several people have informed on him.
+好几个人告发了他。
+2．too 与 enough
+这两个词都可以作程度副词，但 too 通常位于它所修饰的形容词/分词之前，enough 则位于它所修饰的词之后。在含有不定式的句型里，too 经常具有否定的含义，enough 则表示达到必要的程度：
+He's too weak to lift the box.
+他太弱了，举不起这箱子。
+He isn't strong enough to lift the box.
+他不够强壮，举不起这箱子。
+（这两句话中，主要动词的主语也是不定式的主语）
+He is too heavy for me to lift.
+他太重了，我不能举起他。
+The pear is ripe enough for me to eat.
+这梨熟得能让我吃了。
+（这两句话中，主要动词的主语是不定式的宾语，不定式的逻辑主语由 for 引导）
+需要注意的是，无论有没有 for 短语，不定式后面都绝不可以带宾语。`]}]},{lesson:86,sections:[{title:"自学导读",content:["1．Out of control，（标题）失控。 介词短语 out of 可以表示“失去”、“欠缺”等： We are out of bread. 我们的面包吃完了。 Tony walked so fast that he was soon out of sight. 托尼走得很快，不久就无影无踪了。 He has been out of work for two months. 他失业两个月了。 The plane got out of control and crashed in the mountains. 飞机失控后在山区坠毁。","2．…the steering wheel came away in his hands.……方向盘脱手了。 come away 表示“脱落”、“脱离”、“脱开”等： When I tried to lift the suitcase, the handle came away.当我试图提起手提箱时，把手掉了下来。","3．Both men had hardly had time to realize what was happening when they were thrown violently into the sea.他们两个还没来得及意识到究竟发生了什么事情，就被猛地抛入了海里。 hardly…when…表示“几乎未来得及……就……”，hardly 用于主句中，并且主句通常用过去完成时。（cf．第38课语法）","4．they swam on as quickly as they could, 他们以最快的速度向前游去。 on 在这里是副词，表示“向前”： Walk on along this road for ten minutes and you'll see the railway station. 沿着这条路向前走10分钟你就会看见火车站。 I think he saw me, but he just marched on. 我觉得他看见了我，但他却径直往前走了。","5．They had just had enough time to swim out of danger when the boat again completed a circle. 他们刚刚来得及游出危险区，快艇就又转究了一圈。 just 是个可以和各种完成时连用的时间副词，它与 when 连用时常用于过去完成时： Jim had just left when you rang. 你打电话时吉姆刚走。 The patient had just died when the doctor arrived. 医生来时病人刚死。","6．The petrol had nearly all been used up. 汽油几乎已经用光。 use up 表了“用完”、“用光”、“耗尽”：","They have just bought a house and a car. They must have used up all their money.","他们刚买了一所房子和一辆车。他们的钱肯定都用光了。","up 表示“彻底地”、“完全地”，它也可以与其他一些动词连用：","The child soon ate up the cake.","孩子很快把蛋糕吃完了。","She burned up all his letters.","她把他的信都烧掉了。","Can you read up the book in two hours?","你用两小时就能把这书读完吗？","7．Before long, the noise dropped completely… 没过多久，噪音便彻底消失…… drop 在这里为不及物动词，表示“减少”、“变弱”或“消失”： When he saw that Mary was annoyed, his voice dropped. 他发现玛丽生气时，便降低了嗓门。 We had to stay at home before the wind had dropped. 风力减弱以前，我们不得不呆在家里。"]},{title:"词汇学习",content:[`1．swing vt./vi.
+（1）（使……）摆动/摇动：
+He can't stand those who swing their legs while eating.
+他受不了吃东西时晃腿的那些人。
+She tried to swing the baby to sleep.
+她试图把孩子摇得睡着。
+（2）突然转向，使……转向/转身：
+The man tried to swing the speedboat round.
+那人试图让快艇转弯。
+He swung round and looked at the two men.
+他突然掉转身，看着那两个人。
+2．enough 与 fairly
+enough 表示“足够”，用在形容词或副词之后，有“为了某种目的”的含义；fairly 表示“相当”，通常修饰表示肯定意义的词：
+I'm old enough to know what I'm doing.
+我已经大了，知道自己在干什么。
+We haven't got enough time/chairs.
+我们没有足够的时间/椅子。
+I didn't arrive at the station early enough.
+我到车站到得不够早。（我误了火车。enough 指结果）
+They had just had enough time to swim out of danger.
+他们刚刚来得及游出危险区。（enough 既可用于名词前，也可用于名词后）
+The water in the pool is fairly warm, but not warm enough to swim in.
+池里的水相当暖和，但如要游泳则还不够暖。
+He is fairly quick, but not quick enough to take part in the race.
+他跑得相当快，但要参加比赛还不够快。`]}]},{lesson:87,sections:[{title:"自学导读",content:["1．A perfect alibi，（标题）极好的不在犯罪现场的证据。 alibi 为法律用语，含义是“不在场证明”、“当时不在场的申辩”，是可数名词： Ian had an alibi/alibis for that morning. 伊恩有那天上午不在场的证据/证明。 与它搭配的动词通常有 offer，prove，set up 等。","2．…I was there on time.…… 我是按时到了那儿的。 on time 为固定短语，表示“准时”、“按时”（注意它与 in time 的区别）： Can you arrive on time? 你能准时到吗？ Tom is never on time. He always keeps other people waiting. 汤姆从来不准时。他总是让别人等。","3．And you didn't notice anything unusual? 您没有注意到有什么异常情况发生吗？ 这是一个陈述疑问句，即它具备与陈述句同样的基本语法结构，但用升调提问。这种句子在英语中不常用： 不定代词如 anything，something 等被形容词修饰时，形容词必须跟在不定代词之后： This is something special. 这很特别。 This isn't anything important. 这并不重要。 I'd like something cheaper. 我想买点较为便宜的东西。","4．I suggest…that you are not telling the truth. 我提醒您……您讲的不是实话。 I suggest（that）…在这里用于提出质疑，译为“依我看……”、“恐怕……”： I suggest that he is not so honest as he looks. 依我看他并不像他看上去那么诚实。 I suggest that the car crash was not accidental. 恐怕这起汽车撞车事故不是偶然的。","5．You see, on the morning of the murder, the  8 o'clock train did not run at all. 您看，在凶杀发生的那天早晨，8点钟的那次车根本没有发。 （1）you see 在口语中经常作为插入语出现，句首、句中或句尾均可以，表示“你知道”、“事实上”等含义： He was not really interested in the film, you see. 事实上，他对那部电影并不是真的感兴趣。 My leg isn't all right yet, you see, so I can't climb the hill with you. 你知道/你看，我的腿还没有完全好，所以我不能和你（们）一起爬山。 （2）run 可以指火车、公共汽车、船等“定时/定期行驶”、“（在两地间）往来”： Buses run every ten minutes here. 这里的公共汽车每10分钟一班。 This ship runs between Dover and Calais. 这条船来往于多佛与加来之间。"]},{title:"词汇学习",content:[`1．commit vt.
+（1）犯（罪），做（错事、坏事等）：
+A murder was committed at 8 o'clock this morning.
+今天早上8点钟发生了一起凶杀案。
+He has never committed any crime before.
+他以前从来没有犯过罪。
+（2）承诺，使承担义务，卷入（经常与反身代词连用）：
+You should know each other better before committing yourselves to marriage.
+在缔结婚姻以前，你们应该更好地互相了解。
+He has committed his friend to taking part in the race.
+他使他的朋友答应参加比赛。
+2．confirm vt.
+（1）证实，确定：
+My employer will confirm that I was there on time.
+我的雇主会证明我是按时到那儿的。
+His words are confirmed.
+他的话得到了证实。
+（2）巩固，加强：
+His experiences in that company confirmed his decision to have a factory of his own.
+他在那家公司的经历坚定了他想自己拥有一个工厂的决心。
+What he saw and heard that night confirmed his belief that the pub was haunted.
+那天晚上的所见所闻使他更加坚信那个小酒店有鬼魂出没。`]}]},{lesson:88,sections:[{title:"词汇学习",content:[`1．collapse vi.
+（1）倒塌：
+If explosives are used, vibrations will cause the roof of the mine to collapse.
+如果用炸药爆破，震动会引起矿顶塌落。
+With no one to repair it, the old church collapsed long ago.
+由于无人维修，那座老教堂早就倒塌了。
+（2）（因精疲力竭等）倒下；（身体等）垮掉：
+After many years' hard work, my mother's health collapsed.
+由于多年的辛苦劳动，我母亲的身体垮了。
+He had run more than forty miles As soon as he was out of danger, he collapsed.
+他已经跑了四十多英里路了。他刚脱离危险便（累得）倒下了。
+2．与动词 run 有关的短语
+run 可以与不同的介词或副词搭配产生不同的含义。
+（1）run out of 可表示“用完”、“耗尽”：
+They are running out of food and drink.
+他们的食物和饮料都快消耗尽了。
+He has run out of money.
+他的钱用光了。
+（2）run after 表示“追赶”、“追逐”：
+She ran through a forest after the two thieves.
+她穿过森林，追赶那两个小偷。
+Seeing that his sister was annoyed, he ran after her to apologize.
+当他发现他妹妹/姐姐生气时，他便追上去道歉。
+（3）run over 的含义之一是“在……驶过/辗过”：
+The car ran over a snake/his legs.
+那车辗过一条蛇/他的双腿。
+The cat was run over by a train.
+那只猫被火车压死了。
+（4）run in 的含义之一是“试车”、“试转（发动机等）”：
+John is running his new car in.
+约翰正在试他的新车。
+Run in the engine before you start work.
+在开始工作前，先试试发动机。
+（5）run into 可以表示“偶然碰见”：I ran into
+Mary and Jane in the flower shop.我在花店里碰见了玛丽和简。
+He ran into the Sterlings while travelling in Italy.
+他在意大利旅游时遇见了斯特林一家。`]}]},{lesson:89,sections:[{title:"自学导读",content:["1．A slip of the tongue，（标题）说走了嘴，失言。 slip 在这里表示“不经心的错误”、“失误”、“疏漏”： You've made some slips (of the pen) in your report. 你的报告中有一些小错（笔误）。 When he was nervous, he would sometimes make a slip of tongue. 当他紧张时，他有时就会发生口误。 Are you sure that it was just a slip of tongue? 你确信那只是一时口误吗？","2．People will do anything to see a free show…人们总要想尽办法去看不花钱的演出…… anything 用于肯定句时表示“不论什么”、“任何事情”，to see a free show 表示目的，也可以用 for+名词形式： He will do anything to save his child's life. 他要想尽办法挽救他孩子的生命。 He will do anything for the child. 为了这孩子，他干什么都愿意。","3．When the news got round that a comedy show would be presented at our local cinema by the P. and U. Bird Seed Company…当“皮尤”鸟食公司将在我们当地影院演出喜剧节目的消息传开后……","（1）when 引导的这个时间状语从句中含有一个同位语从句，即 the news that…。由于 that 引导的同位语从句较长，便与它所修饰的 news 隔开了，放在谓语动词之后，以免句子头重脚轻。同位语从句中用了被动语态的过去将来时形式。","（2）get round 在这里表示消息、谣言等“传开”（也可以用 get around/about）：","The word soon got round that there was buried treasure in that cave.","那个洞里有宝藏的消息很快便传开了。","Bad news gets round quickly.","坏消息传得快。","4．…there must have been several hundred people present just before the show began．……在演出开始前场内肯定已有好几百人了。","Those who failed to get in need not have felt disappointed, as many of the artistes who should have appeared did not come.","那些没能进到场内的人没有必要感到失望，因为很多应该出场的专业演员都没有来。","must+have+过去分词表示对过去发生的事进行推测（其否定式为 can't+have+过去分词，cf．第17课语法）；need+have+过去分词表示过去不必做但实际已做了的事（cf．第41课语法）；should/ought to+have+过去分词表示本来应该做而实际未做的事（cf．第65课语法）：","He had found five empty whisky bottles which the ghost must have drunk the night before.","他发现了5只空的威士忌酒瓶子，这肯定是鬼魂前天晚上喝的。","The examiner must have been pleased with my performance.","主考人对我的表现想必是满意的。","You needn't have said that.","你没必要这么说。（实际已经说了）","You needn't have told him about my plans.","你本不必把我的打算告诉他。（实际上已告诉了他）","He should have gone along a side street.","他应该走一条小街。（实际上他走了主要街道）","5．As soon as he opened his mouth, everyone burst out laughing. 但他刚一开口说话，人们便哄堂大笑起来。 burst out 为固定短语，其含义之一为“突然……起来”，后面通常接动名词，也可以接 in/into+名词： At the sight of the drunk, everyone burst out laughing/in laughter. 一看见那醉汉，大家便大笑起来。 When she heard that her father had died in the accident, she burst out crying. 当她听说她父亲在那次事故中丧生时便大哭起来。","6．We all know what the poor man should have said, but what he actually said was… 我们都明白那个可怜的应该说些什么，而他实际说的却是…… 用 should+have+过去分词表示过去应当做而并没有做的事时，它后面经常跟 but（actually）以形成对比： I should have left home before  9 o'clock, but actually I didn't. 我本该在9点以前离开家，但实际上我没有。 You should have written the word‘too’, but what you actually wrote was‘to’. 你本该写“too”，但实际上你却写了“to”。"]},{title:"词汇学习",content:[`1．free 与 single
+（1）free 可以表示“免费的”、“无偿的”：
+The girl‘gave’her mother a free dress once a week!
+那姑娘每星期“送”她母亲一件免费的衣服！
+She has got some free tickets to the comedy show.
+她有这场喜剧表演的一些免费入场券。
+free 还可以表示“自由的”、“没束缚的”、“不受控制的”、“空闲的”等含义：
+You are free to make your own decision.
+你有权作出自己的决定。
+I'm free on Friday evening.
+我星期五晚上有空。
+（2）single 可以指人“单身的”、“独身的”、“未婚的”：
+I enjoy being single.
+我喜欢独身生活。
+Are you married or single?
+你结婚了还是单身？
+There are more and more single women in modern cities.
+现代城市里单身女人越来越多了。
+a single parent 单亲（独自一人养育儿女的父亲或母亲）
+2．queue 与 row
+（1）queue 可以作不及物动词，表示“排队”：
+We had to queue for hours to get in.
+我们不得不排了好几个小时队才进了场内。
+She has to queue for the bus every morning.
+她每天早上都得排队等公共汽车。（通常与 for 连用）
+queue 也可以作名词，表示按顺序等待的人、车等的“行列”、“队”：
+There's a long queue/line of people waiting for the bus.
+人们排着长队等公共汽车。
+We'd better join the queue for tickets.
+我们最好加入买票的队伍。
+（2）row 可以指人或物的“一排”、“一行”，通常为横的（queue 通常为纵队）：
+You can see me in this old photo, standing in the back row.
+你可以在这张老照片中找到我，我当时站在后排。
+Please put the desks in four rows.
+请把课桌摆成4排。
+3．funny adj.
+（1）funny 通常表示“有趣的”、“滑稽的”、“逗人发笑的”，与 amusing 同义：
+I don't find Jim's jokes very funny.
+我并不觉得吉姆的笑话很有趣。
+He included a large number of funny stories in his speech.
+他在演讲词里面加进了大量逗人的故事。
+（2）在口语中，funny 也可以表示“反常的”、“古怪的”、“奇怪的”等含义：
+I thought there was something funny about the parcel, so I phoned the police.
+我觉得那个包裹有点古怪，所以就给警察打了电话。
+This morning I saw her wearing a funny hat which looked like a lightouse.
+今天上午我看见她戴了一顶滑稽的、看上去像个灯塔的帽子。`]}]},{lesson:90,sections:[{title:"自学导读",content:["1．Fish and chips has always been a favourite dish in Britain…油煎鱼加炸土豆片一直是英国人喜爱的一道菜……","fish and chips 被看做是一个整体，因此，虽然 chips 是复数形式，它后面却要跟动词的单数形式。（cf．本课词汇学习）dish 在这里指“一盘菜”或“菜肴”、“食品”：","I like French dishes.","我喜欢（吃）法国菜。","Would you like a sweet dish?","您要一盘甜食吗？","2．…divers…have been frightened out of their wits by giant fish bumping into them as they work．……潜水员……曾在工作时被撞到他们身上的大鱼吓得惊慌失措。 （1）out of one's wits 表示“失去理智”、“惊慌失措”： She was frightened out of her wits by the great fire. 大火吓得她惊慌失措。 Are you out of your wits? 你疯了吗？ （2）bump into 的含义之一是“碰上”、“撞上”： Wandering in darkness, the drunk bumped into a policeman. 那醉汉在黑夜中闲荡时撞到了一个警察的身上。 bump into 也可以表示“偶然遇见”、“碰见”（多用于口语）： I bumped into Jane at the conference. 我开会时碰见了简。 （3）as 在这里相当于 when 或 while。","3．Now they have had special cages made to protect them from these monsters. 现在他们有了特制的笼子，用来保护他们免受大鱼的侵袭。 （1）have had…made 是使役式的完成式。（cf．第66课语法） （2）protect 经常与 from 或 against 连用： He tried to protect the child from the rain/the dog. 他试图使孩子不被雨淋/狗咬。 This coat will protect you against the cold. 这件大衣可以给你御寒。","4．favourite eating varieties, 深受人们喜爱的食用的品种。 eating 在这里为形容词，表示“供食用的”，它有时也表示“宜生食的”： Eating corn is quite sweet. 食用玉米很香甜。 These are eating apples, and those are cooking apples/ones. 这些是生吃的苹果，那些是烹任用的苹果。","5．the total absence of fishing boats around the oil rigs, 钻井平台周围根本没有捕鱼船只。 （1）total 在这里表示“完全的”、“彻底的”（相当于 complete）： His letter is a total surprise to her. 他的来信完全出乎她的意料之外。 That girl is a total stranger to me. 我根本不认识那姑娘。 （2）absence of 表示“缺少”、“不存在”： These plants don't grow well because of the absence of rain/sunshine. 由于缺乏雨水/阳光，这些植物长得不好。","6．as a result，结果，因此。 He didn't work hard at mathematics. As a result, he failed in the examination. 他没有用功学数学。因此，他考试没及格。","My husband Spent weeks training our dog to press its paw on the latch. As a result, it has become an expert at opening the gate.","我丈夫花了几个星期的时间训练我们的狗用脚爪按住门闩。结果，它现在成了开门的专家。"]},{title:"词汇学习",content:[`1．special adj.
+（1）特殊的，特别的，独特的：
+He received special care while in Paris.
+他在巴黎期间受到了特别照顾。
+He intends to send you a special gift on your birthday.
+他打算在你生日那天送你一份独特的礼物。
+（2）专门的，特制的，专用的：
+Special cages are made to protect them from giant fish.
+为了保护他们免受大鱼的侵袭，人们做了特制的笼子。
+A special railway line will be built for the Olympic Games.
+为了奥运会，人们将修筑一条铁路专线。
+2．被看做繁体的、用 and 连接的两个名词
+（1）当主语是 and 连接的两个名词时，谓语通常用复数形式：
+Jane and Bill have got married last week.
+简和比尔于上星期结了婚。
+An umbrella and a suitcase are still needed.
+还需要一把伞和一只手提箱。
+（2）有些名词由于经常在一起连用，人们已把它们看成一个整体（或一个单位），因而成了一种复合名词。它们不仅有固定的词序，且后面的谓语动词通常要用单数形式。这类复合名词包括 bacon and eggs（咸肉和鸡蛋），bread and butter（面包和黄油），cheese and wine（奶酪和葡萄酒），fish and chips（鱼和油炸土豆片），a knife and fork（一副刀叉），sausage (s) and mash（香肠和土豆泥）。
+Fish and chips is a popular meal in Britain.
+鱼和炸土豆片在英国是颇受欢迎的食品。
+Bacon and eggs is my favourite dish.
+咸肉和鸡蛋是我爱吃的一道菜。
+但是，如果我们把这两个名词看成是分开的东西，动词就要用复数：
+Fish and chips make a good meal.
+鱼和炸土豆片就是一顿美餐。
+因此，谓语动词在这些名词后面究竟用单数还是复数形式还需要看具体情况。`]}]},{lesson:91,sections:[{title:"自学导读",content:["1．A pilot noticed a balloon which seemed to be making for a Royal Air Force Station nearby. 一个飞行员发现了一只气球，它像是正飞往附近的一个皇家空军基地。 （1）to be making for 为不定式的进行式，表示正在进行的动作： They seem to be talking about something important. 他们似乎正在谈论某件重要的事情。 She seems to be looking for somebody/something. 她似乎正在找人/什么东西。 （2）make for 为固定短语，其含义之一为“（匆匆）走向”、“向……前进”： While the thief was making for his car, a policeman stopped him. 当小偷匆勿走向他的汽车时，一位警察拦住了他。 After leaving Calais, the ship made for Dover. 离开加来后，那艘船便驶往多佛。","2．He said that someone might be spying on the station and the pilot was ordered to keep track of the strange object. 他说有可能有人正对基地进行侦察，因此命令那个飞行员跟踪那个奇怪的飞行物。 （1）might be doing sth．表示对正在进行的动作的推测（cf．第19课语法）： （2）keep track of 为固定短语，表示“追踪”、“保持联系”、“记录”等（其反义词为 lose track of）： Keep track of the man wearing a grey hat. He looks suspicious to me. 跟踪那个戴顶灰帽子的人。我觉得他看上去可疑。 She managed to keep track of her friends. 她设法保持了与朋友们的联系。","3．He could make out three men in a basket under it… 他看清了气球下面有3个人呆在一只筐里…… make out 是固定短语，它在这里的含义是“（勉强）看出”、“辨认出”、“听出”： In the darkness of night, he could just make out three men coming toward them. 在黑夜中，他只能看出有3个人在向他们走来。 Can you make out what they are talking about? 你能听清他们在谈什么吗？ I can't make out the boss's handwriting. 我辨不出老板的字迹。","4．The police were called in… 警察被召来了…… call in 在这里表示“召来”： Sam has a temperature. We'd better call in a doctor. 萨姆发烧了。我们最好请医生来。","When he discovered that some important things were missing in his room, he called the police in.","当他发现屋子里少了一些重要东西之后，他便把警察召来了。"]},{title:"词汇学习",content:[`1．spy
+（1）vi．暗中监视；侦察（通常与 on，upon 连用）：
+Someone is spying on the station.
+有人正在对基地进行侦察。
+I noticed some policemen spying on the foreign tourists.
+我注意到一些警察在暗中监视那些外国游客。
+（2）vt．发现，看见：
+He spied a stranger in his garden.
+他在花园里发现了一位陌生人。
+She spied a cloud of smoke in the distance.
+她发现远处有一团烟。
+（3）n．间谍，密探：
+He was once a spy for the police / British government.
+他曾是警方／英国政府的密探。
+They have arrested three spies.
+他们逮捕了3名间谍。
+2．动词 make 的一些固定短语
+make 可以与许多介词或副词连用，产生新的含义。课文中出现了 make for 和 make out。较常用的还有 make up 与 make up for 等。
+（1）make out 除了表示“辨出”、“听出”的含义外，还可以表示“理解”、“弄清”：
+I can't make out what this picture is about.
+我看不出这幅画的意思。
+Can you make out what the child wants?
+你能弄清那孩子想要什么吗？
+Jane is angry again. Sometimes I can't make her out at all. Her moods change quickly.
+简又生气了。有时候我根本不能理解她。她情绪变化很快。
+make out 的另一个含义是“写出”、“填写”（相当于 write out）：
+He made out a long list of all the foods which were forbidden.
+他写了一张长长的单子，上面列了所有禁吃的食物。
+He made out a cheque of 1, 000 dollars and gave it to the secretary.
+他开出一张1, 000美元的支票并将其给了秘书。
+（2）make up 的含义之一是“编造”、“捏造”、“虚构”：
+Every time he played truant, Tom would make up an excuse.
+汤姆每次逃学都编个借口。
+Jane made up a story about a child and a monster.
+简编造了一个有关一个孩子和一个妖怪的故事。
+make up 也可以表示“（给……）化妆／化装”：
+She always makes herself up / makes up her face before going out.
+她出门前总要化妆。
+Making up takes up a lot of her time.
+化妆占了她很多时间。
+She was made up as a boy.
+她被化装成一个小男孩。
+（3）make up for 的含义是“补偿”、“弥补”：
+I had to walk faster to make up for lost time.
+为了补回失去的时间，我不得不加快走路的速度。
+She managed to make up for her mistake.
+她设法补救了她的过错。`]}]},{lesson:92,sections:[{title:"自学导读",content:["1．ask for trouble，自找麻烦，自讨苦吃（多用于口语）。 You shouldn't have been so rude to her. You are asking for trouble. 你不该对她那么粗鲁。你这是自找麻烦。 The boss seems to be annoyed. To talk to him now is to ask for trouble. 老板似乎在生气。现在找他谈话是自讨苦吃。","2．I don't think the windows need cleaning at this time of the night. 我看不必在夜里这个时侯擦窗子吧。","（1）有些动词如 think， believe，expect，suppose 等后面跟表示否定意思的宾语从句时，否定词 not 往往用在主句中，但译成汉语时否定意义应在宾语从句中。我们一般不说 I think Mary won't come this evening，而说 I don't think Mary will come this evening。又如：","I don't believe he is still in London.","我相信他已不在伦敦。","（2）need cleaning 的含义相当于 need to be cleaned。need 表示“需要”时，后面接的动名词有被动的含义（cf．第44课语法）：","The strap needs mending.","这提包带需要修理。","2．I immediately regretted answering in the way I did. 我立刻后悔不该那样回答。","regret 后面接动名词形式与接不定式的含义不同。接动名词形式表示对做过的事感到后悔，接不定式则表示对现在将发生的事感到遗憾或抱歉（cf．第41课课文详注）：","I regretted saying it almost at once.","我几乎马上就后悔说了这话。","We regret to inform you that you needn't come here next week.","我们很遗憾地通知你下周不用来这儿了。","与 regret 相似， remember，forget，stop 等动词后面接不定式与接动名词形式的意义有很大不同。 remember / forget+不定式指未来的动作（或从过去观点看的“未来的”举动）：","Remember to post the letters.","要记着／别忘记去邮信。","I remembered to post the letters.","我记着去邮信了。（没有忘记）","Don't forget to ask Tom.","别忘记去问汤姆。","I forgot to ask Tom.","我忘了去问汤姆。","remember / forget+ 动名词形式则指过去的动作（已发生过）：","I remember posting / having posted the letters.","我记得已把信寄了。","Have you forgotten meeting / having met her at a party?","你忘记了曾在一次聚会上见过她吗？","stop+ 不定式指目的：","On the way to the station I stopped to buy a paper.","去车站的路上，我停下来买了一张报纸。","stop+ 动名词形式表示停下正在做的动作：","When he told us the story, we just couldn't stop laughing.","他给我们讲故事时我们不禁都笑个不停。"]},{title:"词汇学习",content:[`1．tone n.
+（1）语气，口气，腔调：
+The policeman answered in a sarcastic tone.
+警察用讽刺的口吻回答。
+The waiter greeted us in a friendly tone.
+那侍者用友好的口气同我们打招呼。
+（2）语调，声调：
+You should use the rising / falling tone at the end of this sentence.
+在这句话的结尾你应该用升调／降调。
+（3）格调，风格，气氛：
+Her dress has a bright tone.
+她的衣服格调明快。
+The building has a foreign tone.
+这座建筑物有一种异国情调。
+2．用于并列补充句和反应句的 so 与 neither／nor
+so 和 neither／nor 用于并列补充句和表示反应的句子时表示“也”、“同样”， so 用于肯定句，neither ／nor 用于否定句（neither 和 nor 完全可以互换）。它们后面跟的是省略形式的分句，只有助动词+ 主语，也可以是情态助动词 +主语
+You should work less and so should I.
+你应该少干一点，我也应如此。
+You shouldn't work so hard and nor should I.
+你不应该如此用功，我也不应该。（重复情态助动词 should）
+I've got a new car and so has John.
+我买了一辆新车，约翰也买了一辆。（重复助动词 have）
+She's going to help us and so is Jim.
+她将帮助我们，吉姆也将帮助我们。（重复助动词 is）
+He likes his beer and so does Frank.
+他喜欢啤酒，弗兰克也喜欢。（加助动词 does）`]}]},{lesson:93,sections:[{title:"自学导读",content:["1．One of the most famous monuments in the world, the Statue of Liberty, was presented to… by the people of France. 世界上最著名的纪念碑之一的自由女神雕像是……由法国人民赠送给……的。 （1）one of 引导的短语（其后面名词要用复数）与 the Statue of…为同位语。 （2）the people 通常指某个国家的人民，指复数的“人们”时通常不用 the： It was officially presented to the American people by Bartholdi. 它由巴索尔地正式赠送给美国人民。 He never pays attention to what people say. 他从不在乎人们会说什么。 A lot of / Few people went to their wedding. 许多／没几个人参加（了）他们的婚礼。","2．The actual figure was made of copper… 这座雕像的主体是用铜制成的…… made of 指用某种材料制成，并且原材料的性质或形状没变，从成品可以看出其原材料。（cf．第10课词汇学习）","3．it was taken to pieces，它被拆成若干小块。 take…to pieces 为固定短语，表示“把……拆开／拆散”： When the machine broke down again, some mechanics took it to pieces. 当那台机器再次出毛病时，一些新概念师便把它拆开了。","This machine is too large to be transported in whole. It has to be taken to pieces first.","这台机器太大了，无法整个地运送，得把它先拆开。","4．the statue had been put together again，这座雕像被重新组装起来。 put… together 为固定短语（是 take…to pieces 的反义词），表示“把……装配／组合起来”： They managed to put the machine together. 他们设法把那台机器组装了起来。 I can't put the broken vase together. 我无法把那打碎的花瓶重新拼起来。","5．to make their homes in America，在美国安家落户。make one's home 表示“定居”、“居住”： Ian (has) left England and made his home in China. 伊恩已离开英国，并在中国安了家。"]}]},{lesson:94,sections:[{title:"自学导读",content:["1．…children become expert at holding their breath under water even before they can walk．……孩子们甚至在还没有学会走路时就已经能熟练地在水下屏住呼吸了。 （1）expert 表示“熟练者”、“专家”，后面通常跟 at／in+ doing sth．结构（cf．第59课课文详注）： Rex soon became an expert at opening the gate. 雷克斯很快成了开门的专家。 （2）hold one's breath 为固定短语，表示“屏住呼吸”： When the film became very exciting, Tom and Sally would hold their breath. 电影演到激动人心处时，汤姆和萨莉就会屏住呼吸。","Last night, when I heard a strange noise coming from the bar, I held my breath and listened carefully.","昨天晚上，当我听到酒吧间有奇怪的响声后便屏住呼吸仔细听。","2．It is not long before they are so accustomed to swimming that they can pick up weights from the floor of the pool. 他们很快便适应了游泳，以致能捡起池底的物品。","not long before 通常译为“不久”、“很快”。 so…that 引导的是结果状语从句。 pick up 表示“捡起”。weight 在这里指比重较大（因此能沉在水底）的物品。 be accustomed to 表示“习惯的”、“适应了的”，后面通常跟名词或动名词：","My mother is accustomed to getting up early.","我母亲习惯早起。","He soon became accustomed to his new job.","他很快适应了新工作。","3．A game that is very popular with these young swimmers is…这些幼小的游泳运动员非常喜爱的一种游戏是…… popular 表示“受欢迎的”、“讨人喜欢的”，常与 with 或 among 连用： Swimming is popular with these girls. 这些姑娘们喜爱游泳。 Mary is popular with / among children. 玛丽受孩子们的欢迎。","4．Tricycles are lined up on the floor of the pool… 三轮车并排放在游泳池底上…… line up 为短语动词，表示“（使）排成行／排队”： Why are people lining up over there? 人们在那边排队干什么？ Line these chairs up, please. 请把这些椅子排好。","5．Whether they will ever become future Olympic champions, only time will tell. 他们将来是否能成为奥林匹克的冠军，这只能由时间来作出回答。 这是一个倒装句，宾语从句置于句首。通常，以疑问词引导的宾语从句会用于这种句型： What made him do it, no one knows. 是什么使得他干了这事，没有人知道。 How they found out the truth, only George can tell. 他们是如何发现真相的，只有乔治能作出回答。"]},{title:"词汇学习",content:[`1．instruct vt．
+（1）指导，教，传授：
+Children can be instructed in swimming at a very early age.
+儿童在很小的时候就可以开始学习游泳。
+Dan instructs chemistry at a nearby college.
+丹在附近的一所学院教化学。
+（2）指示，命令，吩咐：
+The doctor instructed Jimmy to stay in bed for a week.
+医生嘱咐吉米卧床一星期。
+I've been instructed to give you this parcel.
+我奉命将这个包裹交给您。
+2．compete vi．
+（1）比赛，对抗（通常与 with 或 against 连用）：
+The children compete against each other to reach the other end of the pool.
+孩子们比赛看谁先到达游泳池的另一端。
+How many people will compete in the race?
+有多少人参加这个比赛？
+During the singing contest, Mary competed with Helen for the first prize.
+在歌咏比赛中，玛丽与海伦争夺一等奖。
+（2）匹敌，比得上，媲美（通常与 with 连用，多用于否定句）：
+Hugh's house can't compete with yours.
+休的房子比不上你的。
+None of his later books can compete with his first one.
+他后来的书没有一本能比得上第一本。`]}]},{lesson:95,sections:[{title:"自学导读",content:["1．How did your clothes get into such a mess? 你的衣服怎么搞得一塌糊涂？ mess 表示“脏乱状态”时通常与 in 连用或与 get into 连用（cf．第54 课课文详注）：","When she returned from the market, the children had got the room into a terrible mess.","她从市场回去后，孩子们已经把房间里弄得一塌糊涂。","Why was her hair in such a mess?","她的头发怎么会那么乱？","2．University students set the Embassy on fire this morning. 今天上午大学生们放火点着了大使馆。 set on fire 为固定短语，表示“使……燃烧”、“放火烧……”： In 1834, someone set the Houses of Parliament on fire. 1834年，有人放火点着了国会大厦。 Have you found out who set my car on fire? 你们是否已经查出是谁烧了我的车？","3．The fire broke out in the basement. 地下室突然着火。 break out 可以指火灾、战争等“突然发生”、“爆发”： World War I broke out in 1914. 第一次世界大战于 1914年爆发。 When the fire broke out in the ship, Sally was frightened out of her wits. 当轮船突然着火时，萨莉吓得惊慌失措。","4．The Ambassador's wife went on asking questions… 大使夫人继续提出问题…… go on+ 动名词表示某个动作“继续不停”： We went on talking till after midnight. 我们继续谈话直到午夜以后。 go on+ 不定式则指做不同的事： After making the bed, she went on to cook breakfast.铺好床后，她接着便做早饭。","5．Someone fired a shot through my office window. 有人向我办公室窗户开了一枪。 fire 在这里是动词，表示“发射（枪、弹等）”： When the prisoner of war tried to escape, a guard fired a gun at him. 那战俘试图逃跑时，一名卫兵向他开了一枪。 A young man fired on the British Ambassador to Japan. 一位年轻人向英国驻日本大使开了枪。"]},{title:"词汇学习",content:[`1．aim
+（1）vt./vi.（把……）瞄准／对准：
+He aimed a fire extinguisher at me.
+他把灭火器对准了我。
+He aimed at the dog but missed.
+他瞄准了那只狗，但没打中。
+（2）vi. 目标在于，志向：
+What he aims for is money.
+他追求的是金钱。
+She aims to be a painter.
+她想成为一名画家。
+（3）n. 目的，目标，志向：
+What is your aim in life?
+你的生活目的是什么？
+You've missed your aim again.
+你又没击中目标。
+2．post vt.
+（1）派任，委派（与人连用）：
+I must definitely get that fellow posted.
+我一定要把那个家伙打发走。（get…posted 为使役式）
+Two months ago, Horst was posted to Paris.
+两个月以前霍斯特被派往巴黎。
+（2）邮寄（与物连用，美国英语用 mail）：
+He posted me a Christmas card last year.
+去年他给我寄了一张圣诞卡。
+Would you please post this parcel for me?
+你替我把这包裹寄了好吗？`]}]},{lesson:96,sections:[{title:"自学导读",content:["1．… the dead are said to return to their homes and they are welcomed by the living. ……据说死去的人要回到他们的家里来，活着的人则对他们表示欢迎。 （1）the dead 与 the living 均为定冠词+ 形容词结构，表示某类人。（cf．第54课语法） （2）被动语态 the dead are said 在这里的作用是缓和说话语气，因为对事情是否属实的把握不太大。（cf．第58课语法）","2．… food is laid out for them. …… 为他们摆放好了食品。 lay out 为短语动词，其含义之一为“摆出”、“摊开”： Just as he laid out his book, the telephone rang. 他刚把书摊开电话就响了。 Don't lay out your clothes on the bed. Put them away. 别把你的衣服都摊在床上。把它们收起来。","3．specially-made lanterns，特制的灯笼。","specially-made 是个复合形容词，由副词+过去分词构成。在第60课的词汇学习中，我们学习了名词+ 名词构成的复合名词。过去分词经常与其他词构成复合形容词：","well-intentioned 善意的","well-known 著名的","well-preserved 保存／保养得好的","widespread 广泛流传的","candle-lit 点着蜡烛的","a horse-drawn cart 一辆二轮马车","a tree-lined street 林阴街道","4．all night long，整夜。 long 在这里是副词，表示“整个”、“在整段期间中”，通常与 all 连用： It snowed all day long. 一整天都在下雪。 She stayed with her grandfather all summer long. 她整个夏天都和她爷爷呆在一起。","5．their return journey to the other world，返回另一个世界。 world 可以与一些限定词连用以表示“今世／现世”、“来世”、“黄泉”等： the next world / the world to come 来世 She believes that she will meet her dead parents in the other world. 她相信她会与她死去的父母在阴间重逢。","6．a moving spectacle，一个感人的场面。 moving 为形容词，表示“动人的”、“感人的”： I've just read a moving story / letter. 我刚读了一个感人的故事／一封感人的信。"]},{title:"词汇学习",content:[`1．drift vi.
+（1）漂流，漂移：
+Thousands of lanterns slowly drift out to sea.
+成千上万只灯笼慢慢漂向大海。
+The boat drifted gently across the water.
+小船在水面上慢悠悠地漂流。
+（2）漂泊，游荡：
+He has lost his job and just drifts in the city all day long.
+他失业了，成天就在这座城市里游荡。
+He drifted from France to Italy.
+他从法国漂泊到意大利。
+2．guide vt.
+（1）给……领路：
+The old man guided the explorers through the forest.
+老人领着探险队员们穿过森林。
+These lanterns will guide the dead on their return journey to the other world.
+这些灯笼将指引亡灵返回另一个世界。
+（2）指导（……的行动）；影响（……的决策等）：
+We should be always guided by truth.
+我们应该永远受真理的指导。
+Don't let your wife's opinion guide your actions.
+别让你妻子的观点左右你的行动。`]}]}];export{e as default};
