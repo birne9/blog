@@ -168,7 +168,7 @@ function modeSplit(s: string): string[] {
         const isCjk = /[\u4e00-\u9fff]/.test(ch)
         const isAscii = /[A-Za-z]/.test(ch)
         const mode: 'en' | 'zh' | '' = isCjk ? 'zh' : isAscii ? 'en' : ''
-        if (mode && curMode && mode !== curMode && /[.!?。！？]/.test(cur[cur.length - 1] || '')) {
+        if (mode && curMode && mode !== curMode && /[.!?。！？]/.test(cur.replace(/\s+$/, '').slice(-1) || '')) {
             segs.push(cur)
             cur = ''
         }
@@ -185,8 +185,8 @@ function splitMixedPairs(s: string): VdExample[] {
     const out: VdExample[] = []
     let rest = s.trim()
     while (rest) {
-        // 英文串(允许数字/撇号/连字符/全角＄), 停在中文前或行尾
-        const em = /^([A-Za-z][A-Za-z0-9' ,.\-＄]*?)(?=\s*[\u4e00-\u9fff]|$)/.exec(rest)
+        // 英文串(允许数字/撇号/连字符/全角＄/+=/→), 停在中文或中文标点前或行尾
+        const em = /^([A-Za-z][A-Za-z0-9' ,.\-＄+=/→]*?)(?=\s*[\u4e00-\u9fff，。；：！？、（）()《》〈〉【】…—]|$)/.exec(rest)
         if (em && em[1].trim()) {
             out.push({ en: em[1].trim() })
             rest = rest.slice(em[0].length).trim()
@@ -258,6 +258,7 @@ interface VdEntry {
     trans: string;       // B 型: 释义
     noteTrans: string;   // B 型: 释义后的方括号说明
     examples: VdExample[]; // B 型: 例句
+    prose: string[];     // 中英混杂解说行(整行纯文本渲染, 不参与例句解析)
 }
 
 // 释义与行内例句: 以最后一个'：'为界
@@ -306,6 +307,20 @@ const HEAD_RE = /^(\d+)[．.]\s*([A-Za-z][A-Za-z'.,/．，／…～+ -]*?)(?=\s*
 const WORD_RE = /^([A-Za-z][A-Za-z'. /-]*?)(?=\s*[\u4e00-\u9fa5（\[【:：]|$)/
 
 // 整段解析: 返回词条数组与段落类型
+// 中英混杂解说行检测: 无法干净切成英/中例句对的非词条行, 整行当纯文本渲染
+function isProseLine(line: string): boolean {
+    // 1) 例句切分后英文仍含中文(解析污染)
+    if (splitExamples(line).some((e) => e.en && hasCjk(e.en))) return true
+    // 2) 拉丁与中文直接粘连(如 "beyond这个介词有很多用法")
+    if (/[A-Za-z][\u4e00-\u9fff]|[\u4e00-\u9fff][A-Za-z]/.test(line)) return true
+    // 3) 以中文或全角引号/书名号开头且混有拉丁的解说行
+    if (/^[\u4e00-\u9fff（(《【]/.test(line) && /[A-Za-z]/.test(line)) return true
+    // 4) 句子级长拉丁串(引文式解说, 非短语词条)
+    const lm = /^([A-Za-z][A-Za-z0-9' ,.\-…]*?)(?=\s*[\u4e00-\u9fff]|$)/.exec(line.trim())
+    if (lm && lm[1].trim().length > 48 && /[.!?]$/.test(lm[1].trim())) return true
+    return false
+}
+
 function parseVocab(text: string): { mode: 'A' | 'B'; entries: VdEntry[] } {
     const lines = text.split('\n').map((l) => l.trim()).filter(Boolean)
     const mode: 'A' | 'B' = lines.some((l) => HEAD_RE.test(l)) ? 'A' : 'B'
@@ -316,7 +331,7 @@ function parseVocab(text: string): { mode: 'A' | 'B'; entries: VdEntry[] } {
             const head = HEAD_RE.exec(line)
             if (head) {
                 const { word, pos } = stripTailPos(head[2])
-                cur = { word, pos, note: '', sourceIpa: '', senses: [], trans: '', noteTrans: '', examples: [] }
+                cur = { word, pos, note: '', sourceIpa: '', senses: [], trans: '', noteTrans: '', examples: [], prose: [] }
                 const sense = parseSense(head[3], pos)
                 cur.senses.push(sense)
                 entries.push(cur)
@@ -325,17 +340,26 @@ function parseVocab(text: string): { mode: 'A' | 'B'; entries: VdEntry[] } {
             const sn = SENSE_NO_RE.exec(line)
             if (sn) {
                 if (!cur) {
-                    cur = { word: '', pos: '', note: '', sourceIpa: '', senses: [], trans: '', noteTrans: '', examples: [] }
+                    cur = { word: '', pos: '', note: '', sourceIpa: '', senses: [], trans: '', noteTrans: '', examples: [], prose: [] }
                     entries.push(cur)
                 }
                 cur.senses.push(parseSense(line, cur.pos))
+                continue
+            }
+            // 中英混杂解说行: 整行当纯文本渲染
+            if (isProseLine(line)) {
+                if (!cur) {
+                    cur = { word: '', pos: '', note: '', sourceIpa: '', senses: [], trans: '', noteTrans: '', examples: [], prose: [] }
+                    entries.push(cur)
+                }
+                cur.prose.push(line)
                 continue
             }
             // 例句行: 挂到当前词条最后一个义项下(无义项则建隐式义项)
             const ex = splitExamples(line)
             if (!ex.length) continue
             if (!cur) {
-                cur = { word: '', pos: '', note: '', sourceIpa: '', senses: [], trans: '', noteTrans: '', examples: [] }
+                cur = { word: '', pos: '', note: '', sourceIpa: '', senses: [], trans: '', noteTrans: '', examples: [], prose: [] }
                 entries.push(cur)
             }
             if (!cur.senses.length) {
@@ -361,7 +385,7 @@ function parseVocab(text: string): { mode: 'A' | 'B'; entries: VdEntry[] } {
                 cur = {
                     word,
                     pos: leadPos || pos,
-                    note: '', sourceIpa: '', senses: [], trans: '', noteTrans: '', examples: [],
+                    note: '', sourceIpa: '', senses: [], trans: '', noteTrans: '', examples: [], prose: [],
                 }
                 entries.push(cur)
                 // 释义: 中文串 + 可选方括号(说明或音标)
@@ -393,11 +417,20 @@ function parseVocab(text: string): { mode: 'A' | 'B'; entries: VdEntry[] } {
                 continue
             }
         }
+        // 中英混杂解说行: 整行当纯文本渲染
+        if (isProseLine(line)) {
+            if (!cur) {
+                cur = { word: '', pos: '', note: '', sourceIpa: '', senses: [], trans: '', noteTrans: '', examples: [], prose: [] }
+                entries.push(cur)
+            }
+            cur.prose.push(line)
+            continue
+        }
         // 例句行(纯英文整句/短语)
         const ex = splitExamples(line)
         if (!ex.length) continue
         if (!cur) {
-            cur = { word: '', pos: '', note: '', sourceIpa: '', senses: [], trans: '', noteTrans: '', examples: [] }
+            cur = { word: '', pos: '', note: '', sourceIpa: '', senses: [], trans: '', noteTrans: '', examples: [], prose: [] }
             entries.push(cur)
         }
         cur.examples.push(...ex)
@@ -480,6 +513,10 @@ function renderEntryA(e: VdEntry, ipaMap: Record<string, string> | undefined): s
         }
         parts.push('<div class="vd-group">' + gParts.join('') + '</div>')
     }
+    // 解说行: 词条末尾整行纯文本
+    if (e.prose.length) {
+        parts.push(e.prose.map((p) => '<div class="vd-prose">' + escapeHtml(p) + '</div>').join(''))
+    }
     return '<div class="vd-entry">' + parts.join('') + '</div>'
 }
 
@@ -496,7 +533,10 @@ function renderEntryB(e: VdEntry, ipaMap: Record<string, string> | undefined): s
     if (e.trans) parts.push('<span class="vd-trans">' + escapeHtml(e.trans) + '</span>')
     if (e.noteTrans) parts.push('<span class="vd-note">[' + escapeHtml(e.noteTrans) + ']</span>')
     const head = '<div class="vd-head">' + parts.join('') + '</div>'
-    return '<div class="vd-entry vd-simple">' + head + renderExamples(e.examples, e.word) + '</div>'
+    const prose = e.prose.length
+        ? e.prose.map((p) => '<div class="vd-prose">' + escapeHtml(p) + '</div>').join('')
+        : ''
+    return '<div class="vd-entry vd-simple">' + head + renderExamples(e.examples, e.word) + prose + '</div>'
 }
 
 // 词汇学习整段渲染入口: 识别 A/B 型后逐词条输出有道风格 HTML

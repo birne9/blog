@@ -905,6 +905,16 @@ onBeforeUnmount(stopRead)
                             word-break: break-word;
                         }
                     }
+                    :deep(.vd-prose) {
+                        margin-top: 10px;
+                        padding: 2px 0 2px 10px;
+                        border-left: 2px solid #e3e9f2;
+                        font-size: 14px;
+                        color: #5b6b7e;
+                        line-height: 1.8;
+                        overflow-wrap: break-word;
+                        word-break: break-word;
+                    }
                     :deep(.vd-simple) {
                         .vd-head {
                             margin-bottom: 0;
