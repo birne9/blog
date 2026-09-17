@@ -3,6 +3,7 @@ import type { UserConfig, ConfigEnv } from "vite";
 import { fileURLToPath } from "url";
 import vue from "@vitejs/plugin-vue";
 import vueJsx from "@vitejs/plugin-vue-jsx";
+import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig(({ mode }: ConfigEnv): UserConfig => {
     // 获取当前工作目录
@@ -18,6 +19,8 @@ export default defineConfig(({ mode }: ConfigEnv): UserConfig => {
         publicDir: fileURLToPath(new URL("./public", import.meta.url)), // 无需处理的静态资源位置
         assetsInclude: fileURLToPath(new URL("./src/assets", import.meta.url)), // 需要处理的静态资源位置
         plugins: [
+            // Tailwind v4 CSS 优先配置插件(读取 src/styles/tailwind.css 的 @theme)
+            tailwindcss(),
             // Vue模板文件编译插件
             vue(),
             // jsx文件编译插件

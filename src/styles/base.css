@@ -13,20 +13,3 @@ body {
   background-color: #fff;
   -webkit-font-smoothing: antialiased;
 }
-
-/* 通用内容容器: 移动端全宽留边距, ≥768 居中并限宽 */
-.container {
-  width: 100%;
-  max-width: 1000px;
-  margin: 0 auto;
-  padding-left: 16px;
-  padding-right: 16px;
-  box-sizing: border-box;
-}
-
-@media (min-width: 768px) {
-  .container {
-    padding-left: 24px;
-    padding-right: 24px;
-  }
-}

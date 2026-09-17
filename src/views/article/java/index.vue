@@ -1,16 +1,17 @@
 <template>
-    <div class="java_doc">
-        <div class="nav_top">
-            <div class="back" @click="goList">← 返回文章列表</div>
+    <!-- 页面外壳 Tailwind 化; 正文排版(doc_body 代码块/提示框/关键词高亮)保留 SCSS -->
+    <div class="max-w-[800px] mx-auto px-3 pt-4 pb-10 md:px-4 md:pt-6 md:pb-[60px] box-border">
+        <div class="mb-4">
+            <div class="inline-block cursor-pointer text-[15px] text-primary font-semibold py-2 md:py-0" @click="goList">← 返回文章列表</div>
         </div>
-        <div class="card" v-if="doc">
-            <div class="doc_head">
-                <div class="doc_meta">
-                    <span class="doc_type">{{ doc.type }}</span>
-                    <span class="doc_date">{{ doc.date }}</span>
+        <div class="bg-white border border-border rounded-lg px-4 py-[22px] md:px-9 md:py-8 box-border" v-if="doc">
+            <div class="pb-6 border-b border-border-soft">
+                <div class="flex items-center gap-3">
+                    <span class="text-sm font-semibold text-primary">{{ doc.type }}</span>
+                    <span class="text-[13px] font-semibold text-subtle">{{ doc.date }}</span>
                 </div>
-                <div class="doc_title">{{ doc.title }}</div>
-                <div class="doc_desc" v-if="doc.desc">{{ doc.desc }}</div>
+                <div class="text-[22px] md:text-[26px] font-bold text-foreground mt-[10px]">{{ doc.title }}</div>
+                <div class="text-[15px] text-muted mt-2" v-if="doc.desc">{{ doc.desc }}</div>
             </div>
             <div class="doc_body">
                 <template v-for="(b, i) in doc.blocks" :key="i">
@@ -22,12 +23,12 @@
                 </template>
             </div>
         </div>
-        <div class="doc_not_found" v-else-if="loaded">
-            <div class="msg">没有找到这篇文章</div>
-            <div class="back" @click="goList">← 返回文章列表</div>
+        <div class="max-w-[800px] mx-auto px-4 py-20 text-center" v-else-if="loaded">
+            <div class="text-lg text-muted">没有找到这篇文章</div>
+            <div class="inline-block mt-6 cursor-pointer text-[15px] text-primary font-semibold" @click="goList">← 返回文章列表</div>
         </div>
-        <div class="doc_not_found" v-else>
-            <div class="msg">加载中…</div>
+        <div class="max-w-[800px] mx-auto px-4 py-20 text-center" v-else>
+            <div class="text-lg text-muted">加载中…</div>
         </div>
     </div>
 </template>
@@ -138,171 +139,81 @@ const goList = () => {
 }
 </script>
 <style lang="less" scoped>
-.java_doc {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 24px 16px 60px;
-    box-sizing: border-box;
-
-    .nav_top {
-        margin-bottom: 16px;
-        .back {
-            display: inline-block;
-            cursor: pointer;
-            font-size: 15px;
-            color: #fc7e0f;
-            font-weight: 600;
-        }
+/* 正文排版(深层定制, 保留 SCSS): 标题/段落/代码块/提示框/关键词高亮 */
+.doc_body {
+    .blk_h2 {
+        font-size: 19px;
+        font-weight: bold;
+        color: #000;
+        margin: 28px 0 14px;
+        padding-left: 10px;
+        border-left: 4px solid #fc7e0f;
     }
-
-    .card {
-        background-color: #fff;
+    .blk_h3 {
+        font-size: 16px;
+        font-weight: bold;
+        color: #000;
+        margin: 20px 0 10px;
+    }
+    .blk_p {
+        font-size: 16px;
+        line-height: 1.9;
+        color: #000;
+        margin: 10px 0;
+    }
+    .blk_code {
+        background-color: #f7f7f7;
         border: 1px solid #eee;
-        border-radius: 12px;
-        padding: 32px 36px;
-        box-sizing: border-box;
-
-        .doc_head {
-            padding-bottom: 24px;
-            border-bottom: 1px solid #f0f0f0;
-            .doc_meta {
-                display: flex;
-                align-items: center;
-                gap: 12px;
-                .doc_type {
-                    font-size: 14px;
-                    font-weight: 600;
-                    color: #fc7e0f;
-                }
-                .doc_date {
-                    font-size: 13px;
-                    color: #aaa;
-                    font-weight: 600;
-                }
-            }
-            .doc_title {
-                font-size: 26px;
-                font-weight: bold;
-                color: #000;
-                margin-top: 10px;
-            }
-            .doc_desc {
-                font-size: 15px;
-                color: #666;
-                margin-top: 8px;
-            }
+        border-radius: 8px;
+        padding: 14px 16px;
+        margin: 12px 0;
+        overflow-x: auto;
+        code {
+            font-family: 'SF Mono', Menlo, Monaco, Consolas, monospace;
+            font-size: 14px;
+            line-height: 1.7;
+            color: #000;
         }
-
-        .doc_body {
-            .blk_h2 {
-                font-size: 19px;
-                font-weight: bold;
-                color: #000;
-                margin: 28px 0 14px;
-                padding-left: 10px;
-                border-left: 4px solid #fc7e0f;
-            }
-            .blk_h3 {
-                font-size: 16px;
-                font-weight: bold;
-                color: #000;
-                margin: 20px 0 10px;
-            }
-            .blk_p {
-                font-size: 16px;
-                line-height: 1.9;
-                color: #000;
-                margin: 10px 0;
-            }
-            .blk_code {
-                background-color: #f7f7f7;
-                border: 1px solid #eee;
-                border-radius: 8px;
-                padding: 14px 16px;
-                margin: 12px 0;
-                overflow-x: auto;
-                code {
-                    font-family: 'SF Mono', Menlo, Monaco, Consolas, monospace;
-                    font-size: 14px;
-                    line-height: 1.7;
-                    color: #000;
-                }
-                // github.css 主题自带的 .hljs 底色/内边距交给外层, 内部置透明
-                :deep(.hljs) {
-                    background: transparent;
-                    padding: 0;
-                }
-            }
-            .blk_tip {
-                background-color: #fff4e8;
-                border-left: 4px solid #fc7e0f;
-                border-radius: 4px;
-                padding: 10px 14px;
-                margin: 12px 0;
-                font-size: 14px;
-                line-height: 1.8;
-                color: #555;
-            }
-            // 关键词高亮(v-html 注入的内容不带 scope 属性, 须用 :deep)
-            :deep(.kw) {
-                font-family: 'SF Mono', Menlo, Monaco, Consolas, monospace;
-                font-size: 0.88em;
-                background-color: #fff4e8;
-                color: #c2410c;
-                padding: 1px 5px;
-                border-radius: 4px;
-                margin: 0 1px;
-            }
+        // github.css 主题自带的 .hljs 底色/内边距交给外层, 内部置透明
+        :deep(.hljs) {
+            background: transparent;
+            padding: 0;
         }
     }
-}
-
-.doc_not_found {
-    padding: 80px 16px;
-    text-align: center;
-    .msg {
-        font-size: 18px;
-        color: #666;
+    .blk_tip {
+        background-color: #fff4e8;
+        border-left: 4px solid #fc7e0f;
+        border-radius: 4px;
+        padding: 10px 14px;
+        margin: 12px 0;
+        font-size: 14px;
+        line-height: 1.8;
+        color: #555;
     }
-    .back {
-        display: inline-block;
-        margin-top: 24px;
-        cursor: pointer;
-        font-size: 15px;
-        color: #fc7e0f;
-        font-weight: 600;
+    // 关键词高亮(v-html 注入的内容不带 scope 属性, 须用 :deep)
+    :deep(.kw) {
+        font-family: 'SF Mono', Menlo, Monaco, Consolas, monospace;
+        font-size: 0.88em;
+        background-color: #fff4e8;
+        color: #c2410c;
+        padding: 1px 5px;
+        border-radius: 4px;
+        margin: 0 1px;
     }
 }
 
 @media (max-width: 767px) {
-    .java_doc {
-        padding: 16px 12px 40px;
-        .nav_top {
-            .back {
-                display: inline-block;
-                padding: 8px 0;
-            }
+    .doc_body {
+        .blk_h2 {
+            font-size: 18px;
         }
-        .card {
-            padding: 22px 16px;
-            .doc_head {
-                .doc_title {
-                    font-size: 22px;
-                }
-            }
-            .doc_body {
-                .blk_h2 {
-                    font-size: 18px;
-                }
-                .blk_p {
-                    font-size: 15px;
-                }
-                .blk_code {
-                    padding: 12px;
-                    code {
-                        font-size: 12.5px;
-                    }
-                }
+        .blk_p {
+            font-size: 15px;
+        }
+        .blk_code {
+            padding: 12px;
+            code {
+                font-size: 12.5px;
             }
         }
     }

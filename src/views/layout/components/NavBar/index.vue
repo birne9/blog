@@ -1,34 +1,35 @@
 <template>
-    <header class="navbar">
-        <div class="navbar_inner">
-            <div class="navbar_left">
-                <div class="navbar_logo" @click="skipPage('/')" title="Home">
-                    <img src="../../../../static/images/wx_avatar.jpg" alt="birne9" />
+    <header class="bg-background border-b border-border-soft">
+        <div class="flex items-center justify-between h-[90px] px-5 box-border md:h-[144px] md:max-w-[1140px] md:mx-auto">
+            <div class="flex items-center">
+                <div class="cursor-pointer" @click="skipPage('/')" title="Home">
+                    <img class="block h-11 w-11" src="../../../../static/images/wx_avatar.jpg" alt="birne9" />
                 </div>
-                <nav class="navbar_links" aria-label="主导航">
-                    <div class="navbar_link" @click="skipPage('/')">Home</div>
-                    <div class="navbar_link" @click="skipPage('/article')">Article</div>
-                    <div class="navbar_link" @click="skipPage('/concept')">Concept</div>
-                    <div class="navbar_link" @click="skipPage('/author')">Author</div>
+                <nav class="hidden md:flex md:items-center" aria-label="主导航">
+                    <div class="md:font-medium md:text-lg md:text-foreground md:ml-[30px] md:cursor-pointer md:transition-colors md:hover:text-primary" @click="skipPage('/')">Home</div>
+                    <div class="md:font-medium md:text-lg md:text-foreground md:ml-[30px] md:cursor-pointer md:transition-colors md:hover:text-primary" @click="skipPage('/article')">Article</div>
+                    <div class="md:font-medium md:text-lg md:text-foreground md:ml-[30px] md:cursor-pointer md:transition-colors md:hover:text-primary" @click="skipPage('/concept')">Concept</div>
+                    <div class="md:font-medium md:text-lg md:text-foreground md:ml-[30px] md:cursor-pointer md:transition-colors md:hover:text-primary" @click="skipPage('/author')">Author</div>
                 </nav>
             </div>
-            <div class="navbar_right">
-                <button class="navbar_toggle" :class="{ open: menuOpen }" type="button"
+            <div class="flex items-center md:hidden">
+                <button class="group flex flex-col items-center justify-center gap-[5px] h-11 w-11 p-0 border-0 bg-transparent cursor-pointer [-webkit-tap-highlight-color:transparent]"
+                    :class="{ open: menuOpen }" type="button"
                     aria-label="打开菜单" :aria-expanded="menuOpen" @click="toggleMenu">
-                    <span class="bar"></span>
-                    <span class="bar"></span>
+                    <span class="block h-[2px] w-[22px] bg-foreground transition-transform duration-300 group-[.open]:translate-y-[3.5px] group-[.open]:-rotate-45"></span>
+                    <span class="block h-[2px] w-[22px] bg-foreground transition-transform duration-300 group-[.open]:-translate-y-[3.5px] group-[.open]:rotate-45"></span>
                 </button>
             </div>
         </div>
         <transition name="menu">
-            <div v-if="menuOpen" class="menu_overlay">
-                <nav class="menu_items" aria-label="移动端导航">
-                    <div class="menu_item" @click="skipPage('/')">Home</div>
-                    <div class="menu_item" @click="skipPage('/article')">Article</div>
-                    <div class="menu_item" @click="skipPage('/concept')">Concept</div>
-                    <div class="menu_item" @click="skipPage('/author')">Author</div>
+            <div v-if="menuOpen" class="fixed top-[91px] inset-x-0 bottom-0 z-[100] bg-background border-t border-border-soft flex flex-col overflow-y-auto md:hidden">
+                <nav class="flex flex-col items-center mt-16" aria-label="移动端导航">
+                    <div class="w-full text-center py-[18px] text-2xl font-semibold text-foreground cursor-pointer" @click="skipPage('/')">Home</div>
+                    <div class="w-full text-center py-[18px] text-2xl font-semibold text-foreground cursor-pointer" @click="skipPage('/article')">Article</div>
+                    <div class="w-full text-center py-[18px] text-2xl font-semibold text-foreground cursor-pointer" @click="skipPage('/concept')">Concept</div>
+                    <div class="w-full text-center py-[18px] text-2xl font-semibold text-foreground cursor-pointer" @click="skipPage('/author')">Author</div>
                 </nav>
-                <div class="menu_slogan">🌈 We are who we choose to be.</div>
+                <div class="mt-auto mb-12 mx-auto w-[calc(100%-40px)] max-w-[400px] bg-primary text-white text-base rounded-full text-center px-5 py-3 box-border">🌈 We are who we choose to be.</div>
             </div>
         </transition>
     </header>
@@ -56,123 +57,7 @@ onBeforeUnmount(() => {
 })
 </script>
 <style lang="less" scoped>
-/* 移动优先: 顶部栏 + 汉堡按钮 + 全屏菜单 */
-.navbar {
-    background-color: #fff;
-    border-bottom: 1px solid #f5f5f5;
-
-    .navbar_inner {
-        height: 90px;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 0 20px;
-        box-sizing: border-box;
-    }
-
-    .navbar_left {
-        display: flex;
-        align-items: center;
-    }
-
-    .navbar_logo {
-        cursor: pointer;
-        img {
-            width: 44px;
-            height: 44px;
-            display: block;
-        }
-    }
-
-    /* 内联导航仅桌面显示 */
-    .navbar_links {
-        display: none;
-    }
-
-    .navbar_right {
-        display: flex;
-        align-items: center;
-    }
-
-    /* 汉堡按钮: 44px 点击热区(移动端最小可点尺寸) */
-    .navbar_toggle {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        gap: 5px;
-        width: 44px;
-        height: 44px;
-        padding: 0;
-        border: none;
-        background: transparent;
-        cursor: pointer;
-        -webkit-tap-highlight-color: transparent;
-
-        .bar {
-            width: 22px;
-            height: 2px;
-            background-color: #333;
-            transition: transform 0.3s ease;
-        }
-
-        &.open {
-            .bar:nth-child(1) {
-                transform: translateY(3.5px) rotate(-45deg);
-            }
-            .bar:nth-child(2) {
-                transform: translateY(-3.5px) rotate(45deg);
-            }
-        }
-    }
-
-    /* 全屏菜单(仅移动端) */
-    .menu_overlay {
-        position: fixed;
-        top: 91px;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        z-index: 100;
-        background-color: #fff;
-        border-top: 1px solid #f5f5f5;
-        display: flex;
-        flex-direction: column;
-        overflow-y: auto;
-
-        .menu_items {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            margin-top: 64px;
-
-            .menu_item {
-                width: 100%;
-                text-align: center;
-                padding: 18px 0;
-                font-size: 24px;
-                font-weight: 600;
-                color: #000;
-                cursor: pointer;
-            }
-        }
-
-        .menu_slogan {
-            margin: auto auto 48px;
-            width: calc(100% - 40px);
-            max-width: 400px;
-            background-color: #fc7e0f;
-            color: #fff;
-            font-size: 16px;
-            border-radius: 30px;
-            text-align: center;
-            box-sizing: border-box;
-            padding: 12px 20px;
-        }
-    }
-}
-
-/* 菜单出现动画(左上角缩放) */
+/* 菜单出现动画(左上角缩放): 布局已 Tailwind 化, 仅保留 Vue transition 动画钩子 */
 .menu-enter-active {
     animation: menu-scale-in 0.3s ease both;
 }
@@ -189,40 +74,6 @@ onBeforeUnmount(() => {
         transform: scale(1);
         transform-origin: top right;
         opacity: 1;
-    }
-}
-
-/* ≥768px: 桌面导航 */
-@media (min-width: 768px) {
-    .navbar {
-        .navbar_inner {
-            height: 144px;
-            max-width: 1140px;
-            margin: 0 auto;
-        }
-
-        .navbar_links {
-            display: flex;
-            align-items: center;
-
-            .navbar_link {
-                font-weight: 500;
-                font-size: 18px;
-                color: #000;
-                margin-left: 30px;
-                cursor: pointer;
-                transition: color 0.2s ease;
-
-                &:hover {
-                    color: #fc7e0f;
-                }
-            }
-        }
-
-        .navbar_toggle,
-        .menu_overlay {
-            display: none;
-        }
     }
 }
 </style>

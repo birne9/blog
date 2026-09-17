@@ -1,16 +1,17 @@
 <template>
-    <div class="lesson" v-if="lesson">
-        <div class="nav_top">
-            <div class="back" @click="goList">← 返回目录</div>
+    <!-- 页面外壳 Tailwind 化; 课文/词汇/语法等深层定制样式保留 SCSS -->
+    <div class="max-w-[800px] mx-auto px-3 pt-4 pb-10 md:px-4 md:pt-6 md:pb-[60px] box-border" v-if="lesson">
+        <div class="mb-4">
+            <div class="inline-block cursor-pointer text-[15px] text-primary font-semibold py-2 md:py-0" @click="goList">← 返回目录</div>
         </div>
-        <div class="card">
-            <div class="card_head">
-                <div class="card_cover">
+        <div class="bg-white border border-border rounded-lg px-4 py-[22px] md:px-9 md:py-8 box-border">
+            <div class="text-center pb-6 border-b border-border-soft">
+                <div class="h-[110px] w-[110px] mx-auto mb-4 rounded-lg overflow-hidden">
                     <LessonCover :lesson="lesson.lesson" />
                 </div>
-                <div class="card_num">新概念英语{{ bookMeta.name }} · Lesson {{ lesson.lesson }}<span v-if="isPractice" class="kind_badge">练习课</span></div>
-                <div class="card_title">{{ lesson.title }}</div>
-                <div class="card_title_cn" v-if="lesson.titleCn">{{ lesson.titleCn }}</div>
+                <div class="text-sm font-semibold text-primary">新概念英语{{ bookMeta.name }} · Lesson {{ lesson.lesson }}<span v-if="isPractice" class="inline-block ml-2 text-xs font-semibold text-accent-muted bg-accent-soft rounded-sm px-[6px] py-[1px] align-middle">练习课</span></div>
+                <div class="text-[22px] md:text-[28px] font-bold text-foreground mt-[10px]">{{ lesson.title }}</div>
+                <div class="text-base text-muted mt-2" v-if="lesson.titleCn">{{ lesson.titleCn }}</div>
             </div>
 
             <div class="section" v-if="lesson.en.length">
@@ -108,21 +109,23 @@
             </div>
         </div>
 
-        <div class="nav_bottom">
-            <div class="nav_btn" :class="{ disabled: !hasPrev }" @click="goLesson(-1)">
+        <div class="flex justify-between gap-[10px] md:gap-0 mt-6">
+            <div class="flex-1 text-center px-0 py-3 md:flex-auto md:text-left md:px-[22px] md:py-[10px] cursor-pointer text-[15px] font-semibold text-foreground bg-card rounded-card transition-colors duration-200 hover:bg-card-pressed"
+                :class="{ 'text-[#bbb] pointer-events-none': !hasPrev }" @click="goLesson(-1)">
                 ← 上一篇
             </div>
-            <div class="nav_btn" :class="{ disabled: !hasNext }" @click="goLesson(1)">
+            <div class="flex-1 text-center px-0 py-3 md:flex-auto md:text-left md:px-[22px] md:py-[10px] cursor-pointer text-[15px] font-semibold text-foreground bg-card rounded-card transition-colors duration-200 hover:bg-card-pressed"
+                :class="{ 'text-[#bbb] pointer-events-none': !hasNext }" @click="goLesson(1)">
                 下一篇 →
             </div>
         </div>
     </div>
-    <div class="lesson_not_found" v-else-if="loaded">
-        <div class="msg">没有找到这篇课文</div>
-        <div class="back" @click="goList">← 返回目录</div>
+    <div class="max-w-[800px] mx-auto px-4 py-20 text-center" v-else-if="loaded">
+        <div class="text-lg text-muted">没有找到这篇课文</div>
+        <div class="inline-block mt-6 cursor-pointer text-[15px] text-primary font-semibold" @click="goList">← 返回目录</div>
     </div>
-    <div class="lesson_not_found" v-else>
-        <div class="msg">加载中…</div>
+    <div class="max-w-[800px] mx-auto px-4 py-20 text-center" v-else>
+        <div class="text-lg text-muted">加载中…</div>
     </div>
 </template>
 <script setup lang="ts">
@@ -423,71 +426,7 @@ const toggleRead = () => {
 onBeforeUnmount(stopRead)
 </script>
 <style lang="less" scoped>
-.lesson {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 24px 16px 60px;
-    box-sizing: border-box;
-
-    .nav_top {
-        margin-bottom: 16px;
-        .back {
-            display: inline-block;
-            cursor: pointer;
-            font-size: 15px;
-            color: #fc7e0f;
-            font-weight: 600;
-        }
-    }
-
-    .card {
-        background-color: #fff;
-        border: 1px solid #eee;
-        border-radius: 12px;
-        padding: 32px 36px;
-        box-sizing: border-box;
-
-        .card_head {
-            text-align: center;
-            padding-bottom: 24px;
-            border-bottom: 1px solid #f0f0f0;
-            .card_cover {
-                width: 110px;
-                height: 110px;
-                margin: 0 auto 16px;
-                border-radius: 12px;
-                overflow: hidden;
-            }
-            .card_num {
-                font-size: 14px;
-                font-weight: 600;
-                color: #fc7e0f;
-                .kind_badge {
-                    display: inline-block;
-                    margin-left: 8px;
-                    font-size: 12px;
-                    font-weight: 600;
-                    color: #3a6ea5;
-                    background-color: #e8f0fa;
-                    border-radius: 4px;
-                    padding: 1px 6px;
-                    vertical-align: middle;
-                }
-            }
-            .card_title {
-                font-size: 28px;
-                font-weight: bold;
-                color: #000;
-                margin-top: 10px;
-            }
-            .card_title_cn {
-                font-size: 16px;
-                color: #666;
-                margin-top: 8px;
-            }
-        }
-
-        .section {
+.section {
             margin-top: 28px;
             .section_head {
                 display: flex;
@@ -1054,68 +993,9 @@ onBeforeUnmount(stopRead)
                 }
             }
         }
-    }
-
-    .nav_bottom {
-        display: flex;
-        justify-content: space-between;
-        margin-top: 24px;
-        .nav_btn {
-            cursor: pointer;
-            font-size: 15px;
-            font-weight: 600;
-            color: #000;
-            background-color: #f5f5f5;
-            border-radius: 8px;
-            padding: 10px 22px;
-            transition: all 0.2s ease;
-            &:hover {
-                background-color: #ececec;
-            }
-            &.disabled {
-                color: #bbb;
-                pointer-events: none;
-            }
-        }
-    }
-}
-
-.lesson_not_found {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 80px 16px;
-    text-align: center;
-    .msg {
-        font-size: 18px;
-        color: #666;
-    }
-    .back {
-        display: inline-block;
-        margin-top: 24px;
-        cursor: pointer;
-        font-size: 15px;
-        color: #fc7e0f;
-        font-weight: 600;
-    }
-}
 
 @media (max-width: 767px) {
-    .lesson {
-        padding: 16px 12px 40px;
-        .nav_top {
-            .back {
-                display: inline-block;
-                padding: 8px 0;
-            }
-        }
-        .card {
-            padding: 22px 16px;
-            .card_head {
-                .card_title {
-                    font-size: 22px;
-                }
-            }
-            .section {
+    .section {
                 .section_head {
                     // 移动端控制区与课文卡片之间留出呼吸空间
                     margin-bottom: 18px;
@@ -1177,15 +1057,5 @@ onBeforeUnmount(stopRead)
                     }
                 }
             }
-        }
-        .nav_bottom {
-            gap: 10px;
-            .nav_btn {
-                flex: 1;
-                text-align: center;
-                padding: 12px 0;
-            }
-        }
-    }
 }
 </style>
