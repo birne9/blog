@@ -1,0 +1,1 @@
+.menu-enter-active[data-v-7dfbfb92]{animation:menu-scale-in-7dfbfb92 .3s ease both}.menu-leave-active[data-v-7dfbfb92]{animation:menu-scale-in-7dfbfb92 .2s ease reverse both}@keyframes menu-scale-in-7dfbfb92{0%{transform:scale(.7);transform-origin:top right;opacity:0}to{transform:scale(1);transform-origin:top right;opacity:1}}
