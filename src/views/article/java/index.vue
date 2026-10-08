@@ -59,6 +59,7 @@ let loadSeq = 0
 
 // 各文章正文(按需加载, 打包时自动分包)
 const loaders: Record<string, () => Promise<{ default: string }>> = {
+    'java-roadmap': () => import('../content/java-roadmap.md?raw'),
     'java-basics': () => import('../content/basics.md?raw'),
     'java-oop': () => import('../content/oop.md?raw'),
     'java-api': () => import('../content/api.md?raw'),

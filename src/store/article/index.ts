@@ -11,6 +11,16 @@ export const useAticleStoreHook = defineStore('article', {
     state: () => ({
         directory: [
             {
+                title: 'Java/Spring Boot 学习路线(12周计划)',
+                path: '/article/java-roadmap.html',
+                desc: '每周5小时·视频搭骨架、AI填血肉、项目当考场·含周计划与配套阅读',
+                type: '学习路线',
+                cat: 'backend',
+                date: 'Oct 8,2026',
+                coverImg: "",
+                id: 35,
+            },
+            {
                 title: 'Java 基础(一):基础语法',
                 path: '/article/java-basics.html',
                 desc: '变量、数据类型、运算符、流程控制、方法与数组',
