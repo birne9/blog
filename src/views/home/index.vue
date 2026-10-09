@@ -1,6 +1,6 @@
 <template>
     <!-- 高度 = 视口 - 顶栏高度(移动 90px, 桌面 144px), 随断点切换 -->
-    <div class="w-full h-[calc(100vh-90px)] md:h-[calc(100vh-144px)] bg-[url('../../static/images/bigsea.jpeg')] bg-center bg-[length:100%_100%] flex items-center justify-center">
+    <div class="w-full h-[calc(100vh-90px)] md:h-[calc(100vh-144px)] bg-center bg-[length:100%_100%] flex items-center justify-center" :style="{ backgroundImage: `url(${bgUrl})` }">
         <div class="flex flex-col items-center px-5 box-border">
             <div class="flex justify-center cursor-pointer">
                 <img class="h-[100px] w-[100px]" src="../../static/images/wx_avatar.jpg" alt="birne9" title="birne9" />
@@ -10,4 +10,7 @@
         </div>
     </div>
 </template>
-<script setup lang="ts"></script>
+<script setup lang="ts">
+// 背景图走 Vite 资源管道: Tailwind 任意值 url() 生成在全局 CSS 中, 相对路径会脱离本文件上下文导致 404
+const bgUrl = new URL('../../static/images/bigsea.jpeg', import.meta.url).href
+</script>
