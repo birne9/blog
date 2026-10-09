@@ -127,6 +127,25 @@ const routes: Array<RouteRecordRaw> = [
                 },
             },
             // 新概念模块--end
+
+            // 英语语法模块--start
+            {
+                path: '/grammar',
+                name: 'grammar',
+                component: () => import('../views/grammar/index.vue'),
+                meta: {
+                    title: 'grammar',
+                },
+            },
+            {
+                path: '/grammar/content',
+                name: 'grammarContent',
+                component: () => import('../views/grammar/content/index.vue'),
+                meta: {
+                    title: 'grammarContent',
+                },
+            },
+            // 英语语法模块--end
         ],
     },
  

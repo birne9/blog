@@ -9,6 +9,7 @@
                     <div class="md:font-medium md:text-lg md:text-foreground md:ml-[30px] md:cursor-pointer md:transition-colors md:hover:text-primary" @click="skipPage('/')">Home</div>
                     <div class="md:font-medium md:text-lg md:text-foreground md:ml-[30px] md:cursor-pointer md:transition-colors md:hover:text-primary" @click="skipPage('/article')">Article</div>
                     <div class="md:font-medium md:text-lg md:text-foreground md:ml-[30px] md:cursor-pointer md:transition-colors md:hover:text-primary" @click="skipPage('/concept')">Concept</div>
+                    <div class="md:font-medium md:text-lg md:text-foreground md:ml-[30px] md:cursor-pointer md:transition-colors md:hover:text-primary" @click="skipPage('/grammar')">Grammar</div>
                     <div class="md:font-medium md:text-lg md:text-foreground md:ml-[30px] md:cursor-pointer md:transition-colors md:hover:text-primary" @click="skipPage('/author')">Author</div>
                 </nav>
             </div>
@@ -27,6 +28,7 @@
                     <div class="w-full text-center py-[18px] text-2xl font-semibold text-foreground cursor-pointer" @click="skipPage('/')">Home</div>
                     <div class="w-full text-center py-[18px] text-2xl font-semibold text-foreground cursor-pointer" @click="skipPage('/article')">Article</div>
                     <div class="w-full text-center py-[18px] text-2xl font-semibold text-foreground cursor-pointer" @click="skipPage('/concept')">Concept</div>
+                    <div class="w-full text-center py-[18px] text-2xl font-semibold text-foreground cursor-pointer" @click="skipPage('/grammar')">Grammar</div>
                     <div class="w-full text-center py-[18px] text-2xl font-semibold text-foreground cursor-pointer" @click="skipPage('/author')">Author</div>
                 </nav>
                 <div class="mt-auto mb-12 mx-auto w-[calc(100%-40px)] max-w-[400px] bg-primary text-white text-base rounded-full text-center px-5 py-3 box-border">🌈 We are who we choose to be.</div>
