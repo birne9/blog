@@ -110,11 +110,11 @@
         </div>
 
         <div class="flex justify-between gap-[10px] md:gap-0 mt-6">
-            <div class="flex-1 text-center px-0 py-3 md:flex-auto md:text-left md:px-[22px] md:py-[10px] cursor-pointer text-[15px] font-semibold text-foreground bg-card rounded-card transition-colors duration-200 hover:bg-card-pressed"
+            <div class="self-start cursor-pointer px-[18px] py-[10px] text-[15px] font-semibold text-foreground bg-card rounded-card transition-colors duration-200 hover:bg-card-pressed"
                 :class="{ 'text-[#bbb] pointer-events-none': !hasPrev }" @click="goLesson(-1)">
                 ← 上一篇
             </div>
-            <div class="flex-1 text-center px-0 py-3 md:flex-auto md:text-left md:px-[22px] md:py-[10px] cursor-pointer text-[15px] font-semibold text-foreground bg-card rounded-card transition-colors duration-200 hover:bg-card-pressed"
+            <div class="self-end cursor-pointer px-[18px] py-[10px] text-[15px] font-semibold text-foreground bg-card rounded-card transition-colors duration-200 hover:bg-card-pressed"
                 :class="{ 'text-[#bbb] pointer-events-none': !hasNext }" @click="goLesson(1)">
                 下一篇 →
             </div>
