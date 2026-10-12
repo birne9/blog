@@ -95,6 +95,8 @@ watch(() => route.query.chapter, () => {
 
 // 例句喇叭: 浏览器内置语音合成, 优先挑选高质量美式音色(与 Concept 板块同一套策略)
 let enVoice: SpeechSynthesisVoice | null = null
+// iOS 设备(iPadOS 桌面模式 UA 为 MacIntel, 用触点数兜底识别)
+const isIOS = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)
 const QUALITY_VOICE_KEYS = ['google', 'natural', 'neural', 'premium', 'enhanced', 'samantha', 'aria', 'jenny', 'guy', 'ava', 'emma', 'zira', 'david', 'mark']
 const voiceScore = (v: SpeechSynthesisVoice): number => {
     const name = v.name.toLowerCase()
@@ -116,6 +118,8 @@ const pickVoice = () => {
     let bestScore = 0
     for (const v of voices) {
         if (!v.lang.toLowerCase().startsWith('en')) continue
+        // iOS 在线音色可能未下载到本地, 选中会无声, 只用本地音色
+        if (isIOS && !v.localService) continue
         const s = voiceScore(v)
         if (s > bestScore) {
             bestScore = s
@@ -131,12 +135,19 @@ if ('speechSynthesis' in window) {
         pickVoice()
     }
 }
+// iOS Safari 兼容: cancel 与 speak 同帧调用, 新 utterance 会被静默丢弃, 必须延迟再播;
+// 引擎中断后可能停在 paused 态, speak 前必须 resume
+// speakGen 为代际令牌: 每次取消/新播递增, 延迟回调发现令牌过期则放弃, 防止停止后延迟句漏播
+let speakGen = 0
 const stopSpeak = () => {
-    if ('speechSynthesis' in window) window.speechSynthesis.cancel()
+    if (!('speechSynthesis' in window)) return
+    speakGen++
+    window.speechSynthesis.cancel()
 }
 const speakText = (text: string) => {
     if (!('speechSynthesis' in window) || !text) return
     pickVoice()
+    const gen = ++speakGen
     window.speechSynthesis.cancel()
     const u = new SpeechSynthesisUtterance(text)
     u.lang = 'en-US'
@@ -144,7 +155,11 @@ const speakText = (text: string) => {
     u.rate = 0.7
     u.pitch = 1
     u.volume = 1
-    window.speechSynthesis.speak(u)
+    setTimeout(() => {
+        if (gen !== speakGen) return
+        window.speechSynthesis.resume()
+        window.speechSynthesis.speak(u)
+    }, 80)
 }
 // 事件委托: 点击喇叭读 data-word
 const onVocabClick = (e: MouseEvent) => {

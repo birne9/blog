@@ -224,6 +224,8 @@ watch(() => route.query.book, () => {
 
 // 点击生词卡片朗读(浏览器内置语音合成, 美式发音)
 let enVoice: SpeechSynthesisVoice | null = null
+// iOS 设备(iPadOS 桌面模式 UA 为 MacIntel, 用触点数兜底识别)
+const isIOS = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)
 // 高质量音色关键词(优先选择更清晰自然的音色)
 const QUALITY_VOICE_KEYS = ['google', 'natural', 'neural', 'premium', 'enhanced', 'samantha', 'aria', 'jenny', 'guy', 'ava', 'emma', 'zira', 'david', 'mark']
 const voiceScore = (v: SpeechSynthesisVoice): number => {
@@ -246,6 +248,8 @@ const pickVoice = () => {
     let bestScore = 0
     for (const v of voices) {
         if (!v.lang.toLowerCase().startsWith('en')) continue
+        // iOS 在线音色可能未下载到本地, 选中会无声, 只用本地音色
+        if (isIOS && !v.localService) continue
         const s = voiceScore(v)
         if (s > bestScore) {
             bestScore = s
@@ -262,6 +266,23 @@ if ('speechSynthesis' in window) {
         pickVoice()
     }
 }
+// iOS Safari 兼容: cancel 与 speak 同帧调用, 新 utterance 会被静默丢弃, 必须延迟再播;
+// 引擎中断后可能停在 paused 态, speak 前必须 resume
+// speakGen 为代际令牌: 每次取消/新播递增, 延迟回调发现令牌过期则放弃, 防止停止后延迟句漏播
+let speakGen = 0
+const cancelSpeak = () => {
+    speakGen++
+    window.speechSynthesis.cancel()
+}
+const doSpeak = (u: SpeechSynthesisUtterance, cancelFirst = false) => {
+    const gen = ++speakGen
+    if (cancelFirst) window.speechSynthesis.cancel()
+    setTimeout(() => {
+        if (gen !== speakGen) return
+        window.speechSynthesis.resume()
+        window.speechSynthesis.speak(u)
+    }, 80)
+}
 // 当前朗读中的词卡索引(高亮反馈)
 const speakingIndex = ref(-1)
 // 朗读一段英文(词卡/词汇学习喇叭共用, 美式发音)
@@ -269,21 +290,18 @@ const speakText = (text: string) => {
     if (!('speechSynthesis' in window) || !text) return
     stopRead()
     pickVoice()
-    // 先取消当前朗读(部分移动端浏览器需先取消再排队)
-    window.speechSynthesis.cancel()
     const u = new SpeechSynthesisUtterance(text)
     u.lang = 'en-US'
     if (enVoice) u.voice = enVoice
     u.rate = 0.7
     u.pitch = 1
     u.volume = 1
-    window.speechSynthesis.speak(u)
+    doSpeak(u, true)
 }
 const speakWord = (w: { en: string }, index: number) => {
     if (!('speechSynthesis' in window) || !w.en) return
     stopRead()
     pickVoice()
-    window.speechSynthesis.cancel()
     const u = new SpeechSynthesisUtterance(w.en)
     u.lang = 'en-US'
     if (enVoice) u.voice = enVoice
@@ -296,7 +314,7 @@ const speakWord = (w: { en: string }, index: number) => {
     u.onend = done
     u.onerror = done
     speakingIndex.value = index
-    window.speechSynthesis.speak(u)
+    doSpeak(u, true)
 }
 // 词汇学习词条喇叭: 事件委托读取 data-word 朗读单词
 const onVocabClick = (e: MouseEvent) => {
@@ -335,8 +353,24 @@ const setRate = (v: number) => {
     readRate.value = v
     // 朗读中切换语速: 当前句播完后, 后续句子按新语速朗读(暂停中切换则继续时即生效)
 }
+// iOS 长时间朗读可能被系统自动暂停, 朗读期间周期性 resume 保活
+let keepAliveTimer = 0
+const stopKeepAlive = () => {
+    if (keepAliveTimer) {
+        clearInterval(keepAliveTimer)
+        keepAliveTimer = 0
+    }
+}
+const startKeepAlive = () => {
+    stopKeepAlive()
+    keepAliveTimer = window.setInterval(() => {
+        if (!isReading.value || isPaused.value) return
+        if (window.speechSynthesis.speaking) window.speechSynthesis.resume()
+    }, 5000)
+}
 const stopRead = () => {
-    if ('speechSynthesis' in window) window.speechSynthesis.cancel()
+    if ('speechSynthesis' in window) cancelSpeak()
+    stopKeepAlive()
     isReading.value = false
     isPaused.value = false
     activeLine.value = -1
@@ -368,13 +402,14 @@ const speakSentence = (li: number, si: number) => {
             u.volume = 1
             u.onend = () => speakSentence(li, si)
             u.onerror = () => speakSentence(li, si)
-            window.speechSynthesis.speak(u)
+            doSpeak(u)
             return
         }
         li++
         si = 0
     }
     // 全文朗读结束
+    stopKeepAlive()
     isReading.value = false
     isPaused.value = false
     activeLine.value = -1
@@ -385,7 +420,8 @@ const readArticle = () => {
     const sents = lineSents.value
     if (!sents.length) return
     pickVoice()
-    window.speechSynthesis.cancel()
+    cancelSpeak()
+    startKeepAlive()
     isReading.value = true
     isPaused.value = false
     curLi = 0
@@ -396,7 +432,7 @@ const pauseRead = () => {
     if (!isReading.value || isPaused.value) return
     // 先标记暂停再取消当前句(避免取消触发的回调推进到下一句)
     isPaused.value = true
-    if ('speechSynthesis' in window) window.speechSynthesis.cancel()
+    if ('speechSynthesis' in window) cancelSpeak()
     // 高亮保留在暂停的当前句
 }
 const resumeRead = () => {
