@@ -93,6 +93,16 @@ const loaders: Record<string, () => Promise<{ default: string }>> = {
     'fullstack-vue': () => import('../content/fullstack-vue.md?raw'),
     'fullstack-react': () => import('../content/fullstack-react.md?raw'),
     'fullstack-deploy': () => import('../content/fullstack-deploy.md?raw'),
+    'sd-computer': () => import('../content/sd-computer.md?raw'),
+    'sd-language': () => import('../content/sd-language.md?raw'),
+    'sd-os': () => import('../content/sd-os.md?raw'),
+    'sd-datastruct': () => import('../content/sd-datastruct.md?raw'),
+    'sd-database': () => import('../content/sd-database.md?raw'),
+    'sd-network': () => import('../content/sd-network.md?raw'),
+    'sd-se': () => import('../content/sd-se.md?raw'),
+    'sd-oo-uml': () => import('../content/sd-oo-uml.md?raw'),
+    'sd-law': () => import('../content/sd-law.md?raw'),
+    'sd-case': () => import('../content/sd-case.md?raw'),
 }
 
 watch(() => route.path, async () => {
