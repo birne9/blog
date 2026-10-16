@@ -21,7 +21,7 @@
                     <span class="text-subtle font-semibold mr-[10px]">{{ item.date }}</span> <span class="font-semibold text-primary">{{ item.type }}</span>
                 </div>
                 <div class="font-bold text-sm md:text-lg text-foreground mt-[6px] md:mt-[10px]">
-                    {{ item.id }}：{{ item.title }}
+                    {{ index + 1 }}：{{ item.title }}
                 </div>
             </div>
         </div>
