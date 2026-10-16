@@ -11,6 +11,16 @@ export const useAticleStoreHook = defineStore('article', {
     state: () => ({
         directory: [
             {
+                title: '软件设计师(导学):考试大纲与官方教材目录',
+                path: '/article/sd-catalog.html',
+                desc: '考试目标、两科题型与时长、教材 12 章目录、上午/下午考点对应与学习顺序',
+                type: '软考·软件设计师',
+                cat: 'exam',
+                date: 'Oct 15,2026',
+                coverImg: "",
+                id: 46,
+            },
+            {
                 title: '软件设计师(一):计算机系统基础',
                 path: '/article/sd-computer.html',
                 desc: '数制与编码、校验码、CPU 与指令、流水线、存储系统、可靠性',

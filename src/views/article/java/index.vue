@@ -93,6 +93,7 @@ const loaders: Record<string, () => Promise<{ default: string }>> = {
     'fullstack-vue': () => import('../content/fullstack-vue.md?raw'),
     'fullstack-react': () => import('../content/fullstack-react.md?raw'),
     'fullstack-deploy': () => import('../content/fullstack-deploy.md?raw'),
+    'sd-catalog': () => import('../content/sd-catalog.md?raw'),
     'sd-computer': () => import('../content/sd-computer.md?raw'),
     'sd-language': () => import('../content/sd-language.md?raw'),
     'sd-os': () => import('../content/sd-os.md?raw'),
