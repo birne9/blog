@@ -138,6 +138,10 @@ function highlightKeywords(text: string, keywords: string[], withBind: boolean):
     const kwRe = new RegExp('(^|[^A-Za-z0-9_])(' + kwAlt + ')(?![A-Za-z0-9_])', 'gi')
     out = out.replace(kwRe, '$1<code class="kw">$2</code>')
 
+    // 重点强调遍: **文字** → 彩色加粗(与默认分支 highlightEmphasis 行为一致)
+    // 放在关键词替换之后: 已生成的 <code class="kw"> 标签内不含 *, 不会被误配对
+    out = out.replace(/\*\*([^*]+)\*\*/g, '<span class="em">$1</span>')
+
     return out
 }
 

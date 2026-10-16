@@ -1,6 +1,6 @@
 ## 泛型
 
-泛型让类、接口、方法在定义时不写死类型,使用时再指定,编译期保证类型安全。
+泛型让类、接口、方法在**定义时不写死类型,使用时再指定**,**编译期保证类型安全**。
 
 ### 泛型类
 
@@ -22,7 +22,7 @@ Box<Integer> intBox = new Box<>();
 intBox.set(100);
 ```
 
-没有泛型之前,Box 只能存 Object,取出来要强转,类型写错编译期发现不了、运行期才炸。泛型把错误从运行期提前到了编译期。
+没有泛型之前,Box **只能存 Object,取出来要强转**,类型写错编译期发现不了、运行期才炸。泛型**把错误从运行期提前到了编译期**。
 
 ### 泛型方法
 
@@ -49,7 +49,7 @@ public static <T extends Number> double doubleValue(T n) {
 }
 ```
 
-正规写法:类型参数用单个大写字母,常见的是 E/K/V/T;限定边界用 extends(接口也用 extends,不用 implements);集合声明永远带泛型,裸类型 List 只出现在老代码里。
+正规写法:类型参数用**单个大写字母**,常见的是 E/K/V/T;限定边界用 extends(**接口也用 extends,不用 implements**);**集合声明永远带泛型**,裸类型 List 只出现在老代码里。
 
 ### 通配符
 
@@ -68,17 +68,17 @@ public static double sum(List<? extends Number> nums) { ... }
 public static void addAll(List<? super Integer> list) { list.add(1); }
 ```
 
-正规写法:生产(读)用 ? extends,消费(写)用 ? super,两者都要时用具体类型参数。这条 PECS 原则(Producer Extends, Consumer Super)记不住也没关系,业务代码里通配符主要出现在工具方法和框架 API 中,自己写集合时用具体类型就行。
+正规写法:**生产(读)用 ? extends,消费(写)用 ? super**,两者都要时用具体类型参数。这条 **PECS 原则**(Producer Extends, Consumer Super)记不住也没关系,业务代码里通配符主要出现在工具方法和框架 API 中,自己写集合时用具体类型就行。
 
 ### 类型擦除
 
-泛型是编译期的:编译后 T 被擦除,变成 Object(或边界类型)加运行时强转。所以 List<String> 和 List<Integer> 运行时是同一个类,泛型参数不能是基本类型(只能写 Integer 不能写 int),也不能用 instanceof 判断泛型类型。
+泛型是**编译期**的:编译后 T 被**擦除**,变成 Object(或边界类型)加运行时强转。所以 List<String> 和 List<Integer> **运行时是同一个类**,**泛型参数不能是基本类型**(只能写 Integer 不能写 int),也**不能用 instanceof 判断泛型类型**。
 
-通俗解释:泛型几乎可以逐行翻译成 TS 泛型——Box<T> ≈ class Box<T>,List<E> ≈ Array<E>,extends 约束 ≈ TS 的 extends 约束,连"编译器推断类型参数"都一致。更巧的是两边都是编译期擦除:TS 编译成 JS 后泛型消失,Java 编译成字节码后泛型同样消失,运行时都靠编译器提前插入的检查保证安全。要说差异,TS 的结构类型允许"长得像就行",Java 的泛型是严格的名义类型。对前端来说泛型不用怕,你已经会了。
+通俗解释:泛型**几乎可以逐行翻译成 TS 泛型**——Box<T> ≈ class Box<T>,List<E> ≈ Array<E>,extends 约束 ≈ TS 的 extends 约束,连"编译器推断类型参数"都一致。更巧的是**两边都是编译期擦除**:TS 编译成 JS 后泛型消失,Java 编译成字节码后泛型同样消失,运行时都靠编译器提前插入的检查保证安全。要说差异,TS 的**结构类型**允许"长得像就行",Java 的泛型是严格的**名义类型**。对前端来说泛型不用怕,你已经会了。
 
 ## Lambda 与函数式接口
 
-Lambda 是 Java 8 引入的语法,本质是"只实现一个方法的匿名类"的简写。
+Lambda 是 **Java 8 引入**的语法,本质是**"只实现一个方法的匿名类"的简写**。
 
 ```java
 // 匿名内部类写法(老)
@@ -99,9 +99,9 @@ Comparator<String> byLength = (a, b) -> {
 Comparator<String> byLength2 = Comparator.comparingInt(String::length);
 ```
 
-正规写法:参数类型可以省略(编译器推断);单参数可以省括号;单行方法体可以省花括号和 return;方法引用 String::length 等价于 s -> s.length(),类名::静态方法、对象::实例方法、类名::实例方法三种形式都合法。
+正规写法:**参数类型可以省略**(编译器推断);**单参数可以省括号**;**单行方法体可以省花括号和 return**;方法引用 String::length 等价于 s -> s.length(),类名::静态方法、对象::实例方法、类名::实例方法**三种形式都合法**。
 
-Lambda 只能赋给函数式接口——只有一个抽象方法的接口:
+Lambda **只能赋给函数式接口**——**只有一个抽象方法的接口**:
 
 ```java
 @FunctionalInterface   // 注解保证接口里只有一个抽象方法
@@ -113,7 +113,7 @@ Converter c = n -> "数字: " + n;
 System.out.println(c.convert(5));   // 数字: 5
 ```
 
-常用内置函数式接口(都在 java.util.function 包):
+常用内置函数式接口(都在 **java.util.function** 包):
 
 ```java
 Predicate<String> isLong = s -> s.length() > 3;   // 断言, test 返回 boolean
@@ -122,11 +122,11 @@ Consumer<String> print = s -> System.out.println(s); // 消费, accept 无返回
 Supplier<Double> random = () -> Math.random();    // 生产, get 无参数
 ```
 
-通俗解释:Lambda ≈ 箭头函数,方法引用 ≈ 直接把函数名传过去(类似 JS 里 btn.onclick = handler 传引用而不是 btn.onclick = () => handler())。函数式接口 ≈ TS 里的函数类型 (n: number) => string——规定"一个接口的职责就是描述一个函数签名"。@FunctionalInterface ≈ TS 里给函数类型起别名时的类型检查。理解透一句话就行:Java 8 之后的接口,如果只描述"一件事怎么干",它就可以被 Lambda 直接实现。
+通俗解释:**Lambda ≈ 箭头函数**,方法引用 ≈ 直接把函数名传过去(类似 JS 里 btn.onclick = handler 传引用而不是 btn.onclick = () => handler())。**函数式接口 ≈ TS 里的函数类型** (n: number) => string——规定"一个接口的职责就是描述一个函数签名"。@FunctionalInterface ≈ TS 里给函数类型起别名时的类型检查。理解透一句话就行:Java 8 之后的接口,**如果只描述"一件事怎么干",它就可以被 Lambda 直接实现**。
 
 ## Stream
 
-Stream 是 Java 8 提供的函数式数据处理流水线,和 SQL 查询、Linux 管道同一种思路:声明"做什么"而不是"怎么做"。
+Stream 是 Java 8 提供的**函数式数据处理流水线**,和 SQL 查询、Linux 管道同一种思路:**声明"做什么"而不是"怎么做"**。
 
 ```java
 List<String> names = List.of("tom", "jerry", "ann", "bob");
@@ -140,7 +140,7 @@ List<String> result = names.stream()
 System.out.println(result);         // [ANN, BOB, JERRY, TOM]
 ```
 
-正规写法:中间操作返回新的 Stream,可以一直链下去;终结操作触发整条流水线执行,一个 Stream 只能被消费一次。常用操作清单:
+正规写法:**中间操作返回新的 Stream**,可以一直链下去;**终结操作触发整条流水线执行**,**一个 Stream 只能被消费一次**。常用操作清单:
 
 ```java
 List<Integer> nums = List.of(3, 1, 4, 1, 5, 9, 2, 6);
@@ -163,7 +163,7 @@ IntSummaryStatistics stats = nums.stream().mapToInt(i -> i).summaryStatistics();
 System.out.println(stats.getMax() + ", " + stats.getAverage());
 ```
 
-> 惰性求值:中间操作只是搭管道,终结操作才真正遍历数据。所以忘写终结操作(比如只写了 filter 没写 collect)时,整个流水线一行都不会执行,没有任何报错——这是 Stream 最常见的"静默无效"坑,写完一定要检查结尾有没有终结操作。
+> **惰性求值**:**中间操作只是搭管道,终结操作才真正遍历数据**。所以忘写终结操作(比如只写了 filter 没写 collect)时,**整个流水线一行都不会执行,没有任何报错**——这是 Stream 最常见的**"静默无效"坑**,写完一定要检查结尾有没有终结操作。
 
 ### 典型场景:对象列表统计
 
@@ -186,11 +186,11 @@ List<String> top = students.stream()
 System.out.println(top);   // [小明, 小丽]
 ```
 
-通俗解释:Stream 就是 JS 数组的 map/filter/reduce 链式操作,语法神似:filter 同名同义,map 同名同义,reduce 同名同义,collect 相当于最后再来一步(JS 里常是 reduce 或 join)。差异有二:Java 的 Stream 是惰性的,不终结不执行,JS 的 map/filter 是立即执行(所以 JS 大数组链式会有中间数组,Java 没有);Java 的 Stream 一次性的,消费完就不能再用,JS 数组可以反复 map。如果你写过 JS 的 arr.filter(...).map(...).reduce(...),Stream 只需要补"惰性"和"一次性"两个心智点。
+通俗解释:Stream 就是 **JS 数组的 map/filter/reduce 链式操作**,语法神似:filter 同名同义,map 同名同义,reduce 同名同义,collect 相当于最后再来一步(JS 里常是 reduce 或 join)。差异有二:**Java 的 Stream 是惰性的,不终结不执行**,**JS 的 map/filter 是立即执行**(所以 JS 大数组链式会有中间数组,Java 没有);Java 的 Stream **一次性的,消费完就不能再用**,JS 数组可以反复 map。如果你写过 JS 的 arr.filter(...).map(...).reduce(...),Stream 只需要补**"惰性"和"一次性"**两个心智点。
 
 ## 注解
 
-注解是给代码贴的"标签",本身不干活,由编译器或框架读取后采取行动。
+注解是给代码贴的**"标签"**,**本身不干活,由编译器或框架读取后采取行动**。
 
 ```java
 @Override                    // 编译期: 检查是否真的重写了父类方法
@@ -220,7 +220,7 @@ public class OrderService {
 }
 ```
 
-正规写法:元注解决定注解的适用范围和生命周期;属性用"无参方法"声明,有默认值的属性使用时可以省略;单属性且名为 value 时可以省略属性名直接写 @Log("创建订单")。
+正规写法:**元注解决定注解的适用范围和生命周期**;属性用**"无参方法"**声明,有默认值的属性使用时可以省略;**单属性且名为 value 时可以省略属性名**直接写 @Log("创建订单")。
 
 ### 框架如何读取注解
 
@@ -233,13 +233,13 @@ if (m.isAnnotationPresent(Log.class)) {
 }
 ```
 
-注解加反射,就是 Spring、MyBatis、JUnit 这类框架的底层原理:框架扫描你的类,读到注解,然后替你执行切面、事务、SQL 映射等逻辑。
+**注解加反射,就是 Spring、MyBatis、JUnit 这类框架的底层原理**:**框架扫描你的类,读到注解,然后替你执行**切面、事务、SQL 映射等逻辑。
 
-通俗解释:注解和 TS 装饰器是同一个物种——都是"给代码加元数据,由框架消费"。@Override ≈ TS 的 override 关键字检查,自定义 @Log ≈ @log("创建订单") 装饰器,Spring 的 @Service ≈ 前端的 @Component 装饰器(Angular 里尤其像)。元注解 @Target/@Retention ≈ 装饰器签名里限制"只能装饰方法还是类"。对前端来说,理解注解的最好路径就是:把你在 Angular/Nest 里用装饰器干的事,想象成 Java 框架用注解干的事,一码事。
+通俗解释:**注解和 TS 装饰器是同一个物种**——都是**"给代码加元数据,由框架消费"**。@Override ≈ TS 的 override 关键字检查,自定义 @Log ≈ @log("创建订单") 装饰器,**Spring 的 @Service ≈ 前端的 @Component 装饰器**(Angular 里尤其像)。元注解 @Target/@Retention ≈ 装饰器签名里限制"只能装饰方法还是类"。对前端来说,理解注解的最好路径就是:**把你在 Angular/Nest 里用装饰器干的事,想象成 Java 框架用注解干的事**,一码事。
 
 ## 反射
 
-反射让程序在运行期检查类结构、创建对象、调用方法——正常代码"正着写",反射"反着查",所以叫反射。
+反射让程序**在运行期检查类结构、创建对象、调用方法**——正常代码**"正着写"**,反射**"反着查"**,所以叫反射。
 
 ```java
 import java.lang.reflect.*;
@@ -273,12 +273,12 @@ for (Method m : c1.getMethods()) {
 }
 ```
 
-正规写法:getMethod 只返回公开方法(含继承的),getDeclaredMethod 返回本类声明的(含私有);访问私有成员必须 setAccessible(true),这是刻意设计的"破门"动作;Class.forName 需要全限定类名(带包名)。
+正规写法:**getMethod 只返回公开方法(含继承的)**,**getDeclaredMethod 返回本类声明的(含私有)**;访问私有成员必须 **setAccessible(true)**,这是刻意设计的"破门"动作;**Class.forName 需要全限定类名**(带包名)。
 
-> 反射为什么重要:框架不知道你未来会写什么类,但它需要给你写的类注入依赖、生成 SQL、序列化 JSON——这些全靠反射在运行期"看懂"你的类。你日常写的业务代码很少直接用反射,但你每天用的框架底层都是它。
+> 反射为什么重要:**框架不知道你未来会写什么类**,但它需要给你写的类注入依赖、生成 SQL、序列化 JSON——这些**全靠反射在运行期"看懂"你的类**。你日常写的业务代码很少直接用反射,但**你每天用的框架底层都是它**。
 
-通俗解释:反射 ≈ JS 与生俱来的动态能力——obj[key]、动态 new、运行期拿属性,JS 天天干的事 Java 要绕一圈反射才能干。区别在于代价:JS 是解释型动态语言,动态访问零成本;Java 是编译型静态语言,反射要绕过编译期检查,所以慢、而且类型错误会从编译期推迟到运行期。Class.forName ≈ require(动态加载模块),getMethod().invoke() ≈ obj[method](),setAccessible(true) ≈ 强行访问私有字段(JS 里 #私有字段做不到,Java 反射可以,所以"私有"在 Java 里是"礼貌的私有")。
+通俗解释:反射 ≈ **JS 与生俱来的动态能力**——obj[key]、动态 new、运行期拿属性,JS 天天干的事 Java 要绕一圈反射才能干。区别在于代价:**JS 是解释型动态语言,动态访问零成本**;**Java 是编译型静态语言,反射要绕过编译期检查**,所以慢、而且**类型错误会从编译期推迟到运行期**。Class.forName ≈ require(动态加载模块),getMethod().invoke() ≈ obj[method](),setAccessible(true) ≈ 强行访问私有字段(JS 里 #私有字段做不到,Java 反射可以,所以**"私有"在 Java 里是"礼貌的私有"**)。
 
 ## 小结
 
-第四篇把 Java 从"能写业务"推到了"看懂框架":泛型给类型安全,Lambda 和 Stream 给表达力,注解和反射给了框架理解你代码的能力——Spring 全家桶、MyBatis、Jackson 全是这套机制搭起来的。至此 Java 基础四篇收尾,下一步建议:用一个小项目(控制台图书管理系统即可)把这四篇串起来写一遍,然后带着问题去看 JDBC 和真实框架源码,概念全部能在前四篇找到原点。
+第四篇把 Java 从"能写业务"推到了"看懂框架":**泛型给类型安全,Lambda 和 Stream 给表达力,注解和反射给了框架理解你代码的能力**——Spring 全家桶、MyBatis、Jackson 全是这套机制搭起来的。至此 Java 基础四篇收尾,下一步建议:**用一个小项目(控制台图书管理系统即可)把这四篇串起来写一遍**,然后带着问题去看 JDBC 和真实框架源码,概念全部能在前四篇找到原点。

@@ -1,6 +1,6 @@
 ## 工程搭建与接口层
 
-React 版前端与 Vue 篇功能完全一致:列表、搜索、新增、编辑、删除。工程用 Vite + React 模板搭建,代理配置相同(HTTP 联调篇的跨域解法对两个框架一视同仁):
+React 版前端与 Vue 篇**功能完全一致**:列表、搜索、新增、编辑、删除。工程用 Vite + React 模板搭建,**代理配置相同**(HTTP 联调篇的跨域解法**对两个框架一视同仁**):
 
 ```ts
 // vite.config.ts —— 与 Vue 版完全相同的代理
@@ -21,7 +21,7 @@ export default defineConfig({
 })
 ```
 
-接口层同样集中在 api/student.ts。React 生态里 axios 一样是主流,类型与拆信封逻辑与 Vue 版逐行相同——这正是"接口层与框架无关"的体现:
+**接口层同样集中在 api/student.ts**。React 生态里 axios 一样是主流,类型与拆信封逻辑**与 Vue 版逐行相同**——这正是"**接口层与框架无关**"的体现:
 
 ```ts
 // api/student.ts —— 与 Vue 版相同的接口层
@@ -68,11 +68,11 @@ export function deleteStudent(id: number) {
 }
 ```
 
-接口层是前后端契约的前端载体,与框架无关——Vue 版和 React 版共用同一份代码(只差文件扩展名)。这是 TS 篇接口层模式的价值:换框架时,组件重写,接口层原样搬走。
+接口层是**前后端契约的前端载体**,**与框架无关**——Vue 版和 React 版**共用同一份代码**(只差文件扩展名)。这是 TS 篇接口层模式的价值:**换框架时,组件重写,接口层原样搬走**。
 
 ## 列表页
 
-React 的列表页用 useState 管状态、useEffect 加载数据,对照 Vue 版看差异:
+React 的列表页用 useState **管状态**、useEffect **加载数据**,**对照 Vue 版看差异**:
 
 ```tsx
 // StudentList.tsx
@@ -177,11 +177,11 @@ function StudentList() {
 export default StudentList
 ```
 
-与 Vue 版的功能一一对应,写法上的差异正是 React 基础篇讲过的核心:状态用 useState 逐一声明(对照 ref),列表渲染用 map 加 key(对照 v-for),加载时机用 useEffect 空依赖(对照 onMounted),条件渲染用三元表达式(对照 v-if)。同一个"状态变更后重拉数据"策略,在这里是 onSaved/onDelete 里调 load,与 Vue 版完全一致——框架换,套路不变。
+与 Vue 版的**功能一一对应**,**写法上的差异**正是 React 基础篇讲过的核心:状态用 useState 逐一声明(对照 ref),列表渲染用 map 加 key(对照 v-for),加载时机用 useEffect 空依赖(对照 onMounted),**条件渲染用三元表达式**(对照 v-if)。同一个"**状态变更后重拉数据**"策略,在这里是 onSaved/onDelete 里调 load,**与 Vue 版完全一致**——**框架换,套路不变**。
 
 ## 新增与编辑表单
 
-React 的表单是受控组件(React 基础篇):输入框的 value 绑 state,onChange 更新 state。新增编辑共用一个组件,student 为 null 表示新增:
+React 的表单是**受控组件**(React 基础篇):输入框的 value 绑 state,onChange 更新 state。新增编辑**共用一个组件**,**student 为 null 表示新增**:
 
 ```tsx
 // StudentForm.tsx
@@ -239,14 +239,14 @@ function StudentForm({ student, onSaved, onCancel }: Props) {
 export default StudentForm
 ```
 
-与 Vue 版 StudentForm 逐点对照:Vue 用 reactive 一个对象装两个字段,React 用两个 useState;Vue 用 watch + immediate 同步预填,React 用 useEffect 依赖 [student]——注意依赖数组里放的是编辑对象,切换编辑对象时 effect 重跑;Vue 的 v-model.number 自动转类型,React 的输入框值永远是字符串,要手动 Number() 转换,这是两个框架最容易踩的差异点;Vue 子组件 emit 事件父组件监听,React 直接把回调函数当 props 传下来——本质都是"子通知父",只是语法形式不同。取消与保存后关闭表单,两个版本都交给父组件控制,表单自身不管理显隐。
+与 Vue 版 StudentForm **逐点对照**:Vue 用 reactive 一个对象装两个字段,React 用两个 useState;Vue 用 watch + immediate 同步预填,React 用 useEffect 依赖 [student]——注意**依赖数组里放的是编辑对象**,**切换编辑对象时 effect 重跑**;Vue 的 v-model.number 自动转类型,**React 的输入框值永远是字符串**,要手动 Number() 转换,这是两个框架**最容易踩的差异点**;Vue 子组件 emit 事件父组件监听,React 直接把回调函数当 props 传下来——本质都是"**子通知父**",只是语法形式不同。取消与保存后关闭表单,两个版本都**交给父组件控制**,**表单自身不管理显隐**。
 
 ## 两个框架的实现对照
 
-同一个系统写了两遍,正是对照学习的好材料。差异根源只有一个:Vue 用模板+响应式系统,React 用 JSX+不可变状态。往下推演出一系列具体差异:状态上 Vue 的 ref 原地改值即可(score.value += 1),React 必须 setState 换新值;列表上 v-for 指令 vs map 函数;事件上 @click vs onClick,事件对象也分原生与合成;表单上 v-model 双向绑定 vs 受控组件手动绑定;组件通信上 emit 事件 vs 回调 props;数据加载时机上 onMounted 钩子 vs useEffect 空依赖。
+同一个系统写了两遍,正是**对照学习的好材料**。**差异根源只有一个**:Vue 用**模板+响应式系统**,React 用 **JSX+不可变状态**。往下推演出一系列具体差异:状态上 Vue 的 ref **原地改值即可**(score.value += 1),React 必须 setState 换新值;列表上 v-for 指令 vs map 函数;事件上 @click vs onClick,事件对象也分**原生与合成**;表单上 v-model **双向绑定** vs **受控组件手动绑定**;组件通信上 emit 事件 vs 回调 props;数据加载时机上 onMounted 钩子 vs useEffect 空依赖。
 
-相同之处比差异更重要:接口层完全一致、代理配置完全一致、状态变更后重拉数据的策略一致、表单共用与显隐控制一致、统一返回结构的处理一致。框架差异集中在"视图层怎么写",而全栈项目的骨架——接口约定、数据流、状态策略——是框架无关的。这也是为什么本系列把重点放在设计篇:设计对了,换哪个框架实现都顺。
+**相同之处比差异更重要**:**接口层完全一致**、代理配置完全一致、**状态变更后重拉数据的策略一致**、表单共用与显隐控制一致、统一返回结构的处理一致。框架差异集中在"**视图层怎么写**",而全栈项目的骨架——接口约定、数据流、状态策略——是**框架无关的**。这也是为什么本系列把重点放在设计篇:**设计对了,换哪个框架实现都顺**。
 
 ## 小结
 
-React 版与 Vue 版功能镜像,差异集中在视图层语法,骨架完全一致。至此前后端两端都实现完毕,本地联调可跑通完整链路。最后一步是把两套工程从 localhost 搬到服务器上,让系统真正"上线"——下一篇讲打包部署。
+React 版与 Vue 版**功能镜像**,**差异集中在视图层语法**,**骨架完全一致**。至此前后端两端都实现完毕,**本地联调可跑通完整链路**。最后一步是把两套工程**从 localhost 搬到服务器上**,让系统真正"上线"——下一篇讲打包部署。
