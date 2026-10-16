@@ -1,4 +1,4 @@
-import { Lesson, LessonBrief, GrammarSection } from './type'
+import { Lesson, LessonBrief, GrammarSection, LessonExercise } from './type'
 import book1Index from './book1-index.json'
 import book2Index from './book2-index.json'
 import book3Index from './book3-index.json'
@@ -106,6 +106,18 @@ export async function loadBookGrammar(book: number): Promise<GrammarEntry[]> {
         case 4: {
             const m = await import('./book4-grammar.json')
             return m.default as unknown as GrammarEntry[]
+        }
+        default:
+            return []
+    }
+}
+
+// 课后练习(动态 import, 按册拆 chunk; 未提供练习的册返回空数组)
+export async function loadBookExercises(book: number): Promise<LessonExercise[]> {
+    switch (book) {
+        case 2: {
+            const m = await import('./book2-exercise.json')
+            return m.default as unknown as LessonExercise[]
         }
         default:
             return []

@@ -34,6 +34,20 @@ export interface WrittenExercise {
     items: string[];
 }
 
+// 课后练习组(书面填空): 指令 + 题目 + 答案, 题目与答案一一对应
+export interface ExerciseGroup {
+    letter: string;
+    instruction: string;
+    items: string[];
+    answers: string[];
+}
+
+// 一课的全部课后练习(按字母分组)
+export interface LessonExercise {
+    lesson: number;
+    groups: ExerciseGroup[];
+}
+
 // 语法讲解块: 标题(自学导读/课堂笔记/语法/词汇学习) + 段落
 export interface GrammarSection {
     title: string;

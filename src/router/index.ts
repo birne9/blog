@@ -134,6 +134,14 @@ const routes: Array<RouteRecordRaw> = [
                     title: 'conceptContent',
                 },
             },
+            {
+                path: '/concept/exercise',
+                name: 'conceptExercise',
+                component: () => import('../views/concept/exercise/index.vue'),
+                meta: {
+                    title: 'conceptExercise',
+                },
+            },
             // 新概念模块--end
 
             // 英语语法模块--start

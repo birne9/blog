@@ -27,6 +27,9 @@
                 <div class="font-bold text-base md:text-xl text-foreground mt-1 md:mt-[6px]">{{ item.title }}</div>
                 <div class="text-[13px] md:text-[15px] text-muted mt-1 md:mt-[6px] truncate md:overflow-visible md:text-clip md:whitespace-normal">{{ item.desc }}</div>
             </div>
+            <div class="ml-auto self-center shrink-0 pl-3" v-if="conceptStore.activeBook === 2" @click.stop>
+                <div class="ex_entry" @click="goExercise(item)">练习</div>
+            </div>
         </div>
     </div>
 </template>
@@ -65,6 +68,16 @@ const goDetail = (item: Concept) => {
     })
 }
 
+const goExercise = (item: Concept) => {
+    router.push({
+        path: '/concept/exercise',
+        query: {
+            book: conceptStore.activeBook,
+            id: item.id
+        }
+    })
+}
+
 // 深链 ?book=N 恢复页签选中(如详情页返回目录)
 onMounted(() => {
     const book = Number(route.query.book)
@@ -73,3 +86,25 @@ onMounted(() => {
     }
 })
 </script>
+<style lang="less" scoped>
+.ex_entry {
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    color: #fc7e0f;
+    background-color: #fff;
+    border: 1px solid #fc7e0f;
+    border-radius: 20px;
+    padding: 6px 14px;
+    transition: all 0.2s ease;
+    user-select: none;
+    &:hover {
+        background-color: #fc7e0f;
+        color: #fff;
+    }
+    &:active {
+        background-color: #fc7e0f;
+        color: #fff;
+    }
+}
+</style>

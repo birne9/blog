@@ -1,0 +1,5574 @@
+[
+ {
+  "lesson": 1,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 容忍",
+     "n. 注意",
+     "adj. 生气的",
+     "adv. 无礼地，粗鲁地",
+     "n. 戏"
+    ],
+    "answers": [
+     "bear",
+     "attention",
+     "angry",
+     "rudely",
+     "play"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Last week I went to the ________.",
+     "I did not ________ it.",
+     "I got very ________.",
+     "They did not pay any ________.",
+     "‘I ________ hear a word!’"
+    ],
+    "answers": [
+     "theatre",
+     "enjoy",
+     "angry",
+     "attention",
+     "can't"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈpraɪvət/",
+     "/ˈbɪznɪs/",
+     "/ˌkɑnvərˈseɪʃən/",
+     "/ˈlaʊdli/",
+     "/ˈθiətər/"
+    ],
+    "answers": [
+     "private",
+     "business",
+     "conversation",
+     "loudly",
+     "theatre"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 2,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "prep. 直到",
+     "v. （铃、电话等）响（刺耳的）",
+     "adv. 外面",
+     "n. 姑,姨,婶,舅妈",
+     "v. 重复"
+    ],
+    "answers": [
+     "until",
+     "ring",
+     "outside",
+     "aunt",
+     "repeat"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "I never get up early on ________.",
+     "Last ________ I got up very late.",
+     "It was dark ________.",
+     "It was my ________ Lucy.",
+     "‘I'm ________ to see you."
+    ],
+    "answers": [
+     "Sundays",
+     "Sunday",
+     "outside",
+     "aunt",
+     "coming"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/rɪŋ/",
+     "/rɪˈpit/",
+     "/ˈaʊtˈsaɪd/",
+     "/ɔnt/",
+     "/ənˈtɪl/"
+    ],
+    "answers": [
+     "ring",
+     "repeat",
+     "outside",
+     "aunt",
+     "until"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 3,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 寄，送",
+     "adj. 唯一的，单一的",
+     "n. 明信片",
+     "n. 决定",
+     "v. 使索然无味，损坏"
+    ],
+    "answers": [
+     "send",
+     "single",
+     "postcard",
+     "decision",
+     "spoil"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Postcards always ________ my holidays.",
+     "I visited museums and sat in ________ gardens.",
+     "I read a few lines, but I did not ________ a word.",
+     "My holidays passed quickly, but I did not ________ cards to my friends.",
+     "I got up early and bought ________ cards."
+    ],
+    "answers": [
+     "spoil",
+     "public",
+     "understand",
+     "send",
+     "thirty-seven"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/hoʊl/",
+     "/ˈfrɛndli/",
+     "/ˈmjuziəm/",
+     "/lɛnd/",
+     "/ˈweɪtər/"
+    ],
+    "answers": [
+     "whole",
+     "friendly",
+     "museum",
+     "lend",
+     "waiter"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 4,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "adj. 令人兴奋的",
+     "adv. 在国外",
+     "v. 接受，收到",
+     "n. 商行，公司",
+     "n. 中心"
+    ],
+    "answers": [
+     "exciting",
+     "abroad",
+     "receive",
+     "firm",
+     "centre"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "I have just ________ a letter from my brother, Tim.",
+     "He is in ________.",
+     "He has been there for six ________.",
+     "Tim is an ________.",
+     "He is working for a big ________ and he has already visited a great number of different places in Australia."
+    ],
+    "answers": [
+     "received",
+     "Australia",
+     "months",
+     "engineer",
+     "firm"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/rɪˈsiv/",
+     "/fərm/",
+     "/ˈsɛntər/",
+     "/ˈdɪfərənt/",
+     "/ɪkˈsaɪtɪŋ/"
+    ],
+    "answers": [
+     "receive",
+     "firm",
+     "centre",
+     "different",
+     "exciting"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 5,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 越过",
+     "备件",
+     "n. 信息",
+     "n. 业务，服务",
+     "n. 鸽子"
+    ],
+    "answers": [
+     "cover",
+     "spare part",
+     "message",
+     "service",
+     "pigeon"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "James Scott has a garage in Silbury and now he has just bought another garage in ________.",
+     "Pinhurst is only five miles from ________, but Mr.",
+     "Scott cannot get a ________ for his new garage, so he has just bought twelve pigeons.",
+     "Yesterday, a ________ carried the first message from Pinhurst to Silbury.",
+     "The bird covered the ________ in three minutes."
+    ],
+    "answers": [
+     "Pinhurst",
+     "Silbury",
+     "telephone",
+     "pigeon",
+     "distance"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈsərvɪs/",
+     "/ˈmɛsɪʤ/",
+     "/ˈdɪstəns/",
+     "/ˈkəvər/",
+     "/rɪkˈwɛst/"
+    ],
+    "answers": [
+     "service",
+     "message",
+     "distance",
+     "cover",
+     "request"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 6,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 衣服口袋",
+     "v. 拜访，光顾",
+     "n. 食物",
+     "n. 乞丐"
+    ],
+    "answers": [
+     "pocket",
+     "call",
+     "food",
+     "beggar"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "I have just moved to a house in ________.",
+     "He ________ me for a meal and a glass of beer.",
+     "I ________ a meal.",
+     "Then he put a piece of cheesein his ________ and went away.",
+     "His name is Percy ________."
+    ],
+    "answers": [
+     "BridgeStreet",
+     "asked",
+     "gavehim",
+     "pocket",
+     "Buttons"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/fud/",
+     "/ˈbɛgər/",
+     "/kɔl/",
+     "/ˈpɑkət/"
+    ],
+    "answers": [
+     "food",
+     "beggar",
+     "call",
+     "pocket"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 7,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "adj. 主要的",
+     "n. 石子",
+     "n. 钻石",
+     "n. 沙子",
+     "n. 警戒，守卫"
+    ],
+    "answers": [
+     "main",
+     "stone",
+     "diamond",
+     "sand",
+     "guard"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "The plane was late and detectives were waiting at the ________ all morning.",
+     "They were expecting a ________ parcel of diamonds from South Africa.",
+     "A few hours earlier, someone had told the police that thieves would try to ________ the diamonds.",
+     "When the plane arrived, some of the detectives were waiting inside the ________ building while others were waiting on the airfield.",
+     "Two men took the ________ off the plane and carried it into the Customs House."
+    ],
+    "answers": [
+     "airport",
+     "valuable",
+     "steal",
+     "main",
+     "parcel"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ɪkˈspɛkt/",
+     "/ˈprɛʃəs/",
+     "/stil/",
+     "/ˈvæljəbəl/",
+     "/dɪˈtɛktɪv/"
+    ],
+    "answers": [
+     "expect",
+     "precious",
+     "steal",
+     "valuable",
+     "detective"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 8,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 水池",
+     "n. 比赛，竞赛",
+     "adj. 木头的",
+     "adj. 整齐的，整洁的",
+     "n. 小路，小径"
+    ],
+    "answers": [
+     "pool",
+     "competition",
+     "wooden",
+     "neat",
+     "path"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "He has made ________ paths and has built a wooden bridge over a pool.",
+     "I like ________ too, but I do not like hard work."
+    ],
+    "answers": [
+     "neat",
+     "gardens"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈwʊdən/",
+     "/ˌkɑmpəˈtɪʃən/",
+     "/pul/",
+     "/pæθ/",
+     "/nit/"
+    ],
+    "answers": [
+     "wooden",
+     "competition",
+     "pool",
+     "path",
+     "neat"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 9,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 聚集",
+     "v. 拒绝",
+     "v. 喊叫",
+     "n. 人群",
+     "n. 欢迎；v. 欢迎"
+    ],
+    "answers": [
+     "gather",
+     "refuse",
+     "shout",
+     "crowd",
+     "welcome"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "On ________ evening, we went to the Town Hall.",
+     "It would strike twelve in twenty ________' time.",
+     "The big minute ________ did not move.",
+     "Suddenly ________ shouted, ‘It's two minutes past twelve!",
+     "I ________ at my watch."
+    ],
+    "answers": [
+     "Wednesday",
+     "minutes",
+     "hand",
+     "someone",
+     "looked"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/læf/",
+     "/ˈwɛlkəm/",
+     "/rɪˈfjuz/",
+     "/ˈgæðər/",
+     "/kraʊd/"
+    ],
+    "answers": [
+     "laugh",
+     "welcome",
+     "refuse",
+     "gather",
+     "crowd"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 10,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 器具",
+     "n. 弦",
+     "n. 琴键",
+     "n. 客厅",
+     "n. 德国"
+    ],
+    "answers": [
+     "instrument",
+     "string",
+     "key",
+     "living-room",
+     "Germany"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "We have an old ________ instrument.",
+     "It was made in ________ in 1681.",
+     "It has ________ to our family for a long time.",
+     "Recently it was ________ by a visitor.",
+     "She struck the keys too ________ and two of the strings were broken."
+    ],
+    "answers": [
+     "musical",
+     "Germany",
+     "belonged",
+     "damaged",
+     "hard"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈʤərməni/",
+     "/ˈdæmɪʤ/",
+     "/kɔl/",
+     "/ˈmjuzɪkəl/",
+     "/ˈklævəˌkɔrd/"
+    ],
+    "answers": [
+     "Germany",
+     "damage",
+     "call",
+     "musical",
+     "clavichord"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 11,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 应得到，值得",
+     "adv. 立刻",
+     "n. 律师",
+     "n. 工资",
+     "n. 银行"
+    ],
+    "answers": [
+     "deserve",
+     "immediately",
+     "lawyer",
+     "salary",
+     "bank"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "I was having dinner at a ________ when Tony Steele came in.",
+     "Tony worked in a lawyer's office years ago, but he is now working at a ________.",
+     "He gets a good ________, but he always borrows money from his friends and never pays it back.",
+     "Tony saw me and came and sat at the same ________.",
+     "He has never ________ money from me."
+    ],
+    "answers": [
+     "restaurant",
+     "bank",
+     "salary",
+     "table",
+     "borrowed"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈsæləri/",
+     "/tərn/",
+     "/ˌɪˈmiˌdiətli/",
+     "/dɪˈzərv/",
+     "/ˈlɔjər/"
+    ],
+    "answers": [
+     "salary",
+     "turn",
+     "immediately",
+     "deserve",
+     "lawyer"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 12,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 运气，幸运",
+     "n. 港口",
+     "v. 航行",
+     "adj. 自豪",
+     "n. 船长"
+    ],
+    "answers": [
+     "luck",
+     "harbour",
+     "sail",
+     "proud",
+     "captain"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Our neighbour, ________ Charles Alison, will sail from Portsmouth tomorrow.",
+     "He will be in his small boat, ________.",
+     "It has sailed across the ________ many times.",
+     "We shall see his boat and then we shall say ________ to him.",
+     "We are very ________ of him."
+    ],
+    "answers": [
+     "Captain",
+     "Topsail",
+     "Atlantic",
+     "goodbye",
+     "proud"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˌɪmˈpɔrtənt/",
+     "/lək/",
+     "/ˈkæptən/",
+     "/seɪl/",
+     "/ˈhɑrbər/"
+    ],
+    "answers": [
+     "important",
+     "luck",
+     "captain",
+     "sail",
+     "harbour"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 13,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "流行歌手",
+     "n. 俱乐部",
+     "n. 演出",
+     "n. 小组，团体",
+     "n. 场合"
+    ],
+    "answers": [
+     "pop singer",
+     "club",
+     "performance",
+     "group",
+     "occasion"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "The Greenwood Boys are a ________ of pop singers.",
+     "They will be ________ here tomorrow.",
+     "Tomorrow evening they will be singing at the Workers' ________.",
+     "During this time, they will give five ________.",
+     "They will be ________ to keep order."
+    ],
+    "answers": [
+     "group",
+     "arriving",
+     "Club",
+     "performances",
+     "trying"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/grup/",
+     "/əˈkeɪʒən/",
+     "/kləb/",
+     "/pərˈfɔrməns/"
+    ],
+    "answers": [
+     "group",
+     "occasion",
+     "club",
+     "performance"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 14,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 招手",
+     "n. 语言",
+     "v. 回答",
+     "n. 旅行",
+     "adj. 好笑的，有趣的"
+    ],
+    "answers": [
+     "wave",
+     "language",
+     "reply",
+     "journey",
+     "amusing"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "I had an ________ experience last year.",
+     "After I had left a small ________ in the south of France, I drove on the next town.",
+     "On the way, a ________ man waved to me.",
+     "I stopped and he asked me for a ________.",
+     "Apart from a few words, I do not know any ________ at all."
+    ],
+    "answers": [
+     "amusing",
+     "village",
+     "young",
+     "lift",
+     "French"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ɪkˈspɪriəns/",
+     "/ˈlæŋgwɪʤ/",
+     "/əmˈjuzɪŋ/",
+     "/ˈʤərni/",
+     "/weɪv/"
+    ],
+    "answers": [
+     "experience",
+     "language",
+     "amusing",
+     "journey",
+     "wave"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 15,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 插话，打断",
+     "v. 负担得起",
+     "adj. 弱的",
+     "n. 秘书",
+     "adj. 精神紧张的"
+    ],
+    "answers": [
+     "interrupt",
+     "afford",
+     "weak",
+     "secretary",
+     "nervous"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "The ________ told me that Mr Harmsworth would see me.",
+     "I felt very ________ when I went into his office.",
+     "He did not look up from his desk when I ________.",
+     "After I had sat down, he said that ________ was very bad.",
+     "He told me that the firm could not ________ to pay such large salaries."
+    ],
+    "answers": [
+     "secretary",
+     "nervous",
+     "entered",
+     "business",
+     "afford"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈnərvəs/",
+     "/ˌɪntərˈəpt/",
+     "/əˈfɔrd/",
+     "/wik/",
+     "/ˈsɛkrəˌtɛri/"
+    ],
+    "answers": [
+     "nervous",
+     "interrupt",
+     "afford",
+     "weak",
+     "secretary"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 16,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 提示",
+     "v. 无视，忘记",
+     "n. 地段",
+     "n. 指示牌",
+     "n. 交通"
+    ],
+    "answers": [
+     "reminder",
+     "fail",
+     "area",
+     "sign",
+     "traffic"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "If you ________ your car in the wrong place, a traffic policeman will soon find it.",
+     "You will be very lucky if he lets you go without a ________.",
+     "However, this does not ________ happen.",
+     "Traffic police are ________ very polite.",
+     "During a holiday in Sweden, I found this ________ on my car:' Sir, we welcome you to our city."
+    ],
+    "answers": [
+     "park",
+     "ticket",
+     "always",
+     "sometimes",
+     "note"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/noʊt/",
+     "/ˈɛriə/",
+     "/saɪn/",
+     "/ˈtræfɪk/",
+     "/feɪl/"
+    ],
+    "answers": [
+     "note",
+     "area",
+     "sign",
+     "traffic",
+     "fail"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 17,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 登场，扮演",
+     "n. 短袜",
+     "n. （女用）长筒袜",
+     "adj. 鲜艳的",
+     "n. 舞台"
+    ],
+    "answers": [
+     "appear",
+     "sock",
+     "stocking",
+     "bright",
+     "stage"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "My aunt ________ is an actress.",
+     "She must be at least ________ years old.",
+     "In spite of this, she often appears on the ________ as a young girl.",
+     "This time, she will be a girl of ________.",
+     "In the play, she must ________ in a bright red dress and long black stockings."
+    ],
+    "answers": [
+     "Jennifer",
+     "thirty-five",
+     "stage",
+     "seventeen",
+     "appear"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/əˈpɪr/",
+     "/ˈstɑkɪŋ/",
+     "/braɪt/",
+     "/sɑk/",
+     "/steɪʤ/"
+    ],
+    "answers": [
+     "appear",
+     "stocking",
+     "bright",
+     "sock",
+     "stage"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 18,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 店主",
+     "n. 帐单",
+     "n. 小酒店"
+    ],
+    "answers": [
+     "landlord",
+     "bill",
+     "pub"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "After I had had lunch at a village ________, I looked for my bag.",
+     "As I was looking for it, the ________ came in.",
+     "I ________ got my bag.'",
+     "In a few minutes he ________ with my bag and gave it back to me.",
+     "'My dog had taken it into the ________."
+    ],
+    "answers": [
+     "pub",
+     "landlord",
+     "haven't",
+     "returned",
+     "garden"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈlænˌdlɔrd/",
+     "/bɪl/",
+     "/pəb/"
+    ],
+    "answers": [
+     "landlord",
+     "bill",
+     "pub"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 19,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 令人遗憾的事",
+     "售票处",
+     "v. 大声说",
+     "adv. 悲哀地，丧气地",
+     "v. 匆忙"
+    ],
+    "answers": [
+     "pity",
+     "ticket office",
+     "exclaim",
+     "sadly",
+     "hurry"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "'The play may begin at any ________,' I said.",
+     "I ________ to the ticket office.",
+     "'I'm ________, we've sold out,' the girl said.",
+     "'Can I ________ these two tickets?'",
+     "'Could I have those two ________ please?'"
+    ],
+    "answers": [
+     "moment",
+     "hurried",
+     "sorry",
+     "return",
+     "tickets"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/rɪˈtərn/",
+     "/ˈhəri/",
+     "/ˈpɪti/",
+     "/ˈsædli/",
+     "/ɪkˈskleɪm/"
+    ],
+    "answers": [
+     "return",
+     "hurry",
+     "pity",
+     "sadly",
+     "exclaim"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 20,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 靴子",
+     "v. 意识到",
+     "n. 钓鱼人，渔民",
+     "v. 抓到",
+     "n. 浪费"
+    ],
+    "answers": [
+     "boot",
+     "realize",
+     "fisherman",
+     "catch",
+     "waste"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Fishing is my ________ sport.",
+     "But this does not ________ me.",
+     "Instead of catching fish, they ________ old boots and rubbish.",
+     "'You must give up ________!'",
+     "But they don't ________ one important thing."
+    ],
+    "answers": [
+     "favourite",
+     "worry",
+     "catch",
+     "fishing",
+     "realize"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/kæʧ/",
+     "/but/",
+     "/ˈriəˌlaɪz/",
+     "/ˈfɪʃərˌmæn/",
+     "/weɪst/"
+    ],
+    "answers": [
+     "catch",
+     "boot",
+     "realize",
+     "fisherman",
+     "waste"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 21,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 原因",
+     "adj. 坚定的，下决心的",
+     "adj. 发疯",
+     "n. 量"
+    ],
+    "answers": [
+     "reason",
+     "determined",
+     "mad",
+     "sum"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Aeroplanes are slowly driving me ________.",
+     "I live near an ________ and passing planes can be heard night and day.",
+     "The airport was built years ago, but for some ________ it could not be used then.",
+     "Last year, ________, it came into use.",
+     "Over a ________ people must have been driven away from their homes by the noise."
+    ],
+    "answers": [
+     "mad",
+     "airport",
+     "reason",
+     "however",
+     "hundred"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/dɪˈtərmənd/",
+     "/mæd/",
+     "/ˈrizən/",
+     "/səm/"
+    ],
+    "answers": [
+     "determined",
+     "mad",
+     "reason",
+     "sum"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 22,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 年龄",
+     "v. 做梦，梦想",
+     "n. 海峡",
+     "v. 扔，抛"
+    ],
+    "answers": [
+     "age",
+     "dream",
+     "channel",
+     "throw"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "My daughter, Jane, never dreamed of receiving a letter from a girl of her own ________ in Holland.",
+     "She threw the ________ into the sea.",
+     "She never thought of it again, but ten months later, she ________ a letter from a girl in Holland.",
+     "Both girls write to each other ________ now.",
+     "However, they have ________ to use the post office."
+    ],
+    "answers": [
+     "age",
+     "bottle",
+     "received",
+     "regularly",
+     "decided"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈʧænəl/",
+     "/θroʊ/",
+     "/eɪʤ/",
+     "/drim/"
+    ],
+    "answers": [
+     "channel",
+     "throw",
+     "age",
+     "dream"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 23,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 完成",
+     "adj. 新式的，与以往不同的",
+     "n. 地区",
+     "adj. 奇怪的"
+    ],
+    "answers": [
+     "complete",
+     "modern",
+     "district",
+     "strange"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "I had a letter from my sister ________.",
+     "In her letter, she said that she would come to ________ next year.",
+     "We are now living in a ________ new house in the country.",
+     "The house was ________ five months ago.",
+     "The house has many large rooms and there is a ________ garden."
+    ],
+    "answers": [
+     "yesterday",
+     "England",
+     "beautiful",
+     "completed",
+     "lovely"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈdɪstrɪkt/",
+     "/kəmˈplit/",
+     "/streɪnʤ/",
+     "/ˈmɑdərn/"
+    ],
+    "answers": [
+     "district",
+     "complete",
+     "strange",
+     "modern"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 24,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "adj. 不安",
+     "adj. 很坏的，邪恶的",
+     "n. 经理",
+     "v. 抱怨",
+     "adj. 表示同情的"
+    ],
+    "answers": [
+     "upset",
+     "wicked",
+     "manager",
+     "complain",
+     "sympathetic"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "I entered the hotel ________ office and sat down.",
+     "I had just lost $50 and I felt very ________.",
+     "'I left the ________ in my room,' I said, 'and it's not there now.'",
+     "The ________ was sympathetic, but he could do nothing.",
+     "'Everyone's ________ money these days,' he said."
+    ],
+    "answers": [
+     "manager's",
+     "upset",
+     "money",
+     "manager",
+     "losing"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/kənˈteɪn/",
+     "/ˈɑnəsti/",
+     "/ʌpˈsɛt/",
+     "/ˈmænɪʤər/",
+     "/ˌsɪmpəˈθɛtɪk/"
+    ],
+    "answers": [
+     "contain",
+     "honesty",
+     "upset",
+     "manager",
+     "sympathetic"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 25,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 搬运工",
+     "n. 外国人",
+     "quantifier. 几个",
+     "n. 铁路",
+     "v. 感到奇怪"
+    ],
+    "answers": [
+     "porter",
+     "foreigner",
+     "several",
+     "railway",
+     "wonder"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "I ________ in London at last.",
+     "I not only spoke English very ________, but very clearly as well.",
+     "he ________ me, but he spoke neither slowly nor clearly.",
+     "My ________ never spoke English like that!",
+     "'You'll soon learn ________!'"
+    ],
+    "answers": [
+     "arrived",
+     "carefully",
+     "answered",
+     "teacher",
+     "English"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈreɪlˌweɪ/",
+     "/ˈwəndər/",
+     "/ˈfɔrənər/",
+     "/ˈsɛvərəl/",
+     "/ˈpɔrtər/"
+    ],
+    "answers": [
+     "railway",
+     "wonder",
+     "foreigner",
+     "several",
+     "porter"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 26,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "conj. 是否",
+     "n. 材料",
+     "上下颠倒地",
+     "v. 注意到",
+     "v. 画"
+    ],
+    "answers": [
+     "whether",
+     "material",
+     "upside down",
+     "notice",
+     "paint"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "I am an ________ student and I paint a lot of pictures.",
+     "They always tell you what a ________ is 'about'.",
+     "They are just pretty ________.",
+     "I think that young children often ________ modern pictures better than anyone else.",
+     "She came into my room ________."
+    ],
+    "answers": [
+     "art",
+     "picture",
+     "patterns",
+     "appreciate",
+     "yesterday"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/əˈpriʃiˌeɪt/",
+     "/hæŋ/",
+     "/ɑrt/",
+     "/ˈkrɪtɪkəli/",
+     "/ˈkərtən/"
+    ],
+    "answers": [
+     "appreciate",
+     "hang",
+     "art",
+     "critically",
+     "curtain"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 27,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 形成",
+     "adj. 舒适的，安逸的",
+     "v. 闻起来",
+     "n. 小溪",
+     "adj. 极好的"
+    ],
+    "answers": [
+     "form",
+     "comfortable",
+     "smell",
+     "stream",
+     "wonderful"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Late in the afternoon, the boys put up their ________ in the middle of a field.",
+     "They were all hungry and the food ________ good.",
+     "But some time ________ it began to rain.",
+     "Their sleeping bags were warm and ________, so they all slept soundly.",
+     "It was raining ________ and they found that a stream had formed in the field."
+    ],
+    "answers": [
+     "tent",
+     "smelled",
+     "later",
+     "comfortable",
+     "heavily"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/fild/",
+     "/lip/",
+     "/krip/",
+     "/ˈhɛvəli/",
+     "/ˈkæmpˌfaɪər/"
+    ],
+    "answers": [
+     "field",
+     "leap",
+     "creep",
+     "heavily",
+     "campfire"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 28,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 麻烦",
+     "n. 神话故事",
+     "adj. 古代的，古老的",
+     "n. （古希腊神话中的）3位蛇发女怪之一（凡见其貌者都会变成石头）",
+     "n. 美杜莎（古希腊神话中3位蛇发女怪之一）"
+    ],
+    "answers": [
+     "trouble",
+     "myth",
+     "ancient",
+     "Gorgon",
+     "Medusa"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Jasper White is one of those ________ people who believes in ancient myths.",
+     "When he ________ home at night, he always finds that someone has parked a car outside his gate.",
+     "Because of this, he has not been able to get his own car into his ________ even once.",
+     "Jasper has put up 'No Parking' signs outside his gate, but these have not had any ________.",
+     "Now he has put an ugly ________ head over the gate."
+    ],
+    "answers": [
+     "rare",
+     "returns",
+     "garage",
+     "effect",
+     "stone"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈtrəbəl/",
+     "/ˈeɪnʧənt/",
+     "/məˈdusə/",
+     "/rɛr/",
+     "/ˈgɔrgən/"
+    ],
+    "answers": [
+     "trouble",
+     "ancient",
+     "Medusa",
+     "rare",
+     "Gorgon"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 29,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 块，一座大楼",
+     "v. 耕地",
+     "v. 着陆",
+     "n. 楼顶",
+     "adj. 偏僻的，人迹罕见的"
+    ],
+    "answers": [
+     "block",
+     "plough",
+     "land",
+     "roof",
+     "lonely"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Captain Ben Fawcett has bought an unusual ________ and has begun a new service.",
+     "This wonderful plane can carry seven ________.",
+     "The most surprising thing about it, however, is that it can ________ anywhere: on snow, water, or even on a ploughed field.",
+     "Captain Fawcett's first passenger was a doctor who flew from Birmingham to a ________ village in the Welsh mountains.",
+     "Once he landed on the ________ of a block of flats and on another occasion, he landed in a deserted car park."
+    ],
+    "answers": [
+     "taxi",
+     "passengers",
+     "land",
+     "lonely",
+     "roof"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/blɑk/",
+     "/rʊf/",
+     "/ˈtæksi/",
+     "/ploʊ/",
+     "/ˈloʊnli/"
+    ],
+    "answers": [
+     "block",
+     "roof",
+     "taxi",
+     "plough",
+     "lonely"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 30,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 划（船）",
+     "v. 踢",
+     "prep. 朝，向",
+     "v. 穿过",
+     "n. 威尔（河名）"
+    ],
+    "answers": [
+     "row",
+     "kick",
+     "towards",
+     "cut",
+     "Wayle"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "The ________ is a small river that cuts across the park near my home.",
+     "It was warm last ________, so I went and sat on the river bank as usual.",
+     "Suddenly, one of the children kicked a ball very hard and it went ________ a passing boat.",
+     "The ball struck him so hard that he ________ fell into the water.",
+     "The man laughed when he ________ what had happened."
+    ],
+    "answers": [
+     "Wayle",
+     "Sunday",
+     "towards",
+     "nearly",
+     "realized"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/kət/",
+     "/ˈnɪrli/",
+     "/ˈpoʊloʊ/",
+     "/roʊ/",
+     "/təˈwɔrdz/"
+    ],
+    "answers": [
+     "cut",
+     "nearly",
+     "polo",
+     "row",
+     "towards"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 31,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 公司",
+     "v. 退休",
+     "v. 积蓄",
+     "n. 帮手，助手",
+     "n. 车间"
+    ],
+    "answers": [
+     "company",
+     "retire",
+     "save",
+     "helper",
+     "workshop"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Yesterday afternoon Frank Hawkins was telling me about his ________ as a young man.",
+     "It was his job to repair ________ and at that time he used to work fourteen hours a day.",
+     "He saved money for years and in 1958 he bought a small ________ of his own.",
+     "In his twenties Frank used to make spare parts for ________.",
+     "At that time he had two ________."
+    ],
+    "answers": [
+     "experiences",
+     "bicycles",
+     "workshop",
+     "aeroplanes",
+     "helpers"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/seɪv/",
+     "/ˈwərkˌʃɑp/",
+     "/ˈbaɪsɪkəl/",
+     "/ˈgrændˌsən/",
+     "/ˈkəmpəˌni/"
+    ],
+    "answers": [
+     "save",
+     "workshop",
+     "bicycle",
+     "grandson",
+     "company"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 32,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 逮捕",
+     "v. 包裹",
+     "adv. 仅仅",
+     "n. 物品，东西",
+     "adv. 曾经，以前"
+    ],
+    "answers": [
+     "arrest",
+     "wrap",
+     "simply",
+     "article",
+     "once"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "People are not so ________ as they once were.",
+     "The ________ to steal is greater than ever before -- especially in large shops.",
+     "A detective recently watched a ________ woman who always went into a large store on Monday mornings.",
+     "The woman first bought a few small ________.",
+     "Then the woman ________ took the parcel and walked out of the shop without paying."
+    ],
+    "answers": [
+     "honest",
+     "temptation",
+     "well-dressed",
+     "articles",
+     "simply"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈsɪmpli/",
+     "/tɛmˈteɪʃən/",
+     "/ræp/",
+     "/ərˈɛst/",
+     "/ˈɑrtɪkəl/"
+    ],
+    "answers": [
+     "simply",
+     "temptation",
+     "wrap",
+     "arrest",
+     "article"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 33,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 海岸；海滨",
+     "n. 海岸；海滨",
+     "prep. 向，朝，接近",
+     "n. 岩石；礁石",
+     "n. 暴风雨；风暴"
+    ],
+    "answers": [
+     "coast",
+     "shore",
+     "towards",
+     "rock",
+     "storm"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Nearly a week passed before the girl was able to ________ what had happened to her.",
+     "Towards evening, the boat struck a ________ and the girl jumped into the sea.",
+     "During that time she covered a ________ of eight miles.",
+     "She knew she was near the ________ because the light was high up on the cliffs.",
+     "That was all she ________."
+    ],
+    "answers": [
+     "explain",
+     "rock",
+     "distance",
+     "shore",
+     "remembered"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈstrəgəl/",
+     "/klɪf/",
+     "/ˈhɑˌspɪtəl/",
+     "/laɪt/",
+     "/ˈdɑrknəs/"
+    ],
+    "answers": [
+     "struggle",
+     "cliff",
+     "hospital",
+     "light",
+     "darkness"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 34,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "adv. 相当，非常",
+     "n. （警察）局"
+    ],
+    "answers": [
+     "most",
+     "station"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Dan ________ has been worried all week.",
+     "Last Tuesday he ________ a letter from the local police.",
+     "In the letter he was asked to call at the ________.",
+     "Five days ago, the ________ told him, the bicycle was picked up in a small village four hundred miles away.",
+     "It is now being sent to his home by ________."
+    ],
+    "answers": [
+     "Robinson",
+     "received",
+     "station",
+     "policeman",
+     "train"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 35,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 害怕",
+     "adj. 撞坏的",
+     "adv. 很快，不久",
+     "adv. 径直",
+     "adv. 非常"
+    ],
+    "answers": [
+     "fright",
+     "battered",
+     "shortly",
+     "straight",
+     "far"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Roy ________ used to drive a taxi.",
+     "He is finding his new work ________ more exciting.",
+     "Roy acted quickly and drove the bus ________ at the thieves.",
+     "As the ________ were trying to get away in their car, Roy drove his bus into the back of it.",
+     "The thieves' car was badly damaged and easy to ________."
+    ],
+    "answers": [
+     "Trenton",
+     "far",
+     "straight",
+     "thieves",
+     "recognize"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/rəʃ/",
+     "/ˈæftərwərdz/",
+     "/rɪˈgrɛt/",
+     "/waɪl/",
+     "/ækt/"
+    ],
+    "answers": [
+     "rush",
+     "afterwards",
+     "regret",
+     "while",
+     "act"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 36,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 打算",
+     "v. 训练",
+     "n. 记录",
+     "n. 游泳运动员",
+     "adv. 焦急地"
+    ],
+    "answers": [
+     "intend",
+     "train",
+     "record",
+     "swimmer",
+     "anxiously"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Debbie Hart is going to swim across the English Channel ________.",
+     "Debbie is only eleven years old and she hopes to set up a new world ________.",
+     "Debbie's ________ will set out with her in a small boat.",
+     "Tomorrow he will be watching her ________ as she swims the long distance to England.",
+     "She will have something to drink but she will not eat any ________ food."
+    ],
+    "answers": [
+     "tomorrow",
+     "record",
+     "father",
+     "anxiously",
+     "solid"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈæŋkʃəsli/",
+     "/ˈrɛkərd/",
+     "/strɔŋ/",
+     "/treɪn/",
+     "/ˈsɑləd/"
+    ],
+    "answers": [
+     "anxiously",
+     "record",
+     "strong",
+     "train",
+     "solid"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 37,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "adj. 奥林匹克的",
+     "n. 标准",
+     "adj. 巨大的",
+     "n. 露天体育场",
+     "n. 政府"
+    ],
+    "answers": [
+     "Olympic",
+     "standard",
+     "fantastic",
+     "stadium",
+     "government"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "The ________ Games will be held in our country in four years' time.",
+     "They will also be ________ new roads and a special railway line.",
+     "The Games will be held just outside the ________ and the whole area will be called 'Olympic City'.",
+     "Workers will have ________ the new roads by the end of this year.",
+     "By the end of next year, they will have finished work on the new ________."
+    ],
+    "answers": [
+     "Olympic",
+     "building",
+     "capital",
+     "completed",
+     "stadium"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/hoʊld/",
+     "/ˈkæpɪtəl/",
+     "/oʊˈlɪmpɪk/",
+     "/ˌɪˈmɛns/",
+     "/dɪˈzaɪn/"
+    ],
+    "answers": [
+     "hold",
+     "capital",
+     "Olympic",
+     "immense",
+     "design"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 38,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "prep. 除了",
+     "n. 阳光",
+     "v. 抱怨",
+     "n. 地中海",
+     "adv. 不断地"
+    ],
+    "answers": [
+     "except",
+     "sunshine",
+     "complain",
+     "Mediterranean",
+     "continually"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "My old friend, Harrison, had lived in the ________ for many years before he returned to England.",
+     "He had often dreamed of ________ in England and had planned to settle down in the country.",
+     "He had no sooner ________ than he bought a house and went to live there.",
+     "After so many years of ________, Harrison got a shock.",
+     "He acted as if he had never lived in ________ before."
+    ],
+    "answers": [
+     "Mediterranean",
+     "retiring",
+     "returned",
+     "sunshine",
+     "England"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈsənˌʃaɪn/",
+     "/ˌmɛdətərˈeɪniən/",
+     "/ɪkˈsɛpt/",
+     "/kənˈtɪnjuəli/",
+     "/ˈbɪtərli/"
+    ],
+    "answers": [
+     "sunshine",
+     "Mediterranean",
+     "except",
+     "continually",
+     "bitterly"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 39,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "adj. 独自的",
+     "n. 亲戚",
+     "n. 手术",
+     "n. （电话的）交换台",
+     "adj. 下一个"
+    ],
+    "answers": [
+     "alone",
+     "relative",
+     "operation",
+     "exchange",
+     "following"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "The ________ day, the patient asked for a bedside telephone.",
+     "When he was ________, he telephoned the hospital exchange and asked for Doctor Millington.",
+     "When the doctor ________ the phone, Mr.",
+     "Gilbert said he was inquiring about a ________ patient, a Mr.",
+     "He ________ if Mr."
+    ],
+    "answers": [
+     "following",
+     "alone",
+     "answered",
+     "certain",
+     "asked"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˌɪnkˈwaɪr/",
+     "/ˈkɔlər/",
+     "/səkˈsɛsfəl/",
+     "/ˈpeɪʃənt/",
+     "/ˈsərtən/"
+    ],
+    "answers": [
+     "inquire",
+     "caller",
+     "successful",
+     "patient",
+     "certain"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 40,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 女主人",
+     "adj. 不笑的，严肃的",
+     "n. 地球",
+     "adj. 紧身的",
+     "v. 凝视"
+    ],
+    "answers": [
+     "hostess",
+     "unsmiling",
+     "globe",
+     "tight",
+     "fix"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Last week at a dinner party, the ________ asked me to sit next to Mrs.",
+     "She did not even look up when I took my seat ________ her.",
+     "I tried to make ________.",
+     "'Will you be ________ it?'",
+     "'Will you be ________ in England?'"
+    ],
+    "answers": [
+     "hostess",
+     "beside",
+     "conversation",
+     "seeing",
+     "staying"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ənsˈmaɪlɪŋ/",
+     "/dɪˈspɛr/",
+     "/gloʊb/",
+     "/ˈhoʊstəs/",
+     "/taɪt/"
+    ],
+    "answers": [
+     "unsmiling",
+     "despair",
+     "globe",
+     "hostess",
+     "tight"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 41,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 孔",
+     "v. 提醒",
+     "adj. 无礼的",
+     "n. 镜子",
+     "n. 灯塔"
+    ],
+    "answers": [
+     "hole",
+     "remind",
+     "rude",
+     "mirror",
+     "lighthouse"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "'You needn't be so ________ about it,' my wife answered as she looked at herself in the mirror.",
+     "We had been in the hat shop for half an hour and my wife was still in front of the ________.",
+     "I ________ saying it almost at once.",
+     "'I needn't ________ you of that terrible tie you bought yesterday.'",
+     "'A man can ________ have too many ties.'"
+    ],
+    "answers": [
+     "rude",
+     "mirror",
+     "regretted",
+     "remind",
+     "never"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/rɪˈmɑrk/",
+     "/riˈmaɪnd/",
+     "/ˈlaɪˌthaʊs/",
+     "/rud/",
+     "/ˈmɪrər/"
+    ],
+    "answers": [
+     "remark",
+     "remind",
+     "lighthouse",
+     "rude",
+     "mirror"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 42,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 动作",
+     "n. 差别",
+     "n. 曲调",
+     "玩蛇者（通常借音乐控制）",
+     "adj. 精通音乐的"
+    ],
+    "answers": [
+     "movement",
+     "difference",
+     "tune",
+     "snake charmer",
+     "musical"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "When he began to play a ________, we had our first glimpse of the snake.",
+     "It rose out of the basket and began to follow the movements of the ________.",
+     "We were very much surprised when the ________ charmer suddenly began to play jazz and modern pop songs.",
+     "It ________ could not tell the difference between Indian music and jazz!"
+    ],
+    "answers": [
+     "tune",
+     "pipe",
+     "snake",
+     "obviously"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/dæns/",
+     "/sneɪk/",
+     "/ˈɪndiən/",
+     "/glɪmps/",
+     "/ˈmɑrkɪt/"
+    ],
+    "answers": [
+     "dance",
+     "snake",
+     "Indian",
+     "glimpse",
+     "market"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 43,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 探险家",
+     "n. 飞机",
+     "v. 处于",
+     "n. 袋子",
+     "adj. 严重的"
+    ],
+    "answers": [
+     "explorer",
+     "aircraft",
+     "lie",
+     "sack",
+     "serious"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "In 1929, three years after his ________ over the North Pole, the American explorer, R.",
+     "Byrd, successfully flew over the South ________ for the first time.",
+     "At one ________, it seemed certain that their plane would crash.",
+     "It could only get over the ________ if it rose to 10,000 feet.",
+     "Byrd at once ________ his men to throw out two heavy food sacks."
+    ],
+    "answers": [
+     "flight",
+     "Pole",
+     "point",
+     "mountains",
+     "ordered"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/poʊl/",
+     "/sim/",
+     "/kræʃ/",
+     "/pɔɪnt/",
+     "/klɪr/"
+    ],
+    "answers": [
+     "pole",
+     "seem",
+     "crash",
+     "point",
+     "clear"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 44,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 边缘",
+     "n. （常用复数）内有的物品",
+     "v. 修理",
+     "n. 野餐",
+     "n. 所有"
+    ],
+    "answers": [
+     "edge",
+     "contents",
+     "mend",
+     "picnic",
+     "possession"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Anne Sterling did not think of the ________ she was taking when she ran through a forest after two men.",
+     "In the struggle, the ________ broke and, with the bag in their possession, both men started running through the trees.",
+     "Sterling got so ________ that she ran after them.",
+     "She was soon out of ________, but she continued to run.",
+     "The men got such a fright that they ________ the bag and ran away."
+    ],
+    "answers": [
+     "risk",
+     "strap",
+     "angry",
+     "breath",
+     "dropped"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ɛʤ/",
+     "/mɛnd/",
+     "/stræp/",
+     "/ˈkɑntɛnts/",
+     "/rɪsk/"
+    ],
+    "answers": [
+     "edge",
+     "mend",
+     "strap",
+     "contents",
+     "risk"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 45,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 存款",
+     "百分之……",
+     "n. 良心，道德心",
+     "adj. 无罪的，不亏心的",
+     "n. 村民"
+    ],
+    "answers": [
+     "savings",
+     "percent",
+     "conscience",
+     "clear",
+     "villager"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "The whole ________ soon learnt that a large sum of money had been lost.",
+     "Sam Benton, the local butcher, had lost his ________ while taking his savings to the post office.",
+     "Two ________ later, some more money was sent to Sam with another note: 'Only 25 per cent a thief now!'",
+     "In time, all ________ money was paid back in this way.",
+     "The last note said: 'I am 100 per cent ________ now!'"
+    ],
+    "answers": [
+     "village",
+     "wallet",
+     "months",
+     "Sam's",
+     "honest"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈseɪvɪŋz/",
+     "/ˈvɪlɪʤər/",
+     "/pərˈsɛnt/",
+     "/ˈkɑnʃəns/",
+     "/klɪr/"
+    ],
+    "answers": [
+     "savings",
+     "villager",
+     "percent",
+     "conscience",
+     "clear"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 46,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "adj. 羊毛的",
+     "n. 堆",
+     "v. 使惊讶",
+     "n. （常用复数）货物，商品",
+     "v. 关在（一个狭小的空间里）"
+    ],
+    "answers": [
+     "woollen",
+     "pile",
+     "astonish",
+     "goods",
+     "confine"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "When a plane from London arrived at Sydney airport, workers began to ________ a number of wooden boxes which contained clothing.",
+     "It ________ occurred to one of the workers to open up the box.",
+     "A man was lying in the box on top of a ________ of woolen goods.",
+     "After he was ________, the man admitted hiding in the box before the plane left London.",
+     "The man was ________ to pay $3,500 for the cost of the trip."
+    ],
+    "answers": [
+     "unload",
+     "suddenly",
+     "pile",
+     "arrested",
+     "ordered"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ənˈloʊd/",
+     "/ɪkˈstrimli/",
+     "/ˈwʊdən/",
+     "/əˈkər/",
+     "/dɪˈskəvər/"
+    ],
+    "answers": [
+     "unload",
+     "extremely",
+     "wooden",
+     "occur",
+     "discover"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 47,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. （鬼）来访，闹鬼",
+     "adj. 贪杯的",
+     "n. 鬼魂",
+     "v. 暗示",
+     "n. 威士忌酒"
+    ],
+    "answers": [
+     "haunt",
+     "thirsty",
+     "ghost",
+     "suggest",
+     "whisky"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "A public house which was ________ bought by Mr.",
+     "Thompson is going to sell it ________ it is haunted.",
+     "The next morning, he found that the doors had been blocked by chairs and the ________ had been moved.",
+     "He also said that he had found five empty ________ bottles which the ghost must have drunk the night before.",
+     "Thompson ________ his head."
+    ],
+    "answers": [
+     "recently",
+     "because",
+     "furniture",
+     "whisky",
+     "shook"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/səˈʤɛst/",
+     "/əkˈsɛpt/",
+     "/hɔnt/",
+     "/blɑk/",
+     "/ˈθərsti/"
+    ],
+    "answers": [
+     "suggest",
+     "accept",
+     "haunt",
+     "block",
+     "thirsty"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 48,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "药棉",
+     "v. 点头",
+     "n. 收藏品，收集品",
+     "adv. 同时",
+     "v. 拔"
+    ],
+    "answers": [
+     "cotton wool",
+     "nod",
+     "collection",
+     "meanwhile",
+     "pull"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Dentists always ask questions when it is ________ for you to answer.",
+     "My ________ had just pulled out one of my teeth and had told me to rest for a while.",
+     "I tried to say ________, but my mouth was full of cotton wool.",
+     "He knew I collected match boxes and asked me whether my ________ was growing.",
+     "He then asked me how my ________ was and whether I liked my new job in London."
+    ],
+    "answers": [
+     "impossible",
+     "dentist",
+     "something",
+     "collection",
+     "brother"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/nɑd/",
+     "/ˈminˌwaɪl/",
+     "/kəˈlɛkʃən/",
+     "/kəˈlɛkt/",
+     "/pʊl/"
+    ],
+    "answers": [
+     "nod",
+     "meanwhile",
+     "collection",
+     "collect",
+     "pull"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 49,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 床垫",
+     "n. 主人",
+     "n. 弹簧",
+     "n. 一阵风",
+     "adv. 奇迹般地"
+    ],
+    "answers": [
+     "mattress",
+     "owner",
+     "spring",
+     "gust",
+     "miraculously"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a ________ bed.",
+     "For the first time in his life, he became the proud ________ of a bed which had springs and a mattress.",
+     "Because the ________ was very hot, he carried the bed on to the roof of his house.",
+     "He slept very well for the first two ________, but on the third night, a storm blew up.",
+     "A ________ of wind swept the bed off the roof and sent it crashing into the courtyard below."
+    ],
+    "answers": [
+     "real",
+     "owner",
+     "weather",
+     "nights",
+     "gust"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/swip/",
+     "/ˈkɔrˌtjɑrd/",
+     "/smæʃ/",
+     "/ənˈhərt/",
+     "/glæns/"
+    ],
+    "answers": [
+     "sweep",
+     "courtyard",
+     "smash",
+     "unhurt",
+     "glance"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 50,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 远足",
+     "n. 旅行",
+     "n. 售票员",
+     "n. 景色"
+    ],
+    "answers": [
+     "excursion",
+     "ride",
+     "conductor",
+     "view"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "I love ________ in the country, but I don't like losing my way.",
+     "I sat in the front of the bus to get a good ________ of the countryside.",
+     "Looking round, I realized with a shock that I was the only ________ left on the bus.",
+     "'Is this ________ Green?'",
+     "'I ________ to put you off.'"
+    ],
+    "answers": [
+     "travelling",
+     "view",
+     "passenger",
+     "Woodford",
+     "forgot"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/kənˈdəktər/",
+     "/ɪkˈskərʒən/",
+     "/raɪd/",
+     "/vju/"
+    ],
+    "answers": [
+     "conductor",
+     "excursion",
+     "ride",
+     "view"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 51,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 禁止",
+     "v. 给奖赏",
+     "adj. 严格的",
+     "adv. 偶尔地",
+     "adv. 内疚地"
+    ],
+    "answers": [
+     "forbid",
+     "reward",
+     "strict",
+     "occasionally",
+     "guiltily"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "My friend, Hugh, has always been fat, but things got so bad recently that he decided to go on a ________.",
+     "First of all, he wrote out a long list of all the foods which were ________.",
+     "Yesterday I paid him a ________.",
+     "He led me into his room and ________ hid a large parcel under his desk.",
+     "When I asked him what he was doing, he smiled ________ and then put the parcel on the desk."
+    ],
+    "answers": [
+     "diet",
+     "forbidden",
+     "visit",
+     "hurriedly",
+     "guiltily"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/rɪˈwɔrd/",
+     "/ˈhəridli/",
+     "/rɪˈwɔrd/",
+     "/strɪkt/",
+     "/ˈvərʧu/"
+    ],
+    "answers": [
+     "reward",
+     "hurriedly",
+     "reward",
+     "strict",
+     "virtue"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 52,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "adv. 实际上",
+     "n. 空间",
+     "adv. 暂时地",
+     "n. 英寸（度量单位）"
+    ],
+    "answers": [
+     "actually",
+     "space",
+     "temporarily",
+     "inch"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "We have just moved into a new house and I have been ________ hard all morning.",
+     "I have been ________ to get my new room in order.",
+     "This has not been easy because I own over a ________ books.",
+     "To make matters worse, the room is rather small, so I have ________ put my books on the floor.",
+     "A short while ago, my sister helped me to carry one of my old ________ up the stairs."
+    ],
+    "answers": [
+     "working",
+     "trying",
+     "thousand",
+     "temporarily",
+     "bookcases"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ɪnʧ/",
+     "/ˌtɛmpərˈɛrəli/",
+     "/ˈæˌkʧuəli/",
+     "/speɪs/"
+    ],
+    "answers": [
+     "inch",
+     "temporarily",
+     "actually",
+     "space"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 53,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 电线",
+     "v. 解决",
+     "n. 谜",
+     "n. 伏特（电压单位）",
+     "v. 引起； n. 原因"
+    ],
+    "answers": [
+     "wire",
+     "solve",
+     "mystery",
+     "volt",
+     "cause"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "At last firemen have put out a big forest fire in ________.",
+     "Forest fires are often caused by broken glass or by cigarette ends which people ________ throw away.",
+     "They were also quite sure that a ________ end did not start the fire.",
+     "He noticed the ________ of a snake which was wound round the electric wires of a 16,000-volt power line.",
+     "The ________ was simple but very unusual."
+    ],
+    "answers": [
+     "California",
+     "carelessly",
+     "cigarette",
+     "remains",
+     "explanation"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/hɑt/",
+     "/ˌæksəˈdɛnəli/",
+     "/ɪgˈzæmɪn/",
+     "/ˈfaɪrmən/",
+     "/rɪˈmeɪnz/"
+    ],
+    "answers": [
+     "hot",
+     "accidentally",
+     "examine",
+     "fireman",
+     "remains"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 54,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 说服，劝说",
+     "v. 挂号邮寄",
+     "adj. 粘的",
+     "n. 乱七八糟",
+     "adj. 恼人的"
+    ],
+    "answers": [
+     "persuade",
+     "register",
+     "sticky",
+     "mess",
+     "annoying"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "After ________, I sent the children to school and then I went to the shops.",
+     "The ________ were at school, my husband was at work and the house was quiet.",
+     "In a short time I was busy mixing butter and flour and my hands were soon covered with ________ pastry.",
+     "Nothing could have been more ________.",
+     "It took me ten minutes to ________ her to ring back later."
+    ],
+    "answers": [
+     "breakfast",
+     "children",
+     "sticky",
+     "annoying",
+     "persuade"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈpeɪstri/",
+     "/paɪ/",
+     "/ˈfɪŋgər/",
+     "/ˈdurnɑb/",
+     "/saɪn/"
+    ],
+    "answers": [
+     "pastry",
+     "pie",
+     "finger",
+     "doorknob",
+     "sign"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 55,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 探测",
+     "n. 入口",
+     "adv. 彻底地",
+     "n. 海盗",
+     "n. 探测器"
+    ],
+    "answers": [
+     "detect",
+     "entrance",
+     "thoroughly",
+     "pirate",
+     "revealer"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Dreams of finding lost ________ almost came true recently.",
+     "The machine was used in a ________ near the seashore where -- it is said -- pirates used to hide gold.",
+     "The pirates would often ________ gold in the cave and then fail to collect it.",
+     "Very ________, the party dug a hole two feet deep.",
+     "They ________ found a small gold coin which was almost worthless."
+    ],
+    "answers": [
+     "treasure",
+     "cave",
+     "bury",
+     "excited",
+     "finally"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈwərθləs/",
+     "/ˈvælju/",
+     "/ˌɪnˈvɛnt/",
+     "/trəŋk/",
+     "/ˈsiˌʃɔr/"
+    ],
+    "answers": [
+     "worthless",
+     "value",
+     "invent",
+     "trunk",
+     "seashore"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 56,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 对手",
+     "adv. 下坡",
+     "n. 声音",
+     "罗尔斯--罗伊斯",
+     "adj. 漂亮的；美观的"
+    ],
+    "answers": [
+     "rival",
+     "downhill",
+     "sound",
+     "Rolls-Royce",
+     "handsome"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "A lot of cars entered for this race last year and there was a great deal of ________ just before it began.",
+     "The most unusual car was a ________ which had only three wheels.",
+     "After a great many loud ________, the race began.",
+     "A few cars, however, ________ the race.",
+     "It sped ________ at the end of the race and its driver had a lot of trouble trying to stop it."
+    ],
+    "answers": [
+     "excitement",
+     "Benz",
+     "explosions",
+     "completed",
+     "downhill"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/roʊlz rɔɪs/",
+     "/bɛnz/",
+     "/ɪkˈsaɪtmənt/",
+     "/kɔrs/",
+     "/wil/"
+    ],
+    "answers": [
+     "Rolls-Royce",
+     "Benz",
+     "excitement",
+     "course",
+     "wheel"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 57,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "adj. 热切的，热情的",
+     "v. 惩罚",
+     "adv. 轻蔑地",
+     "n. 牛仔裤",
+     "v. 接待（顾客）"
+    ],
+    "answers": [
+     "eager",
+     "punish",
+     "scornfully",
+     "jeans",
+     "serve"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "A woman in ________ stood at the window of an expensive shop.",
+     "The ________ who served her did not like the way she was dressed.",
+     "The woman walked out of the shop angrily and decided to ________ the assistant next day.",
+     "Not realizing who she was, the assistant was ________ to serve her this time.",
+     "As soon as she saw it, the ________ said she did not like it."
+    ],
+    "answers": [
+     "jeans",
+     "assistant",
+     "punish",
+     "eager",
+     "woman"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ʤinz/",
+     "/sərv/",
+     "/ˈigər/",
+     "/ˈhɛzəˌteɪt/",
+     "/ˈpənɪʃ/"
+    ],
+    "answers": [
+     "jeans",
+     "serve",
+     "eager",
+     "hesitate",
+     "punish"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 58,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 教区牧师",
+     "n. 伪装",
+     "n. 受害者，牺牲品",
+     "adj. 极小的",
+     "n. 树干"
+    ],
+    "answers": [
+     "vicar",
+     "disguise",
+     "victim",
+     "tiny",
+     "trunk"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "The ________ village of Frinley is said to possess a 'cursed tree'.",
+     "Because the tree was ________ in a newspaper, the number of visitors to Frinley has now increased.",
+     "It is said that if anyone ________ the tree, he will have bad luck; if he picks a leaf, he will die.",
+     "Many ________ believe that the tree has already claimed a number of victims.",
+     "The ________ has been asked to have the tree cut down, but so far he has refused."
+    ],
+    "answers": [
+     "tiny",
+     "mentioned",
+     "touches",
+     "villagers",
+     "vicar"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/kərst/",
+     "/ʧərʧ/",
+     "/ˈivəl/",
+     "/ˈɪnˌkəm/",
+     "/ˈblɛsɪŋ/"
+    ],
+    "answers": [
+     "cursed",
+     "church",
+     "evil",
+     "income",
+     "blessing"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 59,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 按，压",
+     "v. 养成",
+     "n. 脚爪",
+     "n. 习惯",
+     "n. 专家"
+    ],
+    "answers": [
+     "press",
+     "develop",
+     "paw",
+     "habit",
+     "expert"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Our dog, Rex, used to sit outside our front gate and ________.",
+     "Rex soon became an ________ at opening the gate.",
+     "This time he was ________ so that someone would let him out!",
+     "As soon as he opens the gate from the ________, he comes into the garden and waits until the gate shuts.",
+     "After this he ________ lets himself in and begins barking again."
+    ],
+    "answers": [
+     "bark",
+     "expert",
+     "barking",
+     "outside",
+     "immediately"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/prɛs/",
+     "/dɪˈvɛləp/",
+     "/ˈhæbət/",
+     "/læʧ/",
+     "/pɔ/"
+    ],
+    "answers": [
+     "press",
+     "develop",
+     "habit",
+     "latch",
+     "paw"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 60,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 集市",
+     "n. 亲属",
+     "n. 算命人",
+     "n. 水晶",
+     "adv. 不耐烦地"
+    ],
+    "answers": [
+     "fair",
+     "relation",
+     "fortune-teller",
+     "crystal",
+     "impatiently"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "As soon as I went outside, I forgot all about Madam ________ because my wife hurried towards me.",
+     "'Where have you been ________?'",
+     "'Your sister will be here in less than an hour and we must be at the ________ to meet her.",
+     "We are late ________.'",
+     "As she walked away, I followed her out of the ________."
+    ],
+    "answers": [
+     "Bellinsky",
+     "hiding",
+     "station",
+     "already",
+     "fair"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˌɪmˈpeɪʃəntli/",
+     "/ˈfɔrʧən ˈtɛlər/",
+     "/riˈleɪʃən/",
+     "/ˈkrɪstəl/",
+     "/ˈfjuʧər/"
+    ],
+    "answers": [
+     "impatiently",
+     "fortune-teller",
+     "relation",
+     "crystal",
+     "future"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 61,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 10亿",
+     "v. 发射",
+     "n. 望远镜",
+     "鹰眼",
+     "adj. 遥远的"
+    ],
+    "answers": [
+     "billion",
+     "launch",
+     "telescope",
+     "eagle eye",
+     "distant"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "The ________ telescope was launched into space by NASA on April 20,1990 at a cost of over a billion dollars.",
+     "The pictures it sent us were very disappointing because its main mirror was ________!",
+     "NASA is now going to put the ________ right, so it will soon be sending up four astronauts to repair it.",
+     "The ________ Endeavour will be taking the astronauts to the Hubble.",
+     "A ________ from the Endeavour will grab the telescope and hold it while the astronauts make the necessary repairs."
+    ],
+    "answers": [
+     "Hubble",
+     "faulty",
+     "telescope",
+     "shuttle",
+     "robot-arm"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/græb/",
+     "/ˈæstrəˌnɑt/",
+     "/ˈnæsə/",
+     "/ɪnˈdɛvər/",
+     "/ˈʃətəl/"
+    ],
+    "answers": [
+     "grab",
+     "astronaut",
+     "NASA",
+     "Endeavour",
+     "shuttle"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 62,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 草籽",
+     "n. 破坏，毁灭",
+     "n. 根",
+     "adj. 周围的",
+     "n. 世纪"
+    ],
+    "answers": [
+     "grass-seed",
+     "destruction",
+     "root",
+     "surrounding",
+     "century"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Firemen had been fighting the forest for nearly three weeks before they could get it under ________.",
+     "A short time before, great trees had covered the ________ for miles around.",
+     "Now, ________ still rose up from the warm ground over the desolate hills.",
+     "The seed was sprayed over the ground in huge ________ by aeroplanes.",
+     "The planes had been ________ seed for nearly a month when it began to rain."
+    ],
+    "answers": [
+     "control",
+     "countryside",
+     "smoke",
+     "quantities",
+     "planting"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/smoʊk/",
+     "/ˈdɛzələt/",
+     "/ˈblækən/",
+     "/kənˈtroʊl/",
+     "/θˈrɛtən/"
+    ],
+    "answers": [
+     "smoke",
+     "desolate",
+     "blacken",
+     "control",
+     "threaten"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 63,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 招待会",
+     "n. 圈子",
+     "adj. 亲密的",
+     "v. 赞美，钦佩",
+     "n. 婚礼"
+    ],
+    "answers": [
+     "reception",
+     "circle",
+     "close",
+     "admire",
+     "wedding"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Jeremy Hampden has a large ________ of friends and is very popular at parties.",
+     "Recently, one of Jeremy's closest friends asked him to make a speech at a ________ reception.",
+     "As soon as he had ________, Jenny told him she wanted to go home.",
+     "On the way home, he asked Jenny if she had ________ the speech.",
+     "Everybody admires him for his great sense of humour -- everybody, that is, except his ________ daughter, Jenny."
+    ],
+    "answers": [
+     "circle",
+     "wedding",
+     "finished",
+     "enjoyed",
+     "six-year-old"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈwɛdɪŋ/",
+     "/ˈsərkəl/",
+     "/rɪˈsɛpʃən/",
+     "/kloʊs/",
+     "/ædˈmaɪr/"
+    ],
+    "answers": [
+     "wedding",
+     "circle",
+     "reception",
+     "close",
+     "admire"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 64,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 港口",
+     "n. 隧道",
+     "n. 入侵，侵略",
+     "adj. 欧洲的",
+     "adv. 正式地"
+    ],
+    "answers": [
+     "port",
+     "tunnel",
+     "invasion",
+     "European",
+     "officially"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "In 1858, a French engineer, Aime Thome de Gamond, arrived in England with a plan for a twenty-one-mile ________ under the English Channel.",
+     "This platform would serve as a ________ and a railway station.",
+     "In 1860, a better plan was put forward by an ________, William Low.",
+     "This would solve the problem of ________, for if a train entered this tunnel, it would draw in fresh air behind it.",
+     "If, at the time, the British had not feared ________, it would have been completed."
+    ],
+    "answers": [
+     "tunnel",
+     "port",
+     "Englishman",
+     "ventilation",
+     "invasion"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈdəbəl/",
+     "/ˈvɛntɪˌleɪt/",
+     "/kəˈnɛkt/",
+     "/fɪr/",
+     "/ˌvɛntɪˈleɪʃən/"
+    ],
+    "answers": [
+     "double",
+     "ventilate",
+     "connect",
+     "fear",
+     "ventilation"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 65,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "modal verb. 应该",
+     "prep. 对",
+     "n. 圣诞节",
+     "n. 马戏团",
+     "v. 重"
+    ],
+    "answers": [
+     "ought",
+     "versus",
+     "christmas",
+     "circus",
+     "weigh"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Last ________, the circus owner, Jimmy Gates, decided to take some presents to a children's hospital.",
+     "He should have known that the ________ would never allow this sort of thing.",
+     "Though Jimmy agreed to go at once, Jumbo ________ to move.",
+     "Fifteen ________ had to push very hard to get him off the main street.",
+     "The police had a ________ time, but they were most amused."
+    ],
+    "answers": [
+     "Christmas",
+     "police",
+     "refused",
+     "policemen",
+     "difficult"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/əˈproʊʧ/",
+     "/ˈkrɪsməs/",
+     "/ˈprɛzənt/",
+     "/ˈsərkəs/",
+     "/ɔt/"
+    ],
+    "answers": [
+     "approach",
+     "christmas",
+     "present",
+     "circus",
+     "ought"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 66,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 修复",
+     "n. 蜂蜡",
+     "n. 残骸",
+     "v. 保护",
+     "n. 兰开斯特"
+    ],
+    "answers": [
+     "restore",
+     "beeswax",
+     "wreck",
+     "preserve",
+     "Lancaster"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "In 1963 a ________ bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa.",
+     "The plane wasn't too badly damaged, but over the years, the crash was forgotten and the ________ remained undisturbed.",
+     "Then in 1989, twenty-six years after the crash, the plane was accidentally rediscovered in an ________ survey of the island.",
+     "The French ________ had the plane packaged and moved in parts back to France.",
+     "Now a group of ________ are going to have the plane restored."
+    ],
+    "answers": [
+     "Lancaster",
+     "wreck",
+     "aerial",
+     "authorities",
+     "enthusiasts"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/haɪv/",
+     "/ˈpækɪʤ/",
+     "/ɛnˈθuziˌæst/",
+     "/ˌɪˈmæʤən/",
+     "/ˈsərˌveɪ/"
+    ],
+    "answers": [
+     "hive",
+     "package",
+     "enthusiast",
+     "imagine",
+     "survey"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 67,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. （火山）喷发",
+     "adv. 猛烈地，剧烈地",
+     "v. 逃脱",
+     "n. 刚果",
+     "adj. 精彩的"
+    ],
+    "answers": [
+     "erupt",
+     "violently",
+     "escape",
+     "Congo",
+     "brilliant"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Haroun Tazieff, the Polish scientist, has spent his lifetime studying ________ volcanoes and deep caves in all parts of the world.",
+     "Tazieff was able to set up his camp very close to the ________ while it was erupting violently.",
+     "He noticed that a river of ________ rock was coming towards him.",
+     "Tazieff has often ________ his life in this way.",
+     "In 1948, he went to Lake ________ in the Congo to observe a new volcano which he later named Kituro."
+    ],
+    "answers": [
+     "active",
+     "volcano",
+     "liquid",
+     "risked",
+     "Kivu"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈlɪkwɪd/",
+     "/kɪˈtʊroʊ/",
+     "/əˈlaɪv/",
+     "/vɑlˈkeɪnoʊ/",
+     "/ˈkɑŋgoʊ/"
+    ],
+    "answers": [
+     "liquid",
+     "Kituro",
+     "alive",
+     "volcano",
+     "Congo"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 68,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "adj. 坚持的，固执的",
+     "v. 避开",
+     "v. 坚持做"
+    ],
+    "answers": [
+     "persistent",
+     "avoid",
+     "insist"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "I crossed the street to ________ meeting him, but he saw me and came running towards me.",
+     "He never has ________ to do.",
+     "'Hello, ________,' I said.",
+     "'I was just ________ how to spend the morning -- until I saw you.",
+     "'Would you mind my ________ with you?'"
+    ],
+    "answers": [
+     "avoid",
+     "anything",
+     "Nigel",
+     "wondering",
+     "coming"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/əˈvɔɪd/",
+     "/pərˈsɪstənt/",
+     "/ˌɪnˈsɪst/"
+    ],
+    "answers": [
+     "avoid",
+     "persistent",
+     "insist"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 69,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 主考人",
+     "v. 假设",
+     "v. 反应",
+     "n. 谋杀",
+     "v. 取得，获得"
+    ],
+    "answers": [
+     "examiner",
+     "suppose",
+     "react",
+     "murder",
+     "acquire"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "I was being tested for a ________ licence for the third time.",
+     "After having been instructed to drive out of town, I began to ________ confidence.",
+     "The ________ must have been pleased with my performance, for he smiled and said.",
+     "Let us ________ that a child suddenly crosses the road in front of you.",
+     "I suddenly pressed the ________ pedal and we were both thrown forward."
+    ],
+    "answers": [
+     "driving",
+     "acquire",
+     "examiner",
+     "suppose",
+     "brake"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈpɛdəl/",
+     "/tæp/",
+     "/breɪk/",
+     "/ˌɪnˈstrəkt/",
+     "/ˈmɔrnfəl/"
+    ],
+    "answers": [
+     "pedal",
+     "tap",
+     "brake",
+     "instruct",
+     "mournful"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 70,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 鞠躬",
+     "n. 斗牛",
+     "n. 醉汉",
+     "adj. 敏感的",
+     "n. 圆形竞技场地"
+    ],
+    "answers": [
+     "bow",
+     "bullfight",
+     "drunk",
+     "sensitive",
+     "ring"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "During a ________, a drunk suddenly wandered into the middle of the ring.",
+     "The crowd began to shout, but the ________ was unaware of the danger.",
+     "Apparently ________ to criticism, the bull forgot all about the matador and charged at the drunk.",
+     "The crowd ________ grew quiet.",
+     "When the ________ got close to him, he clumsily stepped aside to let it pass."
+    ],
+    "answers": [
+     "bullfight",
+     "drunk",
+     "sensitive",
+     "suddenly",
+     "bull"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/əˈpɛrəntli/",
+     "/ˈkrɪtɪˌsɪzəm/",
+     "/bʊl/",
+     "/ˌsɪmpəˈθɛtɪkəli/",
+     "/ˈwɑndər/"
+    ],
+    "answers": [
+     "apparently",
+     "criticism",
+     "bull",
+     "sympathetically",
+     "wander"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 71,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 塔",
+     "n. 扩音器，麦克风",
+     "n. 官员，行政人员",
+     "n. 格林尼治",
+     "v. 建起"
+    ],
+    "answers": [
+     "tower",
+     "microphone",
+     "official",
+     "Greenwich",
+     "erect"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "If the Houses of ________ had not been burned down in 1834, the great clock would never have been erected.",
+     "It is not only of immense size, but is extremely ________ as well.",
+     "Officials from ________ Observatory have the clock checked twice a day.",
+     "you can hear the clock when it is actually striking because microphones are connected to the clock ________.",
+     "Big Ben has ________ gone wrong."
+    ],
+    "answers": [
+     "Parliament",
+     "accurate",
+     "Greenwich",
+     "tower",
+     "rarely"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈpɑrləmɛnt/",
+     "/ˈgrɛnɪʧ/",
+     "/ˈækjərət/",
+     "/əbˈzərvəˌtɔri/",
+     "/ʧɛk/"
+    ],
+    "answers": [
+     "parliament",
+     "Greenwich",
+     "accurate",
+     "observatory",
+     "check"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 72,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 竞赛",
+     "n. 犹他（美国州名）",
+     "adj. 平均的",
+     "v. 爆裂",
+     "n. 马力"
+    ],
+    "answers": [
+     "racing",
+     "Utah",
+     "average",
+     "burst",
+     "horsepower"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "The great ________ driver, Sir Malcolm Campbell, was the first man to drive at over 300 miles per hour.",
+     "Bluebird, the car he was driving, had been ________ built for him.",
+     "After his attempt, Campbell was disappointed to learn that his ________ speed had been 299 miles per hour.",
+     "Following in his father's ________ many years later, Sir Malcolm's son, Donald, also set up a world record.",
+     "He set up a new world record in September 1935 at Bonneville Salt Flats, ________."
+    ],
+    "answers": [
+     "racing",
+     "specially",
+     "average",
+     "footsteps",
+     "Utah"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/pər/",
+     "/ˈævərɪʤ/",
+     "/ˈhɔrˌspaʊər/",
+     "/bərst/",
+     "/ˈjuˌtɔ/"
+    ],
+    "answers": [
+     "per",
+     "average",
+     "horsepower",
+     "burst",
+     "Utah"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 73,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 搭便车旅行",
+     "n. 卡车",
+     "纪录保持者",
+     "n. 边界",
+     "n. 逃学的孩子"
+    ],
+    "answers": [
+     "hitchhike",
+     "lorry",
+     "record-holder",
+     "border",
+     "truant"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Children who play ________ from school are unimaginative.",
+     "They have all been put to ________ by a boy who, while playing truant, travelled 1,600 miles.",
+     "He ________ to Dover and, towards evening, went into a boat to find somewhere to sleep.",
+     "When he woke up next morning, he discovered that the boat had, in the ________, travelled to Calais.",
+     "No one ________ the boy as he crept off."
+    ],
+    "answers": [
+     "truant",
+     "shame",
+     "hitchhiked",
+     "meantime",
+     "noticed"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈlɔri/",
+     "/ˈhɪˌʧhaɪk/",
+     "/truənt/",
+     "/ʃeɪm/",
+     "/ənɪˈmæˌʤɪnətɪv/"
+    ],
+    "answers": [
+     "lorry",
+     "hitchhike",
+     "truant",
+     "shame",
+     "unimaginative"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 74,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 舞台灯光",
+     "adj. 遮荫的",
+     "n. 冷笑",
+     "n. 预防措施",
+     "n. 狂热者，迷"
+    ],
+    "answers": [
+     "limelight",
+     "shady",
+     "sneer",
+     "precaution",
+     "fan"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "An ancient bus stopped by a dry river bed and a party of famous actors and ________ got off.",
+     "'This is a ________ place for a picnic,' said Gloria Gleam.",
+     "Why ________ we come more often?'",
+     "He ________ very angry.",
+     "'Look, ________,' said Rockwall, 'don't be too hard on us."
+    ],
+    "answers": [
+     "actresses",
+     "wonderful",
+     "don't",
+     "looked",
+     "sheriff"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈnoʊtɪs/",
+     "/fæn/",
+     "/ˈʃeɪdi/",
+     "/ˈlaɪmˌlaɪt/",
+     "/ˈʃɛrɪf/"
+    ],
+    "answers": [
+     "notice",
+     "fan",
+     "shady",
+     "limelight",
+     "sheriff"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 75,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 现场",
+     "n. 信号",
+     "adj. 厚的",
+     "n. 幸存者",
+     "v. 跺，踩"
+    ],
+    "answers": [
+     "scene",
+     "signal",
+     "thick",
+     "survivor",
+     "stamp"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "When a light ________ plane flew off course some time ago, it crashed in the mountains and its pilot was killed.",
+     "It was the ________ of winter.",
+     "The woman knew that the ________ village was miles away.",
+     "Early next morning, she heard planes passing overhead and wondered how she could send a ________.",
+     "The only ________, a young woman and her two baby daughters, were unhurt."
+    ],
+    "answers": [
+     "passenger",
+     "middle",
+     "nearest",
+     "signal",
+     "passengers"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/stæmp/",
+     "/ˈhɛlɪˌkɑptər/",
+     "/θɪk/",
+     "/sin/",
+     "/sərˈvaɪvər/"
+    ],
+    "answers": [
+     "stamp",
+     "helicopter",
+     "thick",
+     "scene",
+     "survivor"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 76,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 打（庄稼）",
+     "n. 种植者",
+     "n. 冠军",
+     "n. 梗",
+     "adj. 极好的"
+    ],
+    "answers": [
+     "thresh",
+     "grower",
+     "champion",
+     "stalk",
+     "splendid"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "'To end our special news ________,' said the voice of the television announcer, 'we're going over to the macaroni fields of Calabria.",
+     "Here you can see two workers who, between them, have just finished cutting three cartloads of golden brown ________ stalks.",
+     "On the ________, you can see Mrs.",
+     "Brabante is talking to the manager of the local factory where the crop is ________.",
+     "Signor Fratelli, the ________ champion, has won it every year since 1991."
+    ],
+    "answers": [
+     "bulletin",
+     "macaroni",
+     "right",
+     "processed",
+     "present"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˌmækərˈoʊni/",
+     "/ˈbʊlɪtən/",
+     "/ˈprɔˌsɛs/",
+     "/ˈsinjɔr/",
+     "/ful/"
+    ],
+    "answers": [
+     "macaroni",
+     "bulletin",
+     "process",
+     "Signor",
+     "fool"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 77,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 切片",
+     "n. （照相）底片",
+     "n. 皮肤",
+     "n. 庙",
+     "n. 树脂"
+    ],
+    "answers": [
+     "section",
+     "plate",
+     "skin",
+     "temple",
+     "resin"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "The ________ of an Egyptian woman who died in 800 B.",
+     "The operation, which lasted for over four hours, proved to be very difficult because of the hard ________ which covered the skin.",
+     "They also found something which the X-ray plates did not show: a small wax ________ of the god Duamutef.",
+     "The ________ have not yet decided how the woman died.",
+     "has just had an ________."
+    ],
+    "answers": [
+     "mummy",
+     "resin",
+     "figure",
+     "doctors",
+     "operation"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/sərˈvaɪv/",
+     "/læst/",
+     "/pruv/",
+     "/mɑrk/",
+     "/ˈməmi/"
+    ],
+    "answers": [
+     "survive",
+     "last",
+     "prove",
+     "mark",
+     "mummy"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 78,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 神经",
+     "v. 以……为名",
+     "n. 集中，专心",
+     "v. 力劝，怂恿",
+     "n. 脾气"
+    ],
+    "answers": [
+     "nerve",
+     "en",
+     "concentration",
+     "urge",
+     "temper"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "After reading an article entitled 'Cigarette Smoking and Your Health' I lit a cigarette to ________ my nerves.",
+     "For a whole week I did not smoke at all and during this time, my wife ________ terribly.",
+     "My friends kept on offering me ________ and cigars.",
+     "After ________ days of this I went to a party.",
+     "When my old friend Brian urged me to accept a ________, it was more than I could bear."
+    ],
+    "answers": [
+     "calm",
+     "suffered",
+     "cigarettes",
+     "seven",
+     "cigarette"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈsəfər/",
+     "/ˈsɪmptəm/",
+     "/ˈæpəˌtaɪt/",
+     "/ˌsætɪsˈfækʃən/",
+     "/dɪˈlaɪtɪd/"
+    ],
+    "answers": [
+     "suffer",
+     "symptom",
+     "appetite",
+     "satisfaction",
+     "delighted"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 79,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "adj. 害怕，担惊",
+     "空中乘务员",
+     "n. 炸弹",
+     "n. 父（母）亲",
+     "adj. 急于了解，好奇的"
+    ],
+    "answers": [
+     "frightened",
+     "flight attendant",
+     "bomb",
+     "parent",
+     "curious"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "I used to ________ by air a great deal when I was a boy.",
+     "My parents used to live in South America and I used to fly there from Europe in the ________.",
+     "A flight attendant would take charge of me and I never had an ________ experience.",
+     "I am used to travelling by air and only on one occasion have I ever felt ________.",
+     "Everybody on board was worried and we were ________ to find out what had happened."
+    ],
+    "answers": [
+     "travel",
+     "holidays",
+     "unpleasant",
+     "frightened",
+     "curious"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈfraɪtənd/",
+     "/bɔm/",
+     "/ˈkjʊriəs/",
+     "/ˈpɛrənt/",
+     "/plænt/"
+    ],
+    "answers": [
+     "frightened",
+     "bomb",
+     "curious",
+     "parent",
+     "plant"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 80,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 学院",
+     "n. 机器",
+     "adj. 各种各样的",
+     "n. 展览",
+     "n. 铁"
+    ],
+    "answers": [
+     "college",
+     "machinery",
+     "various",
+     "exhibition",
+     "iron"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "The Crystal ________ was different from all other buildings in the world, for it was made of iron and glass.",
+     "It was one of the biggest ________ of all time and a lot of people from many countries came to see it.",
+     "A great many goods were sent to the ________ from various parts of the world.",
+     "There was also a great deal of ________ on display."
+    ],
+    "answers": [
+     "Palace",
+     "buildings",
+     "exhibition",
+     "machinery"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈpæləs/",
+     "/ˈprɑfɪt/",
+     "/stim/",
+     "/dɪˈspleɪ/",
+     "/ˌɛkstrəˈɔrdəˌnɛri/"
+    ],
+    "answers": [
+     "palace",
+     "profit",
+     "steam",
+     "display",
+     "extraordinary"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 81,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 肩",
+     "adj. 灰白的",
+     "v. 行进",
+     "n. 灌木丛",
+     "adv. 迅速地"
+    ],
+    "answers": [
+     "shoulder",
+     "grey",
+     "march",
+     "bush",
+     "rapidly"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "When he had killed the guard, the ________ of war quickly dragged him into the bushes.",
+     "He could hear ________ in the camp itself.",
+     "At that moment, a large black car with four ________ inside it, stopped at the camp gates.",
+     "When they had gone, the driver of the car came ________ him.",
+     "He was rather ________ with grey hair and clear blue eyes."
+    ],
+    "answers": [
+     "prisoner",
+     "shouting",
+     "officers",
+     "towards",
+     "elderly"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/səˈlut/",
+     "/bleɪz/",
+     "/ˈjunəˌfɔrm/",
+     "/ˈprɪzənər/",
+     "/ˈboʊldli/"
+    ],
+    "answers": [
+     "salute",
+     "blaze",
+     "uniform",
+     "prisoner",
+     "boldly"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 82,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 海员",
+     "n. 动物，生物",
+     "n. 怪物",
+     "adj. 闪闪发光的",
+     "v. 见到"
+    ],
+    "answers": [
+     "sailor",
+     "creature",
+     "monster",
+     "shining",
+     "sight"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Fishermen and sailors ________ claim to have seen monsters in the sea.",
+     "Occasionally, unusual ________ are washed to the shore, but they are rarely caught out at sea.",
+     "Some time ago, however, a ________ fish was caught near Madagascar.",
+     "A small fishing boat was carried miles out to sea by the ________ fish as it pulled on the line.",
+     "Realizing that this was no ordinary fish, the ________ made every effort not to damage it in any way."
+    ],
+    "answers": [
+     "sometimes",
+     "creatures",
+     "peculiar",
+     "powerful",
+     "fisherman"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈmɑnstər/",
+     "/ˈkriʧər/",
+     "/saɪt/",
+     "/ˈʃaɪnɪŋ/",
+     "/ˈɔːrˌfɪʃ/"
+    ],
+    "answers": [
+     "monster",
+     "creature",
+     "sight",
+     "shining",
+     "oarfish"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 83,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "adj. 进步的",
+     "n. 选举",
+     "adj. 从前的",
+     "n. 反对者，对手",
+     "prefix. （用于名词前）前……"
+    ],
+    "answers": [
+     "progressive",
+     "election",
+     "former",
+     "opponent",
+     "ex-"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "The ________ Prime Minister, Mr.",
+     "My friend, Patrick, has always been a ________ opponent of Mr.",
+     "When he ________ if Mr.",
+     "The same ________ was just walking slowly past the entrance, when Patrick asked the same question.",
+     "He has retired from ________ life and gone to live abroad!\""
+    ],
+    "answers": [
+     "former",
+     "fanatical",
+     "asked",
+     "policeman",
+     "political"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/səˈspɪʃəs/",
+     "/ɪˈlɛkʃən/",
+     "/ˈfɔrmər/",
+     "/dɪˈfit/",
+     "/ˈrædɪkəl/"
+    ],
+    "answers": [
+     "suspicious",
+     "election",
+     "former",
+     "defeat",
+     "radical"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 84,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 压力，麻烦",
+     "n. 协议",
+     "n. 程度",
+     "v. 减轻",
+     "v. 不赞成，反对"
+    ],
+    "answers": [
+     "pressure",
+     "agreement",
+     "extent",
+     "relieve",
+     "object"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Busmen have decided to go on ________ next week.",
+     "No one ________ how long it will last.",
+     "This will ________ pressure on the trains to some extent.",
+     "All the ________ are expert drivers, but before they drive any of the buses, they will have to pass a special test.",
+     "Even so, people are going to find it ________ to get to work."
+    ],
+    "answers": [
+     "strike",
+     "knows",
+     "relieve",
+     "students",
+     "difficult"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/prɛs/",
+     "/ˌvɑlənˈtɪr/",
+     "/steɪt/",
+     "/ˈgrætəˌtud/",
+     "/ˈbʌsmən/"
+    ],
+    "answers": [
+     "press",
+     "volunteer",
+     "state",
+     "gratitude",
+     "busman"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 85,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 告诉，通知",
+     "n. 签名簿，相册",
+     "n. 鼓励",
+     "n. 礼物，赠品",
+     "v. 捐助，援助"
+    ],
+    "answers": [
+     "inform",
+     "album",
+     "encouragement",
+     "gift",
+     "contribute"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "I have just received a letter from my old school, informing me that my former ________, Mr.",
+     "Pupils of the school, old and new, will be sending him a present to mark the ________.",
+     "Page for his ________ and understanding and for the kindly encouragement he gave us when we went so unwillingly to school.",
+     "It is a curious ________ that the day before his retirement, Mr.",
+     "After he has retired, he will ________ himself to gardening."
+    ],
+    "answers": [
+     "headmaster",
+     "occasion",
+     "patience",
+     "coincidence",
+     "devote"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈgɑrdənɪŋ/",
+     "/dɪˈvoʊt/",
+     "/ˈhɑbi/",
+     "/ˈɑnər/",
+     "/ˌfɛrˈwɛl/"
+    ],
+    "answers": [
+     "gardening",
+     "devote",
+     "hobby",
+     "honour",
+     "farewell"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 86,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 转向",
+     "n. 汽油",
+     "n. 同伙，伙伴",
+     "n. 浮标",
+     "adv. 缓慢地，轻轻地"
+    ],
+    "answers": [
+     "swing",
+     "petrol",
+     "companion",
+     "buoy",
+     "gently"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "As the man tried to ________ the speedboat round, the steering wheel came away in his hands.",
+     "Both men had hardly had time to realize what was ________ when they were thrown violently into the sea.",
+     "It now came straight towards them at ________ speed.",
+     "After it had passed, they swam on as ________ as they could because they knew that the boat would soon return.",
+     "On this occasion, however, it had slowed down ________."
+    ],
+    "answers": [
+     "swing",
+     "happening",
+     "tremendous",
+     "quickly",
+     "considerably"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/drɪft/",
+     "/ˈdɛspərətli/",
+     "/dɪsˈmeɪ/",
+     "/trɪˈmɛndəs/",
+     "/ˈspidˌboʊt/"
+    ],
+    "answers": [
+     "drift",
+     "desperately",
+     "dismay",
+     "tremendous",
+     "speedboat"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 87,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 真相",
+     "n. 探长",
+     "v. 犯（罪、错）",
+     "v. 提醒",
+     "n. 雇主"
+    ],
+    "answers": [
+     "truth",
+     "inspector",
+     "commit",
+     "suggest",
+     "employer"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "'At the time the murder was committed, I was ________ on the 8 o'clock train to London,' said the man.",
+     "'I must be at work at 10 ________.",
+     "'I ________ it would, but I never catch a later train.'",
+     "I ________ a paper and waited for the train.'",
+     "I ________ that you did not catch the 8 o'clock train, but that you caught the 8."
+    ],
+    "answers": [
+     "travelling",
+     "o'clock",
+     "suppose",
+     "bought",
+     "suggest"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/səˈʤɛst/",
+     "/kənˈfərm/",
+     "/ˌɪnˈspɛktər/",
+     "/ɪmˈplɔɪər/",
+     "/truθ/"
+    ],
+    "answers": [
+     "suggest",
+     "confirm",
+     "inspector",
+     "employer",
+     "truth"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 88,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "prep. 在……之下",
+     "v. 放下，降低",
+     "n. 震动",
+     "adv. 顺利地",
+     "n. 炸药"
+    ],
+    "answers": [
+     "beneath",
+     "lower",
+     "vibration",
+     "smoothly",
+     "explosive"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Six men have been trapped in a mine for ________ hours.",
+     "However, rescue ________ are proving difficult.",
+     "Rescue workers are ________ drilling a hole on the north side of the mine.",
+     "As it is, they have been ________ for sixteen hours and they still have a long way to go.",
+     "They have been told that rescue operations are progressing ________."
+    ],
+    "answers": [
+     "seventeen",
+     "operations",
+     "therefore",
+     "drilling",
+     "smoothly"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/leɪər/",
+     "/ˈkæpsəl/",
+     "/ˈsərfəs/",
+     "/kəˈlæps/",
+     "/drɪl/"
+    ],
+    "answers": [
+     "layer",
+     "capsule",
+     "surface",
+     "collapse",
+     "drill"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 89,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 艺人",
+     "n. 喜剧",
+     "adj. 枯燥，无味",
+     "n. 小错误",
+     "v. 演出；adj. 出席，到场的"
+    ],
+    "answers": [
+     "artiste",
+     "comedy",
+     "dull",
+     "slip",
+     "present"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "People will do ________ to see a free show -- even if it is a bad one.",
+     "When the news got round that a ________ show would be presented at our local cinema by the P.",
+     "Bird Seed ________, we all rushed to see it.",
+     "Unfortunately, the show was one of the ________ we have ever seen.",
+     "The only funny things we heard that evening came from the ________ at the beginning of the programme."
+    ],
+    "answers": [
+     "anything",
+     "comedy",
+     "Company",
+     "dullest",
+     "advertiser"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈædvərˌtaɪzər/",
+     "/ˈkɑmədi/",
+     "/ˈɑːrtɪst/",
+     "/slɪp/",
+     "/kju/"
+    ],
+    "answers": [
+     "advertiser",
+     "comedy",
+     "artiste",
+     "slip",
+     "queue"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 90,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 品种",
+     "v. 吓，使恐怖",
+     "n. （复数）理智，头脑",
+     "v. 过度捕捞",
+     "石油钻塔"
+    ],
+    "answers": [
+     "variety",
+     "terrify",
+     "wit",
+     "overfish",
+     "oil rig"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "So it comes as a surprise to learn that ________ fish are terrifying the divers on North Sea oil rigs.",
+     "Now they have had special cages made to protect them from these ________.",
+     "As a ________, the fish just eat and eat and grow and grow in the lovely warm water."
+    ],
+    "answers": [
+     "giant",
+     "monsters",
+     "result"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/skeɪt/",
+     "/ʤaɪənt/",
+     "/ˈdaɪvər/",
+     "/ˈsiˈoʊˈdi/",
+     "/keɪʤ/"
+    ],
+    "answers": [
+     "skate",
+     "giant",
+     "diver",
+     "cod",
+     "cage"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 91,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "v. 侦察",
+     "adj. 皇家",
+     "n. 气球",
+     "n. 望远镱",
+     "n. 轨迹，踪迹"
+    ],
+    "answers": [
+     "spy",
+     "royal",
+     "balloon",
+     "binoculars",
+     "track"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "A pilot noticed a ________ which seemed to be making for a Royal Air Force Station nearby.",
+     "He ________ the station at once, but no one there was able to explain the mystery.",
+     "He said that someone might be spying on the station and the pilot was ordered to keep ________ of the strange object.",
+     "He could make out three men in a basket under it and one of them was holding a pair of ________.",
+     "As the ________ Officer explained later, one half of the station did not know what the other half was doing!"
+    ],
+    "answers": [
+     "balloon",
+     "informed",
+     "track",
+     "binoculars",
+     "Commanding"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/spaɪ/",
+     "/bəˈlun/",
+     "/bəˈnɑkjələrz/",
+     "/rɔɪəl/",
+     "/træk/"
+    ],
+    "answers": [
+     "spy",
+     "balloon",
+     "binoculars",
+     "royal",
+     "track"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 92,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 棚子",
+     "n. 梯子",
+     "adv. 熟（睡）",
+     "n. 语气，腔调",
+     "adj. 讽刺的，讥笑的"
+    ],
+    "answers": [
+     "shed",
+     "ladder",
+     "fast",
+     "tone",
+     "sarcastic"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "It must have been about two in the morning when I ________ home.",
+     "I ________ regretted answering in the way I did, but I said, 'I enjoy cleaning windows at night.'",
+     "'Excuse my ________ you.",
+     "'Well, I'd ________ to stay here,' I said.",
+     "'My key,' I ________."
+    ],
+    "answers": [
+     "returned",
+     "immediately",
+     "interrupting",
+     "prefer",
+     "shouted"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ʃɛd/",
+     "/ˈlædər/",
+     "/sɑrˈkæstɪk/",
+     "/toʊn/",
+     "/fæst/"
+    ],
+    "answers": [
+     "shed",
+     "ladder",
+     "sarcastic",
+     "tone",
+     "fast"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 93,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 底座",
+     "n. 雕像",
+     "n. 雕刻家",
+     "adj. 实际的，真实的",
+     "n. 场地"
+    ],
+    "answers": [
+     "pedestal",
+     "statue",
+     "sculptor",
+     "actual",
+     "site"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "The great ________, which was designed by the sculptor Auguste Bartholdi, took ten years to complete.",
+     "The ________ figure was made of copper supported by a metal framework which had been especially constructed by Eiffel.",
+     "The ________ chosen was an island at the entrance of New York Harbour.",
+     "The ________ year, it was taken to pieces and sent to America."
+    ],
+    "answers": [
+     "statue",
+     "actual",
+     "site",
+     "following"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈmɑnjəmənt/",
+     "/ˈnoʊbəl/",
+     "/ˈlɪbərˌti/",
+     "/trænsˈpɔrt/",
+     "/ˈfreɪmˌwərk/"
+    ],
+    "answers": [
+     "monument",
+     "noble",
+     "liberty",
+     "transport",
+     "framework"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 94,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 重物",
+     "v. 指导，传授",
+     "adj. 水下的",
+     "v. 喘气",
+     "洛杉矶"
+    ],
+    "answers": [
+     "weight",
+     "instruct",
+     "underwater",
+     "gasp",
+     "Los Angeles"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "Experiments have proved that children can be ________ in swimming at a very early age.",
+     "Babies of two months old do not appear to be ________ to enter the water.",
+     "Tricycles are ________ up on the floor of the pool seven feet under water.",
+     "Many pedal their ________, but most of them prefer to push or drag them.",
+     "Whether they will ever become future Olympic ________, only time will tell."
+    ],
+    "answers": [
+     "instructed",
+     "reluctant",
+     "lined",
+     "tricycles",
+     "champions"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/gæsp/",
+     "/weɪt/",
+     "/jɑrd/",
+     "/rɪˈləktənt/",
+     "/kəmˈpit/"
+    ],
+    "answers": [
+     "gasp",
+     "weight",
+     "yard",
+     "reluctant",
+     "compete"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 95,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "adj. 可怕的，令人吃惊的",
+     "n. 幻想故事",
+     "灭火器",
+     "v. 派任",
+     "adv. 冷淡地，枯燥无味地"
+    ],
+    "answers": [
+     "frightful",
+     "fantasy",
+     "fire extinguisher",
+     "post",
+     "drily"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "When the ________ of Escalopia returned home for lunch, his wife got a shock.",
+     "'The fire broke out in the ________.",
+     "I must ________ get that fellow posted.'",
+     "Fortunately, I wasn't ________ it at the time.",
+     "He looked pale and his clothes were in a ________ state."
+    ],
+    "answers": [
+     "Ambassador",
+     "basement",
+     "definitely",
+     "wearing",
+     "frightful"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˌɛskəˈloʊpiə/",
+     "/ˈbeɪsmənt/",
+     "/ʃɑt/",
+     "/ˈhɛvən/",
+     "/æmˈbæsədər/"
+    ],
+    "answers": [
+     "Escalopia",
+     "basement",
+     "shot",
+     "heaven",
+     "ambassador"
+    ]
+   }
+  ]
+ },
+ {
+  "lesson": 96,
+  "groups": [
+   {
+    "letter": "A",
+    "instruction": "根据中文提示写出对应的英文单词或短语",
+    "items": [
+     "n. 灯笼",
+     "n. 景象，壮观，场面",
+     "n. 节日"
+    ],
+    "answers": [
+     "lantern",
+     "spectacle",
+     "festival"
+    ]
+   },
+   {
+    "letter": "B",
+    "instruction": "根据课文内容填空，每空一词",
+    "items": [
+     "A ________ for the Dead is held once a year in Japan.",
+     "As they are ________ to be hungry after their long journey, food is laid out for them.",
+     "Specially-made ________ are hung outside each house to help the dead to find their way.",
+     "All night long, ________ dance and sing."
+    ],
+    "answers": [
+     "Festival",
+     "expected",
+     "lanterns",
+     "people"
+    ]
+   },
+   {
+    "letter": "C",
+    "instruction": "根据音标写出对应的单词",
+    "items": [
+     "/ˈspɛktəkəl/",
+     "/ˈlæntərn/",
+     "/ˈfɛstɪvəl/"
+    ],
+    "answers": [
+     "spectacle",
+     "lantern",
+     "festival"
+    ]
+   }
+  ]
+ }
+]
