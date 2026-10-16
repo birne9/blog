@@ -38,7 +38,7 @@ import { useRoute, useRouter } from 'vue-router'
 import { ArticleBlock } from '../content/type';
 import { parseMarkdown } from '../content/parse';
 import { useAticleStoreHook } from '@/store/article/index';
-import { escapeHtml, highlightVueKeywords, highlightReactKeywords } from '../content/highlight';
+import { highlightVueKeywords, highlightReactKeywords, highlightEmphasis } from '../content/highlight';
 import { highlightCode } from '../content/codeHighlight';
 
 const route = useRoute()
@@ -124,7 +124,7 @@ watch(() => route.path, async () => {
     }
     const mod = await loader()
     if (seq !== loadSeq) return
-    // Vue/React 系列正文做关键词高亮(转义+包 <code class="kw">); 其余系列只转义, 与 v-html 渲染配套
+    // Vue/React 系列正文做关键词高亮(转义+包 <code class="kw">); 其余系列转义并支持 **重点** 彩色加粗, 与 v-html 渲染配套
     // 全栈系列里 fullstack-vue/fullstack-react 两篇按 slug 归入对应高亮
     const kind = m?.[1]
     const slug = m?.[2]
@@ -134,7 +134,7 @@ watch(() => route.path, async () => {
             ...b,
             text: kind === 'vue' || slug === 'vue' ? highlightVueKeywords(b.text)
                 : kind === 'react' || slug === 'react' ? highlightReactKeywords(b.text)
-                : escapeHtml(b.text),
+                : highlightEmphasis(b.text),
         }
     })
     doc.value = {
@@ -212,6 +212,11 @@ const goList = () => {
         padding: 1px 5px;
         border-radius: 4px;
         margin: 0 1px;
+    }
+    // 重点强调(**文字**): 主题深橙加粗, 不带背景, 与关键词高亮区分
+    :deep(.em) {
+        color: #c2410c;
+        font-weight: 700;
     }
 }
 

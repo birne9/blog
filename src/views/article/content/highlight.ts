@@ -112,6 +112,12 @@ export function escapeHtml(s: string): string {
     return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
 }
 
+// 重点强调: 正文里的 **文字** 包成 <span class="em">(彩色加粗), 用于重点名词/公式/结论
+// 先转义再替换, 标记内内容已被转义, 不会注入 HTML; 标记内不允许再出现 *
+export function highlightEmphasis(text: string): string {
+    return escapeHtml(text).replace(/\*\*([^*]+)\*\*/g, '<span class="em">$1</span>')
+}
+
 // 通用关键词高亮: 转义后把匹配到的词包成 <code class="kw">
 // withBind 为 true 时先做 Vue 模板语法绑定遍(@事件/:绑定); React 无此语法, 跳过
 function highlightKeywords(text: string, keywords: string[], withBind: boolean): string {
