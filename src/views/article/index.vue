@@ -28,7 +28,7 @@
     </div>
 </template>
 <script setup lang="ts">
-import { computed, ref } from "vue";
+import { computed } from "vue";
 import { useRouter } from "vue-router";
 const router = useRouter();
 
@@ -45,7 +45,11 @@ const TABS = [
     { id: 'fullstack', name: '全栈' },
     { id: 'exam', name: '软考' },
 ] as const
-const activeCat = ref<'frontend' | 'backend' | 'fullstack' | 'exam'>('frontend')
+// 当前页签读写 store(sessionStorage 持久化), 进详情再返回/刷新页面均不丢失
+const activeCat = computed<'frontend' | 'backend' | 'fullstack' | 'exam'>({
+    get: () => articleStore.activeCat,
+    set: (v) => { articleStore.activeCat = v },
+})
 
 // 获取文章列表(按当前页签过滤)
 const list = computed<Article[]>(() => {

@@ -9,6 +9,8 @@ import pinia from '../index';
 export const useAticleStoreHook = defineStore('article', {
     // other options...
     state: () => ({
+        // 文章列表页当前页签: 持久化到 sessionStorage, 详情页返回/刷新后保持
+        activeCat: 'frontend' as 'frontend' | 'backend' | 'fullstack' | 'exam',
         directory: [
             {
                 title: '软件设计师(导学):考试大纲与官方教材目录',
@@ -477,7 +479,8 @@ export const useAticleStoreHook = defineStore('article', {
     persist: {
         key: 'article',
         storage: sessionStorage,
-        paths: ['article']
+        // 只持久化页签状态; directory 由代码维护, 不落缓存, 避免新增文章被旧缓存盖住
+        paths: ['activeCat']
     }
 })
 export function useArticleStore() {
