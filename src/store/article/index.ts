@@ -21,6 +21,16 @@ export const useAticleStoreHook = defineStore('article', {
                 id: 46,
             },
             {
+                title: '软件设计师(速记):教材 66 节知识点详解',
+                path: '/article/sd-points.html',
+                desc: '按官方教材 12 章 66 个小节逐节填充核心考点与公式,导学配套口袋书',
+                type: '软考·软件设计师',
+                cat: 'exam',
+                date: 'Oct 16,2026',
+                coverImg: "",
+                id: 47,
+            },
+            {
                 title: '软件设计师(一):计算机系统基础',
                 path: '/article/sd-computer.html',
                 desc: '数制与编码、校验码、CPU 与指令、流水线、存储系统、可靠性',
