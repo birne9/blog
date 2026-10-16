@@ -38,12 +38,12 @@ import ArticleCover from "./components/ArticleCover.vue";
 // 获取文章仓库数据
 const articleStore = useAticleStoreHook();
 
-// 前后端分类页签, 前端在前, 全栈与考证收尾
+// 前后端分类页签, 前端在前, 全栈与软考收尾
 const TABS = [
     { id: 'frontend', name: '前端' },
     { id: 'backend', name: '后端' },
     { id: 'fullstack', name: '全栈' },
-    { id: 'exam', name: '考证' },
+    { id: 'exam', name: '软考' },
 ] as const
 const activeCat = ref<'frontend' | 'backend' | 'fullstack' | 'exam'>('frontend')
 
