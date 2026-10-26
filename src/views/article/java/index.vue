@@ -23,17 +23,28 @@
                 </template>
             </div>
         </div>
-        <div class="max-w-[800px] mx-auto px-4 py-20 text-center" v-else-if="loaded">
+        <!-- 同系列上下篇(按目录顺序); 单篇系列不显示 -->
+        <div class="flex justify-between gap-[10px] md:gap-0 mt-6" v-if="doc && series.length > 1">
+            <div class="self-start cursor-pointer px-[18px] py-[10px] text-[15px] font-semibold text-foreground bg-card rounded-card transition-colors duration-200 hover:bg-card-pressed"
+                :class="{ 'text-[#bbb] pointer-events-none': !prevArticle }" @click="goSibling(-1)">
+                ← 上一篇
+            </div>
+            <div class="self-end cursor-pointer px-[18px] py-[10px] text-[15px] font-semibold text-foreground bg-card rounded-card transition-colors duration-200 hover:bg-card-pressed"
+                :class="{ 'text-[#bbb] pointer-events-none': !nextArticle }" @click="goSibling(1)">
+                下一篇 →
+            </div>
+        </div>
+        <div class="max-w-[800px] mx-auto px-4 py-20 text-center" v-if="!doc && loaded">
             <div class="text-lg text-muted">没有找到这篇文章</div>
             <div class="inline-block mt-6 cursor-pointer text-[15px] text-primary font-semibold" @click="goList">← 返回文章列表</div>
         </div>
-        <div class="max-w-[800px] mx-auto px-4 py-20 text-center" v-else>
+        <div class="max-w-[800px] mx-auto px-4 py-20 text-center" v-if="!doc && !loaded">
             <div class="text-lg text-muted">加载中…</div>
         </div>
     </div>
 </template>
 <script setup lang="ts">
-import { ref, watch } from 'vue'
+import { ref, watch, computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { ArticleBlock } from '../content/type';
 import { parseMarkdown } from '../content/parse';
@@ -149,6 +160,19 @@ watch(() => route.path, async () => {
 
 const goList = () => {
     router.push('/article')
+}
+
+// 同系列上下篇: 以 type 划分系列(如 软考·软件设计师 / Java 基础), 按目录顺序串联
+const series = computed(() => {
+    const meta = articleStore.directory.find((item) => item.path === route.path)
+    return meta ? articleStore.directory.filter((item) => item.type === meta.type) : []
+})
+const seriesIndex = computed(() => series.value.findIndex((item) => item.path === route.path))
+const prevArticle = computed(() => seriesIndex.value > 0 ? series.value[seriesIndex.value - 1] : null)
+const nextArticle = computed(() => seriesIndex.value >= 0 && seriesIndex.value < series.value.length - 1 ? series.value[seriesIndex.value + 1] : null)
+const goSibling = (offset: number) => {
+    const target = series.value[seriesIndex.value + offset]
+    if (target) router.push(target.path)
 }
 </script>
 <style lang="less" scoped>
